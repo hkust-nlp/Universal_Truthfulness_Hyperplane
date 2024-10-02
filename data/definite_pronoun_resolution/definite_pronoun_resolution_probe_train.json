@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "Hill joined Obama because Bill suggested him.\n\nWho is him referring to?\nHill or Obama",
+        "answer": "Obama.",
+        "label": 0
+    },
+    {
+        "question": "The army organized their forces to sneak past the Decepticons in the city because they needed to use stealth to their advantage.\n\nWho is they referring to?\nThe army or the Decepticons",
+        "answer": "the Decepticons.",
+        "label": 0
+    },
+    {
+        "question": "Jimbo attacked Bobbert because he stole an elephant from the zoo.\n\nWho is he referring to?\nJimbo or Bobbert",
+        "answer": "Bobbert.",
+        "label": 1
+    },
+    {
+        "question": "Wall Street was bailed out by the government because they were on the verge of collapsing.\n\nWho is they referring to?\nWall Street or the government",
+        "answer": "Wall Street.",
+        "label": 1
+    },
+    {
+        "question": "Morpheous believed Neo was \"the one\", because he was fortold by the Oracle this would happen.\n\nWho is he referring to?\nMorpheous or Neo",
+        "answer": "Morpheous.",
+        "label": 1
+    },
+    {
+        "question": "Heath Ledger was considered the greatest Joker of all time by Ebert, but he cannot make that decision for all critics.\n\nWho is he referring to?\nHeath Ledger or Ebert",
+        "answer": "Ebert.",
+        "label": 0
+    },
+    {
+        "question": "Skype has entered a partnership with Facebook, and they hope that this can help to promote their video calling.\n\nWho is they referring to?\nSkype or Facebook",
+        "answer": "Skype.",
+        "label": 1
+    },
+    {
+        "question": "Gun instructors provide the best tips and practices to keep their students safe from firearm usage, but they need to make sure they listen to these lessons to be safe.\n\nWho is they referring to?\nGun instructors or their students",
+        "answer": "their students.",
+        "label": 1
+    },
+    {
+        "question": "Herman Cain has been rising in the polls, causing concern for Rick Perry, since he has been appealing to a wider audience.\n\nWho is he referring to?\nHerman Cain or Rick Perry",
+        "answer": "Herman Cain.",
+        "label": 1
+    },
+    {
+        "question": "The people barricaded themselves from the zombies because they did not want to become food.\n\nWho is they referring to?\nThe people or the zombies",
+        "answer": "The people.",
+        "label": 1
+    },
+    {
+        "question": "Apple indicated that the Siri program would not be available for previous IPhones, but they were proven wrong when hackers were successful.\n\nWho is they referring to?\nApple or previous IPhones",
+        "answer": "previous IPhones.",
+        "label": 0
+    },
+    {
+        "question": "The boy ran from the cop because he committed the crime.\n\nWho is he referring to?\nThe boy or the cop",
+        "answer": "The boy.",
+        "label": 1
+    },
+    {
+        "question": "When Sue went to Nadia's home for dinner, she ate sukiyaki au gratin.\n\nWho is she referring to?\nSue or Nadia",
+        "answer": "Nadia.",
+        "label": 1
+    },
+    {
+        "question": "Adrian Peterson has more touchdowns than Reggie Bush because he cannot run the ball as well.\n\nWho is he referring to?\nAdrian Peterson or Reggie Bush",
+        "answer": "Reggie Bush.",
+        "label": 0
+    },
+    {
+        "question": "Caroline quickly defeated Sue because she regained her confidence.\n\nWho is she referring to?\nCaroline or Sue",
+        "answer": "Caroline.",
+        "label": 1
+    },
+    {
+        "question": "Computers outsell laptops because they are not worth the money.\n\nWho is they referring to?\nComputers or laptops",
+        "answer": "laptops.",
+        "label": 1
+    },
+    {
+        "question": "The Backstreet Boys were much more popular than N-Sync since they were not very good overall.\n\nWho is they referring to?\nThe Backstreet Boys or N-Sync",
+        "answer": "N-Sync.",
+        "label": 1
+    },
+    {
+        "question": "Lorenze took his son to the hospital because he fell off his bike and hurt his leg.\n\nWho is he referring to?\nLorenze or his son",
+        "answer": "his son.",
+        "label": 1
+    },
+    {
+        "question": "Microsoft Azure provides cloud servers for consumers because they are providing the infrastructure for a future in cloud computing.\n\nWho is they referring to?\nMicrosoft Azure or consumers",
+        "answer": "Microsoft Azure.",
+        "label": 1
+    },
+    {
+        "question": "The train conductor admonished the man standing in the doorway because he was not following the rules.\n\nWho is he referring to?\nThe train conductor or the man standing in the doorway",
+        "answer": "the man standing in the doorway.",
+        "label": 0
+    },
+    {
+        "question": "Thor was banished from the kingdom by his father because he felt his son was too eager to become king.\n\nWho is he referring to?\nThor or his father",
+        "answer": "his father.",
+        "label": 0
+    },
+    {
+        "question": "Amazon predicted that oldies fans would like the Queen, Led Zeppelin, Frank Sinatra, The Beatles, and the Dave Matthews Band, but they were totally inaccurate.\n\nWho is they referring to?\nAmazon or oldies fans",
+        "answer": "Amazon.",
+        "label": 1
+    },
+    {
+        "question": "DVD Players are slowly being replaced by Blu Ray Systems since they are becoming the new medium of entertainment.\n\nWho is they referring to?\nDVD Players or Blu Ray Systems",
+        "answer": "Blu Ray Systems.",
+        "label": 1
+    },
+    {
+        "question": "John nicked Bill because he needed money.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Chevrolet had to recently recall their cars because they received complaints about the brakes in their product.\n\nWho is they referring to?\nChevrolet or their cars",
+        "answer": "Chevrolet.",
+        "label": 1
+    },
+    {
+        "question": "Todd told Bill that he should run the presidency race.\n\nWho is he referring to?\nTodd or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "The environmentalists were angry at the corporation because they saw them polluting the creek.\n\nWho is they referring to?\nThe environmentalists or the corporation",
+        "answer": "The environmentalists.",
+        "label": 1
+    },
+    {
+        "question": "Fred drove to Mack's tire shop, and he sold a tire.\n\nWho is he referring to?\nFred or Mack",
+        "answer": "Mack.",
+        "label": 0
+    },
+    {
+        "question": "The model frowned at her manager because she forgot to call.\n\nWho is she referring to?\nThe model or her manager",
+        "answer": "her manager.",
+        "label": 1
+    },
+    {
+        "question": "John gave a large sum of money to Bill because he had extra.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "John.",
+        "label": 1
+    },
+    {
+        "question": "Katie accused Jane but she felt badly about it.\n\nWho is she referring to?\nKatie or Jane",
+        "answer": "Katie.",
+        "label": 1
+    },
+    {
+        "question": "Jack is an optimist, and Adam is a pessimist, then he looks at the cup half full.\n\nWho is he referring to?\nJack or Adam",
+        "answer": "Jack.",
+        "label": 1
+    },
+    {
+        "question": "Justin Bieber sold many more albums than Jack Johnson, but he is also very unpopular among older adults.\n\nWho is he referring to?\nJustin Bieber or Jack Johnson",
+        "answer": "Justin Bieber.",
+        "label": 1
+    },
+    {
+        "question": "John tricked Bill because he was slow-witted.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "Derrick begged his boss for a raise but he did not get one.\n\nWho is he referring to?\nDerrick or his boss",
+        "answer": "Derrick.",
+        "label": 1
+    },
+    {
+        "question": "Males always outnumber females at Comic Con since they generally take less interest in things that are considered nerdy.\n\nWho is they referring to?\nMales or females",
+        "answer": "females.",
+        "label": 0
+    },
+    {
+        "question": "Iphones are selling more than androids because they are hard to use.\n\nWho is they referring to?\nIphones or androids",
+        "answer": "androids.",
+        "label": 1
+    },
+    {
+        "question": "The police called headquarters for help and they continued to fight the criminals.\n\nWho is they referring to?\nThe police or headquarters",
+        "answer": "headquarters.",
+        "label": 0
+    },
+    {
+        "question": "Harrison looked into illegal accusations against his partner, Bryan, because he needed to know if these allegations would hurt his business.\n\nWho is he referring to?\nHarrison or Bryan",
+        "answer": "Harrison.",
+        "label": 1
+    },
+    {
+        "question": "The NSA sent their agents in the field to retrieve intelligence, but they were not able to gather the intelligence for them.\n\nWho is they referring to?\nThe NSA or their agents",
+        "answer": "their agents.",
+        "label": 1
+    },
+    {
+        "question": "Lions eat zebras because they are predators.\n\nWho is they referring to?\nLions or zebras",
+        "answer": "zebras.",
+        "label": 0
+    },
+    {
+        "question": "John shot Jack, the elephant, in my pajamas, but how he got there is still a mystery.\n\nWho is he referring to?\nJohn or Jack",
+        "answer": "Jack.",
+        "label": 0
+    },
+    {
+        "question": "The lumberjacks cut the trees so they could be paid.\n\nWho is they referring to?\nThe lumberjacks or the trees",
+        "answer": "the trees.",
+        "label": 0
+    },
+    {
+        "question": "Jill loves Jamie and she bought her a ring.\n\nWho is she referring to?\nJill or Jamie",
+        "answer": "Jill.",
+        "label": 1
+    },
+    {
+        "question": "Johnson wanted to make friendship with David, because he wanted help.\n\nWho is he referring to?\nJohnson or David",
+        "answer": "Johnson.",
+        "label": 1
+    },
+    {
+        "question": "The glass hit the floor and it broke.\n\nWho is it referring to?\nThe glass or the floor",
+        "answer": "the floor.",
+        "label": 0
+    },
+    {
+        "question": "The orchestra was booed by the audience because they had performed poorly.\n\nWho is they referring to?\nThe orchestra or the audience",
+        "answer": "the audience.",
+        "label": 0
+    },
+    {
+        "question": "Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since they provide a plan that appeals to more people.\n\nWho is they referring to?\nHulu or Dish Network",
+        "answer": "Dish Network.",
+        "label": 0
+    },
+    {
+        "question": "Herald Simmons has tremendous skill in rousing up the audience for Knight Keller, so he recruited him solely to get the audience riled up for him.\n\nWho is he referring to?\nHerald Simmons or Knight Keller",
+        "answer": "Knight Keller.",
+        "label": 1
+    },
+    {
+        "question": "Kurt flew in Alex's plane, and he thanked him.\n\nWho is he referring to?\nKurt or Alex",
+        "answer": "Kurt.",
+        "label": 1
+    },
+    {
+        "question": "Firefox is used more than Internet Explorer because it is less stable.\n\nWho is it referring to?\nFirefox or Internet Explorer",
+        "answer": "Internet Explorer.",
+        "label": 1
+    },
+    {
+        "question": "Windows is worse than Linux because it has a lot of viruses.\n\nWho is it referring to?\nWindows or Linux",
+        "answer": "Linux.",
+        "label": 0
+    },
+    {
+        "question": "Alex Rodriguez is paid much higher than Brandon Hughs because he is grossly overpaid.\n\nWho is he referring to?\nAlex Rodriguez or Brandon Hughs",
+        "answer": "Brandon Hughs.",
+        "label": 0
+    },
+    {
+        "question": "The mother punishes the daughter because she was disobedient.\n\nWho is she referring to?\nThe mother or the daughter",
+        "answer": "the daughter.",
+        "label": 0
+    },
+    {
+        "question": "The townspeople ate the unicorns because they were hungry.\n\nWho is they referring to?\nThe townspeople or the unicorns",
+        "answer": "The townspeople.",
+        "label": 1
+    },
+    {
+        "question": "Skype has entered a partnership with Facebook, and they hope that more members join their social network.\n\nWho is they referring to?\nSkype or Facebook",
+        "answer": "Facebook.",
+        "label": 1
+    },
+    {
+        "question": "The hippo ate the food the trainer brought when he put it in the trough.\n\nWho is he referring to?\nThe hippo or the trainer",
+        "answer": "the trainer.",
+        "label": 0
+    },
+    {
+        "question": "Bob killed Vincent because he wanted to kill someone.\n\nWho is he referring to?\nBob or Vincent",
+        "answer": "Vincent.",
+        "label": 0
+    },
+    {
+        "question": "Parents send their children to bed, and they have to listen to authority since they are dependents.\n\nWho is they referring to?\nParents or their children",
+        "answer": "their children.",
+        "label": 1
+    },
+    {
+        "question": "Herman Cain has fallen in the polls while Mitt Romney has increased his foothold because he is garnering more popularity among potential voters.\n\nWho is he referring to?\nHerman Cain or Mitt Romney",
+        "answer": "Mitt Romney.",
+        "label": 1
+    },
+    {
+        "question": "The new knives are better than the old knives since they are much sharper.\n\nWho is they referring to?\nnew knives or old knives",
+        "answer": "old knives.",
+        "label": 0
+    },
+    {
+        "question": "Mike helped Jack with his assignment because he felt like doing so.\n\nWho is he referring to?\nMike or Jack",
+        "answer": "Jack.",
+        "label": 0
+    },
+    {
+        "question": "The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios since they did not violate any laws.\n\nWho is they referring to?\nThe Minecraft developers or Bethesda Studios",
+        "answer": "Bethesda Studios.",
+        "label": 0
+    },
+    {
+        "question": "People raise dogs because they are afraid of thieves.\n\nWho is they referring to?\nPeople or dogs",
+        "answer": "People.",
+        "label": 1
+    },
+    {
+        "question": "Apple recently had to recall 1st generation IPods, but they did so six years after it was initially released.\n\nWho is they referring to?\nApple or 1st generation IPods",
+        "answer": "Apple.",
+        "label": 1
+    },
+    {
+        "question": "Animal Control takes control of lost animals in the city because they are hired by the city to perform these duties.\n\nWho is they referring to?\nAnimal Control or lost animals",
+        "answer": "Animal Control.",
+        "label": 1
+    },
+    {
+        "question": "John ridiculed Bill because he liked to look down upon others.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "The glass hit the floor and it scratched.\n\nWho is it referring to?\nThe glass or the floor",
+        "answer": "the floor.",
+        "label": 0
+    },
+    {
+        "question": "The professor told John that he passed the exam.\n\nWho is he referring to?\nThe professor or John",
+        "answer": "John.",
+        "label": 1
+    },
+    {
+        "question": "Soldiers of the armed forces were slowly being phased out by genetically engineered soldiers since they were physically inferior to their new counterparts.\n\nWho is they referring to?\nSoldiers of the armed forces or genetically engineered soldiers",
+        "answer": "genetically engineered soldiers.",
+        "label": 0
+    },
+    {
+        "question": "Michael asked Jacob to dance because he felt sorry for him.\n\nWho is he referring to?\nMichael or Jacob",
+        "answer": "Jacob.",
+        "label": 0
+    },
+    {
+        "question": "Retail stores have been trying to pass an internet tax on online retailers for the past few years, but they are adamant on fighting against this regulation they are trying to impose.\n\nWho is they referring to?\nRetail stores or online retailers",
+        "answer": "online retailers.",
+        "label": 1
+    },
+    {
+        "question": "Frosted Flakes is tastier than Fiber One because they taste bland due to the fiber.\n\nWho is they referring to?\nFrosted Flakes or Fiber One",
+        "answer": "Fiber One.",
+        "label": 1
+    },
+    {
+        "question": "Mary asked Jim not to annoy the crazy person, as he might be attacked.\n\nWho is he referring to?\nJim or the crazy person",
+        "answer": "Jim.",
+        "label": 1
+    },
+    {
+        "question": "Knight Commander Roddick was plagued by a vision of his dead son, so he became crazy from being reminded constantly.\n\nWho is he referring to?\nKnight Commander Roddick or his dead son",
+        "answer": "Knight Commander Roddick.",
+        "label": 1
+    },
+    {
+        "question": "Johnson wanted to make friendship with David, because he is well connected.\n\nWho is he referring to?\nJohnson or David",
+        "answer": "David.",
+        "label": 0
+    },
+    {
+        "question": "Dogs are friendlier than cats since they would rather be alone.\n\nWho is they referring to?\nDogs or cats",
+        "answer": "cats.",
+        "label": 0
+    },
+    {
+        "question": "Bengali is morphologically richer than English, so its vocabulary is smaller.\n\nWho is its referring to?\nBengali or English",
+        "answer": "English.",
+        "label": 0
+    },
+    {
+        "question": "Management gave the workers a raise because they had threatened to strike.\n\nWho is they referring to?\nManagement or the workers",
+        "answer": "the workers.",
+        "label": 1
+    },
+    {
+        "question": "The ball hit the window and Bill repaired it.\n\nWho is it referring to?\nThe ball or the window",
+        "answer": "the window.",
+        "label": 1
+    },
+    {
+        "question": "Sir Rodrick was made specialized fitted armor by Jack, because he needed armor that could withstand the power of a lance.\n\nWho is he referring to?\nSir Rodrick or Jack",
+        "answer": "Jack.",
+        "label": 0
+    },
+    {
+        "question": "Jim was staring at the guy with the snowboard, because he was doing tricks.\n\nWho is he referring to?\nJim or the guy",
+        "answer": "the guy.",
+        "label": 1
+    },
+    {
+        "question": "Gary envied Bill because he was poor.\n\nWho is he referring to?\nGary or Bill",
+        "answer": "Gary.",
+        "label": 1
+    },
+    {
+        "question": "Lucas is younger than Claus because he was born last.\n\nWho is he referring to?\nLucas or Claus",
+        "answer": "Claus.",
+        "label": 0
+    },
+    {
+        "question": "Apple defeated Microsoft in the war because they lack creativity.\n\nWho is they referring to?\nApple or Microsoft",
+        "answer": "Microsoft.",
+        "label": 0
+    },
+    {
+        "question": "Doctor Jenner continued his work on a vaccine for John, but he is not have much success.\n\nWho is he referring to?\nDoctor Jenner or John",
+        "answer": "Doctor Jenner.",
+        "label": 1
+    },
+    {
+        "question": "Steve Ballmer took over as CEO of Microsoft after Bill Gates because he retired.\n\nWho is he referring to?\nSteve Ballmer or Bill Gates",
+        "answer": "Bill Gates.",
+        "label": 1
+    },
+    {
+        "question": "The police arrested the criminals since they enforce the law.\n\nWho is they referring to?\nThe police or the criminals",
+        "answer": "the criminals.",
+        "label": 0
+    },
+    {
+        "question": "A person is more productive on an IDE than a text editor, therefore it should not be used in general practice.\n\nWho is it referring to?\nan IDE or a text editor",
+        "answer": "a text editor.",
+        "label": 0
+    },
+    {
+        "question": "Michelle likes green shirts while Sarah prefers blue, because she likes the color of grass.\n\nWho is she referring to?\nMichelle or Sarah",
+        "answer": "Michelle.",
+        "label": 1
+    },
+    {
+        "question": "Kate Middleton is viewed as a newer generation Princess Diana because she was a symbol of fashion as the previous queen.\n\nWho is she referring to?\nKate Middleton or Princess Diana",
+        "answer": "Princess Diana.",
+        "label": 0
+    },
+    {
+        "question": "The pilots saved the passengers because they had a civic duty.\n\nWho is they referring to?\nThe pilots or the passengers",
+        "answer": "the passengers.",
+        "label": 0
+    },
+    {
+        "question": "Males always outnumber females at Comic Con since they generally take less interest in things that are considered nerdy.\n\nWho is they referring to?\nMales or females",
+        "answer": "females.",
+        "label": 1
+    },
+    {
+        "question": "The Xbox 360 outsold the Nintendo Wii by 300 percent because they are losing their popularity.\n\nWho is they referring to?\nThe Xbox 360 or the Nintendo Wii",
+        "answer": "the Nintendo Wii.",
+        "label": 0
+    },
+    {
+        "question": "A dog chewed a bone and it became wet.\n\nWho is it referring to?\nA dog or a bone",
+        "answer": "a bone.",
+        "label": 1
+    },
+    {
+        "question": "John chose Bill because he was choosing.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Planet Express was bought out by Mom's Friendly Delivery Service so they can no longer be a threat.\n\nWho is they referring to?\nPlanet Express or Mom's Friendly Delivery Service",
+        "answer": "Planet Express.",
+        "label": 1
+    },
+    {
+        "question": "Marriott rewards frequent travelers with points for free stays, but they are also enticed by other reward programs from other hotels.\n\nWho is they referring to?\nMarriott or frequent travelers",
+        "answer": "frequent travelers.",
+        "label": 1
+    },
+    {
+        "question": "He put snow on the smiley face because it was dry.\n\nWho is it referring to?\nsnow or the smiley face",
+        "answer": "the smiley face.",
+        "label": 0
+    },
+    {
+        "question": "Herman Cain has been rising in the polls, causing concern for Rick Perry, since he has been appealing to a wider audience.\n\nWho is he referring to?\nHerman Cain or Rick Perry",
+        "answer": "Rick Perry.",
+        "label": 0
+    },
+    {
+        "question": "Doctor Chen prescribed glasses to Egore, since he conducted the eye exam.\n\nWho is he referring to?\nDoctor Chen or Egore",
+        "answer": "Egore.",
+        "label": 0
+    },
+    {
+        "question": "Hill joined Obama because Bill trusted him.\n\nWho is him referring to?\nHill or Obama",
+        "answer": "Obama.",
+        "label": 0
+    },
+    {
+        "question": "Jack pushed John up the hill because he is a good samaritan.\n\nWho is he referring to?\nJack or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "MySpace lost millions of users to Facebook, but they still have a small following.\n\nWho is they referring to?\nMySpace or Facebook",
+        "answer": "Facebook.",
+        "label": 0
+    },
+    {
+        "question": "The police tried to blockade the bridge to prevent the criminals from escaping because they needed to pass this route to gain freedom.\n\nWho is they referring to?\nThe police or the criminals",
+        "answer": "the criminals.",
+        "label": 1
+    },
+    {
+        "question": "The boy tried to address his friend, but he could not speak.\n\nWho is he referring to?\nThe boy or his friend",
+        "answer": "his friend.",
+        "label": 0
+    },
+    {
+        "question": "Mark tackled the quarterback, but he was penalized.\n\nWho is he referring to?\nMark or the quarterback",
+        "answer": "the quarterback.",
+        "label": 0
+    },
+    {
+        "question": "The hammer hit the bullet, so it stopped.\n\nWho is it referring to?\nThe hammer or the bullet",
+        "answer": "The hammer.",
+        "label": 1
+    },
+    {
+        "question": "Joe earned more money than Rob on the Price is Right because he kept guessing wrong.\n\nWho is he referring to?\nJoe or Rob",
+        "answer": "Rob.",
+        "label": 0
+    },
+    {
+        "question": "Steven assassinated the president because he was paid to do it.\n\nWho is he referring to?\nSteven or the president",
+        "answer": "Steven.",
+        "label": 1
+    },
+    {
+        "question": "Gamestop pulled Square Enix's game, \"Dues Ex\" from the shelves, because they would not sell a game that promoted another game service.\n\nWho is they referring to?\nGamestop or Square Enix",
+        "answer": "Square Enix.",
+        "label": 0
+    },
+    {
+        "question": "We gave the toys to the toddlers, because they wanted to play.\n\nWho is they referring to?\nthe toys or the toddlers",
+        "answer": "the toddlers.",
+        "label": 1
+    },
+    {
+        "question": "The government wanted to issue weapons to the US border patrol, since they need them to patrol effectively.\n\nWho is they referring to?\nThe government or the US border patrol",
+        "answer": "the US border patrol.",
+        "label": 0
+    },
+    {
+        "question": "The veterans defeated the newcomers because they were more experienced.\n\nWho is they referring to?\nThe veterans or the newcomers",
+        "answer": "the newcomers.",
+        "label": 0
+    },
+    {
+        "question": "The boy lent his friend a pencil because the teacher told him to write.\n\nWho is him referring to?\nThe boy or his friend",
+        "answer": "his friend.",
+        "label": 1
+    },
+    {
+        "question": "The US president had a meeting with the Chinese president, where he told him not to interfere with China's internal policy.\n\nWho is he referring to?\nThe US president or the Chinese president",
+        "answer": "the Chinese president.",
+        "label": 0
+    },
+    {
+        "question": "The police captured the criminals because they were less prepared.\n\nWho is they referring to?\nThe police or the criminals",
+        "answer": "the criminals.",
+        "label": 0
+    },
+    {
+        "question": "The zombies chased the survivors because they were tasty.\n\nWho is they referring to?\nThe zombies or the survivors",
+        "answer": "the survivors.",
+        "label": 0
+    },
+    {
+        "question": "Medics have a tough job of trying to heal the wounded because they are normally hurt in dangerous scenarios.\n\nWho is they referring to?\nMedics or the wounded",
+        "answer": "the wounded.",
+        "label": 1
+    },
+    {
+        "question": "Penguins tend to stay on land to avoid killer whales, but they do need to go in the water for food at times.\n\nWho is they referring to?\nPenguins or killer whales",
+        "answer": "killer whales.",
+        "label": 0
+    },
+    {
+        "question": "The wolves attacked the travelers in the forest since they were not welcomed near their home.\n\nWho is they referring to?\nThe wolves or the travelers",
+        "answer": "the travelers.",
+        "label": 0
+    },
+    {
+        "question": "Kevin stared at Michael and he got angry.\n\nWho is he referring to?\nKevin or Michael",
+        "answer": "Michael.",
+        "label": 1
+    },
+    {
+        "question": "Intel sued IntelSpec since they happen to have a trademarked brand in their company name.\n\nWho is they referring to?\nIntel or IntelSpec",
+        "answer": "IntelSpec.",
+        "label": 0
+    },
+    {
+        "question": "Seth is smarter than Sai, and consequently he got a better job.\n\nWho is he referring to?\nSeth or Sai",
+        "answer": "Sai.",
+        "label": 0
+    },
+    {
+        "question": "The mysterious creature is drinking whiskey because it tastes good.\n\nWho is it referring to?\nThe mysterious creature or whiskey",
+        "answer": "whiskey.",
+        "label": 0
+    },
+    {
+        "question": "The employees of Six Flags denied the customers access to the ride since they deemed the ride unsafe.\n\nWho is they referring to?\nThe employees of Six Flags or the customers",
+        "answer": "the customers.",
+        "label": 0
+    },
+    {
+        "question": "Blackberry alienated a lot of users because they blacked out their service due to technical difficulties.\n\nWho is they referring to?\nBlackberry or a lot of users",
+        "answer": "a lot of users.",
+        "label": 0
+    },
+    {
+        "question": "Management gave the workers a raise because they had no other choice.\n\nWho is they referring to?\nManagement or the workers",
+        "answer": "Management.",
+        "label": 1
+    },
+    {
+        "question": "Samsonite makes luggage which is highly rated by Luggage Ratings Inc. because they thought the product they rated was highly desirable due to its quality.\n\nWho is they referring to?\nSamsonite or Luggage Ratings Inc.",
+        "answer": "Luggage Ratings Inc.",
+        "label": 1
+    },
+    {
+        "question": "The spider ate the fly because he was hungry.\n\nWho is he referring to?\nThe spider or the fly",
+        "answer": "the fly.",
+        "label": 0
+    },
+    {
+        "question": "The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios, but they will probably file another lawsuit again.\n\nWho is they referring to?\nThe Minecraft developers or Bethesda Studios",
+        "answer": "Bethesda Studios.",
+        "label": 1
+    },
+    {
+        "question": "Charles Dickinson shot at Andrew Jackson, so he started reloading.\n\nWho is he referring to?\nCharles Dickinson or Andrew Jackson",
+        "answer": "Charles Dickinson.",
+        "label": 1
+    },
+    {
+        "question": "Stacy lied about partying to her mom, but she feared that she may be caught.\n\nWho is she referring to?\nStacy or her mom",
+        "answer": "her mom.",
+        "label": 0
+    },
+    {
+        "question": "The Dallas Cowboys lost their lead to the Redskins because they started to perform very well in the second half.\n\nWho is they referring to?\nThe Dallas Cowboys or the Redskins",
+        "answer": "the Redskins.",
+        "label": 0
+    },
+    {
+        "question": "Dad yelled at Sam because he did not go to school.\n\nWho is he referring to?\nDad or Sam",
+        "answer": "Sam.",
+        "label": 1
+    },
+    {
+        "question": "John wanted to vote for Doe, but he did not seem like the right candidate.\n\nWho is he referring to?\nJohn or Doe",
+        "answer": "Doe.",
+        "label": 0
+    },
+    {
+        "question": "John hit Carl and he did not like it.\n\nWho is he referring to?\nJohn or Carl",
+        "answer": "Carl.",
+        "label": 1
+    },
+    {
+        "question": "The cow ran into the fence and it got hurt.\n\nWho is it referring to?\nThe cow or the fence",
+        "answer": "The cow.",
+        "label": 1
+    },
+    {
+        "question": "Sam cheated Sally but she did not cry.\n\nWho is she referring to?\nSally or Sam",
+        "answer": "Sally.",
+        "label": 1
+    },
+    {
+        "question": "Uncharted 3 did not introduce any new ideas since their last game, Uncharted 2, but it is still going to be a fun game.\n\nWho is it referring to?\nUncharted 3 or Uncharted 2",
+        "answer": "Uncharted 2.",
+        "label": 0
+    },
+    {
+        "question": "Blockbuster increased the time allotted for customers to return videos, so they would not be able to rent videos out quicker now.\n\nWho is they referring to?\nBlockbuster or customers",
+        "answer": "customers.",
+        "label": 1
+    },
+    {
+        "question": "Student A beat student B, because he slacked off.\n\nWho is he referring to?\nStudent A or student B",
+        "answer": "student B.",
+        "label": 0
+    },
+    {
+        "question": "Western Digital may disappoint their shareholders this season, but they will probably tough out the momentary losses and remain shareholders.\n\nWho is they referring to?\nWestern Digital or their shareholders",
+        "answer": "their shareholders.",
+        "label": 1
+    },
+    {
+        "question": "Michael backed Bill because John asked him to.\n\nWho is him referring to?\nMichael or Bill",
+        "answer": "Michael.",
+        "label": 1
+    },
+    {
+        "question": "Joe earned more money than Rob on the Price is Right because he was able to guess more letters correctly.\n\nWho is he referring to?\nJoe or Rob",
+        "answer": "Joe.",
+        "label": 1
+    },
+    {
+        "question": "Burt installed Joey's software, and he was appreciative.\n\nWho is he referring to?\nBurt or Joey",
+        "answer": "Joey.",
+        "label": 0
+    },
+    {
+        "question": "The pyramids are a maze which contains a great deal of treasure, but they are not always in each of them.\n\nWho is they referring to?\nThe pyramids or treasure",
+        "answer": "treasure.",
+        "label": 1
+    },
+    {
+        "question": "Google is catching up to Firefox in the percentage of users, because they have been getting too bulky and slow.\n\nWho is they referring to?\nGoogle or Firefox",
+        "answer": "Firefox.",
+        "label": 0
+    },
+    {
+        "question": "Apple sued Samsung because they made a product that has similarities with their own.\n\nWho is they referring to?\nApple or Samsung",
+        "answer": "Samsung.",
+        "label": 0
+    },
+    {
+        "question": "David hit Bill because Mary asked him to.\n\nWho is him referring to?\nDavid or Bill",
+        "answer": "David.",
+        "label": 1
+    },
+    {
+        "question": "The manager fired the intern because she was upset.\n\nWho is she referring to?\nThe manager or the intern",
+        "answer": "the intern.",
+        "label": 0
+    },
+    {
+        "question": "Bill triumphed over John in the boxing ring because he fought cowardly.\n\nWho is he referring to?\nBill or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "Hybrid cars produce less pollution than diesel trucks because they use less gas and more electricity.\n\nWho is they referring to?\nHybrid cars or diesel trucks",
+        "answer": "Hybrid cars.",
+        "label": 1
+    },
+    {
+        "question": "Ann helped Kim with her cooking skills, because she felt sorry for her.\n\nWho is she referring to?\nAnn or Kim",
+        "answer": "Ann.",
+        "label": 1
+    },
+    {
+        "question": "Randy went to Nick's store, and bought his groceries.\n\nWho is his referring to?\nRandy or Nick",
+        "answer": "Randy.",
+        "label": 1
+    },
+    {
+        "question": "The home team lost to the Giants because they were better players.\n\nWho is they referring to?\nThe home team or the Giants",
+        "answer": "the Giants.",
+        "label": 1
+    },
+    {
+        "question": "Randy went to Nick's store, and bought his groceries.\n\nWho is his referring to?\nRandy or Nick",
+        "answer": "Nick.",
+        "label": 0
+    },
+    {
+        "question": "The jocks did not like the nerds because they were losers.\n\nWho is they referring to?\nThe jocks or the nerds",
+        "answer": "the nerds.",
+        "label": 1
+    },
+    {
+        "question": "The wine busted the cask because it was too small.\n\nWho is it referring to?\nThe wine or the cask",
+        "answer": "the cask.",
+        "label": 1
+    },
+    {
+        "question": "The dog hunted the fox because it was hungry.\n\nWho is it referring to?\nThe dog or the fox",
+        "answer": "the fox.",
+        "label": 0
+    },
+    {
+        "question": "Bush beat Gore because he rigged the election.\n\nWho is he referring to?\nBush or Gore",
+        "answer": "Gore.",
+        "label": 0
+    },
+    {
+        "question": "Bob Marley shot the sheriff, but he swears it was in self-defense.\n\nWho is he referring to?\nBob Marley or the sheriff",
+        "answer": "the sheriff.",
+        "label": 0
+    },
+    {
+        "question": "Four wheel drive cars are used for rally racing instead of rear wheel cars because they do not race well off road.\n\nWho is they referring to?\nFour wheel drive cars or rear wheel cars",
+        "answer": "rear wheel cars.",
+        "label": 1
+    },
+    {
+        "question": "My parents gave the neighbors tickets to Six Flags since they had extras.\n\nWho is they referring to?\nMy parents or the neighbors",
+        "answer": "the neighbors.",
+        "label": 0
+    },
+    {
+        "question": "The grandmother threw her granddaughter to her death because she would not stop screaming.\n\nWho is she referring to?\nThe grandmother or her granddaughter",
+        "answer": "her granddaughter.",
+        "label": 0
+    },
+    {
+        "question": "Rick Davis campaigned for John McCain since he was the best man for office.\n\nWho is he referring to?\nRick Davis or John McCain",
+        "answer": "John McCain.",
+        "label": 1
+    },
+    {
+        "question": "Jack raced past Dan since his car is much faster.\n\nWho is his referring to?\nJack or Dan",
+        "answer": "Jack.",
+        "label": 1
+    },
+    {
+        "question": "Microsoft Azure provides cloud servers for consumers, but they are still hesitant to switch to cloud computing.\n\nWho is they referring to?\nMicrosoft Azure or consumers",
+        "answer": "consumers.",
+        "label": 1
+    },
+    {
+        "question": "Jim pooped on Jack and he laughed.\n\nWho is he referring to?\nJack or Jim",
+        "answer": "Jim.",
+        "label": 0
+    },
+    {
+        "question": "Gartok defeated Grognak because he was puny and weak.\n\nWho is he referring to?\nGartok or Grognak",
+        "answer": "Grognak.",
+        "label": 1
+    },
+    {
+        "question": "John hit Carl and he did not like it.\n\nWho is he referring to?\nJohn or Carl",
+        "answer": "Carl.",
+        "label": 0
+    },
+    {
+        "question": "Some people proclaimed at the Ontario conventions that we need to colonize planets in the near future because they think we may face extinction if Aliens ever came for our resources.\n\nWho is they referring to?\nSome people or the Ontario conventions",
+        "answer": "Some people.",
+        "label": 1
+    },
+    {
+        "question": "Sue visited Nadia for dinner because she was free.\n\nWho is she referring to?\nSue or Nadia",
+        "answer": "Nadia.",
+        "label": 0
+    },
+    {
+        "question": "Medvedev will cede the presidency to Putin because he is more popular.\n\nWho is he referring to?\nMedvedev or Putin",
+        "answer": "Putin.",
+        "label": 0
+    },
+    {
+        "question": "Gladiators are viewed better than Slaves because they fight to the death in the arena.\n\nWho is they referring to?\nGladiators or Slaves",
+        "answer": "Gladiators.",
+        "label": 1
+    },
+    {
+        "question": "Jacob gave William money because he sold the car.\n\nWho is he referring to?\nJacob or William",
+        "answer": "William.",
+        "label": 0
+    },
+    {
+        "question": "There is currently more work on coreference resolution than on chunking because it is a problem that is nearly solved.\n\nWho is it referring to?\ncoreference resolution or chunking",
+        "answer": "chunking.",
+        "label": 0
+    },
+    {
+        "question": "Luigi rescued Mario because he was the only one who can.\n\nWho is he referring to?\nLuigi or Mario",
+        "answer": "Luigi.",
+        "label": 1
+    },
+    {
+        "question": "The Board of Directors fired the management from the company since they were not managing the company well.\n\nWho is they referring to?\nThe Board of Directors or the management",
+        "answer": "the management.",
+        "label": 0
+    },
+    {
+        "question": "Professors give a lot of advice to students, because they are caring.\n\nWho is they referring to?\nProfessors or students",
+        "answer": "Professors.",
+        "label": 1
+    },
+    {
+        "question": "Conan O'Brien replaced Jay Leno as host of Late Night, however, he was soon removed from that timeslot due to him coming back.\n\nWho is he referring to?\nConan O'Brien or Jay Leno",
+        "answer": "Conan O'Brien.",
+        "label": 1
+    },
+    {
+        "question": "Kenmore is known for making superb appliances which is sold at Sears, because they are the best place to sell top brand appliances.\n\nWho is they referring to?\nKenmore or Sears",
+        "answer": "Sears.",
+        "label": 0
+    },
+    {
+        "question": "Godzilla will stomp all over Tokyo if it does not build better defenses.\n\nWho is it referring to?\nGodzilla or Tokyo",
+        "answer": "Tokyo.",
+        "label": 1
+    },
+    {
+        "question": "Joy was jealous of Jenny because she was making more money than her.\n\nWho is she referring to?\nJoy or Jenny",
+        "answer": "Jenny.",
+        "label": 0
+    },
+    {
+        "question": "The teachers failed the students because they graded the test incorrectly.\n\nWho is they referring to?\nThe teachers or the students",
+        "answer": "the students.",
+        "label": 0
+    },
+    {
+        "question": "The Cowboys formed a trailer defense against the Indians since they have a better chance of surviving.\n\nWho is they referring to?\nThe Cowboys or the Indians",
+        "answer": "The Cowboys.",
+        "label": 1
+    },
+    {
+        "question": "Scrooge was moved by the appearance of Timmy since he has an effect on people due to him being crippled and loving.\n\nWho is he referring to?\nScrooge or Timmy",
+        "answer": "Timmy.",
+        "label": 0
+    },
+    {
+        "question": "The Roman legion attacked the Persians because they felt threatened.\n\nWho is they referring to?\nThe Roman legion or the Persians",
+        "answer": "the Persians.",
+        "label": 0
+    },
+    {
+        "question": "Peter Griffin often pokes fun at Chris, so he always ends up being angry.\n\nWho is he referring to?\nPeter Griffin or Chris",
+        "answer": "Chris.",
+        "label": 0
+    },
+    {
+        "question": "Taco needs hot sauce because it does not taste as good alone.\n\nWho is it referring to?\nTaco or hot sauce",
+        "answer": "Taco.",
+        "label": 1
+    },
+    {
+        "question": "People raise dogs because they are obedient.\n\nWho is they referring to?\nPeople or dogs",
+        "answer": "dogs.",
+        "label": 0
+    },
+    {
+        "question": "Tim gave Marlo a pat on the back because he wanted to help.\n\nWho is he referring to?\nTim or Marlo",
+        "answer": "Tim.",
+        "label": 1
+    },
+    {
+        "question": "England won the bid over Spain because they prepared better.\n\nWho is they referring to?\nEngland or Spain",
+        "answer": "England.",
+        "label": 1
+    },
+    {
+        "question": "The carpenters came before the painters since they need to paint after the furniture has already been built.\n\nWho is they referring to?\nThe carpenters or the painters",
+        "answer": "the painters.",
+        "label": 1
+    },
+    {
+        "question": "The gun owner fired at the burglar because he stole items.\n\nWho is he referring to?\nThe gun owner or the burglar",
+        "answer": "the burglar.",
+        "label": 1
+    },
+    {
+        "question": "Retail stores have been trying to pass an internet tax on online retailers for the past few years because they feel it would level the playing field.\n\nWho is they referring to?\nRetail stores or online retailers",
+        "answer": "Retail stores.",
+        "label": 1
+    },
+    {
+        "question": "The Dallas Cowboys lost their lead to the Redskins because they started to perform very poorly in the second half.\n\nWho is they referring to?\nThe Dallas Cowboys or the Redskins",
+        "answer": "the Redskins.",
+        "label": 0
+    },
+    {
+        "question": "Luigi rescued Mario because he was in trouble.\n\nWho is he referring to?\nLuigi or Mario",
+        "answer": "Mario.",
+        "label": 1
+    },
+    {
+        "question": "Some people proclaimed at the Ontario conventions that we need to colonize planets in the near future because they think we may face extinction if Aliens ever came for our resources.\n\nWho is they referring to?\nSome people or the Ontario conventions",
+        "answer": "the Ontario conventions.",
+        "label": 0
+    },
+    {
+        "question": "New Orleans is renown for their unique style of crawfish so they have many restaurants which sell it.\n\nWho is they referring to?\nNew Orleans or crawfish",
+        "answer": "crawfish.",
+        "label": 0
+    },
+    {
+        "question": "The mother encouraged her daughter to sing a difficult song so she would be challenged.\n\nWho is she referring to?\nThe mother or her daughter",
+        "answer": "her daughter.",
+        "label": 1
+    },
+    {
+        "question": "Mary stabbed Jennifer, so John took her to the hospital.\n\nWho is her referring to?\nMary or Jennifer",
+        "answer": "Jennifer.",
+        "label": 0
+    },
+    {
+        "question": "Sprint is now selling the IPhone just like Verizon, because they were crushing them in new customers due to this particular phone.\n\nWho is they referring to?\nSprint or Verizon",
+        "answer": "Verizon.",
+        "label": 0
+    },
+    {
+        "question": "NATO forces did precision predator strikes for the Libyan rebels since they had the predator vehicles.\n\nWho is they referring to?\nNATO forces or Libyan rebels",
+        "answer": "Libyan rebels.",
+        "label": 0
+    },
+    {
+        "question": "LA Galaxy is constantly seeking famous players to fill their ranks, but they are constantly sought after by many teams with offers.\n\nWho is they referring to?\nLA Galaxy or famous players",
+        "answer": "famous players.",
+        "label": 0
+    },
+    {
+        "question": "Jimbo attacked Bobbert because he could not control his rage.\n\nWho is he referring to?\nJimbo or Bobbert",
+        "answer": "Jimbo.",
+        "label": 1
+    },
+    {
+        "question": "The doctor told Susan that she had cancer.\n\nWho is she referring to?\nThe doctor or Susan",
+        "answer": "Susan.",
+        "label": 1
+    },
+    {
+        "question": "The Minecraft developers managed to win their case regarding copyright infringement against Bethesda Studios, but they will probably file another lawsuit again.\n\nWho is they referring to?\nThe Minecraft developers or Bethesda Studios",
+        "answer": "Bethesda Studios.",
+        "label": 0
+    },
+    {
+        "question": "The golfers waved on the players because they were waiting.\n\nWho is they referring to?\nThe golfers or the players",
+        "answer": "the players.",
+        "label": 1
+    },
+    {
+        "question": "Tom asked his son to drive so that he could sleep.\n\nWho is he referring to?\nTom or his son",
+        "answer": "Tom.",
+        "label": 1
+    },
+    {
+        "question": "The man gave the beggar some money because he was too persistent.\n\nWho is he referring to?\nThe man or the beggar",
+        "answer": "the beggar.",
+        "label": 0
+    },
+    {
+        "question": "Jim Carrey convinced Jeff to travel with him to Aspen, since he had wanted to travel to Aspen for a long time.\n\nWho is he referring to?\nJim Carrey or Jeff",
+        "answer": "Jeff.",
+        "label": 0
+    },
+    {
+        "question": "Jackie gave Beth a present because it was her friend's birthday.\n\nWho is her referring to?\nJackie or Beth",
+        "answer": "Jackie.",
+        "label": 1
+    },
+    {
+        "question": "The manager fired the intern because she was too rebellious.\n\nWho is she referring to?\nThe manager or the intern",
+        "answer": "the intern.",
+        "label": 0
+    },
+    {
+        "question": "The Batman does not kill Joker because he is always thrown in jail instead.\n\nWho is he referring to?\nThe Batman or Joker",
+        "answer": "Joker.",
+        "label": 0
+    },
+    {
+        "question": "The boulder dropped into the river, but it continued to roll.\n\nWho is it referring to?\nThe boulder or the river",
+        "answer": "The boulder.",
+        "label": 1
+    },
+    {
+        "question": "The Saudi government beheaded eight Bangladeshis because they killed the Egyptian guard.\n\nWho is they referring to?\nThe Saudi government or eight Bangladeshis",
+        "answer": "eight Bangladeshis.",
+        "label": 1
+    },
+    {
+        "question": "The jocks did not like the nerds because they were bullies.\n\nWho is they referring to?\nThe jocks or the nerds",
+        "answer": "The jocks.",
+        "label": 1
+    },
+    {
+        "question": "The mother encouraged her daughter to sing a difficult song so she could see her become better.\n\nWho is she referring to?\nThe mother or her daughter",
+        "answer": "The mother.",
+        "label": 1
+    },
+    {
+        "question": "Nancy adopted a baby girl because she was picked to be adopted.\n\nWho is she referring to?\nNancy or a baby girl",
+        "answer": "a baby girl.",
+        "label": 1
+    },
+    {
+        "question": "Will Smith got his son in a movie since he is the son of a famous movie actor.\n\nWho is he referring to?\nWill Smith or his son",
+        "answer": "his son.",
+        "label": 0
+    },
+    {
+        "question": "The Union defeated the Confederates in the Civil war since they had better resources and numbers.\n\nWho is they referring to?\nThe Union or the Confederates",
+        "answer": "the Confederates.",
+        "label": 0
+    },
+    {
+        "question": "The kidnapper will not return Trent Reznor until he agrees to a private performance.\n\nWho is he referring to?\nThe kidnapper or Trent Reznor",
+        "answer": "Trent Reznor.",
+        "label": 1
+    },
+    {
+        "question": "Neil Patrick Harris is a better singer than Dave Chappelle, since he had experience from Broadway.\n\nWho is he referring to?\nNeil Patrick Harris or Dave Chappelle",
+        "answer": "Dave Chappelle.",
+        "label": 0
+    },
+    {
+        "question": "DC Universe went free to play while World of Warcraft is subscription based, because they have maintained enough users to continue with their current payment model.\n\nWho is they referring to?\nDC Universe or World of Warcraft",
+        "answer": "World of Warcraft.",
+        "label": 0
+    },
+    {
+        "question": "Kim Kardashian has already followed in the steps of Demi Moore and getting divorced, because she also could not come to terms with her husband.\n\nWho is she referring to?\nKim Kardashian or Demi Moore",
+        "answer": "Demi Moore.",
+        "label": 0
+    },
+    {
+        "question": "Windows is worse than Linux because it is open source.\n\nWho is it referring to?\nWindows or Linux",
+        "answer": "Linux.",
+        "label": 0
+    },
+    {
+        "question": "Chelsea hate Manchester United because they always come in second.\n\nWho is they referring to?\nChelsea or Manchester United",
+        "answer": "Manchester United.",
+        "label": 0
+    },
+    {
+        "question": "The employer let John have the assignment even though he did not want it.\n\nWho is he referring to?\nThe employer or John",
+        "answer": "John.",
+        "label": 1
+    },
+    {
+        "question": "Dan modified Harry's car because he had the tools.\n\nWho is he referring to?\nDan or Harry",
+        "answer": "Dan.",
+        "label": 1
+    },
+    {
+        "question": "Rocky lost to Clubber Lang because he was not ready for the fight.\n\nWho is he referring to?\nRocky or Clubber Lang",
+        "answer": "Clubber Lang.",
+        "label": 0
+    },
+    {
+        "question": "James went to Sully's arcade but he refused to let him in.\n\nWho is he referring to?\nJames or Sully",
+        "answer": "Sully.",
+        "label": 0
+    },
+    {
+        "question": "The Xbox 360 outsold the Nintendo Wii by 300 percent because they are appealing to more people with their better hardware.\n\nWho is they referring to?\nThe Xbox 360 or the Nintendo Wii",
+        "answer": "The Xbox 360.",
+        "label": 1
+    },
+    {
+        "question": "Bill returned Jim twenty dollars because he lent money.\n\nWho is he referring to?\nBill or Jim",
+        "answer": "Jim.",
+        "label": 1
+    },
+    {
+        "question": "The police called headquarters for help and they continued to fight the criminals.\n\nWho is they referring to?\nThe police or headquarters",
+        "answer": "The police.",
+        "label": 1
+    },
+    {
+        "question": "Kim Kardashian has already followed in the steps of Demi Moore and getting divorced, but she would not want people to experience her same sadness.\n\nWho is she referring to?\nKim Kardashian or Demi Moore",
+        "answer": "Demi Moore.",
+        "label": 1
+    },
+    {
+        "question": "Jill was writing on a pad for Jane because she needed directions.\n\nWho is she referring to?\nJill or Jane",
+        "answer": "Jane.",
+        "label": 1
+    },
+    {
+        "question": "Jack pushed Tim down the stairs because he was mad.\n\nWho is he referring to?\nJack or Tim",
+        "answer": "Jack.",
+        "label": 1
+    },
+    {
+        "question": "The squirrels buried the nuts so they would not get lost.\n\nWho is they referring to?\nThe squirrels or the nuts",
+        "answer": "the nuts.",
+        "label": 0
+    },
+    {
+        "question": "Joy was jealous of Jenny because she was making less money than her.\n\nWho is she referring to?\nJoy or Jenny",
+        "answer": "Joy.",
+        "label": 1
+    },
+    {
+        "question": "The spider ate the fly because he looked tasty.\n\nWho is he referring to?\nThe spider or the fly",
+        "answer": "the fly.",
+        "label": 1
+    },
+    {
+        "question": "Hybrid cars produce less pollution than diesel trucks because they use less gas and more electricity.\n\nWho is they referring to?\nHybrid cars or diesel trucks",
+        "answer": "diesel trucks.",
+        "label": 0
+    },
+    {
+        "question": "The cabbage was in the freezer and it became full.\n\nWho is it referring to?\nThe cabbage or the freezer",
+        "answer": "the freezer.",
+        "label": 1
+    },
+    {
+        "question": "Bill triumphed over John in the boxing ring because he fought cowardly.\n\nWho is he referring to?\nBill or John",
+        "answer": "John.",
+        "label": 1
+    },
+    {
+        "question": "The cat broke the glass because it was fragile.\n\nWho is it referring to?\nThe cat or the glass",
+        "answer": "the glass.",
+        "label": 1
+    },
+    {
+        "question": "Ashton Kutcher replaced Charlie Sheen as the main character of Two and a Half Men, but he does not play the same character the previous actor played.\n\nWho is he referring to?\nAshton Kutcher or Charlie Sheen",
+        "answer": "Ashton Kutcher.",
+        "label": 1
+    },
+    {
+        "question": "Jack is an optimist, and Adam is a pessimist, then he looks at the cup half full.\n\nWho is he referring to?\nJack or Adam",
+        "answer": "Adam.",
+        "label": 0
+    },
+    {
+        "question": "Alice helped Gwen move because she could not handle the job alone.\n\nWho is she referring to?\nAlice or Gwen",
+        "answer": "Gwen.",
+        "label": 1
+    },
+    {
+        "question": "The students read the books because they were learning.\n\nWho is they referring to?\nThe students or the books",
+        "answer": "the books.",
+        "label": 0
+    },
+    {
+        "question": "Student A beat student B, because he studied.\n\nWho is he referring to?\nStudent A or student B",
+        "answer": "student B.",
+        "label": 0
+    },
+    {
+        "question": "The manager fired the intern because she was upset.\n\nWho is she referring to?\nThe manager or the intern",
+        "answer": "The manager.",
+        "label": 1
+    },
+    {
+        "question": "Tom gave James a coat because he was generous.\n\nWho is he referring to?\nTom or James",
+        "answer": "Tom.",
+        "label": 1
+    },
+    {
+        "question": "New York is very crowded compared to South Dakota, but they have much more land instead.\n\nWho is they referring to?\nNew York or South Dakota",
+        "answer": "South Dakota.",
+        "label": 0
+    },
+    {
+        "question": "New York City was grateful for the sacrifices the American Armed Forces did to save their city because they managed to divert a devastating attack.\n\nWho is they referring to?\nNew York City or the American Armed Forces",
+        "answer": "the American Armed Forces.",
+        "label": 0
+    },
+    {
+        "question": "King Leonidas was more respected then King Henry because he unfairly taxed the people.\n\nWho is he referring to?\nKing Leonidas or King Henry",
+        "answer": "King Henry.",
+        "label": 1
+    },
+    {
+        "question": "John bored Bill because he was easily bored.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Michelle likes green shirts while Sarah prefers blue, because she likes the color of the sky.\n\nWho is she referring to?\nMichelle or Sarah",
+        "answer": "Sarah.",
+        "label": 1
+    },
+    {
+        "question": "The Union defeated the Confederates in the Civil war since they did not have the resources to continue the fight.\n\nWho is they referring to?\nThe Union or the Confederates",
+        "answer": "the Confederates.",
+        "label": 1
+    },
+    {
+        "question": "Boyfriends always try to go out of their way to treat their girlfriends with respect, but they want to be treated with respect as well.\n\nWho is they referring to?\nBoyfriends or their girlfriends",
+        "answer": "their girlfriends.",
+        "label": 0
+    },
+    {
+        "question": "The mother punished the daughter because she was provoked.\n\nWho is she referring to?\nThe mother or the daughter",
+        "answer": "the daughter.",
+        "label": 0
+    },
+    {
+        "question": "The Axis forces lost the war to the Allied forces because they fought on too many fronts.\n\nWho is they referring to?\nThe Axis forces or the Allied forces",
+        "answer": "The Axis forces.",
+        "label": 1
+    },
+    {
+        "question": "The collections agency often goes after delinquent accounts, but they sometimes make mistakes.\n\nWho is they referring to?\nThe collections agency or delinquent accounts",
+        "answer": "delinquent accounts.",
+        "label": 0
+    },
+    {
+        "question": "HP sold a new LED monitor for a heavily discounted price to consumers, so they could create a stronger foot hold in the computer sector.\n\nWho is they referring to?\nHP or consumers",
+        "answer": "HP.",
+        "label": 1
+    },
+    {
+        "question": "The US Health inspection board shut down several food factories, but they discovered that many rules and regulations were violated.\n\nWho is they referring to?\nThe US Health inspection board or several food factories",
+        "answer": "several food factories.",
+        "label": 0
+    },
+    {
+        "question": "Walmart has leaked pages of their Black Friday Ad to the users of the internet, but they will have many other ads to look at to choose from.\n\nWho is they referring to?\nWalmart or the users of the internet",
+        "answer": "the users of the internet.",
+        "label": 1
+    },
+    {
+        "question": "The civilians had to flee the encampment from the thugs since they were terrorizing and attacking everyone they saw.\n\nWho is they referring to?\nThe civilians or the thugs",
+        "answer": "the thugs.",
+        "label": 0
+    },
+    {
+        "question": "The police arrested the rioters because they were causing trouble.\n\nWho is they referring to?\nThe police or the rioters",
+        "answer": "the rioters.",
+        "label": 0
+    },
+    {
+        "question": "Tim asked Jerry to run to the store so that he would be late for home.\n\nWho is he referring to?\nTim or Jerry",
+        "answer": "Jerry.",
+        "label": 1
+    },
+    {
+        "question": "Paul made fun of Henry since he was such an easy target.\n\nWho is he referring to?\nPaul or Henry",
+        "answer": "Henry.",
+        "label": 1
+    },
+    {
+        "question": "A dog chewed a bone and it became wet.\n\nWho is it referring to?\nA dog or a bone",
+        "answer": "a bone.",
+        "label": 0
+    },
+    {
+        "question": "The lion bit the gazelle because it had sharp teeth.\n\nWho is it referring to?\nThe lion or the gazelle",
+        "answer": "The lion.",
+        "label": 1
+    },
+    {
+        "question": "AMD's Bulldozer chips have received lukewarm reception compared to Intel's Sandy Bridge chips since they were subpar in performance.\n\nWho is they referring to?\nAMD's Bulldozer chips or Intel's Sandy Bridge chips",
+        "answer": "Intel's Sandy Bridge chips.",
+        "label": 0
+    },
+    {
+        "question": "Obama had a meeting with Cantor, where he attempted to secure his support of the jobs bill.\n\nWho is he referring to?\nObama or Cantor",
+        "answer": "Cantor.",
+        "label": 0
+    },
+    {
+        "question": "The other student corrected Robert because he had misunderstood the problem.\n\nWho is he referring to?\nThe other student or Robert",
+        "answer": "Robert.",
+        "label": 0
+    },
+    {
+        "question": "Mike helped Jack with his assignment because he politely asked him to.\n\nWho is he referring to?\nMike or Jack",
+        "answer": "Jack.",
+        "label": 1
+    },
+    {
+        "question": "The sheep chased the pig because it was insulted.\n\nWho is it referring to?\nThe sheep or the pig",
+        "answer": "the pig.",
+        "label": 0
+    },
+    {
+        "question": "The mother punishes the daughter because she was disobedient.\n\nWho is she referring to?\nThe mother or the daughter",
+        "answer": "the daughter.",
+        "label": 1
+    },
+    {
+        "question": "Several energy companies are under investigation by Congress since they need to find out if the money was mishandled.\n\nWho is they referring to?\nSeveral energy companies or Congress",
+        "answer": "Congress.",
+        "label": 0
+    },
+    {
+        "question": "The red team defeated the blue team because they made the last penalty kick.\n\nWho is they referring to?\nThe red team or the blue team",
+        "answer": "the blue team.",
+        "label": 0
+    },
+    {
+        "question": "People raise dogs because they are obedient.\n\nWho is they referring to?\nPeople or dogs",
+        "answer": "dogs.",
+        "label": 1
+    },
+    {
+        "question": "The band loves their fans because they come to every show.\n\nWho is they referring to?\nThe band or their fans",
+        "answer": "their fans.",
+        "label": 0
+    },
+    {
+        "question": "The children played games because they were entertaining.\n\nWho is they referring to?\nThe children or games",
+        "answer": "games.",
+        "label": 0
+    },
+    {
+        "question": "Clinton wanted Obama to run for president because he could not win.\n\nWho is he referring to?\nClinton or Obama",
+        "answer": "Clinton.",
+        "label": 1
+    },
+    {
+        "question": "The Saudi government beheaded eight Bangladeshis because they killed the Egyptian guard.\n\nWho is they referring to?\nThe Saudi government or eight Bangladeshis",
+        "answer": "eight Bangladeshis.",
+        "label": 0
+    },
+    {
+        "question": "Master Sifu passes wisdom on to Jack because he has much to teach him.\n\nWho is he referring to?\nMaster Sifu or Jack",
+        "answer": "Master Sifu.",
+        "label": 1
+    },
+    {
+        "question": "The golfers waved on the players because they were holding them up.\n\nWho is they referring to?\nThe golfers or the players",
+        "answer": "The golfers.",
+        "label": 1
+    },
+    {
+        "question": "Allen chased the leprechaun because he wanted a pot of gold.\n\nWho is he referring to?\nAllen or the leprechaun",
+        "answer": "the leprechaun.",
+        "label": 0
+    },
+    {
+        "question": "Gun instructors provide the best tips and practices to keep their students safe from firearm usage since they have years of experience from handling guns in their lifetime.\n\nWho is they referring to?\nGun instructors or their students",
+        "answer": "Gun instructors.",
+        "label": 1
+    },
+    {
+        "question": "The mother encouraged her daughter to sing a difficult song so she would be challenged.\n\nWho is she referring to?\nThe mother or her daughter",
+        "answer": "her daughter.",
+        "label": 0
+    },
+    {
+        "question": "The environmentalists were angry at the corporation because they saw them polluting the creek.\n\nWho is they referring to?\nThe environmentalists or the corporation",
+        "answer": "the corporation.",
+        "label": 0
+    },
+    {
+        "question": "The policeman finally caught the criminal, because he turned himself in.\n\nWho is he referring to?\nThe policeman or the criminal",
+        "answer": "the criminal.",
+        "label": 1
+    },
+    {
+        "question": "Professors do a lot for students, but they are rarely thankful.\n\nWho is they referring to?\nProfessors or students",
+        "answer": "students.",
+        "label": 1
+    },
+    {
+        "question": "Yuji was a fan of Michael Jackson because he was famous.\n\nWho is he referring to?\nYuji or Michael Jackson",
+        "answer": "Michael Jackson.",
+        "label": 0
+    },
+    {
+        "question": "Medvedev will cede the presidency to Putin because he is less popular.\n\nWho is he referring to?\nMedvedev or Putin",
+        "answer": "Medvedev.",
+        "label": 1
+    },
+    {
+        "question": "Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since they provide a plan that appeals to more people.\n\nWho is they referring to?\nHulu or Dish Network",
+        "answer": "Hulu.",
+        "label": 1
+    },
+    {
+        "question": "Alex Rodriguez is paid much higher than Brandon Hughs because he is a less sought after player.\n\nWho is he referring to?\nAlex Rodriguez or Brandon Hughs",
+        "answer": "Brandon Hughs.",
+        "label": 0
+    },
+    {
+        "question": "Some citizens of the kingdom were put in chains by the royal guard since they have been accused of breaking the law.\n\nWho is they referring to?\nSome citizens of the kingdom or the royal guard",
+        "answer": "the royal guard.",
+        "label": 0
+    },
+    {
+        "question": "Aaron kissed Dan because he wanted him to.\n\nWho is he referring to?\nAaron or Dan",
+        "answer": "Dan.",
+        "label": 1
+    },
+    {
+        "question": "The citizens rebelled against the government because they were being repressed.\n\nWho is they referring to?\nThe citizens or the government",
+        "answer": "The citizens.",
+        "label": 1
+    },
+    {
+        "question": "Apple customer support is constantly voted better than Microsoft support, because they do not really offer a competitive support plan.\n\nWho is they referring to?\nApple customer support or Microsoft support",
+        "answer": "Microsoft support.",
+        "label": 0
+    },
+    {
+        "question": "The museum curator looked at the patron and said he should leave.\n\nWho is he referring to?\nThe museum curator or the patron",
+        "answer": "the patron.",
+        "label": 0
+    },
+    {
+        "question": "Simon Cowell makes fun of Ryan Seacrest since he is viewed as feminine.\n\nWho is he referring to?\nSimon Cowell or Ryan Seacrest",
+        "answer": "Ryan Seacrest.",
+        "label": 0
+    },
+    {
+        "question": "The separatists launched a surprise attack against the empire so they could be caught off guard.\n\nWho is they referring to?\nThe separatists or the empire",
+        "answer": "the empire.",
+        "label": 0
+    },
+    {
+        "question": "John nicked Bill because he needed money.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "John.",
+        "label": 1
+    },
+    {
+        "question": "Retail stores have been trying to pass an internet tax on online retailers for the past few years, but they are adamant on fighting against this regulation they are trying to impose.\n\nWho is they referring to?\nRetail stores or online retailers",
+        "answer": "online retailers.",
+        "label": 0
+    },
+    {
+        "question": "Amazon predicted that oldies fans would like the Queen, Led Zeppelin, Frank Sinatra, The Beatles, and the Dave Matthews Band, but they do not actually care for any of these bands.\n\nWho is they referring to?\nAmazon or oldies fans",
+        "answer": "oldies fans.",
+        "label": 0
+    },
+    {
+        "question": "The mouse ran from the cat all the way to the kitchen because it was scared.\n\nWho is it referring to?\nThe mouse or the cat",
+        "answer": "The mouse.",
+        "label": 1
+    },
+    {
+        "question": "The AirForce is more appealing than the Army, but they require higher qualifications.\n\nWho is they referring to?\nThe AirForce or the Army",
+        "answer": "the Army.",
+        "label": 0
+    },
+    {
+        "question": "The Magnificent Five will battle it out with Shen Yu's forces because they will need to end his rein of terror.\n\nWho is they referring to?\nThe Magnificent Five or Shen Yu's forces",
+        "answer": "Shen Yu's forces.",
+        "label": 0
+    },
+    {
+        "question": "The bee landed on the flower because it had pollen.\n\nWho is it referring to?\nThe bee or the flower",
+        "answer": "the flower.",
+        "label": 0
+    },
+    {
+        "question": "Rob was granted a gun license while Jon was not, because he had passed the background check.\n\nWho is he referring to?\nRob or Jon",
+        "answer": "Jon.",
+        "label": 0
+    },
+    {
+        "question": "John thanked Bill because he had needed help.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "James asked Robert for a favor, but he refused.\n\nWho is he referring to?\nJames or Robert",
+        "answer": "Robert.",
+        "label": 0
+    },
+    {
+        "question": "Keith fired Blaine even though he is diligent.\n\nWho is he referring to?\nKeith or Blaine",
+        "answer": "Blaine.",
+        "label": 1
+    },
+    {
+        "question": "Naruto has about 200 more episodes then Code Geass because they finished the story in much fewer episodes.\n\nWho is they referring to?\nNaruto or Code Geass",
+        "answer": "Code Geass.",
+        "label": 1
+    },
+    {
+        "question": "The carpenters came before the painters since they need to paint after the furniture has already been built.\n\nWho is they referring to?\nThe carpenters or the painters",
+        "answer": "the painters.",
+        "label": 0
+    },
+    {
+        "question": "Kevin stared at Michael and he got angry.\n\nWho is he referring to?\nKevin or Michael",
+        "answer": "Michael.",
+        "label": 0
+    },
+    {
+        "question": "Malachi's program would not run on the computer because it had a faulty hard drive.\n\nWho is it referring to?\nMalachi's program or the computer",
+        "answer": "the computer.",
+        "label": 0
+    },
+    {
+        "question": "Charles Dickinson shot at Andrew Jackson, so he started reloading.\n\nWho is he referring to?\nCharles Dickinson or Andrew Jackson",
+        "answer": "Andrew Jackson.",
+        "label": 0
+    },
+    {
+        "question": "The heavy weapons team bombarded the settlement with their mortars since they needed to soften up the enemy before moving in.\n\nWho is they referring to?\nThe heavy weapons team or the settlement",
+        "answer": "the settlement.",
+        "label": 0
+    },
+    {
+        "question": "MySpace lost millions of users to Facebook, but they still have a small following.\n\nWho is they referring to?\nMySpace or Facebook",
+        "answer": "MySpace.",
+        "label": 1
+    },
+    {
+        "question": "David hit Bill because Mary really liked him.\n\nWho is him referring to?\nDavid or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "The government placed a tax on the product so it could profit from sales.\n\nWho is it referring to?\nThe government or the product",
+        "answer": "The government.",
+        "label": 1
+    },
+    {
+        "question": "The construction company could not rezone the area due to endangered butterflies since they could not violate state law and endanger a species.\n\nWho is they referring to?\nThe construction company or endangered butterflies",
+        "answer": "endangered butterflies.",
+        "label": 0
+    },
+    {
+        "question": "Ken has Adam's bike, because he gave it to him.\n\nWho is he referring to?\nKen or Adam",
+        "answer": "Adam.",
+        "label": 1
+    },
+    {
+        "question": "Cats are smarter than dogs because they always land on their feet.\n\nWho is they referring to?\nCats or dogs",
+        "answer": "dogs.",
+        "label": 0
+    },
+    {
+        "question": "Gun instructors provide the best tips and practices to keep their students safe from firearm usage, but they need to make sure they listen to these lessons to be safe.\n\nWho is they referring to?\nGun instructors or their students",
+        "answer": "their students.",
+        "label": 0
+    },
+    {
+        "question": "Fry's Electronics is more successful than Comp USA since they price their products much lower.\n\nWho is they referring to?\nFry's Electronics or Comp USA",
+        "answer": "Comp USA.",
+        "label": 0
+    },
+    {
+        "question": "DVD Players are slowly being replaced by Blu Ray Systems, but they will still exist for years to come.\n\nWho is they referring to?\nDVD Players or Blu Ray Systems",
+        "answer": "DVD Players.",
+        "label": 1
+    },
+    {
+        "question": "Walmart has leaked pages of their Black Friday Ad to the users of the internet, because they are trying to increase hype for them to come to their store.\n\nWho is they referring to?\nWalmart or the users of the internet",
+        "answer": "the users of the internet.",
+        "label": 0
+    },
+    {
+        "question": "The officers chose a planet to send the new soldiers so they could receive experience in hostile environments.\n\nWho is they referring to?\nThe officers or the new soldiers",
+        "answer": "the new soldiers.",
+        "label": 1
+    },
+    {
+        "question": "The bird ate the pie and it was ruined.\n\nWho is it referring to?\nThe bird or the pie",
+        "answer": "the pie.",
+        "label": 1
+    },
+    {
+        "question": "Tom gave James a coat because he was cold.\n\nWho is he referring to?\nTom or James",
+        "answer": "James.",
+        "label": 1
+    },
+    {
+        "question": "Nicole was angry at Sammie since she caught her in a lie.\n\nWho is she referring to?\nNicole or Sammie",
+        "answer": "Sammie.",
+        "label": 1
+    },
+    {
+        "question": "The wine busted the cask because it was too carbonated.\n\nWho is it referring to?\nThe wine or the cask",
+        "answer": "The wine.",
+        "label": 1
+    },
+    {
+        "question": "The boy tried to address his friend, but he could not hear.\n\nWho is he referring to?\nThe boy or his friend",
+        "answer": "his friend.",
+        "label": 0
+    },
+    {
+        "question": "Officer Kennedy saved Roger from the criminals, but he was not grateful for being saved.\n\nWho is he referring to?\nOfficer Kennedy or Roger",
+        "answer": "Roger.",
+        "label": 0
+    },
+    {
+        "question": "The environmentalists were angry at the corporation because they had ignored their proposal.\n\nWho is they referring to?\nThe environmentalists or the corporation",
+        "answer": "the corporation.",
+        "label": 0
+    },
+    {
+        "question": "The mysterious creature is drinking whiskey because it still has more of these sentences to write.\n\nWho is it referring to?\nThe mysterious creature or whiskey",
+        "answer": "whiskey.",
+        "label": 0
+    },
+    {
+        "question": "Cathy let Joanna into her car, so she could take a test drive.\n\nWho is she referring to?\nCathy or Joanna",
+        "answer": "Joanna.",
+        "label": 0
+    },
+    {
+        "question": "Nicole was angry at Sammie since she lied to her.\n\nWho is she referring to?\nNicole or Sammie",
+        "answer": "Nicole.",
+        "label": 1
+    },
+    {
+        "question": "Nicole was angry at Sammie since she caught her in a lie.\n\nWho is she referring to?\nNicole or Sammie",
+        "answer": "Sammie.",
+        "label": 0
+    },
+    {
+        "question": "The dog hunted the fox because it was red.\n\nWho is it referring to?\nThe dog or the fox",
+        "answer": "the fox.",
+        "label": 1
+    },
+    {
+        "question": "The students protested against the new policies because they were too strict.\n\nWho is they referring to?\nThe students or the new policies",
+        "answer": "the new policies.",
+        "label": 1
+    },
+    {
+        "question": "Terranova has better ratings than House since they have a small target audience.\n\nWho is they referring to?\nTerranova or House",
+        "answer": "House.",
+        "label": 1
+    },
+    {
+        "question": "The Saudi government beheaded eight Bangladeshis because they wanted to adhere to Islamic laws.\n\nWho is they referring to?\nThe Saudi government or eight Bangladeshis",
+        "answer": "The Saudi government.",
+        "label": 1
+    },
+    {
+        "question": "Herald Simmons has tremendous skill in rousing up the audience for Knight Keller because he has such excellent speaking qualities.\n\nWho is he referring to?\nHerald Simmons or Knight Keller",
+        "answer": "Knight Keller.",
+        "label": 0
+    },
+    {
+        "question": "John disliked Bill, but he did not know.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Coach Jay provided instruction to his son on how to eat healthy so that he can live longer.\n\nWho is he referring to?\nCoach Jay or his son",
+        "answer": "his son.",
+        "label": 1
+    },
+    {
+        "question": "The peace emissaries arrived to negotiate a peace treaty for the warring population, but they will be difficult to find common ground for.\n\nWho is they referring to?\nThe peace emissaries or the warring population",
+        "answer": "the warring population.",
+        "label": 0
+    },
+    {
+        "question": "Apple defeated Microsoft in the war because they were creative.\n\nWho is they referring to?\nApple or Microsoft",
+        "answer": "Apple.",
+        "label": 1
+    },
+    {
+        "question": "Taco needs hot sauce because it improves the flavor.\n\nWho is it referring to?\nTaco or hot sauce",
+        "answer": "hot sauce.",
+        "label": 1
+    },
+    {
+        "question": "The grandmother threw her granddaughter to her death because she would not stop screaming.\n\nWho is she referring to?\nThe grandmother or her granddaughter",
+        "answer": "her granddaughter.",
+        "label": 1
+    },
+    {
+        "question": "The police officer chased the thief because he was protecting the bank.\n\nWho is he referring to?\nThe police officer or the thief",
+        "answer": "the thief.",
+        "label": 0
+    },
+    {
+        "question": "The man stole the neighbor's bike because he needed one.\n\nWho is he referring to?\nThe man or the neighbor",
+        "answer": "The man.",
+        "label": 1
+    },
+    {
+        "question": "James cheated off Henry's test, and the Teacher failed him.\n\nWho is him referring to?\nJames or Henry",
+        "answer": "James.",
+        "label": 1
+    },
+    {
+        "question": "Jerrica saw the guard as she snuck past.\n\nWho is she referring to?\nJerrica or the guard",
+        "answer": "Jerrica.",
+        "label": 1
+    },
+    {
+        "question": "Janice bought Kenda a car because she needed one.\n\nWho is she referring to?\nJanice or Kenda",
+        "answer": "Kenda.",
+        "label": 1
+    },
+    {
+        "question": "Jessica did not like Selma cutting her hair short, so she tried to be conservative in the length she cut it.\n\nWho is she referring to?\nJessica or Selma",
+        "answer": "Selma.",
+        "label": 1
+    },
+    {
+        "question": "Tech Analysts have speculated that Amazon will be releasing a phone next year, but they are only speculating at this point.\n\nWho is they referring to?\nTech Analysts or Amazon",
+        "answer": "Amazon.",
+        "label": 0
+    },
+    {
+        "question": "The cat broke the glass because it was clumsy.\n\nWho is it referring to?\nThe cat or the glass",
+        "answer": "The cat.",
+        "label": 1
+    },
+    {
+        "question": "Naruto has about 200 more episodes than Code Geass because they have a long interesting storyline.\n\nWho is they referring to?\nNaruto or Code Geass",
+        "answer": "Naruto.",
+        "label": 1
+    },
+    {
+        "question": "The mouse ran from the cat all the way to the kitchen because it chased him.\n\nWho is it referring to?\nThe mouse or the cat",
+        "answer": "the cat.",
+        "label": 1
+    },
+    {
+        "question": "The Starbuck employees make all the drinks on the spot for morning customers because they want them to return to purchase more of their products.\n\nWho is they referring to?\nThe Starbuck employees or morning customers",
+        "answer": "morning customers.",
+        "label": 0
+    },
+    {
+        "question": "Jim pooped on Jack and he vomited.\n\nWho is he referring to?\nJack or Jim",
+        "answer": "Jack.",
+        "label": 1
+    },
+    {
+        "question": "Bill was able to steal the banana from Ken because he was slow.\n\nWho is he referring to?\nBill or Ken",
+        "answer": "Ken.",
+        "label": 0
+    },
+    {
+        "question": "The boy gave his friend a cookie because he was hungry.\n\nWho is he referring to?\nThe boy or his friend",
+        "answer": "his friend.",
+        "label": 1
+    },
+    {
+        "question": "The dog hunted the fox because it was red.\n\nWho is it referring to?\nThe dog or the fox",
+        "answer": "the fox.",
+        "label": 0
+    },
+    {
+        "question": "The coach told the captain that he was proud of him.\n\nWho is he referring to?\nThe coach or the captain",
+        "answer": "the captain.",
+        "label": 0
+    },
+    {
+        "question": "Lorenze took his son to the hospital since he was concerned for his health.\n\nWho is he referring to?\nLorenze or his son",
+        "answer": "his son.",
+        "label": 0
+    },
+    {
+        "question": "The food in the refrigerator went bad because it was past the expiration date.\n\nWho is it referring to?\nThe food or the refrigerator",
+        "answer": "The food.",
+        "label": 1
+    },
+    {
+        "question": "Doctor Jenner continued his work on a vaccine for John, but he is not have much success.\n\nWho is he referring to?\nDoctor Jenner or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "Seth is smarter than Sai, and consequently he got a better job.\n\nWho is he referring to?\nSeth or Sai",
+        "answer": "Seth.",
+        "label": 1
+    },
+    {
+        "question": "The Emancipation Proclamation made slavery illegal, but it did not actually cause many slaves to be freed.\n\nWho is it referring to?\nThe Emancipation Proclamation or slavery",
+        "answer": "slavery.",
+        "label": 0
+    },
+    {
+        "question": "It annoyed Chris when Sebastian jangled his keys because he was in a bad mood.\n\nWho is he referring to?\nChris or Sebastian",
+        "answer": "Sebastian.",
+        "label": 0
+    },
+    {
+        "question": "Adam defeated Brandon in a fight because he was weaker.\n\nWho is he referring to?\nAdam or Brandon",
+        "answer": "Brandon.",
+        "label": 0
+    },
+    {
+        "question": "King Leonidas was more respected then King Henry because he unfairly taxed the people.\n\nWho is he referring to?\nKing Leonidas or King Henry",
+        "answer": "King Henry.",
+        "label": 0
+    },
+    {
+        "question": "Modern Warfare has big expectations to live up to due to the successful release of Battlefield 3 since they need to pull fans to their game instead.\n\nWho is they referring to?\nModern Warfare or Battlefield 3",
+        "answer": "Modern Warfare.",
+        "label": 1
+    },
+    {
+        "question": "Olivia tried to counsel Emily, but she was not interested.\n\nWho is she referring to?\nOlivia or Emily",
+        "answer": "Emily.",
+        "label": 1
+    },
+    {
+        "question": "Neil Patrick Harris is a better singer than Dave Chappelle, since he had experience from Broadway.\n\nWho is he referring to?\nNeil Patrick Harris or Dave Chappelle",
+        "answer": "Neil Patrick Harris.",
+        "label": 1
+    },
+    {
+        "question": "The glass told the toaster that it liked chocolate.\n\nWho is it referring to?\nThe glass or the toaster",
+        "answer": "the toaster.",
+        "label": 0
+    },
+    {
+        "question": "Mary cleaned Susan's room and she asked a favor.\n\nWho is she referring to?\nMary or Susan",
+        "answer": "Susan.",
+        "label": 0
+    },
+    {
+        "question": "Rocky beat Drago because the crowd was not supporting him.\n\nWho is him referring to?\nRocky or Drago",
+        "answer": "Drago.",
+        "label": 0
+    },
+    {
+        "question": "The professor told John that he passed the exam.\n\nWho is he referring to?\nThe professor or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "The mechanic charged the man one hundred dollars although he had done no work.\n\nWho is he referring to?\nThe mechanic or the man",
+        "answer": "The mechanic.",
+        "label": 1
+    },
+    {
+        "question": "Shawn hit Joe but he did not scream.\n\nWho is he referring to?\nShawn or Joe",
+        "answer": "Joe.",
+        "label": 1
+    },
+    {
+        "question": "Brock understood the material better than Tracy because he was paying attention.\n\nWho is he referring to?\nBrock or Tracy",
+        "answer": "Tracy.",
+        "label": 0
+    },
+    {
+        "question": "The boulder dropped into the river, but it continued to flow.\n\nWho is it referring to?\nThe boulder or the river",
+        "answer": "the river.",
+        "label": 1
+    },
+    {
+        "question": "Alexandra told Kelly not to get a tattoo because she would seem unprofessional.\n\nWho is she referring to?\nAlexandra or Kelly",
+        "answer": "Kelly.",
+        "label": 0
+    },
+    {
+        "question": "Snooki got angry at Kendra since she would not emotionally support her in her time of need.\n\nWho is she referring to?\nSnooki or Kendra",
+        "answer": "Kendra.",
+        "label": 1
+    },
+    {
+        "question": "Bill was robbed by John, so the officer arrested him.\n\nWho is him referring to?\nBill or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "Insurance companies charge a premium if people had an accident before because they will have to pay out more most likely for that person.\n\nWho is they referring to?\nInsurance companies or people",
+        "answer": "people.",
+        "label": 0
+    },
+    {
+        "question": "Johnson wanted to make friendship with David, because he wanted help.\n\nWho is he referring to?\nJohnson or David",
+        "answer": "David.",
+        "label": 0
+    },
+    {
+        "question": "Justin Bieber sold many more albums than Jack Johnson, but he is also very unpopular among older adults.\n\nWho is he referring to?\nJustin Bieber or Jack Johnson",
+        "answer": "Jack Johnson.",
+        "label": 0
+    },
+    {
+        "question": "The environmentalists were angry at the corporation because they had ignored their proposal.\n\nWho is they referring to?\nThe environmentalists or the corporation",
+        "answer": "the corporation.",
+        "label": 1
+    },
+    {
+        "question": "Males always outnumber females at Comic Con since they are generally more interested in games and comics.\n\nWho is they referring to?\nMales or females",
+        "answer": "females.",
+        "label": 0
+    },
+    {
+        "question": "Boyfriends always try to go out of their way to treat their girlfriends with respect, but they want to be treated with respect as well.\n\nWho is they referring to?\nBoyfriends or their girlfriends",
+        "answer": "Boyfriends.",
+        "label": 1
+    },
+    {
+        "question": "The judge was fond of the contestant so he received the gold medal.\n\nWho is he referring to?\nThe judge or the contestant",
+        "answer": "the contestant.",
+        "label": 1
+    },
+    {
+        "question": "Gladiators are viewed better than Slaves because they live in a life of servitude instead of dying in glory.\n\nWho is they referring to?\nGladiators or Slaves",
+        "answer": "Slaves.",
+        "label": 0
+    },
+    {
+        "question": "Software gives more profit over hardware since they have little cost associated with selling more.\n\nWho is they referring to?\nSoftware or hardware",
+        "answer": "hardware.",
+        "label": 0
+    },
+    {
+        "question": "Kyle purchased three new monitors due to a recommendation by his brother, because he provided information on how his productivity increased with more working space.\n\nWho is he referring to?\nKyle or his brother",
+        "answer": "his brother.",
+        "label": 0
+    },
+    {
+        "question": "Chevrolet had to recently recall their cars because they received complaints about the brakes in their product.\n\nWho is they referring to?\nChevrolet or their cars",
+        "answer": "their cars.",
+        "label": 0
+    },
+    {
+        "question": "Michael backed Bill because John really liked him.\n\nWho is him referring to?\nMichael or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "Joy was jealous of Jenny because she was making less money than her.\n\nWho is she referring to?\nJoy or Jenny",
+        "answer": "Jenny.",
+        "label": 0
+    },
+    {
+        "question": "Todd told Bill that he needed some money.\n\nWho is he referring to?\nTodd or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Parents send their children to bed, because they want them to have enough sleep for school in the morning.\n\nWho is they referring to?\nParents or their children",
+        "answer": "their children.",
+        "label": 0
+    },
+    {
+        "question": "Robert fired Chris because he no longer needed workers.\n\nWho is he referring to?\nRobert or Chris",
+        "answer": "Robert.",
+        "label": 1
+    },
+    {
+        "question": "The Batman does not kill Joker because he is good at heart.\n\nWho is he referring to?\nThe Batman or Joker",
+        "answer": "The Batman.",
+        "label": 1
+    },
+    {
+        "question": "The doctor told Susan that she had been busy.\n\nWho is she referring to?\nThe doctor or Susan",
+        "answer": "Susan.",
+        "label": 0
+    },
+    {
+        "question": "The Starbuck employees make all the drinks on the spot for morning customers because they want them to return to purchase more of their products.\n\nWho is they referring to?\nThe Starbuck employees or morning customers",
+        "answer": "The Starbuck employees.",
+        "label": 1
+    },
+    {
+        "question": "The sailors fell off the boats because they were drunk.\n\nWho is they referring to?\nThe sailors or the boats",
+        "answer": "the boats.",
+        "label": 0
+    },
+    {
+        "question": "The monsters at the haunted house chased the children because they want to be scared for entertainment.\n\nWho is they referring to?\nThe monsters or the children",
+        "answer": "the children.",
+        "label": 0
+    },
+    {
+        "question": "James asked Robert for a favor, but he refused.\n\nWho is he referring to?\nJames or Robert",
+        "answer": "Robert.",
+        "label": 1
+    },
+    {
+        "question": "Our professor told the TA that he needed his help.\n\nWho is he referring to?\nOur professor or the TA",
+        "answer": "the TA.",
+        "label": 0
+    },
+    {
+        "question": "Chelsea hate Manchester United because they are too cocky.\n\nWho is they referring to?\nChelsea or Manchester United",
+        "answer": "Manchester United.",
+        "label": 0
+    },
+    {
+        "question": "John kicked Bill because he was being mean.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "The government officials publicly apologized to the people because they demanded an apology.\n\nWho is they referring to?\nThe government officials or the people",
+        "answer": "the people.",
+        "label": 0
+    },
+    {
+        "question": "NATO forces did precision predator strikes for the Libyan rebels because they did not have the capabilities themselves.\n\nWho is they referring to?\nNATO forces or Libyan rebels",
+        "answer": "Libyan rebels.",
+        "label": 1
+    },
+    {
+        "question": "Professors give a lot of advice to students, but they rarely care.\n\nWho is they referring to?\nProfessors or students",
+        "answer": "students.",
+        "label": 1
+    },
+    {
+        "question": "The storm delayed the flight as it was going over the ocean.\n\nWho is it referring to?\nThe storm or the flight",
+        "answer": "the flight.",
+        "label": 1
+    },
+    {
+        "question": "I chopped down the tree with my axe because it was sharp.\n\nWho is it referring to?\nthe tree or my axe",
+        "answer": "my axe.",
+        "label": 0
+    },
+    {
+        "question": "The zookeepers make sure to feed the chimps on a daily schedule because they are required to do so under animal cruelty regulations.\n\nWho is they referring to?\nThe zookeepers or the chimps",
+        "answer": "The zookeepers.",
+        "label": 1
+    },
+    {
+        "question": "The product fair showed Office 365, and it showed off with a game.\n\nWho is it referring to?\nThe product fair or Office 365",
+        "answer": "Office 365.",
+        "label": 0
+    },
+    {
+        "question": "Jill was writing on a pad for Jane because she needed directions.\n\nWho is she referring to?\nJill or Jane",
+        "answer": "Jane.",
+        "label": 0
+    },
+    {
+        "question": "Keith fired Blaine even though he is diligent.\n\nWho is he referring to?\nKeith or Blaine",
+        "answer": "Blaine.",
+        "label": 0
+    },
+    {
+        "question": "Chris was running after John, because he stole his watch.\n\nWho is he referring to?\nChris or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "Jackie Chan is starting to become like Chuck Norris since he retired at the age he has now reached.\n\nWho is he referring to?\nJackie Chan or Chuck Norris",
+        "answer": "Chuck Norris.",
+        "label": 1
+    },
+    {
+        "question": "Lucy gave a tutorial on how to install IOS 5 to Cindy since she is familiar with software upgrades.\n\nWho is she referring to?\nLucy or Cindy",
+        "answer": "Lucy.",
+        "label": 1
+    },
+    {
+        "question": "Adam defeated Brandon in a fight because he was stronger.\n\nWho is he referring to?\nAdam or Brandon",
+        "answer": "Adam.",
+        "label": 1
+    },
+    {
+        "question": "The invaders showed no mercy to the defenders because they are a vicious and unforgiving people.\n\nWho is they referring to?\nThe invaders or the defenders",
+        "answer": "the defenders.",
+        "label": 0
+    },
+    {
+        "question": "Rob was granted a gun license while Jon was not, because he had passed the background check.\n\nWho is he referring to?\nRob or Jon",
+        "answer": "Rob.",
+        "label": 1
+    },
+    {
+        "question": "Darth Vader said to Luke Skywalker, \"I am your father\", because he was his father.\n\nWho is he referring to?\nDarth Vader or Luke Skywalker",
+        "answer": "Luke Skywalker.",
+        "label": 0
+    },
+    {
+        "question": "President Obama rewarded Sam with a medal for his valorous acts since he wanted the world to know his contribution to the world.\n\nWho is he referring to?\nPresident Obama or Sam",
+        "answer": "Sam.",
+        "label": 0
+    },
+    {
+        "question": "The father convinced his son that it is possible for him to one day become a knight, because he did not want to crush his dreams.\n\nWho is he referring to?\nThe father or his son",
+        "answer": "The father.",
+        "label": 1
+    },
+    {
+        "question": "Kenmore is known for making superb appliances which is sold at Sears, because they are the best place to sell top brand appliances.\n\nWho is they referring to?\nKenmore or Sears",
+        "answer": "Sears.",
+        "label": 1
+    },
+    {
+        "question": "The cabbage was in the freezer and it became full.\n\nWho is it referring to?\nThe cabbage or the freezer",
+        "answer": "the freezer.",
+        "label": 0
+    },
+    {
+        "question": "Knights preferred dragons over horses because they could fly.\n\nWho is they referring to?\nhorses or dragons",
+        "answer": "dragons.",
+        "label": 0
+    },
+    {
+        "question": "The coach told the captain that he was fired.\n\nWho is he referring to?\nThe coach or the captain",
+        "answer": "the captain.",
+        "label": 0
+    },
+    {
+        "question": "The collections agency often goes after delinquent accounts since they try and get the money owed if a person did not pay for several months.\n\nWho is they referring to?\nThe collections agency or delinquent accounts",
+        "answer": "delinquent accounts.",
+        "label": 1
+    },
+    {
+        "question": "Bill was able to steal the banana from Ken because he was quick.\n\nWho is he referring to?\nBill or Ken",
+        "answer": "Ken.",
+        "label": 0
+    },
+    {
+        "question": "Mike cut his finger while watching Chef Michaels on TV because he was not paying attention to his task at hand.\n\nWho is he referring to?\nMike or Chef Michaels",
+        "answer": "Mike.",
+        "label": 1
+    },
+    {
+        "question": "Mike tried to follow Tom but he could not keep up.\n\nWho is he referring to?\nMike or Tom",
+        "answer": "Tom.",
+        "label": 0
+    },
+    {
+        "question": "Tiger Woods dropped Randy as his caddy, but he does not agree with his decision.\n\nWho is he referring to?\nTiger Woods or Randy",
+        "answer": "Randy.",
+        "label": 1
+    },
+    {
+        "question": "AOL finally had their CEO step down to respect the wishes of the stakeholders because they needed to listen to their investors.\n\nWho is they referring to?\nAOL or the stakeholders",
+        "answer": "AOL.",
+        "label": 1
+    },
+    {
+        "question": "Jack shouted at Bill because he crashed the car.\n\nWho is he referring to?\nJack or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Claudia lost all her money to Valarie because she is stupid.\n\nWho is she referring to?\nClaudia or Valarie",
+        "answer": "Claudia.",
+        "label": 1
+    },
+    {
+        "question": "There is more NLP work on English than on Bengali because it has little linguistic resources.\n\nWho is it referring to?\nEnglish or Bengali",
+        "answer": "Bengali.",
+        "label": 1
+    },
+    {
+        "question": "Joe tried to get Tom to wake up, but he couldn't.\n\nWho is he referring to?\nJoe or Tom",
+        "answer": "Tom.",
+        "label": 0
+    },
+    {
+        "question": "The young up-and-comer destroyed the old veteran Star in the shootout, so he got benched for the rest of the season.\n\nWho is he referring to?\nThe young up-and-comer or the old veteran Star",
+        "answer": "the old veteran Star.",
+        "label": 0
+    },
+    {
+        "question": "Peter Griffin often pokes fun at Chris, because he enjoys doing it.\n\nWho is he referring to?\nPeter Griffin or Chris",
+        "answer": "Chris.",
+        "label": 0
+    },
+    {
+        "question": "The employees crushed the boxes because they were empty.\n\nWho is they referring to?\nThe employees or the boxes",
+        "answer": "the boxes.",
+        "label": 0
+    },
+    {
+        "question": "The cops maced the protesters because they do not blindly follow orders.\n\nWho is they referring to?\nThe cops or the protesters",
+        "answer": "the protesters.",
+        "label": 0
+    },
+    {
+        "question": "James always gives orders to Owen because he is very bossy.\n\nWho is he referring to?\nJames or Owen",
+        "answer": "James.",
+        "label": 1
+    },
+    {
+        "question": "Doctor Conrad Murray is accused of negligence in Michael Jackson's death because he was the doctor on site when the drug overdose took place.\n\nWho is he referring to?\nDoctor Conrad Murray or Michael Jackson",
+        "answer": "Michael Jackson.",
+        "label": 0
+    },
+    {
+        "question": "When Sue went to Nadia's home for dinner, she showed her a big teddy bear.\n\nWho is she referring to?\nSue or Nadia",
+        "answer": "Nadia.",
+        "label": 0
+    },
+    {
+        "question": "The police officer shot the protester because he lost composure.\n\nWho is he referring to?\nThe police officer or the protester",
+        "answer": "the protester.",
+        "label": 0
+    },
+    {
+        "question": "The Cowboys formed a trailer defense against the Indians since they have a better chance of surviving.\n\nWho is they referring to?\nThe Cowboys or the Indians",
+        "answer": "the Indians.",
+        "label": 0
+    },
+    {
+        "question": "Microsoft discontinued plans for the Courier tablet due to the success of the tablets from Apple, so they have eliminated another competitor in the tablet market.\n\nWho is they referring to?\nMicrosoft or Apple",
+        "answer": "Apple.",
+        "label": 1
+    },
+    {
+        "question": "The lumberjacks cut the trees so they could be sold.\n\nWho is they referring to?\nThe lumberjacks or the trees",
+        "answer": "the trees.",
+        "label": 0
+    },
+    {
+        "question": "The professor highly recommends the student because he appreciates an inquisitive mind.\n\nWho is he referring to?\nThe professor or the student",
+        "answer": "the student.",
+        "label": 0
+    },
+    {
+        "question": "Professors do a lot for students, but they are rarely thankful.\n\nWho is they referring to?\nProfessors or students",
+        "answer": "students.",
+        "label": 0
+    },
+    {
+        "question": "Conservatives differ from Democrats since they normally resist change.\n\nWho is they referring to?\nConservatives or Democrats",
+        "answer": "Conservatives.",
+        "label": 1
+    },
+    {
+        "question": "A series of injections are used to battle a type of cancer in patients, but they do not always provide a hundred percent success rate.\n\nWho is they referring to?\nA series of injections or patients",
+        "answer": "A series of injections.",
+        "label": 1
+    },
+    {
+        "question": "The government wants to prohibit the people from playing chess on Monday because they want Mondays to be more productive.\n\nWho is they referring to?\nThe government or the people",
+        "answer": "the people.",
+        "label": 0
+    },
+    {
+        "question": "Hybrid cars are much more fuel efficient than gasoline powered cars, but they are still the most used cars today.\n\nWho is they referring to?\nHybrid cars or gasoline powered cars",
+        "answer": "gasoline powered cars.",
+        "label": 1
+    },
+    {
+        "question": "The advisor told the President that he should declare war.\n\nWho is he referring to?\nThe advisor or the President",
+        "answer": "the President.",
+        "label": 1
+    },
+    {
+        "question": "The citizens rebelled against the government because they were being mean.\n\nWho is they referring to?\nThe citizens or the government",
+        "answer": "the government.",
+        "label": 1
+    },
+    {
+        "question": "Jean is making fun of Kyle because he won.\n\nWho is he referring to?\nJean or Kyle",
+        "answer": "Jean.",
+        "label": 1
+    },
+    {
+        "question": "The Roman legion attacked the Persians because they felt threatened.\n\nWho is they referring to?\nThe Roman legion or the Persians",
+        "answer": "The Roman legion.",
+        "label": 1
+    },
+    {
+        "question": "God created Adam for good but he could not control his temptation.\n\nWho is he referring to?\nGod or Adam",
+        "answer": "Adam.",
+        "label": 0
+    },
+    {
+        "question": "Janice bought Kenda a car because she has money to spend.\n\nWho is she referring to?\nJanice or Kenda",
+        "answer": "Janice.",
+        "label": 1
+    },
+    {
+        "question": "The gardener watered the owner's rose because he paid him for that.\n\nWho is he referring to?\nThe gardener or the owner",
+        "answer": "the owner.",
+        "label": 0
+    },
+    {
+        "question": "Morpheous believed Neo was \"the one\", because he was fortold by the Oracle this would happen.\n\nWho is he referring to?\nMorpheous or Neo",
+        "answer": "Neo.",
+        "label": 0
+    },
+    {
+        "question": "The museum curator looked at the patron and said he should leave.\n\nWho is he referring to?\nThe museum curator or the patron",
+        "answer": "the patron.",
+        "label": 1
+    },
+    {
+        "question": "Todd told Bill that he should run the presidency race.\n\nWho is he referring to?\nTodd or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "New Orleans is renown for their unique style of crawfish, because they are flavored and cooked to be delicious.\n\nWho is they referring to?\nNew Orleans or crawfish",
+        "answer": "crawfish.",
+        "label": 1
+    },
+    {
+        "question": "The students read the books because they were interesting.\n\nWho is they referring to?\nThe students or the books",
+        "answer": "the books.",
+        "label": 1
+    },
+    {
+        "question": "The river destroyed the bridge because it was high.\n\nWho is it referring to?\nThe river or the bridge",
+        "answer": "The river.",
+        "label": 1
+    },
+    {
+        "question": "Treasure hunters have to constantly fear running into bandits because they could be risking their lives if they encounter them.\n\nWho is they referring to?\nTreasure hunters or bandits",
+        "answer": "Treasure hunters.",
+        "label": 1
+    },
+    {
+        "question": "Blue Thunder scored more goals than Green Hogs since they are the better team.\n\nWho is they referring to?\nBlue Thunder or Green Hogs",
+        "answer": "Blue Thunder.",
+        "label": 1
+    },
+    {
+        "question": "The police called headquarters for help and they refused.\n\nWho is they referring to?\nThe police or headquarters",
+        "answer": "headquarters.",
+        "label": 0
+    },
+    {
+        "question": "The kids asked their neighbors if they could have candy on Halloween.\n\nWho is they referring to?\nThe kids or their neighbors",
+        "answer": "their neighbors.",
+        "label": 0
+    },
+    {
+        "question": "Sally was really happy that Beth finally got a job because she is a concerned friend.\n\nWho is she referring to?\nSally or Beth",
+        "answer": "Beth.",
+        "label": 0
+    },
+    {
+        "question": "Misty was replaced by May because she was the only one available.\n\nWho is she referring to?\nMisty or May",
+        "answer": "May.",
+        "label": 0
+    },
+    {
+        "question": "The food in the refrigerator went bad because it was not plugged in.\n\nWho is it referring to?\nThe food or the refrigerator",
+        "answer": "the refrigerator.",
+        "label": 1
+    },
+    {
+        "question": "The US army fought the Taliban because they are the root of much terrorism.\n\nWho is they referring to?\nThe US army or the Taliban",
+        "answer": "the Taliban.",
+        "label": 0
+    },
+    {
+        "question": "The cap fell off the bottle because it was untwisted.\n\nWho is it referring to?\nThe cap or the bottle",
+        "answer": "the bottle.",
+        "label": 0
+    },
+    {
+        "question": "Steve scratched Johnny so he became angry.\n\nWho is he referring to?\nSteve or Johnny",
+        "answer": "Johnny.",
+        "label": 0
+    },
+    {
+        "question": "Bethesda launched a new title, Skyrim, to raving reviews by gamers because they produced an excellent story to immense the player.\n\nWho is they referring to?\nBethesda or gamers",
+        "answer": "gamers.",
+        "label": 0
+    },
+    {
+        "question": "The jurors deliberated on the defendants' fate for hours, but they did not reach a verdict.\n\nWho is they referring to?\nThe jurors or the defendants",
+        "answer": "the defendants.",
+        "label": 0
+    },
+    {
+        "question": "U.S. Authors are fighting against Amazon's book lending program because they allow users a free book every month.\n\nWho is they referring to?\nU.S. Authors or Amazon's book lending program",
+        "answer": "Amazon's book lending program.",
+        "label": 0
+    },
+    {
+        "question": "The US president had a meeting with the Chinese president, where he told him not to interfere with China's internal policy.\n\nWho is he referring to?\nThe US president or the Chinese president",
+        "answer": "the Chinese president.",
+        "label": 1
+    },
+    {
+        "question": "Jimbo was running from Bobbert because he wanted to get to the car first.\n\nWho is he referring to?\nJimbo or Bobbert",
+        "answer": "Bobbert.",
+        "label": 0
+    },
+    {
+        "question": "God created Adam for good but he could not control his temptation.\n\nWho is he referring to?\nGod or Adam",
+        "answer": "Adam.",
+        "label": 1
+    },
+    {
+        "question": "James went to Sully's arcade and he asked for tickets.\n\nWho is he referring to?\nJames or Sully",
+        "answer": "Sully.",
+        "label": 0
+    },
+    {
+        "question": "LA Galaxy is constantly seeking famous players to fill their ranks, because they are trying to obtain high profile players to incite popularity into the team.\n\nWho is they referring to?\nLA Galaxy or famous players",
+        "answer": "famous players.",
+        "label": 0
+    },
+    {
+        "question": "Lorenze took his son to the hospital since he was concerned for his health.\n\nWho is he referring to?\nLorenze or his son",
+        "answer": "Lorenze.",
+        "label": 1
+    },
+    {
+        "question": "Knight Commander Roddick was plagued by a vision of his dead son because he was killed due to a lack of protection from his father.\n\nWho is he referring to?\nKnight Commander Roddick or his dead son",
+        "answer": "his dead son.",
+        "label": 0
+    },
+    {
+        "question": "Fred drove to Mack's tire shop, and he bought a tire.\n\nWho is he referring to?\nFred or Mack",
+        "answer": "Fred.",
+        "label": 1
+    },
+    {
+        "question": "The graduate students spend every waking moment studying for their classes since they offer much knowledge and tests as part of their itinerary.\n\nWho is they referring to?\nThe graduate students or their classes",
+        "answer": "their classes.",
+        "label": 0
+    },
+    {
+        "question": "The car hop brought the man his tray, but he was not in the car.\n\nWho is he referring to?\nThe car hop or the man",
+        "answer": "the man.",
+        "label": 0
+    },
+    {
+        "question": "The band loves their fans because they cannot exist without support.\n\nWho is they referring to?\nThe band or their fans",
+        "answer": "The band.",
+        "label": 1
+    },
+    {
+        "question": "Bank of America had to charge their members checking fees unlike Chase since they are not struggling in the current economy.\n\nWho is they referring to?\nBank of America or Chase",
+        "answer": "Chase.",
+        "label": 0
+    },
+    {
+        "question": "David hit Bill because Mary asked him to.\n\nWho is him referring to?\nDavid or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "The employees of Six Flags denied the customers access to the ride, but they can still go on other rides.\n\nWho is they referring to?\nThe employees of Six Flags or the customers",
+        "answer": "the customers.",
+        "label": 0
+    },
+    {
+        "question": "Saturday Night Live often has politicians as one of their main centers of attention since they are what viewers want to see joked about.\n\nWho is they referring to?\nSaturday Night Live or politicians",
+        "answer": "politicians.",
+        "label": 1
+    },
+    {
+        "question": "The celebrities who agreed to go to the Marine Corp dance with their dates stayed true to their word, so they were extremely thankful that they took time out of their schedule to come.\n\nWho is they referring to?\nThe celebrities or their dates",
+        "answer": "their dates.",
+        "label": 0
+    },
+    {
+        "question": "Godzilla will stomp all over Tokyo if it rises from the ocean.\n\nWho is it referring to?\nGodzilla or Tokyo",
+        "answer": "Tokyo.",
+        "label": 0
+    },
+    {
+        "question": "Americans preferred Obama to McCain because he chose Joe Biden as his runing-mate.\n\nWho is he referring to?\nObama or McCain",
+        "answer": "McCain.",
+        "label": 0
+    },
+    {
+        "question": "Hulu has had tremendous growth of subscribers over traditional cable provider Dish Network since they are charging too much for their plan.\n\nWho is they referring to?\nHulu or Dish Network",
+        "answer": "Dish Network.",
+        "label": 0
+    },
+    {
+        "question": "The officers chose a planet to send the new soldiers, because they wanted them to be trained in hostile environments.\n\nWho is they referring to?\nThe officers or the new soldiers",
+        "answer": "The officers.",
+        "label": 1
+    },
+    {
+        "question": "Kim offered mushrooms to Laura, because she might like them.\n\nWho is she referring to?\nKim or Laura",
+        "answer": "Laura.",
+        "label": 0
+    },
+    {
+        "question": "Boyfriends always try to go out of their way to treat their girlfriends with respect because they are more inclined to stay with them when they are respected.\n\nWho is they referring to?\nBoyfriends or their girlfriends",
+        "answer": "their girlfriends.",
+        "label": 1
+    },
+    {
+        "question": "Ebay is often considered a great source by deal hunters to buy products, even though they often contain misleading descriptions.\n\nWho is they referring to?\nEbay or deal hunters",
+        "answer": "Ebay.",
+        "label": 1
+    },
+    {
+        "question": "The mysterious creature is drinking whiskey because it still has more of these sentences to write.\n\nWho is it referring to?\nThe mysterious creature or whiskey",
+        "answer": "The mysterious creature.",
+        "label": 1
+    },
+    {
+        "question": "Apple customer support is constantly voted better than Microsoft support, because they provide a much better plan for a subscription price.\n\nWho is they referring to?\nApple customer support or Microsoft support",
+        "answer": "Apple customer support.",
+        "label": 1
+    },
+    {
+        "question": "Penguins tend to stay on land to avoid killer whales, because they cannot go on land.\n\nWho is they referring to?\nPenguins or killer whales",
+        "answer": "killer whales.",
+        "label": 1
+    },
+    {
+        "question": "The young up-and-comer destroyed the old veteran Star in the shootout, so he got benched for the rest of the season.\n\nWho is he referring to?\nThe young up-and-comer or the old veteran Star",
+        "answer": "the old veteran Star.",
+        "label": 1
+    },
+    {
+        "question": "Horses are faster at short distances than camels, but they can travel much further distances.\n\nWho is they referring to?\nHorses or camels",
+        "answer": "camels.",
+        "label": 1
+    },
+    {
+        "question": "Michael backed Bill because John asked him to.\n\nWho is him referring to?\nMichael or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "A policeman saw John Edwards commit the crime, so he apprehended the criminal.\n\nWho is he referring to?\nA policeman or John Edwards",
+        "answer": "John Edwards.",
+        "label": 0
+    },
+    {
+        "question": "The police arrested suspected members of Anonymous because they are cracking down on hackers.\n\nWho is they referring to?\nThe police or Anonymous",
+        "answer": "Anonymous.",
+        "label": 0
+    },
+    {
+        "question": "The river destroyed the bridge because it was low.\n\nWho is it referring to?\nThe river or the bridge",
+        "answer": "the bridge.",
+        "label": 1
+    },
+    {
+        "question": "The company declared bonus for the employees because they made huge profits.\n\nWho is they referring to?\nThe company or the employees",
+        "answer": "The company.",
+        "label": 1
+    },
+    {
+        "question": "Thor was banished from the kingdom by his father because he felt his son was too eager to become king.\n\nWho is he referring to?\nThor or his father",
+        "answer": "his father.",
+        "label": 1
+    },
+    {
+        "question": "Gas powered fireplaces are environmentally friendly as compared to traditional fireplaces since they do not need wood to burn.\n\nWho is they referring to?\nGas powered fireplaces or traditional fireplaces",
+        "answer": "Gas powered fireplaces.",
+        "label": 1
+    },
+    {
+        "question": "The bird perched on the limb and it bent.\n\nWho is it referring to?\nThe bird or the limb",
+        "answer": "the limb.",
+        "label": 1
+    },
+    {
+        "question": "Caroline quickly defeated Sue because she lost her confidence.\n\nWho is she referring to?\nCaroline or Sue",
+        "answer": "Sue.",
+        "label": 1
+    },
+    {
+        "question": "Jim went to Hal's house, and walked his dog.\n\nWho is his referring to?\nJim or Hal",
+        "answer": "Hal.",
+        "label": 1
+    },
+    {
+        "question": "Mr. Sanders gave James a promotion because he appreciated his good work.\n\nWho is he referring to?\nMr. Sanders or James",
+        "answer": "Mr. Sanders.",
+        "label": 1
+    },
+    {
+        "question": "Americans preferred Obama to McCain because he was too old.\n\nWho is he referring to?\nObama or McCain",
+        "answer": "McCain.",
+        "label": 1
+    },
+    {
+        "question": "The students read the books because they were interesting.\n\nWho is they referring to?\nThe students or the books",
+        "answer": "the books.",
+        "label": 0
+    },
+    {
+        "question": "Shawn Jun performed a huge upset over four time champion Leon Sung but he still received a large sum of money for being a runner up.\n\nWho is he referring to?\nShawn Jun or Leon Sung",
+        "answer": "Leon Sung.",
+        "label": 0
+    },
+    {
+        "question": "The boy scouts were able to raise more money for charity over the girl scouts since they were not able to raise funds as actively.\n\nWho is they referring to?\nThe boy scouts or the girl scouts",
+        "answer": "the girl scouts.",
+        "label": 1
+    },
+    {
+        "question": "Doctor Igor was interrogated by Colonel Marshall because he had vital information on the location of enemy forces.\n\nWho is he referring to?\nDoctor Igor or Colonel Marshall",
+        "answer": "Doctor Igor.",
+        "label": 1
+    },
+    {
+        "question": "Entertainmart has to win over the consumers with their low prices, or they will most likely go out of business.\n\nWho is they referring to?\nEntertainmart or the consumers",
+        "answer": "the consumers.",
+        "label": 0
+    },
+    {
+        "question": "The teacher told the student that he needed to practice.\n\nWho is he referring to?\nThe teacher or the student",
+        "answer": "the student.",
+        "label": 1
+    },
+    {
+        "question": "Windows is worse than Linux because it is open source.\n\nWho is it referring to?\nWindows or Linux",
+        "answer": "Linux.",
+        "label": 1
+    },
+    {
+        "question": "The knife cut through the fence because it was rusty.\n\nWho is it referring to?\nThe knife or the fence",
+        "answer": "the fence.",
+        "label": 1
+    },
+    {
+        "question": "Katie accused Jane but she was not found guilty.\n\nWho is she referring to?\nKatie or Jane",
+        "answer": "Jane.",
+        "label": 1
+    },
+    {
+        "question": "The airline unions constantly go on strike against the airlines because they do not care for the employees.\n\nWho is they referring to?\nThe airline unions or the airlines",
+        "answer": "the airlines.",
+        "label": 1
+    },
+    {
+        "question": "Nicole was angry at Sammie since she lied to her.\n\nWho is she referring to?\nNicole or Sammie",
+        "answer": "Sammie.",
+        "label": 0
+    },
+    {
+        "question": "Jerrica saw the guard as she marched past.\n\nWho is she referring to?\nJerrica or the guard",
+        "answer": "the guard.",
+        "label": 0
+    },
+    {
+        "question": "When the preschoolers visited the senior citizens, they were very hospitable.\n\nWho is they referring to?\nthe preschoolers or the senior citizens",
+        "answer": "the senior citizens.",
+        "label": 0
+    },
+    {
+        "question": "Jacob gave William money because he needed some.\n\nWho is he referring to?\nJacob or William",
+        "answer": "William.",
+        "label": 0
+    },
+    {
+        "question": "The bird ate the pie and it was ruined.\n\nWho is it referring to?\nThe bird or the pie",
+        "answer": "the pie.",
+        "label": 0
+    },
+    {
+        "question": "William enforced a mandatory choir practice for Ryan since he is a mean teacher.\n\nWho is he referring to?\nWilliam or Ryan",
+        "answer": "Ryan.",
+        "label": 0
+    },
+    {
+        "question": "Skype has entered a partnership with Facebook, and they hope that this can help to promote their video calling.\n\nWho is they referring to?\nSkype or Facebook",
+        "answer": "Facebook.",
+        "label": 0
+    },
+    {
+        "question": "The pilots saved the passengers because they had a civic duty.\n\nWho is they referring to?\nThe pilots or the passengers",
+        "answer": "The pilots.",
+        "label": 1
+    },
+    {
+        "question": "Janet Jackson is more popular than Latoya Jackson since she does not have as many followers.\n\nWho is she referring to?\nJanet Jackson or Latoya Jackson",
+        "answer": "Latoya Jackson.",
+        "label": 1
+    },
+    {
+        "question": "The police arrested the criminals since they enforce the law.\n\nWho is they referring to?\nThe police or the criminals",
+        "answer": "The police.",
+        "label": 1
+    },
+    {
+        "question": "Gamestop pulled Square Enix's game, \"Dues Ex\" from the shelves, because they would not sell a game that promoted another game service.\n\nWho is they referring to?\nGamestop or Square Enix",
+        "answer": "Square Enix.",
+        "label": 1
+    },
+    {
+        "question": "Field Reporter Chris Johnson interviewed Corporal Mason because he can provide information from fighting on the front line.\n\nWho is he referring to?\nField Reporter Chris Johnson or Corporal Mason",
+        "answer": "Corporal Mason.",
+        "label": 1
+    },
+    {
+        "question": "Space Marines are played more often than Orks, but they are noticed more often at tournaments due to their uniqueness.\n\nWho is they referring to?\nSpace Marines or Orks",
+        "answer": "Orks.",
+        "label": 0
+    },
+    {
+        "question": "The model frowned at her manager because she was sad.\n\nWho is she referring to?\nThe model or her manager",
+        "answer": "her manager.",
+        "label": 0
+    },
+    {
+        "question": "LA Galaxy is constantly seeking famous players to fill their ranks, because they are trying to obtain high profile players to incite popularity into the team.\n\nWho is they referring to?\nLA Galaxy or famous players",
+        "answer": "LA Galaxy.",
+        "label": 1
+    },
+    {
+        "question": "William enforced a mandatory choir practice for Ryan since he is struggling with his singing abilities.\n\nWho is he referring to?\nWilliam or Ryan",
+        "answer": "Ryan.",
+        "label": 0
+    },
+    {
+        "question": "Sharon was not able to share her supplies with Molly, even though she desperately needs supplies.\n\nWho is she referring to?\nSharon or Molly",
+        "answer": "Molly.",
+        "label": 1
+    },
+    {
+        "question": "The team decided to cancel their relations with AT&T Corporate because they are arrogant.\n\nWho is they referring to?\nThe team or AT&T Corporate",
+        "answer": "AT&T Corporate.",
+        "label": 1
+    },
+    {
+        "question": "Nvidia is giving away two top of the line laptops to its users, so they will be giving them away for free.\n\nWho is they referring to?\nNvidia or its users",
+        "answer": "its users.",
+        "label": 0
+    },
+    {
+        "question": "Doctor Igor was interrogated by Colonel Marshall, although he did not have good interrogation skills.\n\nWho is he referring to?\nDoctor Igor or Colonel Marshall",
+        "answer": "Colonel Marshall.",
+        "label": 0
+    },
+    {
+        "question": "John ridiculed Bill because he was a big help.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "John chose Bill because he was the best choice.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "The advisor told the President that he was resigning.\n\nWho is he referring to?\nThe advisor or the President",
+        "answer": "the President.",
+        "label": 0
+    },
+    {
+        "question": "Gates is richer than Jobs, so he does a lot more charity work.\n\nWho is he referring to?\nGates or Jobs",
+        "answer": "Gates.",
+        "label": 1
+    },
+    {
+        "question": "Uncharted 3 did not introduce any new ideas since their last game, Uncharted 2, so it ended up getting lukewarm reviews by game critics.\n\nWho is it referring to?\nUncharted 3 or Uncharted 2",
+        "answer": "Uncharted 3.",
+        "label": 1
+    },
+    {
+        "question": "The artist told the model that she needed to stand up straighter.\n\nWho is she referring to?\nThe artist or the model",
+        "answer": "the model.",
+        "label": 0
+    },
+    {
+        "question": "Sue visited Nadia for dinner because she was free.\n\nWho is she referring to?\nSue or Nadia",
+        "answer": "Sue.",
+        "label": 1
+    },
+    {
+        "question": "Clark Kent hides his identity from Lex Luthor because he wants to find out who this masked hero is.\n\nWho is he referring to?\nClark Kent or Lex Luthor",
+        "answer": "Lex Luthor.",
+        "label": 0
+    },
+    {
+        "question": "Sam cheated Sally but she did not cry.\n\nWho is she referring to?\nSally or Sam",
+        "answer": "Sam.",
+        "label": 0
+    },
+    {
+        "question": "Americans preferred Obama to McCain because he was too old.\n\nWho is he referring to?\nObama or McCain",
+        "answer": "McCain.",
+        "label": 0
+    },
+    {
+        "question": "The police arrested 700 protesters in New York since they had to prevent them from blocking the Manhatten bridge.\n\nWho is they referring to?\nThe police or 700 protesters",
+        "answer": "700 protesters.",
+        "label": 1
+    },
+    {
+        "question": "John ridiculed Bill because he acted like a fool.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Four wheel drive cars are used for rally racing instead of rear wheel cars because they are better for off-road racing.\n\nWho is they referring to?\nFour wheel drive cars or rear wheel cars",
+        "answer": "rear wheel cars.",
+        "label": 0
+    },
+    {
+        "question": "The salesman sold a hot tub to the customer because he was looking for something to use and soak in.\n\nWho is he referring to?\nThe salesman or the customer",
+        "answer": "the customer.",
+        "label": 0
+    },
+    {
+        "question": "Jack pushed John up the hill because he was in a wheelbarrow.\n\nWho is he referring to?\nJack or John",
+        "answer": "John.",
+        "label": 0
+    },
+    {
+        "question": "The plane shot the rocket at the target, then it hit the target.\n\nWho is it referring to?\nthe rocket or the target",
+        "answer": "the target.",
+        "label": 0
+    },
+    {
+        "question": "Heath Ledger was considered the greatest Joker of all time by Ebert, but he cannot make that decision for all critics.\n\nWho is he referring to?\nHeath Ledger or Ebert",
+        "answer": "Ebert.",
+        "label": 1
+    },
+    {
+        "question": "The wolves ate the cows because they were hungry.\n\nWho is they referring to?\nThe wolves or the cows",
+        "answer": "the cows.",
+        "label": 0
+    },
+    {
+        "question": "The monsters at the haunted house chased the children because they are trying to scare them.\n\nWho is they referring to?\nThe monsters or the children",
+        "answer": "the children.",
+        "label": 0
+    },
+    {
+        "question": "John appreciated Bill because he had been in need.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Subways has always been considered a healthy choice by athletes, so they often visit this restaurant as regulars.\n\nWho is they referring to?\nSubways or athletes",
+        "answer": "athletes.",
+        "label": 0
+    },
+    {
+        "question": "Ken scanned photos for Neil since he needed to save his documents.\n\nWho is he referring to?\nKen or Neil",
+        "answer": "Neil.",
+        "label": 0
+    },
+    {
+        "question": "A policeman saw John Edwards commit the crime, so he was arrested.\n\nWho is he referring to?\nA policeman or John Edwards",
+        "answer": "John Edwards.",
+        "label": 1
+    },
+    {
+        "question": "Apple indicated that the Siri program would not be available for previous IPhones because they do not have the capabilities to run such a program.\n\nWho is they referring to?\nApple or previous IPhones",
+        "answer": "previous IPhones.",
+        "label": 1
+    },
+    {
+        "question": "Bob cooked omelets for Jack, because he knew how.\n\nWho is he referring to?\nBob or Jack",
+        "answer": "Jack.",
+        "label": 0
+    },
+    {
+        "question": "The professor grading the student's paper said that he loved it.\n\nWho is he referring to?\nThe professor or the student",
+        "answer": "the student.",
+        "label": 0
+    },
+    {
+        "question": "The group grew tired of making these sentences because they are lazy.\n\nWho is they referring to?\nThe group or these sentences",
+        "answer": "these sentences.",
+        "label": 0
+    },
+    {
+        "question": "Amazon recently upstaged Gamestop on Battlefield 3 pre-orders because they are not able to match their competitor's aggressive pricing.\n\nWho is they referring to?\nAmazon or Gamestop",
+        "answer": "Gamestop.",
+        "label": 1
+    },
+    {
+        "question": "The mother punished the daughter because she was provoked.\n\nWho is she referring to?\nThe mother or the daughter",
+        "answer": "The mother.",
+        "label": 1
+    },
+    {
+        "question": "The boy ran from the cop because he saw the crime.\n\nWho is he referring to?\nThe boy or the cop",
+        "answer": "the cop.",
+        "label": 0
+    },
+    {
+        "question": "The wolves attacked the travelers in the forest since they were not welcomed near their home.\n\nWho is they referring to?\nThe wolves or the travelers",
+        "answer": "The wolves.",
+        "label": 1
+    },
+    {
+        "question": "U.S. Authors are fighting against Amazon's book lending program since they feel it violated their publishing rights.\n\nWho is they referring to?\nU.S. Authors or Amazon's book lending program",
+        "answer": "U.S. Authors.",
+        "label": 1
+    },
+    {
+        "question": "The kidnapper will not return Trent Reznor until he is given a private performance.\n\nWho is he referring to?\nThe kidnapper or Trent Reznor",
+        "answer": "Trent Reznor.",
+        "label": 0
+    },
+    {
+        "question": "Jackie Chan learned some things from watching Bruce Lee because he was a popular kung fu actor in the past.\n\nWho is he referring to?\nJackie Chan or Bruce Lee",
+        "answer": "Jackie Chan.",
+        "label": 1
+    },
+    {
+        "question": "Chevrolet had to recently recall their cars so they could receive a repair in their brakes.\n\nWho is they referring to?\nChevrolet or their cars",
+        "answer": "their cars.",
+        "label": 0
+    },
+    {
+        "question": "Peacocks are considered very majestic birds by bird watchers, but they know it is just a perception of how they see things.\n\nWho is they referring to?\nPeacocks or bird watchers",
+        "answer": "bird watchers.",
+        "label": 1
+    },
+    {
+        "question": "Mr. Sanders gave James a promotion because he has done good work.\n\nWho is he referring to?\nMr. Sanders or James",
+        "answer": "James.",
+        "label": 1
+    },
+    {
+        "question": "The team decided to cancel their relations with AT&T Corporate because they ran out of money.\n\nWho is they referring to?\nThe team or AT&T Corporate",
+        "answer": "The team.",
+        "label": 1
+    },
+    {
+        "question": "The hippo ate the food the trainer brought when he put it in the trough.\n\nWho is he referring to?\nThe hippo or the trainer",
+        "answer": "the trainer.",
+        "label": 1
+    },
+    {
+        "question": "Iphones are selling more than androids because they are trendy.\n\nWho is they referring to?\nIphones or androids",
+        "answer": "Iphones.",
+        "label": 1
+    },
+    {
+        "question": "Treasure hunters have to constantly fear running into bandits, even though they are rarely out to get them.\n\nWho is they referring to?\nTreasure hunters or bandits",
+        "answer": "bandits.",
+        "label": 1
+    },
+    {
+        "question": "Paper beats rock, but it is able to beat scissors.\n\nWho is it referring to?\nPaper or rock",
+        "answer": "rock.",
+        "label": 1
+    },
+    {
+        "question": "Ryan won the presidency against Tom because he feels he was the better candidate.\n\nWho is he referring to?\nRyan or Tom",
+        "answer": "Tom.",
+        "label": 0
+    },
+    {
+        "question": "The government officials publicly apologized to the people because they demanded an apology.\n\nWho is they referring to?\nThe government officials or the people",
+        "answer": "the people.",
+        "label": 1
+    },
+    {
+        "question": "Western Digital may disappoint their shareholders this season since they have slowed down production in their Thailand factories due to flooding.\n\nWho is they referring to?\nWestern Digital or their shareholders",
+        "answer": "their shareholders.",
+        "label": 0
+    },
+    {
+        "question": "Ken has Adam's bike, because he gave it to him.\n\nWho is he referring to?\nKen or Adam",
+        "answer": "Adam.",
+        "label": 0
+    },
+    {
+        "question": "Right after work Angelina took Sandy to the park because she knew the place.\n\nWho is she referring to?\nAngelina or Sandy",
+        "answer": "Angelina.",
+        "label": 1
+    },
+    {
+        "question": "The professor grading the student's paper said that he loved it.\n\nWho is he referring to?\nThe professor or the student",
+        "answer": "The professor.",
+        "label": 1
+    },
+    {
+        "question": "Sally gave Kelly a doll because she loved dolls.\n\nWho is she referring to?\nSally or Kelly",
+        "answer": "Kelly.",
+        "label": 0
+    },
+    {
+        "question": "The school denied parents parking permits because they violated parking rules.\n\nWho is they referring to?\nThe school or parents",
+        "answer": "parents.",
+        "label": 0
+    },
+    {
+        "question": "Amazon predicted that oldies fans would like the Queen, Led Zeppelin, Frank Sinatra, The Beatles, and the Dave Matthews Band, but they do not actually care for any of these bands.\n\nWho is they referring to?\nAmazon or oldies fans",
+        "answer": "oldies fans.",
+        "label": 1
+    },
+    {
+        "question": "The government wants to prohibit the people from playing chess on Monday because they want Mondays to be more productive.\n\nWho is they referring to?\nThe government or the people",
+        "answer": "The government.",
+        "label": 1
+    },
+    {
+        "question": "Raccoons constantly play dead when people come near because they frighten them.\n\nWho is they referring to?\nRaccoons or people",
+        "answer": "people.",
+        "label": 0
+    },
+    {
+        "question": "The separatists launched a surprise attack against the empire so they could turn the tide of battle.\n\nWho is they referring to?\nThe separatists or the empire",
+        "answer": "the empire.",
+        "label": 0
+    },
+    {
+        "question": "Stephen Colbert is funnier than John Stewart since his show has less viewers.\n\nWho is his referring to?\nStephen Colbert or John Stewart",
+        "answer": "John Stewart.",
+        "label": 0
+    },
+    {
+        "question": "Snooki got angry at Kendra since she would not emotionally support her in her time of need.\n\nWho is she referring to?\nSnooki or Kendra",
+        "answer": "Kendra.",
+        "label": 0
+    },
+    {
+        "question": "Merchant Smith purchased the trophy from Knight Louis because he desperately needed the money.\n\nWho is he referring to?\nMerchant Smith or Knight Louis",
+        "answer": "Knight Louis.",
+        "label": 1
+    },
+    {
+        "question": "Rocky won the match with Richard because he had no energy.\n\nWho is he referring to?\nRocky or Richard",
+        "answer": "Richard.",
+        "label": 1
+    },
+    {
+        "question": "David hit Bill because Mary really liked him.\n\nWho is him referring to?\nDavid or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "The lion bit the gazelle because it had sharp teeth.\n\nWho is it referring to?\nThe lion or the gazelle",
+        "answer": "the gazelle.",
+        "label": 0
+    },
+    {
+        "question": "Sheila made chicken noodle soup for her daughter, but she wanted cereal instead.\n\nWho is she referring to?\nSheila or her daughter",
+        "answer": "her daughter.",
+        "label": 1
+    },
+    {
+        "question": "Beowulf was granted a magical artifact by King Henry that emitted a light since he wanted him to be able to find effectively in the dark.\n\nWho is he referring to?\nBeowulf or King Henry",
+        "answer": "King Henry.",
+        "label": 0
+    },
+    {
+        "question": "The coach told the captain that he was proud of him.\n\nWho is he referring to?\nThe coach or the captain",
+        "answer": "The coach.",
+        "label": 1
+    },
+    {
+        "question": "Joy was jealous of Jenny because she was making more money than her.\n\nWho is she referring to?\nJoy or Jenny",
+        "answer": "Jenny.",
+        "label": 1
+    },
+    {
+        "question": "Western Digital may disappoint their shareholders this season, but they will probably tough out the momentary losses and remain shareholders.\n\nWho is they referring to?\nWestern Digital or their shareholders",
+        "answer": "their shareholders.",
+        "label": 0
+    },
+    {
+        "question": "Angelina Jolie played the role of the mother of Grendell, but she is a fictional character which would have to be created using CGI.\n\nWho is she referring to?\nAngelina Jolie or the mother of Grendell",
+        "answer": "the mother of Grendell.",
+        "label": 0
+    },
+    {
+        "question": "Henry changed Jack's oil, because he needed money.\n\nWho is he referring to?\nHenry or Jack",
+        "answer": "Jack.",
+        "label": 0
+    },
+    {
+        "question": "Blizzard Entertainment does not sell their games on Steam because they require part of the profits for each sale.\n\nWho is they referring to?\nBlizzard Entertainment or Steam",
+        "answer": "Steam.",
+        "label": 0
+    },
+    {
+        "question": "New Orleans is renown for their unique style of crawfish, because they are flavored and cooked to be delicious.\n\nWho is they referring to?\nNew Orleans or crawfish",
+        "answer": "crawfish.",
+        "label": 0
+    },
+    {
+        "question": "The University declared holiday to students because they requested them.\n\nWho is they referring to?\nThe University or students",
+        "answer": "students.",
+        "label": 1
+    },
+    {
+        "question": "The pilots saved the passengers because they begged them to.\n\nWho is they referring to?\nThe pilots or the passengers",
+        "answer": "the passengers.",
+        "label": 0
+    },
+    {
+        "question": "When the preschoolers visited the senior citizens, they were surprisingly well behaved.\n\nWho is they referring to?\nthe preschoolers or the senior citizens",
+        "answer": "the preschoolers.",
+        "label": 1
+    },
+    {
+        "question": "The US Health inspection board shut down several food factories since they were violating many rules and regulations.\n\nWho is they referring to?\nThe US Health inspection board or several food factories",
+        "answer": "several food factories.",
+        "label": 0
+    },
+    {
+        "question": "The plane shot the rocket at the target, then it hit the target.\n\nWho is it referring to?\nthe rocket or the target",
+        "answer": "the rocket.",
+        "label": 1
+    },
+    {
+        "question": "James asked Robert for a favor, but he was refused.\n\nWho is he referring to?\nJames or Robert",
+        "answer": "James.",
+        "label": 1
+    },
+    {
+        "question": "The gun owner fired at the burglar because he saw a shadow.\n\nWho is he referring to?\nThe gun owner or the burglar",
+        "answer": "the burglar.",
+        "label": 0
+    },
+    {
+        "question": "Technician Stepanic crafted advanced opticals for Leforge, but he would still prefer to see without such devices.\n\nWho is he referring to?\nTechnician Stepanic or Leforge",
+        "answer": "Leforge.",
+        "label": 1
+    },
+    {
+        "question": "The Japanese eat a lot more seafood than the Americans because they have a lot of people who do not live near the ocean.\n\nWho is they referring to?\nThe Japanese or the Americans",
+        "answer": "the Americans.",
+        "label": 0
+    },
+    {
+        "question": "God created Adam for good but he could not control his creation.\n\nWho is he referring to?\nGod or Adam",
+        "answer": "Adam.",
+        "label": 0
+    },
+    {
+        "question": "The NSA sent their agents in the field to retrieve intelligence because they need people in the field to do the field work.\n\nWho is they referring to?\nThe NSA or their agents",
+        "answer": "their agents.",
+        "label": 0
+    },
+    {
+        "question": "Shawn hit Joe but he did not apologize.\n\nWho is he referring to?\nShawn or Joe",
+        "answer": "Shawn.",
+        "label": 1
+    },
+    {
+        "question": "Medvedev will cede the presidency to Putin because he is less popular.\n\nWho is he referring to?\nMedvedev or Putin",
+        "answer": "Putin.",
+        "label": 0
+    },
+    {
+        "question": "Spiderman defeated Magnito because he is a bad guy.\n\nWho is he referring to?\nSpiderman or Magnito",
+        "answer": "Magnito.",
+        "label": 0
+    },
+    {
+        "question": "The striker scored on the goalie because he outran the defenders.\n\nWho is he referring to?\nThe striker or the goalie",
+        "answer": "the goalie.",
+        "label": 0
+    },
+    {
+        "question": "Beowulf was granted the crown to succeed King Henry since he was the best man for the job due to a lack of a rightful heir.\n\nWho is he referring to?\nBeowulf or King Henry",
+        "answer": "King Henry.",
+        "label": 0
+    },
+    {
+        "question": "Alex Rodriguez is paid much higher than Brandon Hughs because he is a less sought after player.\n\nWho is he referring to?\nAlex Rodriguez or Brandon Hughs",
+        "answer": "Brandon Hughs.",
+        "label": 1
+    },
+    {
+        "question": "Kyle beat Mark in the race because he had started out too fast.\n\nWho is he referring to?\nKyle or Mark",
+        "answer": "Mark.",
+        "label": 0
+    },
+    {
+        "question": "Bill punched Larry and he was hurt.\n\nWho is he referring to?\nBill or Larry",
+        "answer": "Larry.",
+        "label": 1
+    },
+    {
+        "question": "The Simpsons have lasted 23 seasons while The Sarah Connor Chronicles lasted two seasons, since they did not provide a very good show.\n\nWho is they referring to?\nThe Simpsons or The Sarah Connor Chronicles",
+        "answer": "The Sarah Connor Chronicles.",
+        "label": 0
+    },
+    {
+        "question": "The boy tried to address his friend, but he could not hear.\n\nWho is he referring to?\nThe boy or his friend",
+        "answer": "his friend.",
+        "label": 1
+    },
+    {
+        "question": "Sam cheated Sally but she did not repent.\n\nWho is she referring to?\nSally or Sam",
+        "answer": "Sam.",
+        "label": 0
+    },
+    {
+        "question": "The boy ran from the cop because he saw the crime.\n\nWho is he referring to?\nThe boy or the cop",
+        "answer": "the cop.",
+        "label": 1
+    },
+    {
+        "question": "Right after work Angelina took Sandy to the park because she wanted to go to that place.\n\nWho is she referring to?\nAngelina or Sandy",
+        "answer": "Sandy.",
+        "label": 1
+    },
+    {
+        "question": "Chase will have a cyber monday sale for credit users, but they may not necessarily care about the sale.\n\nWho is they referring to?\nChase or credit users",
+        "answer": "credit users.",
+        "label": 1
+    },
+    {
+        "question": "My brother put a Barbie that has metal parts in the microwave, so it melted.\n\nWho is it referring to?\na Barbie or the microwave",
+        "answer": "the microwave.",
+        "label": 0
+    },
+    {
+        "question": "The Philadelphia Eagles lost to the St. Louis Rams, but it was because they had the home field advantage.\n\nWho is they referring to?\nPhiladelphia Eagles or St. Louis Rams",
+        "answer": "St. Louis Rams.",
+        "label": 1
+    },
+    {
+        "question": "Doctor Conrad Murray is accused of negligence in Michael Jackson's death because he overdosed on drugs when the doctor was present.\n\nWho is he referring to?\nDoctor Conrad Murray or Michael Jackson",
+        "answer": "Michael Jackson.",
+        "label": 1
+    },
+    {
+        "question": "King Leonidas was more respected than King Henry because he treated the people as equal citizens.\n\nWho is he referring to?\nKing Leonidas or King Henry",
+        "answer": "King Henry.",
+        "label": 0
+    },
+    {
+        "question": "Bob Marley shot the sheriff, but he swears it was in self-defense.\n\nWho is he referring to?\nBob Marley or the sheriff",
+        "answer": "Bob Marley.",
+        "label": 1
+    },
+    {
+        "question": "The X-Factor is starting to overtake American Idol in the ratings race since they have the popular Simon Cowell as the judge.\n\nWho is they referring to?\nThe X-Factor or American Idol",
+        "answer": "The X-Factor.",
+        "label": 1
+    },
+    {
+        "question": "Monkeys hate lions because they are scary.\n\nWho is they referring to?\nMonkeys or lions",
+        "answer": "lions.",
+        "label": 1
+    },
+    {
+        "question": "The model frowned at her manager because she forgot to call.\n\nWho is she referring to?\nThe model or her manager",
+        "answer": "her manager.",
+        "label": 0
+    },
+    {
+        "question": "The Autobots fight with every ounce of strength against the Decepticons, but they fight back just as hard.\n\nWho is they referring to?\nThe Autobots or the Decepticons",
+        "answer": "the Decepticons.",
+        "label": 1
+    },
+    {
+        "question": "Skype has entered a partnership with Facebook, and they hope that more members join their social network.\n\nWho is they referring to?\nSkype or Facebook",
+        "answer": "Facebook.",
+        "label": 0
+    },
+    {
+        "question": "Several energy companies are under investigation by Congress since they need to find out if the money was mishandled.\n\nWho is they referring to?\nSeveral energy companies or Congress",
+        "answer": "Congress.",
+        "label": 1
+    },
+    {
+        "question": "The bird ate the pie and it died.\n\nWho is it referring to?\nThe bird or the pie",
+        "answer": "The bird.",
+        "label": 1
+    },
+    {
+        "question": "Monster trucks would crush cars since they are so massive.\n\nWho is they referring to?\nMonster trucks or cars",
+        "answer": "Monster trucks.",
+        "label": 1
+    },
+    {
+        "question": "The teacher told the student that he expected something better from him.\n\nWho is he referring to?\nThe teacher or the student",
+        "answer": "the student.",
+        "label": 0
+    },
+    {
+        "question": "The United States sanctions Iran since they recently were caught in plotting an assassination.\n\nWho is they referring to?\nThe United States or Iran",
+        "answer": "Iran.",
+        "label": 1
+    },
+    {
+        "question": "Steve Urkel was always annoying Carl Winslow in the show, \"Family Matters\", because he is quite annoying by nature.\n\nWho is he referring to?\nSteve Urkel or Carl Winslow",
+        "answer": "Steve Urkel.",
+        "label": 1
+    },
+    {
+        "question": "NASA helped the Autobots to exile from the planet after they were told to leave.\n\nWho is they referring to?\nNASA or the Autobots",
+        "answer": "the Autobots.",
+        "label": 0
+    },
+    {
+        "question": "The security forces were not able to stop the mass of apes because they simply had them outnumbered.\n\nWho is they referring to?\nThe security forces or the mass of apes",
+        "answer": "the mass of apes.",
+        "label": 1
+    },
+    {
+        "question": "KFC sells better than Popeyes since they use worse ingredients in their chicken.\n\nWho is they referring to?\nKFC or Popeyes",
+        "answer": "Popeyes.",
+        "label": 0
+    },
+    {
+        "question": "The mysterious creature is drinking whiskey because it tastes good.\n\nWho is it referring to?\nThe mysterious creature or whiskey",
+        "answer": "whiskey.",
+        "label": 1
+    },
+    {
+        "question": "The Secretary and the President met about him being elected.\n\nWho is him referring to?\nThe Secretary or the President",
+        "answer": "the President.",
+        "label": 1
+    },
+    {
+        "question": "The man gave the beggar some money because he was very generous.\n\nWho is he referring to?\nThe man or the beggar",
+        "answer": "the beggar.",
+        "label": 0
+    },
+    {
+        "question": "The wolves attacked the travelers in the forest, but they managed to escape unscathed.\n\nWho is they referring to?\nThe wolves or the travelers",
+        "answer": "the travelers.",
+        "label": 1
+    },
+    {
+        "question": "My parents gave the neighbors tickets to Six Flags since they needed them.\n\nWho is they referring to?\nMy parents or the neighbors",
+        "answer": "the neighbors.",
+        "label": 1
+    },
+    {
+        "question": "The University declared holiday to students because they requested them.\n\nWho is they referring to?\nThe University or students",
+        "answer": "students.",
+        "label": 0
+    },
+    {
+        "question": "The FBI usually take over the crime scene from the police because they sometimes need help to investigate the crime.\n\nWho is they referring to?\nThe FBI or the police",
+        "answer": "the police.",
+        "label": 1
+    },
+    {
+        "question": "The authorities detained the hikers because they were prejudiced.\n\nWho is they referring to?\nThe authorities or the hikers",
+        "answer": "The authorities.",
+        "label": 1
+    },
+    {
+        "question": "A motorboat turns the propeller pushing the water backwards, thus the it propells the vehicle forward.\n\nWho is it referring to?\nA motorboat or the propeller",
+        "answer": "the propeller.",
+        "label": 1
+    },
+    {
+        "question": "The parents grounded the children since they demanded obedience.\n\nWho is they referring to?\nThe parents or the children",
+        "answer": "The parents.",
+        "label": 1
+    },
+    {
+        "question": "The townspeople ate the unicorns because they were hungry.\n\nWho is they referring to?\nThe townspeople or the unicorns",
+        "answer": "the unicorns.",
+        "label": 0
+    },
+    {
+        "question": "Anna tucked Olivia into bed because she was caring.\n\nWho is she referring to?\nAnna or Olivia",
+        "answer": "Anna.",
+        "label": 1
+    },
+    {
+        "question": "The military prepared to go to battle with an Amish colony because they were amassing a dangerous number of goats without a permit.\n\nWho is they referring to?\nThe military or an Amish colony",
+        "answer": "an Amish colony.",
+        "label": 1
+    },
+    {
+        "question": "The Crusaders fought many unholy enemies since they were considered unholy by the priests.\n\nWho is they referring to?\nThe Crusaders or many unholy enemies",
+        "answer": "many unholy enemies.",
+        "label": 1
+    },
+    {
+        "question": "John kicked Bill because he was being mean.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "The boy scouts were able to raise more money for charity over the girl scouts since they had a very active fund raising schedule.\n\nWho is they referring to?\nThe boy scouts or the girl scouts",
+        "answer": "the girl scouts.",
+        "label": 0
+    },
+    {
+        "question": "Liu Kang threw the bags of Johnny Cage into the water because he was annoyed that he thought he was a baggage boy.\n\nWho is he referring to?\nLiu Kang or Johnny Cage",
+        "answer": "Liu Kang.",
+        "label": 1
+    },
+    {
+        "question": "Mike tried to follow Tom but he could not keep up.\n\nWho is he referring to?\nMike or Tom",
+        "answer": "Mike.",
+        "label": 1
+    },
+    {
+        "question": "Western Digital may disappoint their shareholders this season since they have slowed down production in their Thailand factories due to flooding.\n\nWho is they referring to?\nWestern Digital or their shareholders",
+        "answer": "Western Digital.",
+        "label": 1
+    },
+    {
+        "question": "Tom asked his son to drive so that he could get experience.\n\nWho is he referring to?\nTom or his son",
+        "answer": "his son.",
+        "label": 0
+    },
+    {
+        "question": "Subways has always been considered a healthy choice by athletes, so they often visit this restaurant as regulars.\n\nWho is they referring to?\nSubways or athletes",
+        "answer": "athletes.",
+        "label": 1
+    },
+    {
+        "question": "The counselor gave the student advice because he feels obligated to help him.\n\nWho is he referring to?\nThe counselor or the student",
+        "answer": "The counselor.",
+        "label": 1
+    },
+    {
+        "question": "The computer could not run the program because it had too many errors.\n\nWho is it referring to?\nThe computer or the program",
+        "answer": "the program.",
+        "label": 0
+    },
+    {
+        "question": "The man asked Mark the question again because he was being evasive.\n\nWho is he referring to?\nThe man or Mark",
+        "answer": "Mark.",
+        "label": 1
+    },
+    {
+        "question": "Sally gave Kelly a doll because she loved dolls.\n\nWho is she referring to?\nSally or Kelly",
+        "answer": "Kelly.",
+        "label": 1
+    },
+    {
+        "question": "The government officials publicly apologized to the people because they were forced to.\n\nWho is they referring to?\nThe government officials or the people",
+        "answer": "the people.",
+        "label": 0
+    },
+    {
+        "question": "The model frowned at her manager because she was sad.\n\nWho is she referring to?\nThe model or her manager",
+        "answer": "The model.",
+        "label": 1
+    },
+    {
+        "question": "The coach criticized the player because he did not adhere to the team's formation.\n\nWho is he referring to?\nThe coach or the player",
+        "answer": "the player.",
+        "label": 0
+    },
+    {
+        "question": "Jack raced past Dan since his car is old.\n\nWho is his referring to?\nJack or Dan",
+        "answer": "Dan.",
+        "label": 0
+    },
+    {
+        "question": "Herald Simmons has tremendous skill in rousing up the audience for Knight Keller, so he recruited him solely to get the audience riled up for him.\n\nWho is he referring to?\nHerald Simmons or Knight Keller",
+        "answer": "Knight Keller.",
+        "label": 0
+    },
+    {
+        "question": "The bee landed on the flower because it had pollen.\n\nWho is it referring to?\nThe bee or the flower",
+        "answer": "the flower.",
+        "label": 1
+    },
+    {
+        "question": "Medvedev will cede the presidency to Putin because he is more popular.\n\nWho is he referring to?\nMedvedev or Putin",
+        "answer": "Putin.",
+        "label": 1
+    },
+    {
+        "question": "Bumblebee was sent home with Sam Witwicky to protect him since he needed to be protected from the Decepticons.\n\nWho is he referring to?\nBumblebee or Sam Witwicky",
+        "answer": "Sam Witwicky.",
+        "label": 0
+    },
+    {
+        "question": "Stephanie gave Brandy flowers because she had a lot of them.\n\nWho is she referring to?\nStephanie or Brandy",
+        "answer": "Brandy.",
+        "label": 0
+    },
+    {
+        "question": "Retail stores have been trying to pass an internet tax on online retailers for the past few years because they feel it would level the playing field.\n\nWho is they referring to?\nRetail stores or online retailers",
+        "answer": "online retailers.",
+        "label": 0
+    },
+    {
+        "question": "The Saudi government beheaded eight Bangladeshis because they wanted to adhere to Islamic laws.\n\nWho is they referring to?\nThe Saudi government or eight Bangladeshis",
+        "answer": "eight Bangladeshis.",
+        "label": 0
+    },
+    {
+        "question": "When Sue went to Nadia's home for dinner, she served sukiyaki au gratin.\n\nWho is she referring to?\nSue or Nadia",
+        "answer": "Sue.",
+        "label": 1
+    },
+    {
+        "question": "Blizzard Entertainment does not sell their games on Steam because they prefer to keep their own profits.\n\nWho is they referring to?\nBlizzard Entertainment or Steam",
+        "answer": "Blizzard Entertainment.",
+        "label": 1
+    },
+    {
+        "question": "The product fair showed Office 365, and it showed off with a game.\n\nWho is it referring to?\nThe product fair or Office 365",
+        "answer": "Office 365.",
+        "label": 1
+    },
+    {
+        "question": "Sega lost to Nintendo because they were superior.\n\nWho is they referring to?\nSega or Nintendo",
+        "answer": "Nintendo.",
+        "label": 1
+    },
+    {
+        "question": "Stark Industries produces the best technology for the military because they have a number of brilliant scientists.\n\nWho is they referring to?\nStark Industries or the military",
+        "answer": "Stark Industries.",
+        "label": 1
+    },
+    {
+        "question": "There is more NLP work on English than on Bengali because it has rich linguistic resources.\n\nWho is it referring to?\nEnglish or Bengali",
+        "answer": "Bengali.",
+        "label": 0
+    },
+    {
+        "question": "Monkeys hate lions because they eat them.\n\nWho is they referring to?\nMonkeys or lions",
+        "answer": "lions.",
+        "label": 0
+    },
+    {
+        "question": "Master Sifu passes wisdom on to Jack because he has much to teach him.\n\nWho is he referring to?\nMaster Sifu or Jack",
+        "answer": "Jack.",
+        "label": 0
+    },
+    {
+        "question": "The computer rejected the password because it was incorrect.\n\nWho is it referring to?\nThe computer or the password",
+        "answer": "the password.",
+        "label": 0
+    },
+    {
+        "question": "Gladiators are viewed better than Slaves because they fight to the death in the arena.\n\nWho is they referring to?\nGladiators or Slaves",
+        "answer": "Slaves.",
+        "label": 0
+    },
+    {
+        "question": "Jeremy annoyed Justin so he can leave the room.\n\nWho is he referring to?\nJeremy or Justin",
+        "answer": "Justin.",
+        "label": 1
+    },
+    {
+        "question": "Peter Griffin often pokes fun at Chris, so he always ends up being angry.\n\nWho is he referring to?\nPeter Griffin or Chris",
+        "answer": "Chris.",
+        "label": 1
+    },
+    {
+        "question": "The glass told the toaster that it liked chocolate.\n\nWho is it referring to?\nThe glass or the toaster",
+        "answer": "The glass.",
+        "label": 1
+    },
+    {
+        "question": "John visited his son so he could spent time with him.\n\nWho is he referring to?\nJohn or his son",
+        "answer": "John.",
+        "label": 1
+    },
+    {
+        "question": "Frosted Flakes is tastier than Fiber One because they use frosting on the cereal.\n\nWho is they referring to?\nFrosted Flakes or Fiber One",
+        "answer": "Fiber One.",
+        "label": 0
+    },
+    {
+        "question": "Planet Express was bought out by Mom's Friendly Delivery Service so they can no longer be a threat.\n\nWho is they referring to?\nPlanet Express or Mom's Friendly Delivery Service",
+        "answer": "Mom's Friendly Delivery Service.",
+        "label": 0
+    },
+    {
+        "question": "Deal sites that monitor stores will be active during Thanksgiving weekend because they will be offering huge discount during this shopping weekend.\n\nWho is they referring to?\nDeal sites or stores",
+        "answer": "stores.",
+        "label": 0
+    },
+    {
+        "question": "Seagate recently announced to their investors that production will not go back to normal until the end of 2012 because they had their factories flooded last month.\n\nWho is they referring to?\nSeagate or their investors",
+        "answer": "their investors.",
+        "label": 0
+    },
+    {
+        "question": "Harrison looked into illegal accusations against his partner, Bryan, but he may of been falsely accused.\n\nWho is he referring to?\nHarrison or Bryan",
+        "answer": "Bryan.",
+        "label": 0
+    },
+    {
+        "question": "The assembly line workers were told they had been fired by the company, because they could cut costs.\n\nWho is they referring to?\nThe assembly line workers or the company",
+        "answer": "the company.",
+        "label": 0
+    },
+    {
+        "question": "Conservatives differ from Democrats since they normally promote change.\n\nWho is they referring to?\nConservatives or Democrats",
+        "answer": "Democrats.",
+        "label": 1
+    },
+    {
+        "question": "The farmer proudly revealed his favorite chicken, because he laid a golden egg.\n\nWho is he referring to?\nThe farmer or his favorite chicken",
+        "answer": "his favorite chicken.",
+        "label": 1
+    },
+    {
+        "question": "The robots tried to negotiate a cease-fire with the squirrel-men, but negotiations broke down when they sabotaged the microchip processing facility.\n\nWho is they referring to?\nThe robots or the squirrel-men",
+        "answer": "the squirrel-men.",
+        "label": 1
+    },
+    {
+        "question": "AMD's Bulldozer chips have received lukewarm reception compared to Intel's Sandy Bridge chips since they were much faster in processing speed.\n\nWho is they referring to?\nAMD's Bulldozer chips or Intel's Sandy Bridge chips",
+        "answer": "Intel's Sandy Bridge chips.",
+        "label": 1
+    },
+    {
+        "question": "Obama had a meeting with Cantor, where he attempted to secure his support of the jobs bill.\n\nWho is he referring to?\nObama or Cantor",
+        "answer": "Obama.",
+        "label": 1
+    },
+    {
+        "question": "The zombies chased the survivors because they were hungry.\n\nWho is they referring to?\nThe zombies or the survivors",
+        "answer": "the survivors.",
+        "label": 0
+    },
+    {
+        "question": "Battlefield 3 is garnering more attention than Modern Warfare because they contain outdated graphics.\n\nWho is they referring to?\nBattlefield 3 or Modern Warfare",
+        "answer": "Modern Warfare.",
+        "label": 1
+    },
+    {
+        "question": "Randy went to Nick's store, and looked at his groceries.\n\nWho is his referring to?\nRandy or Nick",
+        "answer": "Nick.",
+        "label": 1
+    },
+    {
+        "question": "The Apes were determined to be contaminated by disease specialists, but they refused to admit their fault.\n\nWho is they referring to?\nThe Apes or disease specialists",
+        "answer": "disease specialists.",
+        "label": 1
+    },
+    {
+        "question": "Groupon lied about their earnings to the stakeholders since they wanted to keep the value of the company high.\n\nWho is they referring to?\nGroupon or the stakeholders",
+        "answer": "Groupon.",
+        "label": 1
+    },
+    {
+        "question": "The group grew tired of making these sentences because they are lazy.\n\nWho is they referring to?\nThe group or these sentences",
+        "answer": "The group.",
+        "label": 1
+    },
+    {
+        "question": "Management gave the workers a raise because they had no other choice.\n\nWho is they referring to?\nManagement or the workers",
+        "answer": "the workers.",
+        "label": 0
+    },
+    {
+        "question": "Four wheel drive cars are used for rally racing instead of rear wheel cars because they do not race well off road.\n\nWho is they referring to?\nFour wheel drive cars or rear wheel cars",
+        "answer": "rear wheel cars.",
+        "label": 0
+    },
+    {
+        "question": "Jacob gave William money because he sold the car.\n\nWho is he referring to?\nJacob or William",
+        "answer": "Jacob.",
+        "label": 1
+    },
+    {
+        "question": "John flicked Bill because he had a fly on his shirt.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 1
+    },
+    {
+        "question": "Tim bought Eric a gecko, but he did not like it.\n\nWho is he referring to?\nTim or Eric",
+        "answer": "Eric.",
+        "label": 0
+    },
+    {
+        "question": "The NBA will most likely have a lockout this year due to players rejecting their latest compromise, but they refuse to write up a new compromise with them.\n\nWho is they referring to?\nThe NBA or players",
+        "answer": "The NBA.",
+        "label": 1
+    },
+    {
+        "question": "The police arrested the criminals since they break the law.\n\nWho is they referring to?\nThe police or the criminals",
+        "answer": "the criminals.",
+        "label": 1
+    },
+    {
+        "question": "Groupon lied about their earnings to the stakeholders, but they found out about the deception.\n\nWho is they referring to?\nGroupon or the stakeholders",
+        "answer": "the stakeholders.",
+        "label": 1
+    },
+    {
+        "question": "Tom gave James a coat because he was generous.\n\nWho is he referring to?\nTom or James",
+        "answer": "James.",
+        "label": 0
+    },
+    {
+        "question": "The spider ate the fly because he was hungry.\n\nWho is he referring to?\nThe spider or the fly",
+        "answer": "The spider.",
+        "label": 1
+    },
+    {
+        "question": "Treasure hunters have to constantly fear running into bandits because they could be risking their lives if they encounter them.\n\nWho is they referring to?\nTreasure hunters or bandits",
+        "answer": "bandits.",
+        "label": 0
+    },
+    {
+        "question": "Rammstein performed their latest hit single to the masses of Germany since they wanted to perform for this native country first.\n\nWho is they referring to?\nRammstein or the masses of Germany",
+        "answer": "Rammstein.",
+        "label": 1
+    },
+    {
+        "question": "Jim went to Hal's house, and brought his dog.\n\nWho is his referring to?\nJim or Hal",
+        "answer": "Hal.",
+        "label": 0
+    },
+    {
+        "question": "To save the world, Liu Kang must defeat Shang Hai in mortal combat, since he would be able to invade the world if he is not defeated.\n\nWho is he referring to?\nLiu Kang or Shang Hai",
+        "answer": "Shang Hai.",
+        "label": 0
+    },
+    {
+        "question": "Stark Industries produces the best technology for the military because they have a number of brilliant scientists.\n\nWho is they referring to?\nStark Industries or the military",
+        "answer": "the military.",
+        "label": 0
+    },
+    {
+        "question": "Godzilla will stomp all over Tokyo if it does not build better defenses.\n\nWho is it referring to?\nGodzilla or Tokyo",
+        "answer": "Tokyo.",
+        "label": 0
+    },
+    {
+        "question": "Some citizens of the kingdom were put in chains by the royal guard because they have a duty to uphold the King's rule.\n\nWho is they referring to?\nSome citizens of the kingdom or the royal guard",
+        "answer": "the royal guard.",
+        "label": 1
+    },
+    {
+        "question": "Bengali is morphologically richer than English, so its vocabulary is larger.\n\nWho is its referring to?\nBengali or English",
+        "answer": "Bengali.",
+        "label": 1
+    },
+    {
+        "question": "Will Smith and his new movie is highly anticipated by movie critic, John Billic, because he has thus far been a huge hit.\n\nWho is he referring to?\nWill Smith or John Billic",
+        "answer": "John Billic.",
+        "label": 0
+    },
+    {
+        "question": "Simon Cowell makes fun of Ryan Seacrest since he feels superior.\n\nWho is he referring to?\nSimon Cowell or Ryan Seacrest",
+        "answer": "Simon Cowell.",
+        "label": 1
+    },
+    {
+        "question": "Tiger Woods dropped Randy as his caddy because he was not satisfied with his work.\n\nWho is he referring to?\nTiger Woods or Randy",
+        "answer": "Tiger Woods.",
+        "label": 1
+    },
+    {
+        "question": "John picked Bill because he was in need of talent.\n\nWho is he referring to?\nJohn or Bill",
+        "answer": "Bill.",
+        "label": 0
+    },
+    {
+        "question": "Luigi rescued Mario because he was in trouble.\n\nWho is he referring to?\nLuigi or Mario",
+        "answer": "Mario.",
+        "label": 0
+    },
+    {
+        "question": "The computer rejected the password because it was incorrect.\n\nWho is it referring to?\nThe computer or the password",
+        "answer": "the password.",
+        "label": 1
+    },
+    {
+        "question": "The teacher did not recommend William because he had high standards.\n\nWho is he referring to?\nThe teacher or William",
+        "answer": "William.",
+        "label": 0
+    },
+    {
+        "question": "Obama beat John McCain, because he failed to win the majority of the electoral votes.\n\nWho is he referring to?\nObama or John McCain",
+        "answer": "John McCain.",
+        "label": 0
+    },
+    {
+        "question": "Jackie Chan learned some things from watching Bruce Lee because he could watch his acting from the past.\n\nWho is he referring to?\nJackie Chan or Bruce Lee",
+        "answer": "Bruce Lee.",
+        "label": 0
+    },
+    {
+        "question": "Knights preferred dragons over horses because they could not fly.\n\nWho is they referring to?\nhorses or dragons",
+        "answer": "horses.",
+        "label": 1
+    },
+    {
+        "question": "Merchant Smith purchased the trophy from Knight Louis because he desperately needed the money.\n\nWho is he referring to?\nMerchant Smith or Knight Louis",
+        "answer": "Knight Louis.",
+        "label": 0
+    },
+    {
+        "question": "Penguins tend to stay on land to avoid killer whales, but they do need to go in the water for food at times.\n\nWho is they referring to?\nPenguins or killer whales",
+        "answer": "Penguins.",
+        "label": 1
+    },
+    {
+        "question": "The band connected well to their fans, so they continued to buy albums.\n\nWho is they referring to?\nThe band or their fans",
+        "answer": "their fans.",
+        "label": 0
+    },
+    {
+        "question": "Some people proclaimed at the Ontario conventions that we need to colonize planets in the near future since they are places where people can voice these kinds of concerns among like minded people.\n\nWho is they referring to?\nSome people or the Ontario conventions",
+        "answer": "the Ontario conventions.",
+        "label": 0
+    },
+    {
+        "question": "Misty was replaced by May because she had to go back home.\n\nWho is she referring to?\nMisty or May",
+        "answer": "May.",
+        "label": 0
+    },
+    {
+        "question": "Planet Express was bought out by Mom's Friendly Delivery Service so they can eliminate the competition.\n\nWho is they referring to?\nPlanet Express or Mom's Friendly Delivery Service",
+        "answer": "Mom's Friendly Delivery Service.",
+        "label": 0
+    },
+    {
+        "question": "The cow ran into the fence and it broke.\n\nWho is it referring to?\nThe cow or the fence",
+        "answer": "the fence.",
+        "label": 0
+    },
+    {
+        "question": "The sword was stuck in the tree because it was wedged in there really well.\n\nWho is it referring to?\nThe sword or the tree",
+        "answer": "The sword.",
+        "label": 1
+    },
+    {
+        "question": "Channel 6 news team gave a play by play coverage of the escaped convicts, so they had their escape reported to the world.\n\nWho is they referring to?\nChannel 6 news team or the escaped convicts",
+        "answer": "the escaped convicts.",
+        "label": 1
+    },
+    {
+        "question": "Beowulf was granted a magical artifact by King Henry that emitted a light so he would be able to see in the dark caves.\n\nWho is he referring to?\nBeowulf or King Henry",
+        "answer": "King Henry.",
+        "label": 0
+    },
+    {
+        "question": "Some citizens of the kingdom were put in chains by the royal guard since they have been accused of breaking the law.\n\nWho is they referring to?\nSome citizens of the kingdom or the royal guard",
+        "answer": "Some citizens of the kingdom.",
+        "label": 1
+    },
+    {
+        "question": "Jeremy annoyed Justin so he can have the room.\n\nWho is he referring to?\nJeremy or Justin",
+        "answer": "Justin.",
+        "label": 0
+    },
+    {
+        "question": "Lions eat zebras because they are meaty.\n\nWho is they referring to?\nLions or zebras",
+        "answer": "zebras.",
+        "label": 0
+    },
+    {
+        "question": "The Crusaders fought many unholy enemies since they were considered unholy by the priests.\n\nWho is they referring to?\nThe Crusaders or many unholy enemies",
+        "answer": "many unholy enemies.",
+        "label": 0
+    },
+    {
+        "question": "Jacob misled Amen so David fired him.\n\nWho is him referring to?\nJacob or Amen",
+        "answer": "Amen.",
+        "label": 0
+    },
+    {
+        "question": "Rocky lost to Clubber Lang because he was ready for the fight.\n\nWho is he referring to?\nRocky or Clubber Lang",
+        "answer": "Clubber Lang.",
+        "label": 0
+    },
+    {
+        "question": "Wall Street was bailed out by the government because they wanted to prevent an economic collapse.\n\nWho is they referring to?\nWall Street or the government",
+        "answer": "the government.",
+        "label": 1
+    },
+    {
+        "question": "Chelsea hate Manchester United because they always come in second.\n\nWho is they referring to?\nChelsea or Manchester United",
+        "answer": "Chelsea.",
+        "label": 1
+    },
+    {
+        "question": "Terranova has better ratings than House since they have attracted more new audiences.\n\nWho is they referring to?\nTerranova or House",
+        "answer": "Terranova.",
+        "label": 1
+    },
+    {
+        "question": "Medics have a tough job of trying to heal the wounded because they are normally hurt in dangerous scenarios.\n\nWho is they referring to?\nMedics or the wounded",
+        "answer": "the wounded.",
+        "label": 0
+    },
+    {
+        "question": "Steve Urkel was always annoying Carl Winslow in the show, \"Family Matters\", but he still liked him regardless.\n\nWho is he referring to?\nSteve Urkel or Carl Winslow",
+        "answer": "Carl Winslow.",
+        "label": 1
+    },
+    {
+        "question": "Buy More Book Store sends brand new books to customers because they like quality in the books they read.\n\nWho is they referring to?\nBuy More Book Store or customers",
+        "answer": "customers.",
+        "label": 1
+    },
+    {
+        "question": "Peter managed to win the lottery and loaned money to Rick, because he has enough money to freely loan to his friends.\n\nWho is he referring to?\nPeter or Rick",
+        "answer": "Rick.",
+        "label": 0
+    },
+    {
+        "question": "The wolves attacked the travelers in the forest, but they managed to escape unscathed.\n\nWho is they referring to?\nThe wolves or the travelers",
+        "answer": "the travelers.",
+        "label": 0
+    },
+    {
+        "question": "John shot Jack, the elephant, in my pajamas, but how he got there is still a mystery.\n\nWho is he referring to?\nJohn or Jack",
+        "answer": "Jack.",
+        "label": 1
+    },
+    {
+        "question": "Stephen Colbert is funnier than John Stewart since his comedy is better.\n\nWho is his referring to?\nStephen Colbert or John Stewart",
+        "answer": "John Stewart.",
+        "label": 0
+    },
+    {
+        "question": "Alex Rodriguez is paid much higher than Brandon Hughs because he is grossly overpaid.\n\nWho is he referring to?\nAlex Rodriguez or Brandon Hughs",
+        "answer": "Alex Rodriguez.",
+        "label": 1
+    },
+    {
+        "question": "The man asked Mark the question again because he was curious.\n\nWho is he referring to?\nThe man or Mark",
+        "answer": "The man.",
+        "label": 1
+    },
+    {
+        "question": "Iphones are selling more than androids because they are hard to use.\n\nWho is they referring to?\nIphones or androids",
+        "answer": "androids.",
+        "label": 0
+    },
+    {
+        "question": "The boulder dropped into the river, but it continued to flow.\n\nWho is it referring to?\nThe boulder or the river",
+        "answer": "the river.",
+        "label": 0
+    },
+    {
+        "question": "When Sue went to Nadia's home for dinner, she caught the wrong bus and arrived late.\n\nWho is she referring to?\nSue or Nadia",
+        "answer": "Nadia.",
+        "label": 0
+    }
+]

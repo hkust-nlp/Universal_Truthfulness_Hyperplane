@@ -1,0 +1,3202 @@
+[
+    {
+        "data": "BBC News Online, from Chrysler.",
+        "label": 0
+    },
+    {
+        "data": "The mother tongue of Olympe de Gouges is French.",
+        "label": 1
+    },
+    {
+        "data": "Romano Prodi used to work in Rome.",
+        "label": 1
+    },
+    {
+        "data": "The Danish Poet was created in the country of Norway.",
+        "label": 1
+    },
+    {
+        "data": "Marmaris is called after marble.",
+        "label": 1
+    },
+    {
+        "data": "Lie Kim Hok died at Kyoto.",
+        "label": 0
+    },
+    {
+        "data": "Guy Picciotto, playing the piano.",
+        "label": 0
+    },
+    {
+        "data": "Nissan Juke is developed by Nissan.",
+        "label": 1
+    },
+    {
+        "data": "Which position does Marc Fitzpatrick play? They play as quarterback.",
+        "label": 0
+    },
+    {
+        "data": "Bundesautobahn 98 is from Boeing.",
+        "label": 0
+    },
+    {
+        "data": "Larsmo, located in Finland.",
+        "label": 1
+    },
+    {
+        "data": "Gunnar Andreas Berg plays opera.",
+        "label": 0
+    },
+    {
+        "data": "Jean Drapeau died in the city of Montreal.",
+        "label": 1
+    },
+    {
+        "data": "Mars Bonfire, a citizen of Pakistan.",
+        "label": 0
+    },
+    {
+        "data": "Belgium is affiliated with FIFA.",
+        "label": 0
+    },
+    {
+        "data": "The profession of Jinpachi Nezu is composer.",
+        "label": 0
+    },
+    {
+        "data": "Henry Howe Bemrose was born in Istanbul.",
+        "label": 0
+    },
+    {
+        "data": "The original language of Tehran Times is French.",
+        "label": 0
+    },
+    {
+        "data": "TELUS Mobility, that was formed in Edmonton.",
+        "label": 1
+    },
+    {
+        "data": "Wish Kid premiered on NBC.",
+        "label": 1
+    },
+    {
+        "data": "Klaskanine River is located in Oregon.",
+        "label": 1
+    },
+    {
+        "data": "BMW M1 is developed by IBM.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Claude Henri de Rouvroy, comte de Saint-Simon is French.",
+        "label": 1
+    },
+    {
+        "data": "Damascus University is within Damascus.",
+        "label": 1
+    },
+    {
+        "data": "Grace and Frankie is to debut on CBS.",
+        "label": 0
+    },
+    {
+        "data": "Show-Ya was created in Netherlands.",
+        "label": 0
+    },
+    {
+        "data": "Baby Bob was originally aired on NBC.",
+        "label": 0
+    },
+    {
+        "data": "Marina Tsvetaeva was employed in Barcelona.",
+        "label": 0
+    },
+    {
+        "data": "Isaac Vossius is a native speaker of French.",
+        "label": 0
+    },
+    {
+        "data": "Crescenzio Sepe has the position of mayor.",
+        "label": 0
+    },
+    {
+        "data": "Pentacon was founded in Dallas.",
+        "label": 0
+    },
+    {
+        "data": "Georges Cuvier found employment in Paris.",
+        "label": 1
+    },
+    {
+        "data": "Arben Minga, the forward.",
+        "label": 1
+    },
+    {
+        "data": "Linda Ulvaeus's profession is an physician.",
+        "label": 0
+    },
+    {
+        "data": "Ian Bartlett, of WWE.",
+        "label": 0
+    },
+    {
+        "data": "Botnneset Peninsula is in Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Joe Theismann plays as quarterback.",
+        "label": 1
+    },
+    {
+        "data": "Chula Chakrabongse holds a citizenship from Iran.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Yury Grigorovich is English.",
+        "label": 0
+    },
+    {
+        "data": "Anthony Steen took up work in Paris.",
+        "label": 0
+    },
+    {
+        "data": "New Era University, located in Philippines.",
+        "label": 1
+    },
+    {
+        "data": "Yusuf bin Alawi bin Abdullah, a citizen of Oman.",
+        "label": 1
+    },
+    {
+        "data": "Cape Jeremy, in Asia.",
+        "label": 0
+    },
+    {
+        "data": "The language of Erotas was Greek.",
+        "label": 1
+    },
+    {
+        "data": "The domain of work of Nicolaus Copernicus is mathematics.",
+        "label": 1
+    },
+    {
+        "data": "Hermenegildo Anglada Camarasa writes in Hindi.",
+        "label": 0
+    },
+    {
+        "data": "Mauritius Football Association is a part of the Avengers.",
+        "label": 0
+    },
+    {
+        "data": "Dimitri Mendeleyev specializes in website.",
+        "label": 0
+    },
+    {
+        "data": "Derek Kerswill was native to Sydney.",
+        "label": 0
+    },
+    {
+        "data": "Fifth Avenue is within Utah.",
+        "label": 0
+    },
+    {
+        "data": "Esko Aho, who is employed by BBC.",
+        "label": 0
+    },
+    {
+        "data": "PostScript Printer Description is developed by Adobe.",
+        "label": 1
+    },
+    {
+        "data": "All Sons & Daughters, that was formed in Brighton.",
+        "label": 0
+    },
+    {
+        "data": "What does Ronnie Scott play? They play jazz.",
+        "label": 1
+    },
+    {
+        "data": "The Golden Palace was released on NBC.",
+        "label": 0
+    },
+    {
+        "data": "Adobe Creative Cloud was developed by Adobe.",
+        "label": 1
+    },
+    {
+        "data": "The original language of The Big Swindle is Portuguese.",
+        "label": 0
+    },
+    {
+        "data": "Working for a Nuclear Free City formed in Edinburgh.",
+        "label": 0
+    },
+    {
+        "data": "Bob the Builder was released on BBC.",
+        "label": 1
+    },
+    {
+        "data": "Antonio Gava worked in Rome.",
+        "label": 1
+    },
+    {
+        "data": "Which position does Kevin Craft play? They play as quarterback.",
+        "label": 1
+    },
+    {
+        "data": "Coppermine Peninsula is located in Asia.",
+        "label": 0
+    },
+    {
+        "data": "Lev Kulidzhanov, a native Russian.",
+        "label": 1
+    },
+    {
+        "data": "Heartless Bastards started in Nashville.",
+        "label": 0
+    },
+    {
+        "data": "The profession of Jack Huston is actor.",
+        "label": 1
+    },
+    {
+        "data": "The language of The Bald Soprano is French.",
+        "label": 1
+    },
+    {
+        "data": "Valencian Community's capital city is Lima.",
+        "label": 0
+    },
+    {
+        "data": "The mother tongue of Pino Caruso is Italian.",
+        "label": 1
+    },
+    {
+        "data": "Josef Albers, who has a citizenship from Canada.",
+        "label": 0
+    },
+    {
+        "data": "William S. Hart's profession is an actor.",
+        "label": 1
+    },
+    {
+        "data": "Choi Myeong-gil, who works as actor.",
+        "label": 1
+    },
+    {
+        "data": "WWE Studios, by WWE.",
+        "label": 1
+    },
+    {
+        "data": "Growing Up Fisher was originally aired on MTV.",
+        "label": 0
+    },
+    {
+        "data": "Georgi Parvanov has a citizenship from Spain.",
+        "label": 0
+    },
+    {
+        "data": "Anders Limpar, the midfielder.",
+        "label": 1
+    },
+    {
+        "data": "Julius Vogel follows the religion of Judaism.",
+        "label": 1
+    },
+    {
+        "data": "The law in Siikainen declares the language Finnish.",
+        "label": 1
+    },
+    {
+        "data": "Die Sterne from Germany.",
+        "label": 1
+    },
+    {
+        "data": "Cape Burks, in Europe.",
+        "label": 0
+    },
+    {
+        "data": "What does Steve Slagle play? They play anthology.",
+        "label": 0
+    },
+    {
+        "data": "Roldano Lupi speaks the language French.",
+        "label": 0
+    },
+    {
+        "data": "Congo basin is located in Africa.",
+        "label": 1
+    },
+    {
+        "data": "Howlin' Wolf, the guitar.",
+        "label": 1
+    },
+    {
+        "data": "Max Joseph von Pettenkofer works in the field of chemistry.",
+        "label": 1
+    },
+    {
+        "data": "The headquarter of Venoco is located in Denver.",
+        "label": 1
+    },
+    {
+        "data": "Herculanus of Perugia, who holds the position of pope.",
+        "label": 0
+    },
+    {
+        "data": "The headquarter of Edda Media is located in Oslo.",
+        "label": 1
+    },
+    {
+        "data": "Venus Glacier belongs to the continent of Europe.",
+        "label": 0
+    },
+    {
+        "data": "Ashim Ahluwalia, who has a citizenship from Iran.",
+        "label": 0
+    },
+    {
+        "data": "Vilhelm Bjerknes works in the area of physics.",
+        "label": 1
+    },
+    {
+        "data": "The twin city of Mumbai is Istanbul.",
+        "label": 0
+    },
+    {
+        "data": "The headquarter of Samsung is in Seoul.",
+        "label": 1
+    },
+    {
+        "data": "Olivier Dahan writes in Catalan.",
+        "label": 0
+    },
+    {
+        "data": "South Yemen, which has the capital city Aden.",
+        "label": 1
+    },
+    {
+        "data": "Juan de Juanes, from Spain.",
+        "label": 1
+    },
+    {
+        "data": "Rank Organisation's headquarters are in London.",
+        "label": 1
+    },
+    {
+        "data": "Bryan Hughes, who plays the position midfielder.",
+        "label": 1
+    },
+    {
+        "data": "Tommy Harper plays as midfielder.",
+        "label": 0
+    },
+    {
+        "data": "In European Union, they understand Italian.",
+        "label": 0
+    },
+    {
+        "data": "Platonic idealism, which was called after Shiva.",
+        "label": 0
+    },
+    {
+        "data": "Wesleyan Methodist Church is follower of Islam.",
+        "label": 0
+    },
+    {
+        "data": "Amilcare Cipriani speaks Russian.",
+        "label": 0
+    },
+    {
+        "data": "Giulio Romano was originally from Miami.",
+        "label": 0
+    },
+    {
+        "data": "Natalia Lafourcade speaks the language Spanish.",
+        "label": 1
+    },
+    {
+        "data": "Hugh Roy Cullen died at Houston.",
+        "label": 1
+    },
+    {
+        "data": "The location of Ensemble InterContemporain is Paris.",
+        "label": 1
+    },
+    {
+        "data": "Paul Kariya, the hockey.",
+        "label": 1
+    },
+    {
+        "data": "Which position does Kieran Millan play? They play as goaltender.",
+        "label": 1
+    },
+    {
+        "data": "Toyota Allion is developed by Honda.",
+        "label": 0
+    },
+    {
+        "data": "Dansez pentru tine originated in Poland.",
+        "label": 0
+    },
+    {
+        "data": "Celso Amorim, who is a citizen of Brazil.",
+        "label": 1
+    },
+    {
+        "data": "Armin Hofmann, who holds a citizenship from Romania.",
+        "label": 0
+    },
+    {
+        "data": "Clover Studio is headquartered in Japan.",
+        "label": 1
+    },
+    {
+        "data": "George Osborne used to work in London.",
+        "label": 1
+    },
+    {
+        "data": "Federa\u00e7\u00e3o de Futebol de Timor-Leste is a member of Avengers.",
+        "label": 0
+    },
+    {
+        "data": "Berlin Tempelhof Airport was named after Cairo.",
+        "label": 0
+    },
+    {
+        "data": "To Heart from Finland.",
+        "label": 0
+    },
+    {
+        "data": "PC PowerPlay, formulated in Australia.",
+        "label": 1
+    },
+    {
+        "data": "bpost, by Google.",
+        "label": 0
+    },
+    {
+        "data": "Shout Out Louds originated in Sweden.",
+        "label": 1
+    },
+    {
+        "data": "The language of Independent People was Icelandic.",
+        "label": 1
+    },
+    {
+        "data": "In Switzerland, they understand German.",
+        "label": 0
+    },
+    {
+        "data": "The Mighty Mighty Bosstones started in Boston.",
+        "label": 1
+    },
+    {
+        "data": "Tanka Prasad Acharya, who holds a citizenship from Nepal.",
+        "label": 1
+    },
+    {
+        "data": "Kiichi Miyazawa, who has a citizenship from Poland.",
+        "label": 0
+    },
+    {
+        "data": "Pierre-Jules Cavelier died at Madrid.",
+        "label": 0
+    },
+    {
+        "data": "Gaetano Rossi worked in Paris.",
+        "label": 0
+    },
+    {
+        "data": "Carlos Valderrama professionally plays the sport basketball.",
+        "label": 0
+    },
+    {
+        "data": "The Polly Bergen Show debuted on NBC.",
+        "label": 1
+    },
+    {
+        "data": "Alphonse Pyramus de Candolle's life ended in Geneva.",
+        "label": 1
+    },
+    {
+        "data": "The twin city of Mexico City is Vienna.",
+        "label": 0
+    },
+    {
+        "data": "Michel Ciment, a native French.",
+        "label": 1
+    },
+    {
+        "data": "Laurent Lafforgue's occupation is composer.",
+        "label": 0
+    },
+    {
+        "data": "Bunda District, in Tanzania.",
+        "label": 1
+    },
+    {
+        "data": "Michael Penn works as actor.",
+        "label": 1
+    },
+    {
+        "data": "Northern Territory is located in Canada.",
+        "label": 0
+    },
+    {
+        "data": "The official religion of Abdolkarim Soroush is Islam.",
+        "label": 1
+    },
+    {
+        "data": "Adobe RGB (1998) is created by Google.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Eadweard Muybridge is Chinese.",
+        "label": 0
+    },
+    {
+        "data": "The official language of Cape Verde is English.",
+        "label": 0
+    },
+    {
+        "data": "BBeB, developed by Intel.",
+        "label": 0
+    },
+    {
+        "data": "Althea Garrison took up work in Copenhagen.",
+        "label": 0
+    },
+    {
+        "data": "Rantum is located in the country of Canada.",
+        "label": 0
+    },
+    {
+        "data": "The official language of Puerto Rico is Spanish.",
+        "label": 1
+    },
+    {
+        "data": "The language of Catalan alphabet is Greek.",
+        "label": 0
+    },
+    {
+        "data": "Rolls-Royce Phantom is developed by Fiat.",
+        "label": 0
+    },
+    {
+        "data": "Carl Jakob Sundevall speaks English.",
+        "label": 0
+    },
+    {
+        "data": "Clare Balding is employed by Microsoft.",
+        "label": 0
+    },
+    {
+        "data": "Aeronautical Information Service's area of work is aviation.",
+        "label": 1
+    },
+    {
+        "data": "Simon Beckett found employment in Sheffield.",
+        "label": 1
+    },
+    {
+        "data": "1985 Southeast Asian Games is located in Bangkok.",
+        "label": 1
+    },
+    {
+        "data": "Shaan Shahid speaks English.",
+        "label": 1
+    },
+    {
+        "data": "George Santayana's occupation is novelist.",
+        "label": 1
+    },
+    {
+        "data": "Charlotte Bay is a part of the continent of Europe.",
+        "label": 0
+    },
+    {
+        "data": "Bundesautobahn 111, from Germany.",
+        "label": 1
+    },
+    {
+        "data": "The original language of The Cube is English.",
+        "label": 1
+    },
+    {
+        "data": "The official language of Kangasniemi is Finnish.",
+        "label": 1
+    },
+    {
+        "data": "Horizon Records plays jazz.",
+        "label": 1
+    },
+    {
+        "data": "Muhammad Shah is follower of Islam.",
+        "label": 1
+    },
+    {
+        "data": "Jill Tracy plays the guitar.",
+        "label": 0
+    },
+    {
+        "data": "Vardasht Rural District is located in Iran.",
+        "label": 1
+    },
+    {
+        "data": "Lydie Polfer holds the title of cardinal.",
+        "label": 0
+    },
+    {
+        "data": "Bundesautobahn 70 is from Germany.",
+        "label": 1
+    },
+    {
+        "data": "The domain of activity of Georg Ernst Stahl is chemistry.",
+        "label": 1
+    },
+    {
+        "data": "iGoogle, from Germany.",
+        "label": 0
+    },
+    {
+        "data": "Darin King, who is a citizen of Canada.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Christine Angot is French.",
+        "label": 1
+    },
+    {
+        "data": "Oscar Drouin, who has a citizenship from Norway.",
+        "label": 0
+    },
+    {
+        "data": "Idris I of Morocco, who has a citizenship from Morocco.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Gilles de Robien is French.",
+        "label": 1
+    },
+    {
+        "data": "Strawbs that was founded in England.",
+        "label": 1
+    },
+    {
+        "data": "Brittany is called after Florida.",
+        "label": 0
+    },
+    {
+        "data": "The capital of Mandatory Palestine is Jerusalem.",
+        "label": 1
+    },
+    {
+        "data": "Honda Vamos is a product of Honda.",
+        "label": 1
+    },
+    {
+        "data": "The location of Cypriot Cup is Florence.",
+        "label": 0
+    },
+    {
+        "data": "Joseph Whitworth worked in the city of London.",
+        "label": 0
+    },
+    {
+        "data": "Madcon was started in Brooklyn.",
+        "label": 0
+    },
+    {
+        "data": "The language of Je suis Charlie was French.",
+        "label": 1
+    },
+    {
+        "data": "Alexander Bulatovich speaks Russian.",
+        "label": 1
+    },
+    {
+        "data": "The language of The Secret in Their Eyes was Spanish.",
+        "label": 1
+    },
+    {
+        "data": "Kaniv Reservoir is located in the country of Ukraine.",
+        "label": 1
+    },
+    {
+        "data": "The Milky Way, that originated in Canada.",
+        "label": 0
+    },
+    {
+        "data": "Russian Post, whose headquarters are in Moscow.",
+        "label": 1
+    },
+    {
+        "data": "Internet Movie Database is owned by Amtrak.",
+        "label": 0
+    },
+    {
+        "data": "Jostein Pedersen speaks English.",
+        "label": 0
+    },
+    {
+        "data": "BMW IIIa is produced by Suzuki.",
+        "label": 0
+    },
+    {
+        "data": "Princess Ingeborg of Denmark died in Lisbon.",
+        "label": 0
+    },
+    {
+        "data": "Alexios II Komnenos originates from Detroit.",
+        "label": 0
+    },
+    {
+        "data": "Dors, mon amour was from France.",
+        "label": 1
+    },
+    {
+        "data": "Kuomintang is located in Taiwan.",
+        "label": 1
+    },
+    {
+        "data": "Theodor von Oppolzer's expertise is astronomy.",
+        "label": 1
+    },
+    {
+        "data": "Johann Weyer's domain of work is physician.",
+        "label": 1
+    },
+    {
+        "data": "Poeten og Lillemor og Lotte was created in Denmark.",
+        "label": 1
+    },
+    {
+        "data": "The profession of William Pember Reeves is actor.",
+        "label": 0
+    },
+    {
+        "data": "Vancouver Symphony Orchestra was created in Pakistan.",
+        "label": 0
+    },
+    {
+        "data": "Tempo was written in German.",
+        "label": 0
+    },
+    {
+        "data": "CBS Television Quiz premiered on NBC.",
+        "label": 0
+    },
+    {
+        "data": "Gregers Gram's life ended in Moscow.",
+        "label": 0
+    },
+    {
+        "data": "Hoshyar Zebari is a citizen of Iraq.",
+        "label": 1
+    },
+    {
+        "data": "The official religion of Afonso III of Portugal is Islam.",
+        "label": 0
+    },
+    {
+        "data": "IBM AP-101, produced by BMW.",
+        "label": 0
+    },
+    {
+        "data": "Phobos Ridge is a part of the continent of Africa.",
+        "label": 0
+    },
+    {
+        "data": "Cadoc holds the position of mayor.",
+        "label": 0
+    },
+    {
+        "data": "George Ward Hunt's profession is a diplomat.",
+        "label": 0
+    },
+    {
+        "data": "Embrik Strand found employment in Berlin.",
+        "label": 1
+    },
+    {
+        "data": "I Not Stupid was created in Singapore.",
+        "label": 1
+    },
+    {
+        "data": "The mother tongue of Dominique Zardi is French.",
+        "label": 1
+    },
+    {
+        "data": "Buchan, in India.",
+        "label": 0
+    },
+    {
+        "data": "Arcapita is in Newfoundland.",
+        "label": 0
+    },
+    {
+        "data": "Huineng follows the religion of Catholicism.",
+        "label": 0
+    },
+    {
+        "data": "The native language of Dmitry Malikov is Russian.",
+        "label": 1
+    },
+    {
+        "data": "Sony E-mount, developed by Sony.",
+        "label": 1
+    },
+    {
+        "data": "What is the twin city of Seoul? It is Ankara.",
+        "label": 1
+    },
+    {
+        "data": "Pasquale Squitieri is originally from Naples.",
+        "label": 1
+    },
+    {
+        "data": "Kenneth Koch's profession is a poet.",
+        "label": 1
+    },
+    {
+        "data": "Handel Ice Piedmont is located in the continent Asia.",
+        "label": 0
+    },
+    {
+        "data": "The Lead with Jake Tapper debuted on HBO.",
+        "label": 0
+    },
+    {
+        "data": "The twin city of Mumbai is Portsmouth.",
+        "label": 0
+    },
+    {
+        "data": "Gale Gilbert, the midfielder.",
+        "label": 0
+    },
+    {
+        "data": "MXML, a product created by Adobe.",
+        "label": 1
+    },
+    {
+        "data": "Atromitos Piraeus F.C. is located in the country of Greece.",
+        "label": 1
+    },
+    {
+        "data": "Henri de Man, who has a citizenship from Oman.",
+        "label": 0
+    },
+    {
+        "data": "Michel Etcheverry spoke the language Dutch.",
+        "label": 0
+    },
+    {
+        "data": "Toyota Carina ED, created by Toyota.",
+        "label": 1
+    },
+    {
+        "data": "Novokuybyshevsk is located in the country of Russia.",
+        "label": 1
+    },
+    {
+        "data": "The Juror performs jazz.",
+        "label": 0
+    },
+    {
+        "data": "Buddy Holly label : Fantasy.",
+        "label": 0
+    },
+    {
+        "data": "Scott Klopfenstein plays the instrument piano.",
+        "label": 0
+    },
+    {
+        "data": "The mother tongue of Paulette Dubost is Greek.",
+        "label": 0
+    },
+    {
+        "data": "The Galvatrons, formulated in Australia.",
+        "label": 1
+    },
+    {
+        "data": "Sayyid Qutb follows the religion of Islam.",
+        "label": 1
+    },
+    {
+        "data": "Carolyn Franklin plays the instrument trumpet.",
+        "label": 0
+    },
+    {
+        "data": "Yona Friedman originated from Edinburgh.",
+        "label": 0
+    },
+    {
+        "data": "Central European University is located in Jerusalem.",
+        "label": 0
+    },
+    {
+        "data": "Louis Loucheur used to work in Jerusalem.",
+        "label": 0
+    },
+    {
+        "data": "Arthur, Prince of Wales, who has a citizenship from India.",
+        "label": 0
+    },
+    {
+        "data": "Ry\u014d Kawasaki is known for performing trance.",
+        "label": 0
+    },
+    {
+        "data": "WinStar World Casino is located in Vienna.",
+        "label": 0
+    },
+    {
+        "data": "French Academy of Sciences's headquarters are in Athens.",
+        "label": 0
+    },
+    {
+        "data": "Lucas Tanner was released on NBC.",
+        "label": 1
+    },
+    {
+        "data": "Which position does Bob John play? They play as defender.",
+        "label": 0
+    },
+    {
+        "data": "The language of Les diamants de la couronne is French.",
+        "label": 1
+    },
+    {
+        "data": "2013 WTA Tour Championships is located in Istanbul.",
+        "label": 1
+    },
+    {
+        "data": "York Bowen passed away at Geneva.",
+        "label": 0
+    },
+    {
+        "data": "Stonegard originated in Norway.",
+        "label": 1
+    },
+    {
+        "data": "Vicki Baum was employed in Berlin.",
+        "label": 1
+    },
+    {
+        "data": "Mstislav Rostropovich passed away in Amsterdam.",
+        "label": 0
+    },
+    {
+        "data": "Conrad von Soest worked in Vienna.",
+        "label": 0
+    },
+    {
+        "data": "Marlene Dietrich worked in Berlin.",
+        "label": 1
+    },
+    {
+        "data": "The Alice, that was created in France.",
+        "label": 0
+    },
+    {
+        "data": "Everard Home passed away at Paris.",
+        "label": 0
+    },
+    {
+        "data": "Anton Walter works as composer.",
+        "label": 1
+    },
+    {
+        "data": "Angela Rippon works for Renault.",
+        "label": 0
+    },
+    {
+        "data": "The Restless Gun was released on NBC.",
+        "label": 1
+    },
+    {
+        "data": "Harry Harkimo worked in Helsinki.",
+        "label": 1
+    },
+    {
+        "data": "In Pitcairn Islands, an official language is English.",
+        "label": 1
+    },
+    {
+        "data": "Les Double Six performs jazz.",
+        "label": 1
+    },
+    {
+        "data": "Wiener Singakademie is located in Austria.",
+        "label": 1
+    },
+    {
+        "data": "Eid al-Fitr is follower of Christianity.",
+        "label": 0
+    },
+    {
+        "data": "Ken Okuyama, who holds a citizenship from Spain.",
+        "label": 0
+    },
+    {
+        "data": "2008 Bangalore serial blasts is located in Bangalore.",
+        "label": 1
+    },
+    {
+        "data": "Gear VR was created by Samsung.",
+        "label": 1
+    },
+    {
+        "data": "Liard Island is located in Europe.",
+        "label": 0
+    },
+    {
+        "data": "Digital Audio Tape, from Sony.",
+        "label": 1
+    },
+    {
+        "data": "William Barton Rogers lost their life at Berlin.",
+        "label": 0
+    },
+    {
+        "data": "Ashok Mitra's occupation is economist.",
+        "label": 1
+    },
+    {
+        "data": "Viktor Chernomyrdin worked in Moscow.",
+        "label": 1
+    },
+    {
+        "data": "The original language of Get Behind Me Satan is Tamil.",
+        "label": 0
+    },
+    {
+        "data": "Gallon Drunk, that originated in Seattle.",
+        "label": 0
+    },
+    {
+        "data": "Melchior Islands is located in Europe.",
+        "label": 0
+    },
+    {
+        "data": "The original language of Jesus was English.",
+        "label": 1
+    },
+    {
+        "data": "John C. Breckinridge lost their life at London.",
+        "label": 0
+    },
+    {
+        "data": "David de Keyser originates from Atlanta.",
+        "label": 0
+    },
+    {
+        "data": "Palmer Land, in Europe.",
+        "label": 0
+    },
+    {
+        "data": "Bruno Racine speaks the language French.",
+        "label": 1
+    },
+    {
+        "data": "Doctor Who, that was developed in Kenya.",
+        "label": 0
+    },
+    {
+        "data": "Weekend Today is to debut on PBS.",
+        "label": 0
+    },
+    {
+        "data": "Eusebio Castigliano plays in the position of quarterback.",
+        "label": 0
+    },
+    {
+        "data": "M. S. Viswanathan's occupation is composer.",
+        "label": 1
+    },
+    {
+        "data": "Chavez Island is in Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Greg Lloyd, Sr., the linebacker.",
+        "label": 1
+    },
+    {
+        "data": "Gina Birch plays the instrument piano.",
+        "label": 0
+    },
+    {
+        "data": "Case Western Reserve University is based in Amsterdam.",
+        "label": 0
+    },
+    {
+        "data": "Dial M for Murder performs thriller.",
+        "label": 1
+    },
+    {
+        "data": "Pitchfork's headquarters are in Cairo.",
+        "label": 0
+    },
+    {
+        "data": "What is the twin city of Warsaw? It is Budapest.",
+        "label": 1
+    },
+    {
+        "data": "Armando Iannucci, who is employed by BBC.",
+        "label": 1
+    },
+    {
+        "data": "Cuatro Vientos Airport was called after Delaware.",
+        "label": 0
+    },
+    {
+        "data": "Warsaw Uprising is located in Warsaw.",
+        "label": 1
+    },
+    {
+        "data": "Vitaly Margulis plays the instrument piano.",
+        "label": 1
+    },
+    {
+        "data": "The occupation of Resham Tipnis is actor.",
+        "label": 1
+    },
+    {
+        "data": "Louis Blanc worked in the city of Paris.",
+        "label": 1
+    },
+    {
+        "data": "Louis-Ernest Dubois has the position of bishop.",
+        "label": 0
+    },
+    {
+        "data": "The headquarter of Brown Company is located in Berlin.",
+        "label": 1
+    },
+    {
+        "data": "What is the twin city of Nur-Sultan? It is Beijing.",
+        "label": 0
+    },
+    {
+        "data": "Devilman, that was formulated in Japan.",
+        "label": 1
+    },
+    {
+        "data": "Dewey Selmon plays in the position of linebacker.",
+        "label": 1
+    },
+    {
+        "data": "John Buchanan, who is a citizen of Canada.",
+        "label": 1
+    },
+    {
+        "data": "Nokia N810, developed by Toyota.",
+        "label": 0
+    },
+    {
+        "data": "Apple III is created by Apple.",
+        "label": 1
+    },
+    {
+        "data": "Coal Exchange is within Missouri.",
+        "label": 0
+    },
+    {
+        "data": "Willy Millowitsch used to work in Cologne.",
+        "label": 1
+    },
+    {
+        "data": "The mother tongue of Vlada Roslyakova is Russian.",
+        "label": 1
+    },
+    {
+        "data": "Steve Kuhn, playing the piano.",
+        "label": 1
+    },
+    {
+        "data": "The headquarters of Ganger Rolf ASA is in Moscow.",
+        "label": 0
+    },
+    {
+        "data": "Orange Catholic Bible was called after Bible.",
+        "label": 1
+    },
+    {
+        "data": "Bert Jones plays in the position of midfielder.",
+        "label": 0
+    },
+    {
+        "data": "In ASEAN, they understand English.",
+        "label": 0
+    },
+    {
+        "data": "Michael Mantler plays the trumpet.",
+        "label": 1
+    },
+    {
+        "data": "Sky2 is from BBC.",
+        "label": 0
+    },
+    {
+        "data": "Carl H. Brans is originally from Kiev.",
+        "label": 0
+    },
+    {
+        "data": "Abdel Sattar Sabry plays in the position of midfielder.",
+        "label": 1
+    },
+    {
+        "data": "USS Virginia, which was named after Belfast.",
+        "label": 0
+    },
+    {
+        "data": "Pud Galvin, the quarterback.",
+        "label": 0
+    },
+    {
+        "data": "Craiova, in Antarctica.",
+        "label": 0
+    },
+    {
+        "data": "Which position does Tyler Moss play? They play as goaltender.",
+        "label": 1
+    },
+    {
+        "data": "Oofotr is known for performing opera.",
+        "label": 0
+    },
+    {
+        "data": "Suzuki GSV-R, produced by Suzuki.",
+        "label": 1
+    },
+    {
+        "data": "Ballydehob is located in the country of Russia.",
+        "label": 0
+    },
+    {
+        "data": "Which position does Mike Holmgren play? They play as midfielder.",
+        "label": 0
+    },
+    {
+        "data": "In Biasca, the language spoken is Italian.",
+        "label": 1
+    },
+    {
+        "data": "Cartographers Range is located in Africa.",
+        "label": 0
+    },
+    {
+        "data": "The language of The Amber Spyglass was English.",
+        "label": 1
+    },
+    {
+        "data": "Lee Loughnane, the guitar.",
+        "label": 0
+    },
+    {
+        "data": "Edward Heyman speaks English.",
+        "label": 1
+    },
+    {
+        "data": "Camp Tarawa, in California.",
+        "label": 0
+    },
+    {
+        "data": "Argentina Range is a part of the continent of Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Ricardo Bofill writes in Spanish.",
+        "label": 1
+    },
+    {
+        "data": "Gary Carter plays baseball.",
+        "label": 1
+    },
+    {
+        "data": "The language of Two English Girls was English.",
+        "label": 1
+    },
+    {
+        "data": "WinDbg was developed by Microsoft.",
+        "label": 1
+    },
+    {
+        "data": "15th arrondissement of Paris can be found in Toronto.",
+        "label": 0
+    },
+    {
+        "data": "Gilroy High School is in California.",
+        "label": 1
+    },
+    {
+        "data": "Augustine Ahinful is a citizen of Ireland.",
+        "label": 0
+    },
+    {
+        "data": "Chinese Skating Association's headquarters are in Indianapolis.",
+        "label": 0
+    },
+    {
+        "data": "The occupation of Yakubu Gowon is politician.",
+        "label": 1
+    },
+    {
+        "data": "In Kristinestad, the language spoken is Latin.",
+        "label": 0
+    },
+    {
+        "data": "What sport does Nigel de Jong play? They play soccer.",
+        "label": 1
+    },
+    {
+        "data": "Homero Francesch, performing on the piano.",
+        "label": 1
+    },
+    {
+        "data": "Stop & Shop is headquartered in Berlin.",
+        "label": 0
+    },
+    {
+        "data": "Adobe Muse was a product of Adobe.",
+        "label": 1
+    },
+    {
+        "data": "Bonanza premieres on NBC.",
+        "label": 1
+    },
+    {
+        "data": "Giorgio Pantano holds a citizenship from India.",
+        "label": 0
+    },
+    {
+        "data": "The profession of Akshaye Khanna is actor.",
+        "label": 1
+    },
+    {
+        "data": "Ranavalona I was born in Bree.",
+        "label": 0
+    },
+    {
+        "data": "In Vesanto, an official language is Finnish.",
+        "label": 1
+    },
+    {
+        "data": "Solan District is in Antarctica.",
+        "label": 0
+    },
+    {
+        "data": "Andrew Gilligan, who is employed by Intel.",
+        "label": 0
+    },
+    {
+        "data": "Friedrich Bessel specializes in mathematics.",
+        "label": 0
+    },
+    {
+        "data": "Egon Petri used to work in Berlin.",
+        "label": 1
+    },
+    {
+        "data": "The law in Donetsk People's Republic declares the language Ukrainian.",
+        "label": 1
+    },
+    {
+        "data": "Lake Texana is in Texas.",
+        "label": 1
+    },
+    {
+        "data": "What sport does Tony Gwynn play? They play soccer.",
+        "label": 0
+    },
+    {
+        "data": "Ermete Zacconi is a citizen of Italy.",
+        "label": 1
+    },
+    {
+        "data": "Nakheel Tower is located in Dubai.",
+        "label": 1
+    },
+    {
+        "data": "Julie Delpy is a native speaker of Portuguese.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Leopoldo Lugones is Armenian.",
+        "label": 0
+    },
+    {
+        "data": "Frank Gifford professionally plays the sport baseball.",
+        "label": 0
+    },
+    {
+        "data": "Videocon is based in Paris.",
+        "label": 0
+    },
+    {
+        "data": "Harrods bombing is located in London.",
+        "label": 1
+    },
+    {
+        "data": "The capital of Denmark is Copenhagen.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Gaston Defferre is French.",
+        "label": 1
+    },
+    {
+        "data": "Chevrolet Captiva, produced by Chevrolet.",
+        "label": 1
+    },
+    {
+        "data": "St. Elsewhere was released on NBC.",
+        "label": 1
+    },
+    {
+        "data": "The twin city of Belgrade is Munich.",
+        "label": 0
+    },
+    {
+        "data": "Gustave de Beaumont, speaker of French.",
+        "label": 1
+    },
+    {
+        "data": "Gustaaf Schlegel, speaker of German.",
+        "label": 0
+    },
+    {
+        "data": "Augusto Genina died at Naples.",
+        "label": 0
+    },
+    {
+        "data": "The mother tongue of Philippe de Mornay is Russian.",
+        "label": 0
+    },
+    {
+        "data": "Ulrich Wilcken worked in the city of London.",
+        "label": 0
+    },
+    {
+        "data": "Andreas Carlsson holds a citizenship from Denmark.",
+        "label": 0
+    },
+    {
+        "data": "In Chennai, they understand Tamil.",
+        "label": 1
+    },
+    {
+        "data": "Davis Station is a part of the continent of Europe.",
+        "label": 0
+    },
+    {
+        "data": "Grazia, from France.",
+        "label": 1
+    },
+    {
+        "data": "Mule Peninsula, in Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Areva is from Germany.",
+        "label": 0
+    },
+    {
+        "data": "Beascochea Bay is a part of the continent of Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Shatranj Ke Khilari, that was from Brazil.",
+        "label": 0
+    },
+    {
+        "data": "Berchtold Haller passed away in Bern.",
+        "label": 1
+    },
+    {
+        "data": "Drew Stanton plays as goaltender.",
+        "label": 0
+    },
+    {
+        "data": "Windows 2000, developed by Sega.",
+        "label": 0
+    },
+    {
+        "data": "Ballboy, that was started in Edinburgh.",
+        "label": 1
+    },
+    {
+        "data": "Philistus originates from Syracuse.",
+        "label": 1
+    },
+    {
+        "data": "Rumi is affiliated with the religion Islam.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Sambhavana Sheth is Hindi.",
+        "label": 1
+    },
+    {
+        "data": "Chevrolet Vega is produced by Chevrolet.",
+        "label": 1
+    },
+    {
+        "data": "Zenas King died at Rome.",
+        "label": 0
+    },
+    {
+        "data": "The original language of Introducing Joss Stone is English.",
+        "label": 1
+    },
+    {
+        "data": "Last Call with Carson Daly premiered on NBC.",
+        "label": 1
+    },
+    {
+        "data": "In Crown of Arag\u00f3n, they understand Catalan.",
+        "label": 1
+    },
+    {
+        "data": "Jerzy Borejsza used to work in Oslo.",
+        "label": 0
+    },
+    {
+        "data": "Saint Amator, who holds the position of mayor.",
+        "label": 0
+    },
+    {
+        "data": "The official language of Rwanda is Dutch.",
+        "label": 0
+    },
+    {
+        "data": "The official language of Caslano is French.",
+        "label": 0
+    },
+    {
+        "data": "Adela of Normandy originates from Normandy.",
+        "label": 1
+    },
+    {
+        "data": "Jo Maxi, that was created in Ireland.",
+        "label": 1
+    },
+    {
+        "data": "The Gene Autry Show premieres on CBS.",
+        "label": 1
+    },
+    {
+        "data": "John McPherson, who is a citizen of Norway.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Corrado Segre is Italian.",
+        "label": 1
+    },
+    {
+        "data": "The headquarter of Piramal Enterprises Ltd is in Mumbai.",
+        "label": 1
+    },
+    {
+        "data": "Surat Basin, located in Australia.",
+        "label": 1
+    },
+    {
+        "data": "George Shrinks premiered on BBC.",
+        "label": 0
+    },
+    {
+        "data": "Giovanni Poleni's profession is a architect.",
+        "label": 0
+    },
+    {
+        "data": "ice cream cone is located in Austria.",
+        "label": 1
+    },
+    {
+        "data": "The native language of Georges Marchal is French.",
+        "label": 1
+    },
+    {
+        "data": "Vladim\u00edr R\u016f\u017ei\u010dka, the basketball.",
+        "label": 0
+    },
+    {
+        "data": "Rajkot, in Asia.",
+        "label": 1
+    },
+    {
+        "data": "Comhar is written in French.",
+        "label": 0
+    },
+    {
+        "data": "Digital Eel is based in Seattle.",
+        "label": 1
+    },
+    {
+        "data": "CB Estudiantes can be found in Moscow.",
+        "label": 0
+    },
+    {
+        "data": "S. W. R. D. Bandaranaike is affiliated with the religion Judaism.",
+        "label": 0
+    },
+    {
+        "data": "The headquarter of Grameen Bank is in Bangladesh.",
+        "label": 1
+    },
+    {
+        "data": "The domain of work of August Weismann is astronomy.",
+        "label": 0
+    },
+    {
+        "data": "Arsenio Lacson passed away in Vermont.",
+        "label": 0
+    },
+    {
+        "data": "Avraam Russo is native to Aleppo.",
+        "label": 1
+    },
+    {
+        "data": "Jacques Charles Dupont de l'Eure spoke the language Italian.",
+        "label": 0
+    },
+    {
+        "data": "Breidnes Peninsula is in Europe.",
+        "label": 0
+    },
+    {
+        "data": "Heather Trost, the violin.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Beau Billingslea is French.",
+        "label": 0
+    },
+    {
+        "data": "Scottish independence referendum, 2014 is located in Scotland.",
+        "label": 1
+    },
+    {
+        "data": "Otto Schreier passed away at Copenhagen.",
+        "label": 0
+    },
+    {
+        "data": "Pierre Chenal speaks French.",
+        "label": 1
+    },
+    {
+        "data": "Ankara Arena, from Ankara.",
+        "label": 1
+    },
+    {
+        "data": "Jean Vautrin, speaker of English.",
+        "label": 0
+    },
+    {
+        "data": "Kinuyo Tanaka, who works as actor.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Mikhail Khodorkovsky is Spanish.",
+        "label": 0
+    },
+    {
+        "data": "Beppe Gambetta plays the instrument violin.",
+        "label": 0
+    },
+    {
+        "data": "The music label that is representing Rachael Lampa is Word.",
+        "label": 1
+    },
+    {
+        "data": "Pinoy Idol, that was from Philippines.",
+        "label": 1
+    },
+    {
+        "data": "What does My Family play? They play sitcom.",
+        "label": 1
+    },
+    {
+        "data": "Jason Paige, who works as lawyer.",
+        "label": 0
+    },
+    {
+        "data": "Tyshawn Sorey, performing on the piano.",
+        "label": 1
+    },
+    {
+        "data": "Navy Log is to debut on CBS.",
+        "label": 1
+    },
+    {
+        "data": "Michel Sardou is a native speaker of French.",
+        "label": 1
+    },
+    {
+        "data": "The language of The Time Machine is English.",
+        "label": 1
+    },
+    {
+        "data": "Datsakorn Thonglao, the midfielder.",
+        "label": 1
+    },
+    {
+        "data": "Daresalam, that was formulated in Chad.",
+        "label": 1
+    },
+    {
+        "data": "Tarek Yehia plays in the position of midfielder.",
+        "label": 1
+    },
+    {
+        "data": "Chevrolet Camaro (fifth generation), created by Porsche.",
+        "label": 0
+    },
+    {
+        "data": "William Henry Fry originated from Constantinople.",
+        "label": 0
+    },
+    {
+        "data": "Wisconsin Highway 101 can be found in Alberta.",
+        "label": 0
+    },
+    {
+        "data": "Bakuman from Japan.",
+        "label": 1
+    },
+    {
+        "data": "What is the twin city of Portsmouth? It is Manila.",
+        "label": 0
+    },
+    {
+        "data": "Polish Press Agency was started in Warsaw.",
+        "label": 1
+    },
+    {
+        "data": "Basel is located in the continent Asia.",
+        "label": 0
+    },
+    {
+        "data": "The original language of Pulp Fiction was English.",
+        "label": 1
+    },
+    {
+        "data": "Rowhedge, in Essex.",
+        "label": 1
+    },
+    {
+        "data": "Colombo is a twin city of Naples.",
+        "label": 0
+    },
+    {
+        "data": "In Serbia, the language spoken is Croatian.",
+        "label": 0
+    },
+    {
+        "data": "The domain of work of PhilPapers is ethics.",
+        "label": 0
+    },
+    {
+        "data": "Giacomo Balla speaks the language Italian.",
+        "label": 1
+    },
+    {
+        "data": "Sumulong Highway is located in Philippines.",
+        "label": 1
+    },
+    {
+        "data": "Samuel Purchas writes in English.",
+        "label": 1
+    },
+    {
+        "data": "Eustache-Hyacinthe Langlois, a native Russian.",
+        "label": 0
+    },
+    {
+        "data": "Norwegian News Agency, whose headquarters are in Liverpool.",
+        "label": 0
+    },
+    {
+        "data": "Muhammad is follower of Buddhism.",
+        "label": 0
+    },
+    {
+        "data": "Murphy Glacier is in Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "The mother tongue of Mithat Bayrak is Turkish.",
+        "label": 1
+    },
+    {
+        "data": "Giovanni Battista Vitali, who works as composer.",
+        "label": 1
+    },
+    {
+        "data": "In Republic of Kalmykia, they understand Russian.",
+        "label": 1
+    },
+    {
+        "data": "George Best, the soccer.",
+        "label": 1
+    },
+    {
+        "data": "Jeppesen's owner BBC.",
+        "label": 0
+    },
+    {
+        "data": "Charles Bell's domain of work is physiology.",
+        "label": 1
+    },
+    {
+        "data": "In Army Public School Peshawar, an official language is Italian.",
+        "label": 0
+    },
+    {
+        "data": "Christine Bleakley is employed by Atari.",
+        "label": 0
+    },
+    {
+        "data": "Open University of Catalonia is in Ohio.",
+        "label": 0
+    },
+    {
+        "data": "The language of Net als toen is Norwegian.",
+        "label": 0
+    },
+    {
+        "data": "Humphry Davy works in the area of philosophy.",
+        "label": 0
+    },
+    {
+        "data": "Centennial Park Stadium, from Toronto.",
+        "label": 1
+    },
+    {
+        "data": "The official language of Mexico is Spanish.",
+        "label": 1
+    },
+    {
+        "data": "Walter Payton, the baseball.",
+        "label": 0
+    },
+    {
+        "data": "Mountain Jews is follower of Judaism.",
+        "label": 1
+    },
+    {
+        "data": "Mitre Corporation is based in Bedford.",
+        "label": 1
+    },
+    {
+        "data": "Neny Island is a part of the continent of Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "The twin city of Mexico City is Chicago.",
+        "label": 1
+    },
+    {
+        "data": "Snowdon is located in Antarctica.",
+        "label": 0
+    },
+    {
+        "data": "Spain is a part of the NATO.",
+        "label": 1
+    },
+    {
+        "data": "Thomas Phillipps speaks French.",
+        "label": 0
+    },
+    {
+        "data": "Luc Besson spoke the language Italian.",
+        "label": 0
+    },
+    {
+        "data": "Montreal World Film Festival is located in Milan.",
+        "label": 0
+    },
+    {
+        "data": "The occupation of Yoo So-young is actor.",
+        "label": 1
+    },
+    {
+        "data": "Jon Eardley performs on the violin.",
+        "label": 0
+    },
+    {
+        "data": "Cal Lampley's profession is a journalist.",
+        "label": 0
+    },
+    {
+        "data": "Berry Berenson, who works as architect.",
+        "label": 0
+    },
+    {
+        "data": "Wakefield Park, which is located in Australia.",
+        "label": 1
+    },
+    {
+        "data": "Chevrolet Chevelle is a product of Chevrolet.",
+        "label": 1
+    },
+    {
+        "data": "Hohenwestedt, in Austria.",
+        "label": 0
+    },
+    {
+        "data": "Leap Castle, in Ireland.",
+        "label": 1
+    },
+    {
+        "data": "Coast Mountains, in Alaska.",
+        "label": 1
+    },
+    {
+        "data": "Pierre Reverdy spoke the language Russian.",
+        "label": 0
+    },
+    {
+        "data": "European Theatre of World War II is in London.",
+        "label": 0
+    },
+    {
+        "data": "Sony Pictures Entertainment Japan, by Sony.",
+        "label": 1
+    },
+    {
+        "data": "Heinz-Christian Strache was employed in Vienna.",
+        "label": 1
+    },
+    {
+        "data": "Guster, founded in Baltimore.",
+        "label": 0
+    },
+    {
+        "data": "The headquarters of Library House is in Cambridge.",
+        "label": 1
+    },
+    {
+        "data": "The Wire was originally aired on HBO.",
+        "label": 1
+    },
+    {
+        "data": "Bruno Kreisky used to work in Paris.",
+        "label": 0
+    },
+    {
+        "data": "The headquarters of BMC Software is in Boston.",
+        "label": 0
+    },
+    {
+        "data": "John Leopold Denman originated from Brighton.",
+        "label": 1
+    },
+    {
+        "data": "Takuya \u014cnishi's occupation is actor.",
+        "label": 0
+    },
+    {
+        "data": "Wharton County is within Texas.",
+        "label": 1
+    },
+    {
+        "data": "Dospat Municipality is located in Philippines.",
+        "label": 0
+    },
+    {
+        "data": "Average Joe debuted on CNN.",
+        "label": 0
+    },
+    {
+        "data": "Attic Lights was formed in Mumbai.",
+        "label": 0
+    },
+    {
+        "data": "The official religion of Hephthalite Empire is Christianity.",
+        "label": 0
+    },
+    {
+        "data": "WeMade Entertainment is headquartered in Boston.",
+        "label": 0
+    },
+    {
+        "data": "Astrid Thors was employed in Helsinki.",
+        "label": 1
+    },
+    {
+        "data": "The language of Polish Biographical Dictionary is English.",
+        "label": 0
+    },
+    {
+        "data": "William Nicholas Selig was born in Chicago.",
+        "label": 1
+    },
+    {
+        "data": "The headquarter of NI Railways is located in London.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Amaia Salamanca is French.",
+        "label": 0
+    },
+    {
+        "data": "Frederick Stanley Maude lost their life at London.",
+        "label": 0
+    },
+    {
+        "data": "Samantha Jade, that was created in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Google Health is created by Apple.",
+        "label": 0
+    },
+    {
+        "data": "The Apparition, that originated in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Museo Correr can be found in Venice.",
+        "label": 1
+    },
+    {
+        "data": "Bundesautobahn 73, by Germany.",
+        "label": 1
+    },
+    {
+        "data": "The language of La Commune was English.",
+        "label": 0
+    },
+    {
+        "data": "Rottumerplaat, which is located in Japan.",
+        "label": 0
+    },
+    {
+        "data": "Toyota Toyoace, produced by Toyota.",
+        "label": 1
+    },
+    {
+        "data": "Willem-Alexander of the Netherlands speaks French.",
+        "label": 0
+    },
+    {
+        "data": "Piers Paul Read speaks English.",
+        "label": 1
+    },
+    {
+        "data": "Zachary Taylor is a native speaker of French.",
+        "label": 0
+    },
+    {
+        "data": "David Sainsbury, Baron Sainsbury of Turville used to work in London.",
+        "label": 1
+    },
+    {
+        "data": "Renault Alliance is created by Renault.",
+        "label": 1
+    },
+    {
+        "data": "Tomy Drissi is native to Hollywood.",
+        "label": 1
+    },
+    {
+        "data": "The law in Ligornetto declares the language Finnish.",
+        "label": 0
+    },
+    {
+        "data": "Avraam Russo is native to Paris.",
+        "label": 0
+    },
+    {
+        "data": "Dhanush works as actor.",
+        "label": 1
+    },
+    {
+        "data": "Benedict Calvert, 4th Baron Baltimore's occupation is actor.",
+        "label": 0
+    },
+    {
+        "data": "Which position does Tyler Moss play? They play as pitcher.",
+        "label": 0
+    },
+    {
+        "data": "Buffet Crampon was formulated in France.",
+        "label": 1
+    },
+    {
+        "data": "The genre played by Marcus Rojas is opera.",
+        "label": 0
+    },
+    {
+        "data": "In Congress Poland, an official language is Russian.",
+        "label": 1
+    },
+    {
+        "data": "Cologne Carnival can be found in Arizona.",
+        "label": 0
+    },
+    {
+        "data": "Salvatore Pennacchio is a bishop.",
+        "label": 1
+    },
+    {
+        "data": "The profession of Avi Wigderson is mathematician.",
+        "label": 1
+    },
+    {
+        "data": "The language of Monster Buster Club was English.",
+        "label": 0
+    },
+    {
+        "data": "In Siikajoki, they understand Scots.",
+        "label": 0
+    },
+    {
+        "data": "The genre played by Rob McConnell is fantasy.",
+        "label": 0
+    },
+    {
+        "data": "Columbia Daily Tribune's headquarters are in Columbia.",
+        "label": 1
+    },
+    {
+        "data": "The language used by Musa Manarov is Russian.",
+        "label": 1
+    },
+    {
+        "data": "Lifemask label : Federal.",
+        "label": 0
+    },
+    {
+        "data": "William Johnson Cory speaks English.",
+        "label": 1
+    },
+    {
+        "data": "Toyota Tercel is produced by Dodge.",
+        "label": 0
+    },
+    {
+        "data": "Suzanne Malherbe writes in French.",
+        "label": 1
+    },
+    {
+        "data": "The native language of Nicholas Marr is French.",
+        "label": 0
+    },
+    {
+        "data": "Pierre C. Cartier speaks the language French.",
+        "label": 1
+    },
+    {
+        "data": "Michael Uma\u00f1a professionally plays the sport football.",
+        "label": 0
+    },
+    {
+        "data": "Delia Murphy, a citizen of Ireland.",
+        "label": 1
+    },
+    {
+        "data": "The law in Bahia declares the language Portuguese.",
+        "label": 1
+    },
+    {
+        "data": "Jarom\u00edr J\u00e1gr professionally plays the sport basketball.",
+        "label": 0
+    },
+    {
+        "data": "The location of Russian Civil War is Athens.",
+        "label": 0
+    },
+    {
+        "data": "Robert Kennicott expired at Vienna.",
+        "label": 0
+    },
+    {
+        "data": "Maso da San Friano passed away at Florence.",
+        "label": 1
+    },
+    {
+        "data": "John Morris, Baron Morris of Borth-y-Gest worked in London.",
+        "label": 1
+    },
+    {
+        "data": "In South Africa, the language spoken is English.",
+        "label": 1
+    },
+    {
+        "data": "Gordie Howe plays hockey.",
+        "label": 1
+    },
+    {
+        "data": "Kris Griffin plays in the position of linebacker.",
+        "label": 1
+    },
+    {
+        "data": "Lopo Soares de Albergaria was originally from Lisbon.",
+        "label": 1
+    },
+    {
+        "data": "Valdichiana is located in the country of Canada.",
+        "label": 0
+    },
+    {
+        "data": "Pacific Banana, that was developed in Australia.",
+        "label": 1
+    },
+    {
+        "data": "The language of Redfern Now was Russian.",
+        "label": 0
+    },
+    {
+        "data": "Keystone Corridor can be found in Arkansas.",
+        "label": 0
+    },
+    {
+        "data": "Royal Automobile Club of Queensland, whose headquarters are in Queensland.",
+        "label": 1
+    },
+    {
+        "data": "The language of Le chalet is French.",
+        "label": 1
+    },
+    {
+        "data": "Christian Doppler used to work in Atlanta.",
+        "label": 0
+    },
+    {
+        "data": "The twin city of Bucharest is London.",
+        "label": 1
+    },
+    {
+        "data": "Nissan Silvia is a product of Nissan.",
+        "label": 1
+    },
+    {
+        "data": "Carl Kasell is employed by IBM.",
+        "label": 0
+    },
+    {
+        "data": "Chakrabongse Bhuvanadh has a citizenship from Italy.",
+        "label": 0
+    },
+    {
+        "data": "Edward Victor Appleton specializes in Hebrew.",
+        "label": 0
+    },
+    {
+        "data": "The domain of work of Edoardo Amaldi is biology.",
+        "label": 0
+    },
+    {
+        "data": "60 Minutes debuted on NBC.",
+        "label": 0
+    },
+    {
+        "data": "Giorgia has a citizenship from Italy.",
+        "label": 1
+    },
+    {
+        "data": "Simone Vagnozzi has a citizenship from Japan.",
+        "label": 0
+    },
+    {
+        "data": "Ivan Puni, a native Russian.",
+        "label": 1
+    },
+    {
+        "data": "In International Academy of Sciences San Marino, an official language is English.",
+        "label": 1
+    },
+    {
+        "data": "Ford Motor Company of Canada, which is located in Greece.",
+        "label": 0
+    },
+    {
+        "data": "John Morris, Baron Morris of Borth-y-Gest worked in Jerusalem.",
+        "label": 0
+    },
+    {
+        "data": "Scotland's capital city is Beijing.",
+        "label": 0
+    },
+    {
+        "data": "Francisco de Ibarra died at Mexico.",
+        "label": 1
+    },
+    {
+        "data": "In Kiruna Municipality, an official language is Finnish.",
+        "label": 1
+    },
+    {
+        "data": "Byard Lancaster, who plays opera.",
+        "label": 0
+    },
+    {
+        "data": "The twin city of Bucharest is Bangkok.",
+        "label": 0
+    },
+    {
+        "data": "John and Edith Kilbuck took up work in Alaska.",
+        "label": 1
+    },
+    {
+        "data": "Which position does Konstantin Vassiljev play? They play as midfielder.",
+        "label": 1
+    },
+    {
+        "data": "Francis Robortello speaks Italian.",
+        "label": 1
+    },
+    {
+        "data": "Peter Bland originates from Scarborough.",
+        "label": 1
+    },
+    {
+        "data": "Kristian Levring, a citizen of Japan.",
+        "label": 0
+    },
+    {
+        "data": "The law in Gagauzia declares the language Spanish.",
+        "label": 0
+    },
+    {
+        "data": "Ma'rib Governorate can be found in Maryland.",
+        "label": 0
+    },
+    {
+        "data": "Vincent Strambi holds the title of pope.",
+        "label": 0
+    },
+    {
+        "data": "EZ Basic formed in Minnesota.",
+        "label": 0
+    },
+    {
+        "data": "Odo, Earl of Kent's position is cardinal.",
+        "label": 0
+    },
+    {
+        "data": "Francesco Melzi d'Eril passed away at Milan.",
+        "label": 1
+    },
+    {
+        "data": "Gottfried Helnwein used to work in Paris.",
+        "label": 0
+    },
+    {
+        "data": "The native language of Daniel Ceccaldi is Spanish.",
+        "label": 0
+    },
+    {
+        "data": "Lawrence Scott's profession is an novelist.",
+        "label": 1
+    },
+    {
+        "data": "Victoria Law Courts can be found in Cologne.",
+        "label": 0
+    },
+    {
+        "data": "Emilio de' Cavalieri writes in Russian.",
+        "label": 0
+    },
+    {
+        "data": "Makkah Region, which has the capital city Mecca.",
+        "label": 1
+    },
+    {
+        "data": "The law in Donetsk declares the language Ukrainian.",
+        "label": 1
+    },
+    {
+        "data": "Cuban Missile Crisis is in Cuba.",
+        "label": 1
+    },
+    {
+        "data": "Archaeopress started in Sweden.",
+        "label": 0
+    },
+    {
+        "data": "Which position does Gabriele Oriali play? They play as pitcher.",
+        "label": 0
+    },
+    {
+        "data": "What sport does Landon Donovan play? They play hockey.",
+        "label": 0
+    },
+    {
+        "data": "Facit, which is located in Netherlands.",
+        "label": 0
+    },
+    {
+        "data": "Raisul Islam Asad is affiliated with the religion Buddhism.",
+        "label": 0
+    },
+    {
+        "data": "Grand Union Canal, in Berkshire.",
+        "label": 1
+    },
+    {
+        "data": "Rabah Bitat, who has a citizenship from Algeria.",
+        "label": 1
+    },
+    {
+        "data": "Blaine Willenborg was born in Portsmouth.",
+        "label": 0
+    },
+    {
+        "data": "Stephen Hales's expertise is physiology.",
+        "label": 1
+    },
+    {
+        "data": "William John Gruffydd, who works as poet.",
+        "label": 1
+    },
+    {
+        "data": "Col Agnel is located in Singapore.",
+        "label": 0
+    },
+    {
+        "data": "The language of Arahan is English.",
+        "label": 0
+    },
+    {
+        "data": "Cape Burks, in Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "FC Anker Wismar, located in Brazil.",
+        "label": 0
+    },
+    {
+        "data": "Dodge Charger is produced by Porsche.",
+        "label": 0
+    },
+    {
+        "data": "Maurice Merleau-Ponty writes in French.",
+        "label": 1
+    },
+    {
+        "data": "In Seychelles, an official language is Spanish.",
+        "label": 0
+    },
+    {
+        "data": "Eric Etebari works as actor.",
+        "label": 1
+    },
+    {
+        "data": "Founders Peaks, in Europe.",
+        "label": 0
+    },
+    {
+        "data": "Dodge Coronet is developed by Dodge.",
+        "label": 1
+    },
+    {
+        "data": "iPod Mini is produced by Boeing.",
+        "label": 0
+    },
+    {
+        "data": "Hugo von Hofmannsthal, a native German.",
+        "label": 1
+    },
+    {
+        "data": "Arne Vidar R\u00f8ed, a citizen of Norway.",
+        "label": 1
+    },
+    {
+        "data": "John Bernard Riley, who plays jazz.",
+        "label": 1
+    },
+    {
+        "data": "The profession of Kazimierz Kuratowski is mathematician.",
+        "label": 1
+    },
+    {
+        "data": "Shree Pundalik, created in Sweden.",
+        "label": 0
+    },
+    {
+        "data": "Vladimir Vinogradov, speaker of French.",
+        "label": 0
+    },
+    {
+        "data": "Google Buzz, a product of Google.",
+        "label": 1
+    },
+    {
+        "data": "The official language of Paraguay is Italian.",
+        "label": 0
+    },
+    {
+        "data": "Fort Madalena, in Malta.",
+        "label": 1
+    },
+    {
+        "data": "BMW R32, produced by Honda.",
+        "label": 0
+    },
+    {
+        "data": "The occupation of Walter Noll is mathematician.",
+        "label": 1
+    },
+    {
+        "data": "Allison Nelson worked in London.",
+        "label": 0
+    },
+    {
+        "data": "Sony Mavica is a product of Dodge.",
+        "label": 0
+    },
+    {
+        "data": "The official language of Equatorial Guinea is Portuguese.",
+        "label": 1
+    },
+    {
+        "data": "Julius II, whose position is that of bishop.",
+        "label": 0
+    },
+    {
+        "data": "What sport does Lionel Conacher play? They play hockey.",
+        "label": 1
+    },
+    {
+        "data": "The law in Trinidad and Tobago declares the language Hindi.",
+        "label": 0
+    },
+    {
+        "data": "Toyota GT-86, produced by Toyota.",
+        "label": 1
+    },
+    {
+        "data": "Marek Edelman worked in the city of London.",
+        "label": 0
+    },
+    {
+        "data": "Jacques Werup spoke the language Swedish.",
+        "label": 1
+    },
+    {
+        "data": "Napoleon Chagnon specializes in anthropology.",
+        "label": 1
+    },
+    {
+        "data": "The official language of Odessa Oblast is Ukrainian.",
+        "label": 1
+    },
+    {
+        "data": "Dresdner SC, whose headquarters are in London.",
+        "label": 0
+    },
+    {
+        "data": "The language used by Piero Manzoni is Italian.",
+        "label": 1
+    },
+    {
+        "data": "Bundesautobahn 4, by Germany.",
+        "label": 1
+    },
+    {
+        "data": "Beryl Cook passed away in Chicago.",
+        "label": 0
+    },
+    {
+        "data": "Michael Fassbender, who has a citizenship from Italy.",
+        "label": 0
+    },
+    {
+        "data": "CHI Health Center Omaha owner Omaha.",
+        "label": 1
+    },
+    {
+        "data": "Chvrches, that was started in Glasgow.",
+        "label": 1
+    },
+    {
+        "data": "In Malaysia, the language spoken is English.",
+        "label": 1
+    },
+    {
+        "data": "Pennie Smith was native to Plymouth.",
+        "label": 0
+    },
+    {
+        "data": "Mount Cameroon belongs to the continent of Africa.",
+        "label": 1
+    },
+    {
+        "data": "Plymouth Prowler, created by Dodge.",
+        "label": 0
+    },
+    {
+        "data": "Sydney is a twin city of Florence.",
+        "label": 1
+    },
+    {
+        "data": "Pinhas Hirschprung passed away in Montreal.",
+        "label": 1
+    },
+    {
+        "data": "Franz Reuleaux's expertise is physician.",
+        "label": 0
+    },
+    {
+        "data": "Rafael Reyes, who is a citizen of Canada.",
+        "label": 0
+    },
+    {
+        "data": "Konrad Lorenz was born in Vienna.",
+        "label": 1
+    },
+    {
+        "data": "Takrur is affiliated with the religion Christianity.",
+        "label": 0
+    },
+    {
+        "data": "Achille Campanile speaks the language Norwegian.",
+        "label": 0
+    },
+    {
+        "data": "Aldhelm has the position of bishop.",
+        "label": 1
+    },
+    {
+        "data": "Francesco Morosini worked in London.",
+        "label": 0
+    },
+    {
+        "data": "TorqueFlite, produced by Nintendo.",
+        "label": 0
+    },
+    {
+        "data": "Werner Forman expired at London.",
+        "label": 1
+    },
+    {
+        "data": "Ausa, located in India.",
+        "label": 1
+    },
+    {
+        "data": "The headquarter of World Trade Organization is in Geneva.",
+        "label": 1
+    },
+    {
+        "data": "Al-Khansa is follower of Judaism.",
+        "label": 0
+    },
+    {
+        "data": "The native language of Patrick Devedjian is Russian.",
+        "label": 0
+    },
+    {
+        "data": "Georges Sadoul, a native French.",
+        "label": 1
+    },
+    {
+        "data": "guacamole, developed in Mexico.",
+        "label": 1
+    },
+    {
+        "data": "Maurice Herzog speaks the language French.",
+        "label": 1
+    },
+    {
+        "data": "Leroy Wallace is native to Nottingham.",
+        "label": 0
+    },
+    {
+        "data": "Giovanni Stroppa, who plays the position quarterback.",
+        "label": 0
+    },
+    {
+        "data": "The twin city of Nur-Sultan is Boston.",
+        "label": 0
+    },
+    {
+        "data": "Aasal was developed in Philippines.",
+        "label": 0
+    },
+    {
+        "data": "What does Rising Damp play? They play opera.",
+        "label": 0
+    },
+    {
+        "data": "Joey Boy is originally from Thailand.",
+        "label": 1
+    },
+    {
+        "data": "Xiaomi, founded in Belfast.",
+        "label": 0
+    },
+    {
+        "data": "Demon Hunter formed in Dallas.",
+        "label": 0
+    },
+    {
+        "data": "ELP Communications's owner Sega.",
+        "label": 0
+    },
+    {
+        "data": "Kayamar, who plays opera.",
+        "label": 0
+    },
+    {
+        "data": "Lykke Li was founded in Athens.",
+        "label": 0
+    },
+    {
+        "data": "The language of Pos Allazei O Kairos was Greek.",
+        "label": 1
+    },
+    {
+        "data": "Alireza Eftekhari has a citizenship from Iran.",
+        "label": 1
+    },
+    {
+        "data": "Saunders Mountain belongs to the continent of Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Where is Arvfurstens palats? It is located in Helsinki.",
+        "label": 0
+    },
+    {
+        "data": "Henry Busse, performing on the guitar.",
+        "label": 0
+    },
+    {
+        "data": "Kosciuszko Bridge can be found in Texas.",
+        "label": 0
+    },
+    {
+        "data": "Louis-Jean-Marie Daubenton is a native speaker of French.",
+        "label": 1
+    },
+    {
+        "data": "Johannesburg is a twin city of London.",
+        "label": 1
+    },
+    {
+        "data": "Jean de Reszke, who is a citizen of Poland.",
+        "label": 1
+    },
+    {
+        "data": "Bourgeois Fjord is in Asia.",
+        "label": 0
+    },
+    {
+        "data": "John Quinlan has the position of bishop.",
+        "label": 1
+    },
+    {
+        "data": "Nissan Pulsar, created by Nissan.",
+        "label": 1
+    },
+    {
+        "data": "The official language of Faido is Italian.",
+        "label": 1
+    },
+    {
+        "data": "Susan Stamberg, who works for BBC.",
+        "label": 0
+    },
+    {
+        "data": "The language of A Secret is French.",
+        "label": 1
+    },
+    {
+        "data": "Juan Carlos I Antarctic Base is located in Asia.",
+        "label": 0
+    },
+    {
+        "data": "The mother tongue of Jean Bruller is French.",
+        "label": 1
+    },
+    {
+        "data": "The original language of Playa del Sol was Serbian.",
+        "label": 0
+    },
+    {
+        "data": "Dominicus Custos worked in the city of Prague.",
+        "label": 1
+    },
+    {
+        "data": "The law in Kentucky declares the language Finnish.",
+        "label": 0
+    },
+    {
+        "data": "Jonas Berggren plays the instrument trumpet.",
+        "label": 0
+    },
+    {
+        "data": "Nobody Waved Good-bye, that was from Bulgaria.",
+        "label": 0
+    },
+    {
+        "data": "Triumph GT6 is produced by Apple.",
+        "label": 0
+    },
+    {
+        "data": "William Crabtree's domain of activity is astronomy.",
+        "label": 1
+    },
+    {
+        "data": "Jan Swammerdam died in Beijing.",
+        "label": 0
+    },
+    {
+        "data": "Paul Klebnikov, a native Russian.",
+        "label": 1
+    },
+    {
+        "data": "Edward Said was born in Jerusalem.",
+        "label": 1
+    },
+    {
+        "data": "Emily Maitlis, who works for BBC.",
+        "label": 1
+    },
+    {
+        "data": "The language of Un Samayal Arayil was Russian.",
+        "label": 0
+    },
+    {
+        "data": "The original language of Front Page Challenge is English.",
+        "label": 1
+    },
+    {
+        "data": "La Croix was formulated in France.",
+        "label": 1
+    },
+    {
+        "data": "The Little Prince was written in French.",
+        "label": 1
+    },
+    {
+        "data": "The Hanging Gale, that was developed in Bangladesh.",
+        "label": 0
+    },
+    {
+        "data": "Vladimir the Great is follower of Christianity.",
+        "label": 1
+    },
+    {
+        "data": "Google Search owner Germany.",
+        "label": 0
+    },
+    {
+        "data": "Johann Stamitz, playing the slide.",
+        "label": 0
+    },
+    {
+        "data": "Underdog premieres on NBC.",
+        "label": 1
+    },
+    {
+        "data": "Ruben Simonov died in the city of Minneapolis.",
+        "label": 0
+    },
+    {
+        "data": "Cenepa River, in India.",
+        "label": 0
+    },
+    {
+        "data": "Roger Penrose works in the field of chemistry.",
+        "label": 0
+    },
+    {
+        "data": "OpenAFS, a product developed by Microsoft.",
+        "label": 0
+    },
+    {
+        "data": "Victoria Harbour, which was named after Copenhagen.",
+        "label": 0
+    },
+    {
+        "data": "3-2-1 Penguins! premiered on CBS.",
+        "label": 0
+    },
+    {
+        "data": "Jean-Baptiste-Louis Gresset speaks French.",
+        "label": 1
+    },
+    {
+        "data": "Where is Victoria Film Festival? It is located in Victoria.",
+        "label": 1
+    },
+    {
+        "data": "Turkey is a part of the continent of Asia.",
+        "label": 1
+    },
+    {
+        "data": "RM Education, that originated in Oxford.",
+        "label": 1
+    },
+    {
+        "data": "The twin city of Bratislava is Dublin.",
+        "label": 1
+    },
+    {
+        "data": "Tapley Mountains is in Asia.",
+        "label": 0
+    },
+    {
+        "data": "Ernest Chausson, performing on the trumpet.",
+        "label": 0
+    },
+    {
+        "data": "Kirk Caldwell holds the title of mayor.",
+        "label": 1
+    },
+    {
+        "data": "IBM System Management Facilities, created by Sega.",
+        "label": 0
+    },
+    {
+        "data": "Honda Z series is created by Honda.",
+        "label": 1
+    },
+    {
+        "data": "Los Angeles is a twin city of Beijing.",
+        "label": 0
+    },
+    {
+        "data": "Henri Estienne originated from Paris.",
+        "label": 1
+    },
+    {
+        "data": "The genre played by The Beatles is jazz.",
+        "label": 0
+    },
+    {
+        "data": "Heinrich Heine took up work in Dresden.",
+        "label": 0
+    },
+    {
+        "data": "Mount Black is located in Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Pee Wee Hunt plays opera.",
+        "label": 0
+    },
+    {
+        "data": "GTCR's headquarters are in Birmingham.",
+        "label": 0
+    },
+    {
+        "data": "In Tampere, the language spoken is Swedish.",
+        "label": 0
+    },
+    {
+        "data": "Klaus Tschira works for BBC.",
+        "label": 0
+    },
+    {
+        "data": "In Shimla, an official language is Hindi.",
+        "label": 1
+    },
+    {
+        "data": "In Kingdom of Asturias, the language spoken is Latin.",
+        "label": 1
+    },
+    {
+        "data": "Charles Alfred Pillsbury expired at Minneapolis.",
+        "label": 1
+    },
+    {
+        "data": "Prieto Diaz is located in Philippines.",
+        "label": 1
+    },
+    {
+        "data": "BMW E23, developed by BMW.",
+        "label": 1
+    },
+    {
+        "data": "Ledisi's profession is a programmer.",
+        "label": 0
+    },
+    {
+        "data": "Nitzan Horowitz writes in Hebrew.",
+        "label": 1
+    },
+    {
+        "data": "Intel MCS-48, produced by Nissan.",
+        "label": 0
+    },
+    {
+        "data": "Pierre Marie Auguste Broussonet worked in the city of Paris.",
+        "label": 1
+    },
+    {
+        "data": "David L. Lawrence works as actor.",
+        "label": 0
+    },
+    {
+        "data": "Virgil Carter, the quarterback.",
+        "label": 1
+    },
+    {
+        "data": "Booth Island is a part of the continent of Antarctica.",
+        "label": 1
+    },
+    {
+        "data": "Fiat Aviazione owner Anaheim.",
+        "label": 0
+    },
+    {
+        "data": "William Crookes works in the field of chemistry.",
+        "label": 1
+    },
+    {
+        "data": "Root! started in Montreal.",
+        "label": 0
+    },
+    {
+        "data": "The language of Africa Addio was Italian.",
+        "label": 1
+    },
+    {
+        "data": "In Swedish Empire, an official language is Swedish.",
+        "label": 1
+    },
+    {
+        "data": "The mother tongue of Porfiry Ivanov is French.",
+        "label": 0
+    },
+    {
+        "data": "Edward O'Rourke, who has the position of cardinal.",
+        "label": 0
+    },
+    {
+        "data": "The twin city of Venice is Chicago.",
+        "label": 0
+    },
+    {
+        "data": "North Hennepin Community College is within Minnesota.",
+        "label": 1
+    },
+    {
+        "data": "Jules Favre, speaker of Dutch.",
+        "label": 0
+    },
+    {
+        "data": "The genre played by Lucky Louie is jazz.",
+        "label": 0
+    },
+    {
+        "data": "Front 242, from Australia.",
+        "label": 0
+    },
+    {
+        "data": "Apollo Belvedere was called after Apollo.",
+        "label": 1
+    },
+    {
+        "data": "Xeon is produced by Honda.",
+        "label": 0
+    },
+    {
+        "data": "Edward Thorndike works in the field of Greek.",
+        "label": 0
+    },
+    {
+        "data": "Where is Battle of Baltimore? It is located in Baltimore.",
+        "label": 1
+    },
+    {
+        "data": "Byron White professionally plays the sport soccer.",
+        "label": 0
+    },
+    {
+        "data": "Luke Kuechly plays in the position of linebacker.",
+        "label": 1
+    },
+    {
+        "data": "Cybergirl, that was created in Mexico.",
+        "label": 0
+    },
+    {
+        "data": "The original language of The Crime of Father Amaro was Spanish.",
+        "label": 1
+    },
+    {
+        "data": "Olaus Rudbeck is a citizen of Canada.",
+        "label": 0
+    },
+    {
+        "data": "Shichikashuku is located in Philippines.",
+        "label": 0
+    },
+    {
+        "data": "The expertise of Theodor Lipps is chemistry.",
+        "label": 0
+    },
+    {
+        "data": "Ali-Akbar Shahnazi was originally from Tehran.",
+        "label": 1
+    },
+    {
+        "data": "Ilja Richter found employment in Berlin.",
+        "label": 1
+    },
+    {
+        "data": "Mahavira, who holds a citizenship from Luxembourg.",
+        "label": 0
+    },
+    {
+        "data": "Rowland Allanson-Winn, 5th Baron Headley is affiliated with the religion Judaism.",
+        "label": 0
+    },
+    {
+        "data": "Jimi Hendrix, the piano.",
+        "label": 0
+    },
+    {
+        "data": "Luray Caverns is in Virginia.",
+        "label": 1
+    },
+    {
+        "data": "Luke Hansard took up work in Norwich.",
+        "label": 1
+    },
+    {
+        "data": "The occupation of John Horgan is journalist.",
+        "label": 1
+    },
+    {
+        "data": "Pekinel sisters, that originated in Tokyo.",
+        "label": 0
+    },
+    {
+        "data": "The law in Lahti declares the language Finnish.",
+        "label": 1
+    },
+    {
+        "data": "Blackberry Smoke, that was started in London.",
+        "label": 0
+    },
+    {
+        "data": "Basilio Pompilj's position is cardinal.",
+        "label": 0
+    },
+    {
+        "data": "Ernie Whitt plays as catcher.",
+        "label": 1
+    },
+    {
+        "data": "Subarnapur district, which is located in India.",
+        "label": 1
+    },
+    {
+        "data": "Fayard originated in Sydney.",
+        "label": 0
+    },
+    {
+        "data": "The Long Blondes was formed in Milan.",
+        "label": 0
+    }
+]

@@ -1,0 +1,834 @@
+[
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to chair? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to Bernard? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, does the pronoun \"them\" refer to the oatmeal cookies? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"him\" refer to Dick? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . In the previous sentence, does the pronoun \"them\" refer to the oatmeal cookies? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemons? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemon trees? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check In the previous sentence, does the pronoun \"he\" refer to the man? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. In the previous sentence, does the pronoun \"he\" refer to The customer? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. In the previous sentence, does the pronoun \"they\" refer to Sam and Amy? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"his\" refer to Larry? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. In the previous sentence, does the pronoun \"his\" refer to the photographer? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to the government official? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemons? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. In the previous sentence, does the pronoun \"her\" refer to Ellen? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"his\" refer to Mr. Schmidt? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"him\" refer to Dad? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. In the previous sentence, does the pronoun \"they\" refer to Amy's parents? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got up. In the previous sentence, does the pronoun \"he\" refer to Fred? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to button? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Larry? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, does the pronoun \"it\" refer to the table? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. In the previous sentence, does the pronoun \"her\" refer to Nancy? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemon trees? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Antonio? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Chester? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"his\" refer to Mark? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Patting her back, the woman smiled at the girl . In the previous sentence, does the pronoun \"her\" refer to the woman? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, In the previous sentence, does the pronoun \"his\" refer to Mr. Taylor? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Larry's father? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . In the previous sentence, does the pronoun \"him\" refer to the government official? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to Arthur and Celeste? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make fewer of them . In the previous sentence, does the pronoun \"them\" refer to the oatmeal cookies? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to Arthur and Celeste? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to their mothers? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got up. In the previous sentence, does the pronoun \"he\" refer to George? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, does the pronoun \"it\" refer to The large ball? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"him\" refer to the master? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't reach it . In the previous sentence, does the pronoun \"it\" refer to The path? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to album? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. In the previous sentence, does the pronoun \"he\" refer to Joe? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, does the pronoun \"he\" refer to George? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Larry? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"him\" refer to Larry? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. In the previous sentence, does the pronoun \"they\" refer to faces? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"he\" refer to Mr. Schmidt? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to Bernard? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Patting her back, the woman smiled at the girl . In the previous sentence, does the pronoun \"her\" refer to the woman? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't use it . In the previous sentence, does the pronoun \"it\" refer to The path? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Jane gave Joan candy because she was hungry. In the previous sentence, does the pronoun \"she\" refer to Joan? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of steel. In the previous sentence, does the pronoun \"it\" refer to the table? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Taylor was a man of uncertain temper and his general tendency was to think that David was a poor chump and that whatever step he took in any direction on his own account was just another proof of his innate idiocy, In the previous sentence, does the pronoun \"his\" refer to Mr. Taylor? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't use it . In the previous sentence, does the pronoun \"it\" refer to the lake? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. In the previous sentence, does the pronoun \"her\" refer to Nancy? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. In the previous sentence, does the pronoun \"they\" refer to Sam and Amy? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Bill passed the half-empty plate to John because he was hungry. In the previous sentence, does the pronoun \"he\" refer to Bill? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"he\" refer to Chester? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. In the previous sentence, does the pronoun \"he\" refer to Joe? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't reach it . In the previous sentence, does the pronoun \"it\" refer to the lake? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. In the previous sentence, does the pronoun \"he\" refer to Joe's uncle? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to the government official? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to their mothers? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, does the pronoun \"she\" refer to Mama? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, does the pronoun \"her\" refer to Mama? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. In the previous sentence, does the pronoun \"they\" refer to Sam and Amy? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Mr. Moncrieff? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to faces? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to button? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to their mothers? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of steel. In the previous sentence, does the pronoun \"it\" refer to The large ball? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"he\" refer to Mark? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Edward? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to the elephants? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got up. In the previous sentence, does the pronoun \"he\" refer to George? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. In the previous sentence, does the pronoun \"they\" refer to Amy's parents? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, does the pronoun \"it\" refer to yard? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Edward? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Antonio? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, does the pronoun \"them\" refer to stores? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of steel. In the previous sentence, does the pronoun \"it\" refer to The large ball? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Jane gave Joan candy because she was hungry. In the previous sentence, does the pronoun \"she\" refer to Jane? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to children? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, does the pronoun \"it\" refer to stable? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"his\" refer to Dad? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. In the previous sentence, does the pronoun \"they\" refer to Sam and Amy? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. In the previous sentence, does the pronoun \"they\" refer to faces? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? In the previous sentence, does the pronoun \"it\" refer to safe? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Then Dad figured out how much the man owed the store; to that he added the man 's board-bill at the cook-shanty. He subtracted that amount from the man 's wages, and made out his check In the previous sentence, does the pronoun \"he\" refer to the man? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, does the pronoun \"them\" refer to storekeepers? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, does the pronoun \"them\" refer to the chocolate chip cookies? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, does the pronoun \"it\" refer to stable? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Larry , a timid teen-ager, lives with his widowed mother in a Brooklyn housing project. Larry Larry's father , a gang leader, was shot to death; his father's disciple, Antonio , takes Larry under his wing, and quickly molds him into a drug runner. In the previous sentence, does the pronoun \"his\" refer to Larry's father? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . In the previous sentence, does the pronoun \"him\" refer to anyone? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Chester? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. In the previous sentence, does the pronoun \"he\" refer to Joe? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, does the pronoun \"them\" refer to stores? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, does the pronoun \"he\" refer to George? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Jane gave Joan candy because she was hungry. In the previous sentence, does the pronoun \"she\" refer to Joan? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "While Nancy and Ellen counted the silverware, Mrs. Smith hastened upstairs. In a few minutes she returned and one look at her stricken face told the girls that the precious map was gone. In the previous sentence, does the pronoun \"her\" refer to Ellen? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to chair? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Men had the right to keep their sons working for them until they were 21 years of age. In the previous sentence, does the pronoun \"they\" refer to Men? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, does the pronoun \"it\" refer to window? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, does the pronoun \"he\" refer to Fred? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to Bernard? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"his\" refer to Chester? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"his\" refer to Larry? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"his\" refer to Mr. Schmidt? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"his\" refer to Dad? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. In the previous sentence, does the pronoun \"he\" refer to Joe's uncle? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to Arthur and Celeste? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. In the previous sentence, does the pronoun \"he\" refer to Joe? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to the master? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"he\" refer to Larry? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"he\" refer to Chester? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to Bernard? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"him\" refer to Larry? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Bill passed the half-empty plate to John because he was full. In the previous sentence, does the pronoun \"he\" refer to John? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"him\" refer to the master? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"he\" refer to Uncle Vernon? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are fifteen. In the previous sentence, does the pronoun \"they\" refer to Amy's parents? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, does the pronoun \"she\" refer to Mama? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to living room? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. In the previous sentence, does the pronoun \"they\" refer to children? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Jane gave Joan candy because she wasn't hungry. In the previous sentence, does the pronoun \"she\" refer to Jane? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years younger. In the previous sentence, does the pronoun \"he\" refer to Joe's uncle? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to faces? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Mr. Moncrieff? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to Arthur and Celeste? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to living room? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"him\" refer to Dick? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the hospital. In the previous sentence, does the pronoun \"he\" refer to The customer? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, does the pronoun \"them\" refer to the oatmeal cookies? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"his\" refer to Uncle Vernon? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. In the previous sentence, does the pronoun \"his\" refer to the photographer? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Jane gave Joan candy because she wasn't hungry. In the previous sentence, does the pronoun \"she\" refer to Jane? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to things? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to children? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bill passed the half-empty plate to John because he was full. In the previous sentence, does the pronoun \"he\" refer to John? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. In the previous sentence, does the pronoun \"he\" refer to The customer? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Men had the right to keep their sons working for them until they were 21 years of age. In the previous sentence, does the pronoun \"they\" refer to Men? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. In the previous sentence, does the pronoun \"his\" refer to the photographer? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"him\" refer to Dad? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Mr. Moncrieff? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of steel. In the previous sentence, does the pronoun \"it\" refer to the table? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Edward? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album . Today she had to hunt for a button , so she put the album on a chair without even opening it . In the previous sentence, does the pronoun \"it\" refer to album? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"he\" refer to Mark? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "One day Dick was teasing the colts, and did not know that the master was in the next field; but he was there, watching what was going on; over the hedge he jumped in a snap, and catching Dick by the arm, he hit him so hard that he roared with the pain and surprise. In the previous sentence, does the pronoun \"he\" refer to Dick? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"he\" refer to Chester? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemons? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, does the pronoun \"it\" refer to window? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to the elephants? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got back. In the previous sentence, does the pronoun \"he\" refer to Fred? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Edward? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Sam and Amy are passionately in love, but Amy's parents are unhappy about it, because they are snobs. In the previous sentence, does the pronoun \"they\" refer to Amy's parents? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't use it . In the previous sentence, does the pronoun \"it\" refer to The path? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"his\" refer to Mark? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them . In the previous sentence, does the pronoun \"them\" refer to things? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, does the pronoun \"them\" refer to rooms? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Mr. Moncrieff? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemons? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"he\" refer to Dad? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to their mothers? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . In the previous sentence, does the pronoun \"him\" refer to the government official? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't use it . In the previous sentence, does the pronoun \"it\" refer to the lake? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"his\" refer to Chester? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Joe Joe's uncle can still beat him at tennis, even though he is 30 years older. In the previous sentence, does the pronoun \"he\" refer to Joe's uncle? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemon trees? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Mr. Moncrieff visited Chester 's luxurious New York apartment, thinking that it belonged to his son Edward . The result was that Mr. Moncrieff has decided to cancel Edward 's allowance on the ground that he no longer requires his financial support. In the previous sentence, does the pronoun \"his\" refer to Chester? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The customer walked into the bank and stabbed one of the tellers. He was immediately taken to the police station. In the previous sentence, does the pronoun \"he\" refer to The customer? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "When they had eventually calmed down a bit , and had gotten home, Mr. Farley put the magic pebble in an iron safe . Some day they might want to use it , but really for now, what more could they wish for? In the previous sentence, does the pronoun \"it\" refer to safe? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Alice was dusting the living room and trying to find the button that Mama had hidden. No time today to look at old pictures in her favorite photo album. Today she had to hunt for a button, so she put the album on a chair without even opening it. In the previous sentence, does the pronoun \"her\" refer to Mama? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Bill passed the half-empty plate to John because he was hungry. In the previous sentence, does the pronoun \"he\" refer to Bill? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Everyone really loved the oatmeal cookies ; only a few people liked the chocolate chip cookies . Next time, we should make more of them . In the previous sentence, does the pronoun \"them\" refer to the chocolate chip cookies? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"their\" refer to the elephants? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Jane gave Joan candy because she was hungry. In the previous sentence, does the pronoun \"she\" refer to Jane? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, does the pronoun \"it\" refer to the table? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him . In the previous sentence, does the pronoun \"him\" refer to anyone? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't reach it . In the previous sentence, does the pronoun \"it\" refer to The path? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, does the pronoun \"them\" refer to storekeepers? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Papa looked down at the children 's faces , so puzzled and sad now. It was bad enough that they had to be denied so many things because he couldn't afford them. In the previous sentence, does the pronoun \"they\" refer to children? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to the government official? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"he\" refer to Uncle Vernon? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Jane gave Joan candy because she wasn't hungry. In the previous sentence, does the pronoun \"she\" refer to Joan? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"he\" refer to Dad? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Meanwhile, in the forest, the elephants are calling and hunting high and low for Arthur and Celeste , and their mothers are very worried. Fortunately, in flying over the town, an old marabou bird has seen them and come back quickly to tell the news. In the previous sentence, does the pronoun \"them\" refer to the elephants? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Bernard , who had not told the government official that he was less than 21 when he filed for a homestead claim, did not consider that he had done anything dishonest. Still, anyone who knew that he was 19 years old could take his claim away from him. In the previous sentence, does the pronoun \"he\" refer to the government official? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "I tried to paint a picture of an orchard, with lemons in the lemon trees , but they came out looking more like light bulbs. In the previous sentence, does the pronoun \"they\" refer to lemon trees? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Jane gave Joan candy because she wasn't hungry. In the previous sentence, does the pronoun \"she\" refer to Joan? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Always before, Larry had helped Dad with his work. But he could not help him now, for Dad said that his boss at the railroad company would not want anyone but him to work in the office. In the previous sentence, does the pronoun \"he\" refer to Larry? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "Well satisfied with his purchases and feeling very elegant indeed, Babar goes to the photographer to have his picture taken. In the previous sentence, does the pronoun \"his\" refer to the photographer? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "The stable was very roomy, with four good stalls; a large swinging window opened into the yard , which made it pleasant and airy. In the previous sentence, does the pronoun \"it\" refer to yard? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Every day after dinner Mr. Schmidt took a long nap. Mark would let him sleep for an hour, then wake him up, scold him, and get him to work. He needed to get him to finish his work, because his work was beautiful In the previous sentence, does the pronoun \"he\" refer to Mr. Schmidt? Yes or no?\nNo.",
+        "label": 1
+    },
+    {
+        "data": "Since Chester was dependent on Uncle Vernon , he couldn't very well marry without his approval In the previous sentence, does the pronoun \"his\" refer to Uncle Vernon? Yes or no?\nYes.",
+        "label": 1
+    },
+    {
+        "data": "The storekeepers stayed in town to run their stores and lived in the rooms behind them . In the previous sentence, does the pronoun \"them\" refer to rooms? Yes or no?\nYes.",
+        "label": 0
+    },
+    {
+        "data": "Fred watched TV while George went out to buy groceries. After an hour he got up. In the previous sentence, does the pronoun \"he\" refer to Fred? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "The path to the lake was blocked, so we couldn't reach it . In the previous sentence, does the pronoun \"it\" refer to the lake? Yes or no?\nNo.",
+        "label": 0
+    },
+    {
+        "data": "The large ball crashed right through the table because it was made of styrofoam. In the previous sentence, does the pronoun \"it\" refer to The large ball? Yes or no?\nNo.",
+        "label": 1
+    }
+]

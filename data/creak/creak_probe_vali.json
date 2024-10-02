@@ -1,0 +1,5486 @@
+[
+    {
+        "data": "Bertrand Russell writes about different religions.",
+        "label": 1
+    },
+    {
+        "data": "The Battle of the Little Bighorn has people still fighting to this day.",
+        "label": 0
+    },
+    {
+        "data": "Epcot continues to be a Disney attraction.",
+        "label": 1
+    },
+    {
+        "data": "Boyle's law states that solids increases pressure when volume increases.",
+        "label": 0
+    },
+    {
+        "data": "Boyle's law deters crime in the city streets.",
+        "label": 0
+    },
+    {
+        "data": "Lenin never held the title of Premier of the Soviet Union.",
+        "label": 0
+    },
+    {
+        "data": "The pancreas most often sits inside the human stomach.",
+        "label": 0
+    },
+    {
+        "data": "The pangolin tower over most animals, Standing Tall at almost 7 feet it is one of the largest animals the world.",
+        "label": 0
+    },
+    {
+        "data": "The scrotum connects to the spinal cord.",
+        "label": 0
+    },
+    {
+        "data": "A butterfly prefers to hover over feces.",
+        "label": 0
+    },
+    {
+        "data": "The Daytona 500 typically is 500 laps.",
+        "label": 0
+    },
+    {
+        "data": "People use LinkedIn to connect with people and find work opportunities.",
+        "label": 1
+    },
+    {
+        "data": "Audiobook can carry conversations with a human.",
+        "label": 0
+    },
+    {
+        "data": "You can see that a planned economy is used in free market capitalism not socialism.",
+        "label": 0
+    },
+    {
+        "data": "Dave Grohl drummed for Nirvana before fronting his current band, the Foo Fighters.",
+        "label": 1
+    },
+    {
+        "data": "Art Blakey helped produce music as a jazz drummer.",
+        "label": 1
+    },
+    {
+        "data": "The Russian Revolution took place in the early 2000s.",
+        "label": 0
+    },
+    {
+        "data": "Arnold Schwarzenegger ran for political office in California.",
+        "label": 1
+    },
+    {
+        "data": "Western Wall currently exists in Israel.",
+        "label": 1
+    },
+    {
+        "data": "A porch usually has four walls, a roof, and a door and provides indoor living space.",
+        "label": 0
+    },
+    {
+        "data": "Whole Foods Market will soon begin selling clothing in their stores.",
+        "label": 0
+    },
+    {
+        "data": "The Arctic fox raises its own young.",
+        "label": 1
+    },
+    {
+        "data": "Many people own a walrus as a house pet.",
+        "label": 0
+    },
+    {
+        "data": "Robert De Niro acted in his first film in 2015.",
+        "label": 0
+    },
+    {
+        "data": "Jacob Zuma served as a South African activist.",
+        "label": 1
+    },
+    {
+        "data": "Arnold Schwarzenegger sleeps upside down in a modified hammock to reduce the wrinkles on his face.",
+        "label": 0
+    },
+    {
+        "data": "Science has published some interesting scientific pieces.",
+        "label": 1
+    },
+    {
+        "data": "Hip hop influenced the band The Beatles.",
+        "label": 0
+    },
+    {
+        "data": "Horace Greeley lived in Chappaqua, New York.",
+        "label": 1
+    },
+    {
+        "data": "Paul Allen performed as the musical act during the Super Bowl.",
+        "label": 0
+    },
+    {
+        "data": "Minor League Baseball comes before Major League Baseball.",
+        "label": 1
+    },
+    {
+        "data": "Dextroamphetamine can relieve pain in patients.",
+        "label": 1
+    },
+    {
+        "data": "The donkey pulled a cart for the farmer.",
+        "label": 1
+    },
+    {
+        "data": "Dwyane Wade performed several of his hit songs at the concert last night.",
+        "label": 0
+    },
+    {
+        "data": "Arthritis causes extreme pain in joints and bones for those who suffer from it.",
+        "label": 1
+    },
+    {
+        "data": "Pope Pius VI had a unified alliance with Napoleon.",
+        "label": 0
+    },
+    {
+        "data": "The larynx helps people walk on two feet.",
+        "label": 0
+    },
+    {
+        "data": "You can see that cell membrane is only seen in cakes.",
+        "label": 0
+    },
+    {
+        "data": "The placenta functions as a permeable barrier.",
+        "label": 0
+    },
+    {
+        "data": "Peter Sellers acted in many popular films.",
+        "label": 1
+    },
+    {
+        "data": "Laurence Fishburne acted in films during his career.",
+        "label": 1
+    },
+    {
+        "data": "Louis XVI of France commanded the largest air force of his time.",
+        "label": 0
+    },
+    {
+        "data": "Lake Tanganyika ceases to exist after drought.",
+        "label": 0
+    },
+    {
+        "data": "The healthy man dropped the pear because he couldn't bear the weight of it.",
+        "label": 0
+    },
+    {
+        "data": "The pancreas produces milk in the body.",
+        "label": 0
+    },
+    {
+        "data": "Alicante serves as a port city for Valencia, Spain.",
+        "label": 1
+    },
+    {
+        "data": "The couple went to the movie theater to watch Prison Break.",
+        "label": 0
+    },
+    {
+        "data": "Billy the Kid terrorized the Montana region and portions of Canada.",
+        "label": 0
+    },
+    {
+        "data": "Vice Media produces media content in the USA.",
+        "label": 1
+    },
+    {
+        "data": "An alpaca operates the packing machine at the Post Office.",
+        "label": 0
+    },
+    {
+        "data": "Jim Webb injured himself while in combat.",
+        "label": 1
+    },
+    {
+        "data": "Fennel tastes very good in Mediterranean food.",
+        "label": 1
+    },
+    {
+        "data": "The Axis powers fought to take over Europe, Africa, and the pacific and destroy Democracy.",
+        "label": 1
+    },
+    {
+        "data": "Spaghetti contains Italian origins as a pasta dish.",
+        "label": 1
+    },
+    {
+        "data": "Someone ate a meatball at the Italian restaurant.",
+        "label": 1
+    },
+    {
+        "data": "The dodo flies around the same height as the red tailed hawk.",
+        "label": 0
+    },
+    {
+        "data": "Spaghetti sauce defines the type of Spaghetti dish your served.",
+        "label": 0
+    },
+    {
+        "data": "Pilots rely on their radar tools to safely navigate the airways.",
+        "label": 1
+    },
+    {
+        "data": "Dance requires singing on the part of the Dance r.",
+        "label": 0
+    },
+    {
+        "data": "A butterfly can reproduce by live birth and then care for their babies.",
+        "label": 0
+    },
+    {
+        "data": "The leafhopper grows to 6 inches in length.",
+        "label": 0
+    },
+    {
+        "data": "People eat soup hot and cold.",
+        "label": 1
+    },
+    {
+        "data": "The man filed for bankruptcy because he couldn't pay his bills.",
+        "label": 1
+    },
+    {
+        "data": "The Russian Revolution took place in 1917.",
+        "label": 1
+    },
+    {
+        "data": "Woodrow Wilson helped create the League of Nations.",
+        "label": 1
+    },
+    {
+        "data": "Quantum mechanics existed before the theory of relativity.",
+        "label": 1
+    },
+    {
+        "data": "Some people in America observe lent.",
+        "label": 1
+    },
+    {
+        "data": "Everything you read in a tabloid journalism is factual with source verification.",
+        "label": 0
+    },
+    {
+        "data": "Dave Grohl played bass for the band Nirvana.",
+        "label": 0
+    },
+    {
+        "data": "The olive tree grows in the Mediterranean.",
+        "label": 1
+    },
+    {
+        "data": "Cytomegalovirus helps people with their sense of smell.",
+        "label": 0
+    },
+    {
+        "data": "Arcade Fire creates percussion heavy music.",
+        "label": 1
+    },
+    {
+        "data": "People go to the hospital for treatment.",
+        "label": 1
+    },
+    {
+        "data": "Ray Charles played professional basketball before losing his sight.",
+        "label": 0
+    },
+    {
+        "data": "Margaret Thatcher leads the Government of the United Kingdom.",
+        "label": 0
+    },
+    {
+        "data": "In the last decade you could see Ralph Nader marching in Anti-Iraq War protests.",
+        "label": 1
+    },
+    {
+        "data": "The members of Slayer inflicted harm to others.",
+        "label": 0
+    },
+    {
+        "data": "U.S. Route 1 became the first highway to connect New York to California.",
+        "label": 0
+    },
+    {
+        "data": "Bryan Adams mainly performed soft rock.",
+        "label": 1
+    },
+    {
+        "data": "Metallica put out many popular albums.",
+        "label": 1
+    },
+    {
+        "data": "Nancy Pelosi has a career as an American politician.",
+        "label": 1
+    },
+    {
+        "data": "Arcade Fire recognizes itself as a rap band.",
+        "label": 0
+    },
+    {
+        "data": "Chicago Symphony Orchestra started in Indiana.",
+        "label": 0
+    },
+    {
+        "data": "There is only one type of material used in sculpture.",
+        "label": 0
+    },
+    {
+        "data": "Laurence Fishburne ceases to act in movies.",
+        "label": 0
+    },
+    {
+        "data": "Nintendo built Nintendo DS Lite with two screens.",
+        "label": 1
+    },
+    {
+        "data": "Scurvy illustrates a healthy and well balanced body.",
+        "label": 0
+    },
+    {
+        "data": "Bugs Bunny sold by United States to France, broke many records for highest sale of any franchise.",
+        "label": 0
+    },
+    {
+        "data": "WWE Raw creates a real sporting event atmosphere that is legit.",
+        "label": 0
+    },
+    {
+        "data": "In 1997 NATO allowed Russia to join.",
+        "label": 0
+    },
+    {
+        "data": "Adam Sandler has acted in many motion pictures.",
+        "label": 1
+    },
+    {
+        "data": "In professional boxing attacking with the feet, knees, and elbows is illegal.",
+        "label": 1
+    },
+    {
+        "data": "Penguin Books sells many short stories for children that are available for purchase in most bookstores.",
+        "label": 1
+    },
+    {
+        "data": "Alexander Graham Bell invented frequently used technologies.",
+        "label": 1
+    },
+    {
+        "data": "Dan Brown criticizes the Catholic Church.",
+        "label": 1
+    },
+    {
+        "data": "Vietnamese people have brought their cuisine to all parts of the world, including the US where there are many pockets of Vietnamese communities.",
+        "label": 1
+    },
+    {
+        "data": "Hypoxia happens most frequently at high altitudes.",
+        "label": 1
+    },
+    {
+        "data": "People can watch Minor League Baseball at a stadium.",
+        "label": 1
+    },
+    {
+        "data": "Apollo 15 could be found moving around mars.",
+        "label": 0
+    },
+    {
+        "data": "Watchmen plays on HBO as a new show with Regina King.",
+        "label": 1
+    },
+    {
+        "data": "A Butterfly has bright colors to fool predators.",
+        "label": 1
+    },
+    {
+        "data": "The instructional manual for the Army's new canon is called canon law.",
+        "label": 0
+    },
+    {
+        "data": "Captain Marvel shows a woman using her swimming powers to save people.",
+        "label": 0
+    },
+    {
+        "data": "Brussels sprout belongs in brassica oleracea species.",
+        "label": 1
+    },
+    {
+        "data": "Fishermen on the West Coast are the only ones who catch catfish.",
+        "label": 0
+    },
+    {
+        "data": "Only people in Japan drive Nissan cars.",
+        "label": 0
+    },
+    {
+        "data": "Whole Foods Market loves to supply the public with food full of artificial flavors and preservatives.",
+        "label": 0
+    },
+    {
+        "data": "Mary Pickford acted in award winning films.",
+        "label": 1
+    },
+    {
+        "data": "People visit Lake Tahoe only to find gold.",
+        "label": 0
+    },
+    {
+        "data": "Putin rules over the people in Moscow, Idaho.",
+        "label": 0
+    },
+    {
+        "data": "Only Fools and Horses creates hilarious comedy on TV.",
+        "label": 1
+    },
+    {
+        "data": "Catfish typically make meowing noises when they are caught by a fisherman.",
+        "label": 0
+    },
+    {
+        "data": "Consumer Reports published an article about the best appliances to purchase.",
+        "label": 1
+    },
+    {
+        "data": "The bible does not limit people's ethical conduct in its Ten Commandments.",
+        "label": 0
+    },
+    {
+        "data": "Robots form most of Internet trolling.",
+        "label": 0
+    },
+    {
+        "data": "Walruses use the sun as a source of energy.",
+        "label": 0
+    },
+    {
+        "data": "Women artists include people like Paula Deen.",
+        "label": 0
+    },
+    {
+        "data": "Christians practicing lent often give up eating fish for the duration of observance.",
+        "label": 1
+    },
+    {
+        "data": "You can get motion sickness on a boat.",
+        "label": 1
+    },
+    {
+        "data": "Teletubbies aired in PBS Kids network with stories of friendship.",
+        "label": 1
+    },
+    {
+        "data": "Diamonds are charcoal black in colour.",
+        "label": 0
+    },
+    {
+        "data": "A butterfly comes out of a cocoon.",
+        "label": 1
+    },
+    {
+        "data": "Ralph Nader didn't receive the most votes in the Presidential election, in either the popular vote or electoral college.",
+        "label": 1
+    },
+    {
+        "data": "The Daily Show features news stories from Japan.",
+        "label": 0
+    },
+    {
+        "data": "WordPress has won various software awards.",
+        "label": 1
+    },
+    {
+        "data": "A Lifeboat helps people learn to swim.",
+        "label": 0
+    },
+    {
+        "data": "Cytomegalovirus may be the greatest rock band ever.",
+        "label": 0
+    },
+    {
+        "data": "The Atmosphere of Earth includes many types of gases.",
+        "label": 1
+    },
+    {
+        "data": "Sculpture improves the dexterity of your hands.",
+        "label": 1
+    },
+    {
+        "data": "Tool released a series of albums.",
+        "label": 1
+    },
+    {
+        "data": "Dmitry Medvedev runs a new campaign for President.",
+        "label": 0
+    },
+    {
+        "data": "California contains Lake Tahoe in its borders.",
+        "label": 1
+    },
+    {
+        "data": "Koalas enjoy munching on eucalyptus leaves.",
+        "label": 1
+    },
+    {
+        "data": "A butterfly uses its antennae to sense smells.",
+        "label": 1
+    },
+    {
+        "data": "Freedom of speech protects people from government censorship.",
+        "label": 1
+    },
+    {
+        "data": "Medical imaging detects metals buried in the ground.",
+        "label": 0
+    },
+    {
+        "data": "The history of television has evolved quickly from the usage of standard def televisions, to ultra-high-definition television.",
+        "label": 1
+    },
+    {
+        "data": "Samuel judged the people of ancient Israel.",
+        "label": 1
+    },
+    {
+        "data": "No civil engineer designs both airports and roads.",
+        "label": 0
+    },
+    {
+        "data": "Mahogany wood furniture has a rich brown hue.",
+        "label": 1
+    },
+    {
+        "data": "Beta Israel lives in the heart of the African nation of Ethiopia.",
+        "label": 1
+    },
+    {
+        "data": "Professional boxing requires no practice or skill.",
+        "label": 0
+    },
+    {
+        "data": "The Tonight Show Starring Jimmy Fallon makes great entertainment for young children.",
+        "label": 0
+    },
+    {
+        "data": "Up became a critical success upon release.",
+        "label": 1
+    },
+    {
+        "data": "Arnold Schwarzenegger ran for governor of California.",
+        "label": 1
+    },
+    {
+        "data": "David Cameron made laws for inside the United States.",
+        "label": 0
+    },
+    {
+        "data": "The woman who had acro phobia wanted to live on the 50th floor of her building.",
+        "label": 0
+    },
+    {
+        "data": "United States Department of Housing and Urban Development helps the underprivileged find a place to live.",
+        "label": 1
+    },
+    {
+        "data": "Beauty and the Beast features a clownfish trying to find his mom.",
+        "label": 0
+    },
+    {
+        "data": "Salmonella causes many food related illnesses.",
+        "label": 1
+    },
+    {
+        "data": "Many kids will eat a firefly after catching it.",
+        "label": 0
+    },
+    {
+        "data": "Many Jazz clubs play Ti\u00ebsto.",
+        "label": 0
+    },
+    {
+        "data": "Ronda Rousey has in recent years broke in to acting.",
+        "label": 1
+    },
+    {
+        "data": "Zack Ryder now wrestles for WWE.",
+        "label": 0
+    },
+    {
+        "data": "Science deals with topics of art and philosophy.",
+        "label": 0
+    },
+    {
+        "data": "The prevalence of Christianity in China is a major discomfort to the authorities.",
+        "label": 0
+    },
+    {
+        "data": "The gray fox eats to survive.",
+        "label": 1
+    },
+    {
+        "data": "True events inspired Aliens to be made.",
+        "label": 0
+    },
+    {
+        "data": "Renaissance architecture had many writers writing great plays.",
+        "label": 0
+    },
+    {
+        "data": "Edgar Allan Poe continues to publish short stories today.",
+        "label": 0
+    },
+    {
+        "data": "The scrotum exists just below the surface of the skin.",
+        "label": 1
+    },
+    {
+        "data": "A Chevrolet Camaro gets driven by a person.",
+        "label": 1
+    },
+    {
+        "data": "Jeff Bezos recently stepped down as CEO of Amazon.",
+        "label": 1
+    },
+    {
+        "data": "People need to study painting in college.",
+        "label": 0
+    },
+    {
+        "data": "The Axis powers won in World War II.",
+        "label": 0
+    },
+    {
+        "data": "Black fly bites people in Michigan.",
+        "label": 1
+    },
+    {
+        "data": "Alfred helps Superman by being his Butler.",
+        "label": 0
+    },
+    {
+        "data": "Toni Morrison has acted documentary films.",
+        "label": 0
+    },
+    {
+        "data": "Saint Kitts and Nevis celebrates carnival.",
+        "label": 1
+    },
+    {
+        "data": "Alanis Morissette goes back to her hometown in Paris to race nascar.",
+        "label": 0
+    },
+    {
+        "data": "George Washington led the Polish Armed Forces to win the American Revolution.",
+        "label": 0
+    },
+    {
+        "data": "The London Symphony Orchestra has popular rock songs.",
+        "label": 0
+    },
+    {
+        "data": "Dhole released his best song in 1990.",
+        "label": 0
+    },
+    {
+        "data": "The US Open involves skating while hitting things.",
+        "label": 0
+    },
+    {
+        "data": "A walrus can fight with another Walrus.",
+        "label": 1
+    },
+    {
+        "data": "The brake pedal speedily applies pressure to the Brake s.",
+        "label": 1
+    },
+    {
+        "data": "Painting the inside of a house will cause it to drop in value.",
+        "label": 0
+    },
+    {
+        "data": "One of the most well known nurses is Florence Nightingale.",
+        "label": 1
+    },
+    {
+        "data": "Arctic fox release themselves from eggs when they are born.",
+        "label": 0
+    },
+    {
+        "data": "Investigative journalists can win the Pulitzer Prize.",
+        "label": 1
+    },
+    {
+        "data": "Many leaders gathered at the Eastern Front to seek peace.",
+        "label": 0
+    },
+    {
+        "data": "Menopause happens to young women in their 20s.",
+        "label": 0
+    },
+    {
+        "data": "Ringo Starr played drums during his career.",
+        "label": 1
+    },
+    {
+        "data": "George Armstrong Custer fought in the American Indian Wars.",
+        "label": 1
+    },
+    {
+        "data": "Lake trout ceases to exist as a source of food.",
+        "label": 0
+    },
+    {
+        "data": "William Howard Taft served in the United States government.",
+        "label": 1
+    },
+    {
+        "data": "You can read the stories involving the Apostles in the Christian Bible.",
+        "label": 1
+    },
+    {
+        "data": "The Three Stooges movies were nationwide during the 1930's and 1940's.",
+        "label": 1
+    },
+    {
+        "data": "A nun serves the Catholic Church through celibacy and service.",
+        "label": 1
+    },
+    {
+        "data": "Billy the Kid lived in the wild west.",
+        "label": 1
+    },
+    {
+        "data": "A butterfly engages with a flower and carries its pollen to other flowers.",
+        "label": 1
+    },
+    {
+        "data": "Bryan Adams recorded a lot of rock songs.",
+        "label": 1
+    },
+    {
+        "data": "Iggy Pop joined the band The Stooges in 1967.",
+        "label": 1
+    },
+    {
+        "data": "The almond smells like slightly smoky cedar wood.",
+        "label": 0
+    },
+    {
+        "data": "A dessert often served at restaurants is french fries.",
+        "label": 0
+    },
+    {
+        "data": "Nancy Pelosi has a career as a junior member of Congress.",
+        "label": 0
+    },
+    {
+        "data": "An elephant can communicate with other Elephant s.",
+        "label": 1
+    },
+    {
+        "data": "Koreans split into East and West Korea.",
+        "label": 0
+    },
+    {
+        "data": "Jean-Jacques Rousseau influenced the progress of the enlightenment in Europe.",
+        "label": 1
+    },
+    {
+        "data": "Islamophobia means people being prejudice against Muslim people.",
+        "label": 1
+    },
+    {
+        "data": "The civil engineer tuned up the vehicle at the car dealership.",
+        "label": 0
+    },
+    {
+        "data": "Amazon currently exists as one of the biggest companies in the U.S information technology industry.",
+        "label": 1
+    },
+    {
+        "data": "The Las Vegas Motor Speedway has hosted open-wheel car races.",
+        "label": 1
+    },
+    {
+        "data": "Peter Sellers acted in numerous movies.",
+        "label": 1
+    },
+    {
+        "data": "Consuming fennel can be very soothing to an upset stomach.",
+        "label": 1
+    },
+    {
+        "data": "The 1984 United States presidential election was the year Ronald Reagan got elected.",
+        "label": 1
+    },
+    {
+        "data": "The Druze reside across the Middle East and beyond.",
+        "label": 1
+    },
+    {
+        "data": "Pablo Neruda wrote a great number of exceptional poems.",
+        "label": 1
+    },
+    {
+        "data": "The gray fox only eats plants.",
+        "label": 0
+    },
+    {
+        "data": "Many countries have outlawed oxygen therapy.",
+        "label": 0
+    },
+    {
+        "data": "Some females can have a scrotum if they are transgender.",
+        "label": 1
+    },
+    {
+        "data": "Gregory Peck won an Oscar in 2020.",
+        "label": 0
+    },
+    {
+        "data": "Rahul Dravid plays cricket as a career.",
+        "label": 1
+    },
+    {
+        "data": "The dodo runs along the ground and was known as a flightless bird.",
+        "label": 1
+    },
+    {
+        "data": "Many scientologists believe in an extraterrestrial entity named Xenu.",
+        "label": 1
+    },
+    {
+        "data": "The 1948 United States presidential election marked the first US presidential election after World War II.",
+        "label": 1
+    },
+    {
+        "data": "Google built the Chrome OS as an interface for their computers.",
+        "label": 1
+    },
+    {
+        "data": "Science serves as one of the preeminent journal regarding scientific publications.",
+        "label": 1
+    },
+    {
+        "data": "Leafhoppers do not eat stems and plant leaves; instead they suck the juice from the plant.",
+        "label": 1
+    },
+    {
+        "data": "Ringo Starr played drums for the Wasps.",
+        "label": 0
+    },
+    {
+        "data": "The Coen brothers directed O' Brother Where Art Thou.",
+        "label": 1
+    },
+    {
+        "data": "Ben Jonson father was imprisoned during the reign of Queen Mary I.",
+        "label": 1
+    },
+    {
+        "data": "Ray Charles soars when he plays his music.",
+        "label": 1
+    },
+    {
+        "data": "The position of President of Ukraine ceases to exist after the Russian invasion of Ukraine.",
+        "label": 0
+    },
+    {
+        "data": "The EastEnders migrates to the east during mating season.",
+        "label": 0
+    },
+    {
+        "data": "Quark served the man a drink on Star Trek: Deep Space Nine.",
+        "label": 1
+    },
+    {
+        "data": "Peter Sellers spent his life as a single bachelor.",
+        "label": 0
+    },
+    {
+        "data": "The Russian Revolution resulted in the establishment of the Soviet Union.",
+        "label": 1
+    },
+    {
+        "data": "David Cameron existed in parliament during the 2010 through 2015 cycle.",
+        "label": 1
+    },
+    {
+        "data": "Alexander Graham Bell invented the telephone.",
+        "label": 1
+    },
+    {
+        "data": "William Howard Taft ceases to be recognized as a former American president.",
+        "label": 0
+    },
+    {
+        "data": "Augusta, Georgia used to host the capitol legislature of Georgia.",
+        "label": 1
+    },
+    {
+        "data": "Documentary film makes people imagine fictional scenarios.",
+        "label": 0
+    },
+    {
+        "data": "A butler usually works in large mansions.",
+        "label": 1
+    },
+    {
+        "data": "The butterfly emerged from its cocoon.",
+        "label": 1
+    },
+    {
+        "data": "Boyle's law correlates pressure and volume of a gas.",
+        "label": 1
+    },
+    {
+        "data": "an Official is a person who cooks food.",
+        "label": 0
+    },
+    {
+        "data": "\u039a-opioid receptor intercepts feels good chemicals.",
+        "label": 1
+    },
+    {
+        "data": "Quantum mechanics can fix a lot of cars.",
+        "label": 0
+    },
+    {
+        "data": "Marshall McLuhan wrote the novel Under the Dome.",
+        "label": 0
+    },
+    {
+        "data": "Aaron solely led the Israelites to the land of Canaan.",
+        "label": 0
+    },
+    {
+        "data": "The scrotum regulates the temperature of the testicles in the human male reproductive system.",
+        "label": 1
+    },
+    {
+        "data": "Flag of the United States displays with the colors red, white, and blue.",
+        "label": 1
+    },
+    {
+        "data": "Little Women, a Louisa May Alcott novel, has been recreated on film and on stage.",
+        "label": 1
+    },
+    {
+        "data": "The civil engineer designed the road system in the city.",
+        "label": 1
+    },
+    {
+        "data": "Chrome OS mostly runs kitchen appliances.",
+        "label": 0
+    },
+    {
+        "data": "John Dewey invented light bulbs and electricity.",
+        "label": 0
+    },
+    {
+        "data": "Adam Levine founded the Rolling Stones in the 70s.",
+        "label": 0
+    },
+    {
+        "data": "July contains a patriotic celebration in the United States.",
+        "label": 1
+    },
+    {
+        "data": "Jim Webb teaches geometry for a living.",
+        "label": 0
+    },
+    {
+        "data": "Arthritis can happen in people of any age.",
+        "label": 1
+    },
+    {
+        "data": "Druze practiced religion and different rituals.",
+        "label": 1
+    },
+    {
+        "data": "A phobia causes fear towards something.",
+        "label": 1
+    },
+    {
+        "data": "Warren E. Burger replaced Earl Warren on the Supreme Court.",
+        "label": 1
+    },
+    {
+        "data": "Abstract art captures the imagination and fancy.",
+        "label": 1
+    },
+    {
+        "data": "Gregory Peck humiliated his opponent in the ring.",
+        "label": 0
+    },
+    {
+        "data": "Michelle Obama birthed sons as part of the family of Barack Obama.",
+        "label": 0
+    },
+    {
+        "data": "The ideas of Daniel Dennett have been very influential in fanning the embers of humanistic atheism.",
+        "label": 1
+    },
+    {
+        "data": "Guam has declared its country to be independent.",
+        "label": 0
+    },
+    {
+        "data": "Germany was a part of the Axis powers in World War II.",
+        "label": 1
+    },
+    {
+        "data": "Turmeric makes a food much more sweet.",
+        "label": 0
+    },
+    {
+        "data": "The University of Freiburg does not accept foreign students.",
+        "label": 0
+    },
+    {
+        "data": "Manny Pacquiao boxes professionally and is one of the best.",
+        "label": 1
+    },
+    {
+        "data": "Consumer Reports gives consumers reports on products they might use.",
+        "label": 1
+    },
+    {
+        "data": "Robert Downey Jr. played the role of Captain America in the MCU Infinity Saga.",
+        "label": 0
+    },
+    {
+        "data": "Up grossed among the highest Warner Brothers animated movies.",
+        "label": 0
+    },
+    {
+        "data": "The common saltwater reptile named the lake trout that hibernates in the cold continent of Antarctica.",
+        "label": 0
+    },
+    {
+        "data": "The placenta serves a vital function in the survival of the growing fetus.",
+        "label": 1
+    },
+    {
+        "data": "You can use software to accomplish a plethora of statistical tasks.",
+        "label": 1
+    },
+    {
+        "data": "Billy Corgan sings the lyrics of the Smashing Pumpkins' song Today.",
+        "label": 1
+    },
+    {
+        "data": "The dodo bird must have been beautiful flightless bird that lived on Mauritius.",
+        "label": 1
+    },
+    {
+        "data": "LeBron James is the star of the US Open.",
+        "label": 0
+    },
+    {
+        "data": "Koi cannot be eaten by humans.",
+        "label": 0
+    },
+    {
+        "data": "The Daily Show began on Comedy Central in 1996.",
+        "label": 1
+    },
+    {
+        "data": "The Apollo astronauts went to the moon as part of a spaceflight program.",
+        "label": 1
+    },
+    {
+        "data": "John Dewey started the Chicago functionalist school.",
+        "label": 1
+    },
+    {
+        "data": "At least two members in Arcade Fire share a parent.",
+        "label": 1
+    },
+    {
+        "data": "Koi often are seen in ponds as a decorative fish.",
+        "label": 1
+    },
+    {
+        "data": "Bigfoot exists as a part of American folklore.",
+        "label": 1
+    },
+    {
+        "data": "The Luxor obelisk is located right beside the Washington Monument another obelisk.",
+        "label": 0
+    },
+    {
+        "data": "Dwyane Wade won 3 championships with the Miami Heat.",
+        "label": 1
+    },
+    {
+        "data": "Modern vehicles use friction to Brake or slow down to come to a stop.",
+        "label": 1
+    },
+    {
+        "data": "To be a civil engineer one has to learn technical skills.",
+        "label": 1
+    },
+    {
+        "data": "The depressed teenager carved lines into her arm as a part of her Self-harm behavior.",
+        "label": 1
+    },
+    {
+        "data": "An allergy may cause a fatal reaction.",
+        "label": 1
+    },
+    {
+        "data": "The Fairly OddParents used to make great magic tricks to grant a children's wishes.",
+        "label": 1
+    },
+    {
+        "data": "Alfred Nobel has a career as a currently trendy pop singer from the United Kingdom.",
+        "label": 0
+    },
+    {
+        "data": "Philosophers have studied the cell membrane.",
+        "label": 0
+    },
+    {
+        "data": "Dutch people originate in the Netherlands.",
+        "label": 1
+    },
+    {
+        "data": "The girl kissed her arm to perform her Self-harm.",
+        "label": 0
+    },
+    {
+        "data": "Emperor Meiji ruled in the 12th century and was the first emperor of Japan.",
+        "label": 0
+    },
+    {
+        "data": "The Earth's magnetic field causes the planet to be flat.",
+        "label": 0
+    },
+    {
+        "data": "Dwarfism can occur in many animals.",
+        "label": 1
+    },
+    {
+        "data": "Pain management decreases a person's ability to heal from injuries and surgery.",
+        "label": 0
+    },
+    {
+        "data": "Bugs Bunny famously feuded with Elmer Fudd in many cartoons.",
+        "label": 1
+    },
+    {
+        "data": "The Butler served the homeowner his dinner.",
+        "label": 1
+    },
+    {
+        "data": "Having dessert represents unhealthy behavior by unhealthy people.",
+        "label": 0
+    },
+    {
+        "data": "The Battle of the Little Bighorn took place in Montana.",
+        "label": 1
+    },
+    {
+        "data": "Willow bark intensifies fever and makes it worse.",
+        "label": 0
+    },
+    {
+        "data": "Guam as a place was part of World War II battle sites.",
+        "label": 1
+    },
+    {
+        "data": "A snowshoe creates a layer of displacement allowing the user to walk on the snow without sinking.",
+        "label": 1
+    },
+    {
+        "data": "George S. Patton illustrated children's books for a living.",
+        "label": 0
+    },
+    {
+        "data": "Waiting staff never talk with customers.",
+        "label": 0
+    },
+    {
+        "data": "Soda fans can make their own drinks when visiting the Pepsi Center.",
+        "label": 0
+    },
+    {
+        "data": "Dave Grohl left the Foo Fighters to go on tour with Nirvana.",
+        "label": 0
+    },
+    {
+        "data": "Alfred Nobel created the Nobel prize.",
+        "label": 1
+    },
+    {
+        "data": "The Southern United States make the most wine in the United States.",
+        "label": 0
+    },
+    {
+        "data": "Eating desserts helps to fight cancer.",
+        "label": 0
+    },
+    {
+        "data": "A presidential veto frustrates lawmakers in Congress.",
+        "label": 1
+    },
+    {
+        "data": "The elk eats flesh and preys on small mammals.",
+        "label": 0
+    },
+    {
+        "data": "Captain Marvel movie tells the story of hero Carol Danvers.",
+        "label": 1
+    },
+    {
+        "data": "Mickey Mantle had a successful career in football scoring over 20 touchdowns.",
+        "label": 0
+    },
+    {
+        "data": "Cellulose decomposes the intestines of humans when consumed.",
+        "label": 0
+    },
+    {
+        "data": "Muse won the Ivor Novello Award.",
+        "label": 1
+    },
+    {
+        "data": "United States Department of Housing and Urban Development gives money for people to buy food.",
+        "label": 0
+    },
+    {
+        "data": "The Tonight Show Starring Jimmy Fallon never hosts popular musicians.",
+        "label": 0
+    },
+    {
+        "data": "A brigadier general can command a brigade of troops.",
+        "label": 1
+    },
+    {
+        "data": "The breast bone provides nutrition for the newborn.",
+        "label": 0
+    },
+    {
+        "data": "Villains are never more powerful than the heroes they face.",
+        "label": 0
+    },
+    {
+        "data": "A line starts at one point on a graph and eventually end.",
+        "label": 0
+    },
+    {
+        "data": "Louis C.K. makes audiences laugh because he is a comedian.",
+        "label": 1
+    },
+    {
+        "data": "Parkinson's disease has multiple risk factors.",
+        "label": 1
+    },
+    {
+        "data": "A drag queen dresses as a man but is a woman.",
+        "label": 0
+    },
+    {
+        "data": "Consumer Reports lacks advertisements in its magazine.",
+        "label": 1
+    },
+    {
+        "data": "Robert Redford played hockey for a living.",
+        "label": 0
+    },
+    {
+        "data": "The Sound of Music creates the illusion of a floating in a flower bed.",
+        "label": 0
+    },
+    {
+        "data": "The Harry Potter series originally began with the books.",
+        "label": 1
+    },
+    {
+        "data": "The Pepsi Center sprays its audience with Pepsi after every point scored.",
+        "label": 0
+    },
+    {
+        "data": "Docklands Stadium hosts water polo and diving competitions.",
+        "label": 0
+    },
+    {
+        "data": "Many schools have robotics clubs to participate in and build things.",
+        "label": 1
+    },
+    {
+        "data": "John Dewey invented the Dewey Decimal System.",
+        "label": 0
+    },
+    {
+        "data": "Boyle's law relates the pressure of a gas to its volume.",
+        "label": 1
+    },
+    {
+        "data": "A porch belongs on the front of the house.",
+        "label": 1
+    },
+    {
+        "data": "RoboCop annihilates the bad guys and their helpers.",
+        "label": 1
+    },
+    {
+        "data": "Professional boxing often involves very violent fighting.",
+        "label": 1
+    },
+    {
+        "data": "Arcade Fire first albums came out in the early 1900's.",
+        "label": 0
+    },
+    {
+        "data": "Impala eat a diet exclusively of fish.",
+        "label": 0
+    },
+    {
+        "data": "Whole Foods Market sells nutritious organic food in the US.",
+        "label": 1
+    },
+    {
+        "data": "Dwyane Wade scored 100 goals in the MLS.",
+        "label": 0
+    },
+    {
+        "data": "Gregory of Nazianzus helped give birth to 329 children.",
+        "label": 1
+    },
+    {
+        "data": "Holy Saturday despite its name takes place on the third Sunday of the month of November.",
+        "label": 0
+    },
+    {
+        "data": "The movie RoboCop starred a cyborg cop.",
+        "label": 1
+    },
+    {
+        "data": "The most popular songs are sung in pig latin.",
+        "label": 0
+    },
+    {
+        "data": "Chinese is a natural language to the Dutch people.",
+        "label": 0
+    },
+    {
+        "data": "Michael Jordan played basketball at the University of North Carolina.",
+        "label": 1
+    },
+    {
+        "data": "The Reading and Leeds Festivals feature rock bands and attract a lot of music lovers.",
+        "label": 1
+    },
+    {
+        "data": "Cantonese American martial artist Bruce Lee starred in many films in US and China.",
+        "label": 1
+    },
+    {
+        "data": "The Arctic fox runs with speed to catch its food.",
+        "label": 1
+    },
+    {
+        "data": "The family of Barack Obama involves African-American President of the US, Barack Obama, and the family he has created with his wife, Michelle.",
+        "label": 1
+    },
+    {
+        "data": "Sarah Vaughan released many albums in the Rock genre.",
+        "label": 0
+    },
+    {
+        "data": "The first time gender equality was brought up was in 2010.",
+        "label": 0
+    },
+    {
+        "data": "Sporting fans in Denver can often be found in the Pepsi Center when there is a game going on.",
+        "label": 1
+    },
+    {
+        "data": "People do not prefer televisions made of ultra-high-definition television citing health issues such as emission of cancerous rays.",
+        "label": 0
+    },
+    {
+        "data": "Richard Linklater scored the winning goal for England national team.",
+        "label": 0
+    },
+    {
+        "data": "Pope Gregory VII released his best song in 2015.",
+        "label": 0
+    },
+    {
+        "data": "The University of Wisconsin\u2013Madison never grants honorary degrees.",
+        "label": 0
+    },
+    {
+        "data": "Many women enter into the period of Menopause at the age of 40.",
+        "label": 1
+    },
+    {
+        "data": "Microsoft helped Nintendo build the Nintendo DS Lite.",
+        "label": 0
+    },
+    {
+        "data": "Vice Media ceases to exist as a media entity.",
+        "label": 0
+    },
+    {
+        "data": "3G network can help transport goods.",
+        "label": 0
+    },
+    {
+        "data": "Yamaha Corporation started up in America.",
+        "label": 0
+    },
+    {
+        "data": "Aerial photography involves taking photos underwater.",
+        "label": 0
+    },
+    {
+        "data": "Rahul Dravid dominates the world of particle physics.",
+        "label": 0
+    },
+    {
+        "data": "Arthritis will cause permanent damage to your brain.",
+        "label": 0
+    },
+    {
+        "data": "A pear grows on trees in the sun.",
+        "label": 1
+    },
+    {
+        "data": "U.S. Route 66 has never been repaired since it was built.",
+        "label": 0
+    },
+    {
+        "data": "The Western Wall in Jerusalem radiates ancient history.",
+        "label": 1
+    },
+    {
+        "data": "Richard Linklater directed a series of films.",
+        "label": 1
+    },
+    {
+        "data": "John Lewis painted in oil and was mostly known for art.",
+        "label": 0
+    },
+    {
+        "data": "Melody adds harmonic undertones to music.",
+        "label": 1
+    },
+    {
+        "data": "Dan Brown writes novels for the American audience.",
+        "label": 1
+    },
+    {
+        "data": "James Hetfield work as a magician made him famous.",
+        "label": 0
+    },
+    {
+        "data": "James Baldwin wrote the Harry Potter books.",
+        "label": 0
+    },
+    {
+        "data": "Toni Morrison won the American book award.",
+        "label": 1
+    },
+    {
+        "data": "Turmeric grows in the sub Asian region of the world..",
+        "label": 1
+    },
+    {
+        "data": "Koi can cost someone hundreds of dollars.",
+        "label": 1
+    },
+    {
+        "data": "Epcot resides in Georgia and is home to many different farm animals.",
+        "label": 0
+    },
+    {
+        "data": "Hip hop took most of its inspiration from techno music.",
+        "label": 0
+    },
+    {
+        "data": "Deciduous trees look stark in the winter.",
+        "label": 1
+    },
+    {
+        "data": "Natalie Portman starred in the original version of The Sound of Music.",
+        "label": 0
+    },
+    {
+        "data": "Highways can be found almost all over the US.",
+        "label": 1
+    },
+    {
+        "data": "The walrus preys on the blue whale.",
+        "label": 0
+    },
+    {
+        "data": "When we were lost and could not find Pierre's house, we looked him up in the French directory and got his address.",
+        "label": 0
+    },
+    {
+        "data": "As a lawyer, John C. Calhoun fought for African American rights.",
+        "label": 0
+    },
+    {
+        "data": "The Wonderful Wizard of Oz never led to a film adaptation.",
+        "label": 0
+    },
+    {
+        "data": "Dwyane Wade played for the Phoenix Suns.",
+        "label": 0
+    },
+    {
+        "data": "Black fly bites and feeds on blood.",
+        "label": 1
+    },
+    {
+        "data": "Johann Gottfried Herder created poetry during the days of the enlightenment.",
+        "label": 1
+    },
+    {
+        "data": "Jesus was the first to introduce the Ten Commandments.",
+        "label": 0
+    },
+    {
+        "data": "The Three Stooges released a series of comedy movies.",
+        "label": 1
+    },
+    {
+        "data": "Echinacea strikes a person dead after one dose.",
+        "label": 0
+    },
+    {
+        "data": "Kilns can be used both indoors and outdoors.",
+        "label": 1
+    },
+    {
+        "data": "Some women experience menopause when they age.",
+        "label": 1
+    },
+    {
+        "data": "The United States Army War College locates itself in Pennsylvania.",
+        "label": 1
+    },
+    {
+        "data": "Johann Wolfgang von Goethe had a career as a composer in the 1700s.",
+        "label": 0
+    },
+    {
+        "data": "Spaghetti refers to a specific type of pasta, and not its sauce.",
+        "label": 1
+    },
+    {
+        "data": "Many citizens despised of the time Louis XVI of France.",
+        "label": 1
+    },
+    {
+        "data": "Texas hold 'em has grown in popularity across the world.",
+        "label": 1
+    },
+    {
+        "data": "The United States Marine Corps never operated as a part of the United States military.",
+        "label": 0
+    },
+    {
+        "data": "The Russian Revolution inspired the American Revolution.",
+        "label": 0
+    },
+    {
+        "data": "You can see that there is no mention of the apostles in the Christian Bible.",
+        "label": 0
+    },
+    {
+        "data": "The Sound of Music delights audiences with its many different songs.",
+        "label": 1
+    },
+    {
+        "data": "Bruce Lee used to teach martial art. He opened a martial arts school.",
+        "label": 1
+    },
+    {
+        "data": "Fr\u00e9d\u00e9ric Chopin played classical music on the piano.",
+        "label": 1
+    },
+    {
+        "data": "Some people study books about Stoicism.",
+        "label": 1
+    },
+    {
+        "data": "The Offspring play soccer in England.",
+        "label": 0
+    },
+    {
+        "data": "Ben Jonson wrote several Hollywood movies before his death in 1637.",
+        "label": 0
+    },
+    {
+        "data": "The turmeric, a very potent poison has cause many deaths.",
+        "label": 0
+    },
+    {
+        "data": "Children enjoy watching Sesame Street on TV.",
+        "label": 1
+    },
+    {
+        "data": "Victoria Beckham plays soccer at the professional level.",
+        "label": 0
+    },
+    {
+        "data": "Koi often are eaten in many fast-food restaurants.",
+        "label": 0
+    },
+    {
+        "data": "Dave Grohl played the drums and sang in different bands.",
+        "label": 1
+    },
+    {
+        "data": "Unemployment resulting from the pandemic continues to negatively affect many Americans today.",
+        "label": 1
+    },
+    {
+        "data": "The Western Wall ceases to exist anymore.",
+        "label": 0
+    },
+    {
+        "data": "An ape talks human English fluently.",
+        "label": 0
+    },
+    {
+        "data": "Florence Nightingale acted in many movies and won an Oscar.",
+        "label": 0
+    },
+    {
+        "data": "While cancer research and technology is advancing every day, we still do not have a cure.",
+        "label": 1
+    },
+    {
+        "data": "People can use cannabis in Eugene, Oregon.",
+        "label": 1
+    },
+    {
+        "data": "RoboCop does not have any cops in it.",
+        "label": 0
+    },
+    {
+        "data": "Panasonic changed its name from Matsushita Electric.",
+        "label": 1
+    },
+    {
+        "data": "The Land Run of 1889 led to the settlement of Norman, Oklahoma.",
+        "label": 1
+    },
+    {
+        "data": "Paratroopers wear scuba diving gear for their missions.",
+        "label": 0
+    },
+    {
+        "data": "Snickers taste like mint and dark chocolate.",
+        "label": 0
+    },
+    {
+        "data": "Pope Pius VI hailed from the nation of Spain.",
+        "label": 1
+    },
+    {
+        "data": "The Hopi tribe originated in the United States.",
+        "label": 1
+    },
+    {
+        "data": "The elk walked through the forest in Canada.",
+        "label": 1
+    },
+    {
+        "data": "Autumn happens between September and November.",
+        "label": 1
+    },
+    {
+        "data": "Teenagers should watch Teletubbies because it would be very appropriate for their viewing age.",
+        "label": 0
+    },
+    {
+        "data": "Brakes make the car go faster.",
+        "label": 0
+    },
+    {
+        "data": "Whole Foods Market has a reputation for being pricy, where many people will jokingly call the chain Whole Paycheck.",
+        "label": 1
+    },
+    {
+        "data": "Many people have died due to hypoxia when climbing mountains.",
+        "label": 1
+    },
+    {
+        "data": "Koi classifies as a type of fish.",
+        "label": 1
+    },
+    {
+        "data": "A human hair and a nail are made up from the same material.",
+        "label": 1
+    },
+    {
+        "data": "The United States Armed Forces receives little funding from the government.",
+        "label": 0
+    },
+    {
+        "data": "The Beauty and the Beast depicts inanimate objects coming to life.",
+        "label": 1
+    },
+    {
+        "data": "Parody provides a humorous interpretation of familiar poetry or art.",
+        "label": 1
+    },
+    {
+        "data": "Christopher Walken works with directors on his job.",
+        "label": 1
+    },
+    {
+        "data": "Daniel Dennett loves the idea of God.",
+        "label": 0
+    },
+    {
+        "data": "Butlers are often yelling at the guests.",
+        "label": 0
+    },
+    {
+        "data": "Even those who've never seen the show will know two things, that Popeye is a sailor who loves eating spinach.",
+        "label": 1
+    },
+    {
+        "data": "Pear has the flavor of black licorice.",
+        "label": 0
+    },
+    {
+        "data": "The 1984 United States presidential election had the narrowest margin of the electoral college in US history.",
+        "label": 0
+    },
+    {
+        "data": "A brussels sprout cannot be eaten.",
+        "label": 0
+    },
+    {
+        "data": "Michelangelo worked in Germany most of his life.",
+        "label": 0
+    },
+    {
+        "data": "Cancer kills less than 100 people a year.",
+        "label": 0
+    },
+    {
+        "data": "Michelangelo cooked pizzas for a living.",
+        "label": 0
+    },
+    {
+        "data": "Driving does not require a license in the United States.",
+        "label": 0
+    },
+    {
+        "data": "Hard disk drives can store multiple file types for later use.",
+        "label": 1
+    },
+    {
+        "data": "Dmitry Medvedev works in politics in the country of Russia.",
+        "label": 1
+    },
+    {
+        "data": "Those undergoing spaceflight experience weightlessness for a period of time.",
+        "label": 1
+    },
+    {
+        "data": "The Egyptians conquered nearly all of the civilized world.",
+        "label": 0
+    },
+    {
+        "data": "Harry Potter gives a glimpse into the world witchcraft through fictional writing.",
+        "label": 1
+    },
+    {
+        "data": "Nicholas II of Russia recently lost re-election to Vladimir Putin.",
+        "label": 0
+    },
+    {
+        "data": "The Statue of Freedom can corrode when exposed to air.",
+        "label": 1
+    },
+    {
+        "data": "Hector Berlioz made music for a living.",
+        "label": 1
+    },
+    {
+        "data": "An anchor keeps a boat from drifting when not underway.",
+        "label": 1
+    },
+    {
+        "data": "Dwarfism describes those over 6 feet.",
+        "label": 0
+    },
+    {
+        "data": "If there is more than one Goose they are called gooses.",
+        "label": 0
+    },
+    {
+        "data": "California contains the San Fernando Valley.",
+        "label": 1
+    },
+    {
+        "data": "Badminton requires use of a baseball bat and mitt.",
+        "label": 0
+    },
+    {
+        "data": "Music analysis breaks down musical texture along with harmonies into a melody for musical research and education.",
+        "label": 1
+    },
+    {
+        "data": "Donating to charity is an example of altruism.",
+        "label": 1
+    },
+    {
+        "data": "Star Trek: Deep Space Nine aired exclusively as a web series.",
+        "label": 0
+    },
+    {
+        "data": "Edward Said played the guitar in the band Bread.",
+        "label": 0
+    },
+    {
+        "data": "Badminton requires use of a racket to play.",
+        "label": 1
+    },
+    {
+        "data": "Fashion students may already know that Silk was originally created with silk worms, and not machines.",
+        "label": 1
+    },
+    {
+        "data": "Bulk carrier are used to ship product across the globe.",
+        "label": 1
+    },
+    {
+        "data": "The Three Stooges performed comedy together.",
+        "label": 1
+    },
+    {
+        "data": "Brigadier general builds bridges for construction.",
+        "label": 0
+    },
+    {
+        "data": "The civil engineer designed the new suspension bridge in the city.",
+        "label": 1
+    },
+    {
+        "data": "Scurvy often affects people who eat a lot of fruit.",
+        "label": 0
+    },
+    {
+        "data": "The Harlem Renaissance took place in Europe in the 17th Century.",
+        "label": 0
+    },
+    {
+        "data": "Imelda Marcos served as President of the Philippines.",
+        "label": 0
+    },
+    {
+        "data": "Professional boxing ceases to exists as a fighting sport now.",
+        "label": 0
+    },
+    {
+        "data": "Richard Linklater directed Gone with the Wind.",
+        "label": 0
+    },
+    {
+        "data": "Willow tree wood commonly features as a building material for houses.",
+        "label": 0
+    },
+    {
+        "data": "Mixing blue and yellow creates green.",
+        "label": 1
+    },
+    {
+        "data": "The Bugs Bunny cartoons were influenced by the cartoon Rick and Morty.",
+        "label": 0
+    },
+    {
+        "data": "Richard Branson became a Police officer that shot and killed a man.",
+        "label": 0
+    },
+    {
+        "data": "In today's world dessert comes at any time, not just after dinner.",
+        "label": 1
+    },
+    {
+        "data": "The Food Network channel showed a western movie.",
+        "label": 0
+    },
+    {
+        "data": "The President of India name is Modi.",
+        "label": 1
+    },
+    {
+        "data": "The man ate the Champagne with a fork.",
+        "label": 0
+    },
+    {
+        "data": "Daniel Dennett won the Jean Nicod prize for philosophy.",
+        "label": 1
+    },
+    {
+        "data": "Bulk carrier only haul corn across the ocean.",
+        "label": 0
+    },
+    {
+        "data": "The best man toasted the bride and groom with Champagne.",
+        "label": 1
+    },
+    {
+        "data": "Women climbed into a Lifeboat before men did, on the Titanic.",
+        "label": 1
+    },
+    {
+        "data": "Pope Gregory VII gifts his flowers with faith and purpose.",
+        "label": 0
+    },
+    {
+        "data": "A nail falls off when you reach 60.",
+        "label": 0
+    },
+    {
+        "data": "The cell membrane can be read about in science textbooks.",
+        "label": 1
+    },
+    {
+        "data": "Edgar Allan Poe wrote short stories in the dark horror genre.",
+        "label": 1
+    },
+    {
+        "data": "The Pepsi Center often holds baseball games.",
+        "label": 0
+    },
+    {
+        "data": "Sam Cooke became a member of the rock n roll hall of fame.",
+        "label": 1
+    },
+    {
+        "data": "Stephen Hawking was an expert in cosmology.",
+        "label": 1
+    },
+    {
+        "data": "Many sailors travel though the English Channel every year.",
+        "label": 1
+    },
+    {
+        "data": "The Science accepts all papers submitted for publication.",
+        "label": 0
+    },
+    {
+        "data": "Cuisine of Hawaii is enjoyed exclusively in Iceland.",
+        "label": 0
+    },
+    {
+        "data": "Menopause caused a stir in the movie theatres.",
+        "label": 0
+    },
+    {
+        "data": "Unemployment resulting from the pandemic is no longer an issue today.",
+        "label": 0
+    },
+    {
+        "data": "The porch ceases to exist due to new architectural designs.",
+        "label": 0
+    },
+    {
+        "data": "The Premier of the Soviet Union visited African in 2019.",
+        "label": 0
+    },
+    {
+        "data": "The boy used pain management when his bug bite was itching.",
+        "label": 0
+    },
+    {
+        "data": "Paul Allen clothing line is trendy.",
+        "label": 0
+    },
+    {
+        "data": "A representative democracy is ruled by a King or Queen.",
+        "label": 0
+    },
+    {
+        "data": "Lip injections are more popular amongst men than women.",
+        "label": 0
+    },
+    {
+        "data": "Crane fly existed among some dinosaurs.",
+        "label": 1
+    },
+    {
+        "data": "C. S. Lewis attended University College in Oxford.",
+        "label": 1
+    },
+    {
+        "data": "Giving someone a rose is a nice gesture, though not everyone enjoys their smell.",
+        "label": 1
+    },
+    {
+        "data": "People go to Dave Grohl for cooking advice.",
+        "label": 0
+    },
+    {
+        "data": "The firefly lights up sporadically and create a quick glow.",
+        "label": 1
+    },
+    {
+        "data": "Bret Hart boxed for two decades.",
+        "label": 0
+    },
+    {
+        "data": "People need a dice and a deck of cards to play Texas hold 'em.",
+        "label": 0
+    },
+    {
+        "data": "Laurence Olivier starred in one of the Avengers films.",
+        "label": 0
+    },
+    {
+        "data": "Pope John Paul II venerated Pope Pius IX as a catholic.",
+        "label": 1
+    },
+    {
+        "data": "Cell biology instructs people how psychiatric disorders happen.",
+        "label": 0
+    },
+    {
+        "data": "Many people die from taking coffea as it is a highly poisonous plant.",
+        "label": 0
+    },
+    {
+        "data": "Snowboarding is a fun option for people who live in Rio de Janeiro.",
+        "label": 0
+    },
+    {
+        "data": "In Up a boy and an old man become friends.",
+        "label": 1
+    },
+    {
+        "data": "The writings of Paul the Apostle can be found in the Holy Bible.",
+        "label": 1
+    },
+    {
+        "data": "Many business owners rely on WordPress to create their websites.",
+        "label": 1
+    },
+    {
+        "data": "Snickers contains peanuts and caramel surrounded by chocolate.",
+        "label": 1
+    },
+    {
+        "data": "The dhole has become an endangered species.",
+        "label": 1
+    },
+    {
+        "data": "Adam Sandler most recently starred in his own Halloween movie on Netflix.",
+        "label": 1
+    },
+    {
+        "data": "A common leaf vegetable, brussels sprout are an edible mini vegetable.",
+        "label": 1
+    },
+    {
+        "data": "Jacob Zuma served as the fourth president of South Africa.",
+        "label": 1
+    },
+    {
+        "data": "Richard Linklater has won awards for his work as a director.",
+        "label": 1
+    },
+    {
+        "data": "A hamster needs to be walked at least twice a day.",
+        "label": 0
+    },
+    {
+        "data": "The United States Constitution legislates eminent domain in the Fifth Amendment to the United States Constitution.",
+        "label": 1
+    },
+    {
+        "data": "An Official is a boss and makes rules over some area of expertise.",
+        "label": 1
+    },
+    {
+        "data": "The elephant preys on rabbits and squirrels.",
+        "label": 0
+    },
+    {
+        "data": "The actors and actresses in The Sound of Music were all musicians.",
+        "label": 0
+    },
+    {
+        "data": "The pandemic has caused a lot of unemployment.",
+        "label": 1
+    },
+    {
+        "data": "The Reserve Bank of India serves the Native American Indians.",
+        "label": 0
+    },
+    {
+        "data": "Everyone loves running Chrome OS on their Mac.",
+        "label": 0
+    },
+    {
+        "data": "Quite a number of homes are located in Townsville.",
+        "label": 1
+    },
+    {
+        "data": "Christopher Walken acted in the movie Super Troopers.",
+        "label": 0
+    },
+    {
+        "data": "The skeleton of an African elephant consists of 22 pairs of ribs.",
+        "label": 0
+    },
+    {
+        "data": "Amoeba has no solid shape, they are shapeless.",
+        "label": 1
+    },
+    {
+        "data": "Those in Metallica are used to the tundra.",
+        "label": 0
+    },
+    {
+        "data": "Laurence Fishburne starred in the Matrix.",
+        "label": 1
+    },
+    {
+        "data": "The Surrender of Japan followed many military defeats.",
+        "label": 1
+    },
+    {
+        "data": "The virus smallpox cause by accomplishing too may outburst.",
+        "label": 0
+    },
+    {
+        "data": "Highways contain bits of gold in the asphalt.",
+        "label": 0
+    },
+    {
+        "data": "Food Network sells people food at a restaurant.",
+        "label": 0
+    },
+    {
+        "data": "Jeff Bezos affords many luxuries in life.",
+        "label": 1
+    },
+    {
+        "data": "A butterfly consumes the pollen of the flowers it visits.",
+        "label": 0
+    },
+    {
+        "data": "Any allergy can cause people to hallucinate.",
+        "label": 0
+    },
+    {
+        "data": "Pearl Harbor had such an impact on American history that kids today are still learning about the event.",
+        "label": 1
+    },
+    {
+        "data": "An Internet troll will fabricate an entire identity.",
+        "label": 1
+    },
+    {
+        "data": "Elk run around with antlers on their head.",
+        "label": 1
+    },
+    {
+        "data": "Hate speech creates a lot of fights in the USA.",
+        "label": 1
+    },
+    {
+        "data": "Celsius takes its name from the country of Celsia where the method was developed.",
+        "label": 0
+    },
+    {
+        "data": "One cannot sing a melody but can only play it.",
+        "label": 0
+    },
+    {
+        "data": "Every organism is expected to function and live with a cell membrane.",
+        "label": 1
+    },
+    {
+        "data": "Lenin was the first Premier of the Soviet Union.",
+        "label": 1
+    },
+    {
+        "data": "Software industry has grown tremendously in the last two decades.",
+        "label": 1
+    },
+    {
+        "data": "The Offspring has many hit singles.",
+        "label": 1
+    },
+    {
+        "data": "Many persons who stay in Varna speaks Bulgarian.",
+        "label": 1
+    },
+    {
+        "data": "Ray Charles played the piano in his songs.",
+        "label": 1
+    },
+    {
+        "data": "The Volkswagen Beetle came into being in Germany under Adolf Hitler.",
+        "label": 1
+    },
+    {
+        "data": "Winning a Pulitzer Prize often means that a person has great acting skills.",
+        "label": 0
+    },
+    {
+        "data": "The paternal side of the family of Barack Obama originates from Africa.",
+        "label": 1
+    },
+    {
+        "data": "While not as known as drag queens, drag king are making their way up in popularity with the rising acceptance and popularity of shows like Rupaul's Drag Race.",
+        "label": 1
+    },
+    {
+        "data": "Ludacris sings the song Grinding up on ya.",
+        "label": 0
+    },
+    {
+        "data": "People study demonology in order to learn about plants.",
+        "label": 0
+    },
+    {
+        "data": "A porch usually provides outdoor living space connected to a domicile.",
+        "label": 1
+    },
+    {
+        "data": "Boyle's law describes the relationship between pressure and volume.",
+        "label": 1
+    },
+    {
+        "data": "Hate speech expresses prejudice towards a particular group of people.",
+        "label": 1
+    },
+    {
+        "data": "Benedict Arnold committed treacherous deeds against America.",
+        "label": 1
+    },
+    {
+        "data": "Chrome OS can simply be added to an Apple computer by a simple installation.",
+        "label": 1
+    },
+    {
+        "data": "Las Vegas Motor Speedway has cars that drive really fast.",
+        "label": 1
+    },
+    {
+        "data": "Michelangelo painted a lot of different art pieces.",
+        "label": 1
+    },
+    {
+        "data": "Joan of Arc got executed for heresy.",
+        "label": 1
+    },
+    {
+        "data": "Dave Grohl made fame as a member of Aerosmith.",
+        "label": 0
+    },
+    {
+        "data": "Harry Houdini practiced many forms of magic.",
+        "label": 1
+    },
+    {
+        "data": "The European theatre of World War II includes Japan.",
+        "label": 0
+    },
+    {
+        "data": "The blues artist won the Grammy for best country music performance.",
+        "label": 0
+    },
+    {
+        "data": "Some students major in physics at the University of Cambridge.",
+        "label": 1
+    },
+    {
+        "data": "James Hetfield won many awards for his acting in movies.",
+        "label": 0
+    },
+    {
+        "data": "Leafhoppers are active little guys, bouncing all over the place; that's what makes them such a problem when it comes to spreading germs.",
+        "label": 1
+    },
+    {
+        "data": "You can use this for household cleaning and chores, sodium hydroxide is a chemically engineered product made up of inorganic compounds, mainly a sodium compound.",
+        "label": 1
+    },
+    {
+        "data": "Medical imaging reveals cancers growing inside the body.",
+        "label": 1
+    },
+    {
+        "data": "Las Vegas Motor Speedway shines as a premier track for the cup series in NASCAR.",
+        "label": 1
+    },
+    {
+        "data": "The band Metallica has released many records.",
+        "label": 1
+    },
+    {
+        "data": "At one time, The Washington Monument was the world's tallest building.",
+        "label": 1
+    },
+    {
+        "data": "Meningitis does not cause seizures in sufferers.",
+        "label": 0
+    },
+    {
+        "data": "Warthogs are a regular prey of the jaguar.",
+        "label": 1
+    },
+    {
+        "data": "Horror fiction creates scary environment for people to safely experience terror.",
+        "label": 1
+    },
+    {
+        "data": "Dosa originated in the United States of America.",
+        "label": 0
+    },
+    {
+        "data": "The Edge won his match against the Big Show in WWE.",
+        "label": 0
+    },
+    {
+        "data": "You can watch Laurence Fishburne in the Matrix movies.",
+        "label": 1
+    },
+    {
+        "data": "Geoffrey Chaucer wrote many different books.",
+        "label": 1
+    },
+    {
+        "data": "Lake Tanganyika serves a vital function in Zambia.",
+        "label": 1
+    },
+    {
+        "data": "Whole Foods Market has hundreds of locations.",
+        "label": 1
+    },
+    {
+        "data": "Winning the US Open is one of the greatest achievements and also one of the major titles in the tennis world.",
+        "label": 1
+    },
+    {
+        "data": "The movie Moneyball was based on a story about a ballroom dance.",
+        "label": 0
+    },
+    {
+        "data": "Yamaha Corporation ceases to exist in Japan.",
+        "label": 0
+    },
+    {
+        "data": "The Battle of the Little Bighorn took place during World War II.",
+        "label": 0
+    },
+    {
+        "data": "The porch ceases to exist as part of American homes.",
+        "label": 0
+    },
+    {
+        "data": "The Edge flies with his guitar.",
+        "label": 1
+    },
+    {
+        "data": "Scrotum serves a major function in the male reproductive system.",
+        "label": 1
+    },
+    {
+        "data": "Moneyball deals with the drama in American baseball.",
+        "label": 1
+    },
+    {
+        "data": "Nancy Pelosi followed Paul Ryan as Speaker of The House.",
+        "label": 1
+    },
+    {
+        "data": "Laurence Fishburne starred in the film the Matrix.",
+        "label": 1
+    },
+    {
+        "data": "Dwyane Wade played forward for the Chicago Bulls.",
+        "label": 0
+    },
+    {
+        "data": "The gray fox can run fast to catch its prey.",
+        "label": 1
+    },
+    {
+        "data": "Eating soup means eating only solids.",
+        "label": 0
+    },
+    {
+        "data": "Starch makes a person die after eating it.",
+        "label": 0
+    },
+    {
+        "data": "Dmitry Medvedev serves as a politician for Russia.",
+        "label": 1
+    },
+    {
+        "data": "The novels written by George Eliot have had great influence in changing the world.",
+        "label": 1
+    },
+    {
+        "data": "Pastoral art eliminates realistic representation on the canvas.",
+        "label": 0
+    },
+    {
+        "data": "Lifeguard mainly prevents drowning accidents in pools.",
+        "label": 1
+    },
+    {
+        "data": "Ancient Greeks believed stoicism was important in everyday life.",
+        "label": 1
+    },
+    {
+        "data": "The Sound of Music won the Tony Award for Best Drama.",
+        "label": 0
+    },
+    {
+        "data": "A butterfly flies to flowers that it is able to be a pollinator for.",
+        "label": 1
+    },
+    {
+        "data": "People spread butterfly on their toast.",
+        "label": 0
+    },
+    {
+        "data": "Richard Branson continues to be involved in aviation and space exploration.",
+        "label": 1
+    },
+    {
+        "data": "The Wonderful Wizard of Oz sends Dorothy on an amazing adventure.",
+        "label": 1
+    },
+    {
+        "data": "Christopher Walken acted in the movie Charlie and the Chocolate Factory as a young child.",
+        "label": 0
+    },
+    {
+        "data": "Intellectual disability affects thousands of Americans every year.",
+        "label": 1
+    },
+    {
+        "data": "A hard disk drive plays music by itself.",
+        "label": 0
+    },
+    {
+        "data": "The American Indian Wars featured fighting between Spanish and the Danish.",
+        "label": 0
+    },
+    {
+        "data": "A boulevard can typically be found in any city or town.",
+        "label": 1
+    },
+    {
+        "data": "Humans can survive without any sleep.",
+        "label": 0
+    },
+    {
+        "data": "Satanism worships God as the primary healer.",
+        "label": 0
+    },
+    {
+        "data": "Albrecht D\u00fcrer served as an officer the First World War.",
+        "label": 0
+    },
+    {
+        "data": "Walt Whitman became editor and chief of Time magazine.",
+        "label": 0
+    },
+    {
+        "data": "Laurence Fishburne knows how to breath underwater.",
+        "label": 0
+    },
+    {
+        "data": "Ujjain lies along the silk road in India.",
+        "label": 1
+    },
+    {
+        "data": "Victoria Beckham married a soccer player.",
+        "label": 1
+    },
+    {
+        "data": "Basketball is the main focus on the Food Network.",
+        "label": 0
+    },
+    {
+        "data": "George Armstrong Custer served in World War II.",
+        "label": 0
+    },
+    {
+        "data": "Billy Corgan toured with the Beatles.",
+        "label": 0
+    },
+    {
+        "data": "People wear Snickers on their feet.",
+        "label": 0
+    },
+    {
+        "data": "Ronda Rousey has proved that girls are unable to participate in martial arts.",
+        "label": 0
+    },
+    {
+        "data": "An Ocelot leaps and swims and is also a type of cat.",
+        "label": 1
+    },
+    {
+        "data": "Many people obtained unemployment during the COVID 19 pandemic.",
+        "label": 1
+    },
+    {
+        "data": "Films produced by Brad Pitt include Moneyball a movie based on a true story.",
+        "label": 1
+    },
+    {
+        "data": "Walter Mondale was never actively participated in the 1984 United States presidential election.",
+        "label": 0
+    },
+    {
+        "data": "US Open can watched from home on tv.",
+        "label": 1
+    },
+    {
+        "data": "There is an upsurge of people who believe in the claims of parapsychology.",
+        "label": 1
+    },
+    {
+        "data": "Robert De Niro has a lot of popular songs he sings.",
+        "label": 0
+    },
+    {
+        "data": "Sometimes pools will have a porch floating in it for for people to relax on.",
+        "label": 0
+    },
+    {
+        "data": "Dan Brown rocketed to the top of the bestseller list with The Da Vinci Code.",
+        "label": 1
+    },
+    {
+        "data": "Pope Leo X presided over the Catholic church during the 20th century.",
+        "label": 0
+    },
+    {
+        "data": "Ron Paul ran for president in 2008.",
+        "label": 1
+    },
+    {
+        "data": "The Arctic Ocean lies in one of the coldest places on earth.",
+        "label": 1
+    },
+    {
+        "data": "Walrus have wings as big as pinnipeds.",
+        "label": 0
+    },
+    {
+        "data": "Pig latin replaces scholarly Latin as a language of choice for universities.",
+        "label": 0
+    },
+    {
+        "data": "In cell biology the cytoskeleton helps the cells maintain their shape.",
+        "label": 1
+    },
+    {
+        "data": "Wilhelm Wundt became a distinguished psychology professor in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Ultra-high-definition television has clearer picture than standard definition TV.",
+        "label": 1
+    },
+    {
+        "data": "Tool won a Grammy for their alternative rock sound.",
+        "label": 1
+    },
+    {
+        "data": "Queen was an great band led by lead guitarist Brian May.",
+        "label": 1
+    },
+    {
+        "data": "A kayak traverses small bodies of water.",
+        "label": 1
+    },
+    {
+        "data": "Some goats can be affected by dwarfism.",
+        "label": 1
+    },
+    {
+        "data": "Nuns get paid millions of dollars for their work.",
+        "label": 0
+    },
+    {
+        "data": "Dan Brown writes romance novels set in Europe.",
+        "label": 0
+    },
+    {
+        "data": "Consumer Reports ceases to function in testing products.",
+        "label": 0
+    },
+    {
+        "data": "Final Fantasy's first game was Final Fantasy XI.",
+        "label": 0
+    },
+    {
+        "data": "Firewall stops hackers from taking information.",
+        "label": 1
+    },
+    {
+        "data": "A firefly lives underground in subterranean tunnels.",
+        "label": 0
+    },
+    {
+        "data": "Most webmasters know every single kind of spider.",
+        "label": 0
+    },
+    {
+        "data": "The protozoa swallowed the bird whole.",
+        "label": 0
+    },
+    {
+        "data": "Leafhoppers are the same thing as grasshoppers.",
+        "label": 0
+    },
+    {
+        "data": "The Magic Flute changes the genre of Opera leaning more towards a bluesy style.",
+        "label": 0
+    },
+    {
+        "data": "Atlas holds up the heavens for all eternity except for holidays and weekends.",
+        "label": 0
+    },
+    {
+        "data": "The patient with pneumonia was suffering from hypoxia.",
+        "label": 1
+    },
+    {
+        "data": "Railroad engineer are part of a rapidly growing field.",
+        "label": 0
+    },
+    {
+        "data": "Laurence Fishburne led the New York Knicks in a comeback victory.",
+        "label": 0
+    },
+    {
+        "data": "The Surrender of Japan happened at the Olympic Games.",
+        "label": 0
+    },
+    {
+        "data": "All cars in the US integrate radar technology into their dashboards.",
+        "label": 0
+    },
+    {
+        "data": "People connect to the internet through 3G network.",
+        "label": 1
+    },
+    {
+        "data": "A rose can display a variety of colors.",
+        "label": 1
+    },
+    {
+        "data": "A butterfly can transfer pollen as they fly from one flower to the next.",
+        "label": 1
+    },
+    {
+        "data": "George H. W. Bush was the president going into the 1984 United States presidential election.",
+        "label": 0
+    },
+    {
+        "data": "Blues music comes from the Pacific Northwest region of America.",
+        "label": 0
+    },
+    {
+        "data": "Christopher Walken won the BAFTA award for best male actor.",
+        "label": 1
+    },
+    {
+        "data": "Gregory Peck hails from the city of San Diego, California.",
+        "label": 1
+    },
+    {
+        "data": "Robert Fripp died due to the pandemic last year.",
+        "label": 0
+    },
+    {
+        "data": "Rocky Balboa was at risk of contracting Salmonella.",
+        "label": 1
+    },
+    {
+        "data": "If a supervillain is not in a movie then the movie cannot be made.",
+        "label": 0
+    },
+    {
+        "data": "Many celebrate a popular holiday by drinking beer in March.",
+        "label": 1
+    },
+    {
+        "data": "Paratroopers exist as usually part of military entity.",
+        "label": 1
+    },
+    {
+        "data": "Ophthalmologists are know testing for a new danger virus posing a risk to the human eye, specifically the area around the iris called the aerial photography spot.",
+        "label": 0
+    },
+    {
+        "data": "The torque when it acts on a body causes rotational motion.",
+        "label": 1
+    },
+    {
+        "data": "A lamprey can walk on land for short periods of time.",
+        "label": 0
+    },
+    {
+        "data": "The Streisand effect occurs when attention is brought to information you actively try to suppress.",
+        "label": 1
+    },
+    {
+        "data": "Athletes hit home runs in Super Bowl XLVII.",
+        "label": 0
+    },
+    {
+        "data": "Disney adapted The Jungle Book into an animated film.",
+        "label": 1
+    },
+    {
+        "data": "A Firewall helps protect your computer from security threats.",
+        "label": 1
+    },
+    {
+        "data": "Doctors say that starch can be used to cure cancer.",
+        "label": 0
+    },
+    {
+        "data": "People drive on the Highway to go long distances.",
+        "label": 1
+    },
+    {
+        "data": "The elephant used his trunk to scoop up his food.",
+        "label": 1
+    },
+    {
+        "data": "A snake can move freely because it has no bones.",
+        "label": 0
+    },
+    {
+        "data": "Luis Bu\u00f1uel made films that were recognized worldwide.",
+        "label": 1
+    },
+    {
+        "data": "George Armstrong Custer lost his life at the Battle of Little Bighorn.",
+        "label": 1
+    },
+    {
+        "data": "Bill Richardson served as a governor of a Southwestern state in the United States.",
+        "label": 1
+    },
+    {
+        "data": "Alfred Nobel invented objects that transcend to our actual date.",
+        "label": 1
+    },
+    {
+        "data": "Alanis Morissette sings the song call me maybe.",
+        "label": 0
+    },
+    {
+        "data": "The children kicked around the meatball on the soccer field.",
+        "label": 0
+    },
+    {
+        "data": "The Vietnamese people brilliantly prepare food.",
+        "label": 1
+    },
+    {
+        "data": "Arnold Schwarzenegger mother gave birth to him in a hospital in the United States.",
+        "label": 0
+    },
+    {
+        "data": "People can watch Sesame Street on HBO Family.",
+        "label": 1
+    },
+    {
+        "data": "Alanis Morissette released plenty of albums and hit music during the 90's.",
+        "label": 1
+    },
+    {
+        "data": "Jeff Bezos unsuccessfully ran for President in 2020.",
+        "label": 0
+    },
+    {
+        "data": "L. Frank Baum's greatest work is known to be The Wonderful Wizard of Oz.",
+        "label": 1
+    },
+    {
+        "data": "Marshall McLuhan write papers on the theory of communication.",
+        "label": 1
+    },
+    {
+        "data": "Billy Wilder sings every month for money at a local venue.",
+        "label": 0
+    },
+    {
+        "data": "Pope Pius VI supervised the Catholic Church's legal cases surrounding child abuse in the church.",
+        "label": 0
+    },
+    {
+        "data": "Many people in Asia heal their sick using coffea.",
+        "label": 1
+    },
+    {
+        "data": "One must travel to Northern California in order to get to San Fernando Valley.",
+        "label": 0
+    },
+    {
+        "data": "The Turkish invasion of Cyprus involved the use of nuclear weapons.",
+        "label": 0
+    },
+    {
+        "data": "The Daytona 500 takes place in California.",
+        "label": 0
+    },
+    {
+        "data": "The first female doctor was Florence Nightingale.",
+        "label": 0
+    },
+    {
+        "data": "Alfalfa grows all over the world and is used in traditional Chinese medicine.",
+        "label": 1
+    },
+    {
+        "data": "The gray fox roams the forests of the United States, Canada, and a number of other countries.",
+        "label": 1
+    },
+    {
+        "data": "Culture of Italy discusses the foods, arts, and lifestyles of life in Italy.",
+        "label": 1
+    },
+    {
+        "data": "The long stretch of U.S. Route 66 hosts many travelers and roadtrippers every day.",
+        "label": 1
+    },
+    {
+        "data": "The Sahrawi Arab Democratic Republic has achieved recognition by the United Nations.",
+        "label": 0
+    },
+    {
+        "data": "Edgar Allan Poe published some notable poems.",
+        "label": 1
+    },
+    {
+        "data": "The band The Three Kingdoms had a smash hit with their debut album entitled Records of the Three Kingdoms.",
+        "label": 0
+    },
+    {
+        "data": "The Sound of Music tells the story of the Von Trapp family during World War II.",
+        "label": 1
+    },
+    {
+        "data": "Dodo's can no longer be found anywhere on this earth.",
+        "label": 1
+    },
+    {
+        "data": "Ernst Haeckel publish books that focused on evolutionary biology.",
+        "label": 1
+    },
+    {
+        "data": "Louisa May Alcott lived in Massachusetts.",
+        "label": 1
+    },
+    {
+        "data": "the President of India lives in india.",
+        "label": 1
+    },
+    {
+        "data": "Allium experiences many emotions including anger.",
+        "label": 0
+    },
+    {
+        "data": "Posttraumatic stress disorder make life easier for people.",
+        "label": 0
+    },
+    {
+        "data": "The Offspring sometimes performs their songs during Opera intermissions.",
+        "label": 0
+    },
+    {
+        "data": "Slayer has performed in various concerts around the world.",
+        "label": 1
+    },
+    {
+        "data": "A Firewall helps people burn down buildings.",
+        "label": 0
+    },
+    {
+        "data": "Tim McGraw father played professional soccer.",
+        "label": 0
+    },
+    {
+        "data": "Firewall sets up port blocking.",
+        "label": 1
+    },
+    {
+        "data": "Laurence Fishburne makes a lot of music.",
+        "label": 0
+    },
+    {
+        "data": "The family of Barack Obama all immigrated from Switzerland.",
+        "label": 0
+    },
+    {
+        "data": "Dave Grohl cooks food in a five star restaurant.",
+        "label": 0
+    },
+    {
+        "data": "People who want to reduce inflammation in their bodies will often apply or eat turmeric to do so.",
+        "label": 1
+    },
+    {
+        "data": "Motion sickness makes people feel nauseous when in a moving vehicle.",
+        "label": 1
+    },
+    {
+        "data": "Nancy Pelosi represents her district in the U.S. Congress.",
+        "label": 1
+    },
+    {
+        "data": "Chevrolet Camaro are so loved and appreciated by car enthusiasts that many of them hold their value over time.",
+        "label": 1
+    },
+    {
+        "data": "Satanism and Christianity go hand in hand.",
+        "label": 0
+    },
+    {
+        "data": "Battle of the Little Bighorn happened in June.",
+        "label": 1
+    },
+    {
+        "data": "George S. Patton achieved four star rank as a general in the US Army.",
+        "label": 1
+    },
+    {
+        "data": "Dwyane Wade played basketball and won championships on the Heat.",
+        "label": 1
+    },
+    {
+        "data": "Harry Houdini played professional tennis in his late age.",
+        "label": 0
+    },
+    {
+        "data": "Diamonds are not the very hardest natural substance.",
+        "label": 0
+    },
+    {
+        "data": "The San Fernando Valley houses many tigers.",
+        "label": 0
+    },
+    {
+        "data": "The group performing the opera performs The Magic Flute in three acts.",
+        "label": 0
+    },
+    {
+        "data": "The Fifth Amendment to the United States Constitution of the US Constitution contains, among other things, the right to opt out of paying taxes.",
+        "label": 0
+    },
+    {
+        "data": "Some waiting staff work in bars.",
+        "label": 1
+    },
+    {
+        "data": "A general manager talks to the employees about their at home problems for the job.",
+        "label": 0
+    },
+    {
+        "data": "Docklands Stadium hosts many athletic events.",
+        "label": 1
+    },
+    {
+        "data": "The Daytona 500 typically takes place in February.",
+        "label": 1
+    },
+    {
+        "data": "The Fairly OddParents follows a boy named Timmy as he navigates life with his fairy godparents.",
+        "label": 0
+    },
+    {
+        "data": "The jaguar runs very fast compared to other large cats.",
+        "label": 0
+    },
+    {
+        "data": "Many people drink Popeye when they are thirsty.",
+        "label": 0
+    },
+    {
+        "data": "People with Dissociative identity disorder usually have horrible headaches that keep them bedridden.",
+        "label": 0
+    },
+    {
+        "data": "Richard Branson founded the space exploration company Blue Origin.",
+        "label": 0
+    },
+    {
+        "data": "David Cameron did not pass any laws during his time in office.",
+        "label": 0
+    },
+    {
+        "data": "Pope Gregory VII must have been to Rome at least once during his lifetime.",
+        "label": 1
+    },
+    {
+        "data": "Satanism isn't just a concept as many people worship it enough to attend services.",
+        "label": 1
+    },
+    {
+        "data": "Alfalfa tastes similar to shiitake mushrooms and soy beans.",
+        "label": 0
+    },
+    {
+        "data": "The man put his cigarette out before entering the restaurant with the smoking ban.",
+        "label": 1
+    },
+    {
+        "data": "Teens looking to become a lifeguard will need to undergo 4 years of education.",
+        "label": 0
+    },
+    {
+        "data": "A restaurant budgets in order to hire waiting staff.",
+        "label": 1
+    },
+    {
+        "data": "Adding starch as a thickener transforms a stew.",
+        "label": 1
+    },
+    {
+        "data": "Kendo originated on the island of Japan as a martial art form.",
+        "label": 1
+    },
+    {
+        "data": "Dwarfism only occurs in humans and never in other organisms.",
+        "label": 0
+    },
+    {
+        "data": "Widespread higher education improves the economy.",
+        "label": 1
+    },
+    {
+        "data": "Many people watched the TV show Prison Break.",
+        "label": 1
+    },
+    {
+        "data": "Disney made a name with its cartoon character Bugs Bunny.",
+        "label": 1
+    },
+    {
+        "data": "Mary Pickford discovered electricity when she was young.",
+        "label": 0
+    },
+    {
+        "data": "The Sahrawi Arab Democratic Republic controls a portion of the Western Sahara.",
+        "label": 1
+    },
+    {
+        "data": "Spotted hyena feed on the leftovers of lions.",
+        "label": 1
+    },
+    {
+        "data": "Super Bowl XLVII took place in Miami, Florida.",
+        "label": 0
+    },
+    {
+        "data": "Toni Morrison wrote the novel Beloved.",
+        "label": 1
+    },
+    {
+        "data": "A nun belongs to a religious group.",
+        "label": 1
+    },
+    {
+        "data": "Emperor Meiji played soccer for the Chicago Fire.",
+        "label": 0
+    },
+    {
+        "data": "Aliens premiered in the movie theaters.",
+        "label": 1
+    },
+    {
+        "data": "Van Gogh was an Art Nouveau artist.",
+        "label": 0
+    },
+    {
+        "data": "Nissan makes fast awesome motorcycles and cars.",
+        "label": 0
+    },
+    {
+        "data": "The Chilean Army controls the Chilean Navy as a subordinate branch.",
+        "label": 0
+    },
+    {
+        "data": "Teak furnitures are good and durable.",
+        "label": 1
+    },
+    {
+        "data": "One can read various poems and plays written by Ben Jonson.",
+        "label": 1
+    },
+    {
+        "data": "People celebrate Green Day by wearing all green.",
+        "label": 0
+    },
+    {
+        "data": "You can prepare soup by combining usually vegetables with stock, milk or water.",
+        "label": 1
+    },
+    {
+        "data": "Hip hop borrows from many genres before it.",
+        "label": 1
+    },
+    {
+        "data": "Kilns are only used in pottery.",
+        "label": 0
+    },
+    {
+        "data": "Aaron spoke on behalf of Moses.",
+        "label": 1
+    },
+    {
+        "data": "The catholic church encourages people to preach by the canon law.",
+        "label": 0
+    },
+    {
+        "data": "The history of mathematics spans many centuries.",
+        "label": 1
+    },
+    {
+        "data": "J. P. Morgan started his business by loaning money to ship building companies.",
+        "label": 0
+    },
+    {
+        "data": "Science has published some of the best scientific publications.",
+        "label": 1
+    },
+    {
+        "data": "The Plain Dealer serves as a newspaper in Ohio.",
+        "label": 1
+    },
+    {
+        "data": "Popeye makes many different types of hamburgers.",
+        "label": 0
+    },
+    {
+        "data": "A Internet troll makes people feel bad by being rude to them.",
+        "label": 1
+    },
+    {
+        "data": "All nuns act in holy ways.",
+        "label": 1
+    },
+    {
+        "data": "An aphid makes vegetables taste better.",
+        "label": 0
+    },
+    {
+        "data": "Harper's Bazaar is a Marketplace you can actually go to.",
+        "label": 0
+    },
+    {
+        "data": "A twisting forces that tends to cause rotation is called torque.",
+        "label": 1
+    },
+    {
+        "data": "Demonology encompasses the study of demons.",
+        "label": 1
+    },
+    {
+        "data": "Chicken pox turns into smallpox after treatment.",
+        "label": 0
+    },
+    {
+        "data": "Tool has sold many t-shirts over their tenure as a band.",
+        "label": 1
+    },
+    {
+        "data": "Ringo Starr played the drums for the band the Beatles.",
+        "label": 1
+    },
+    {
+        "data": "Nail finds itself in the belly button of humans.",
+        "label": 0
+    },
+    {
+        "data": "Arthritis medications include Lexapro and Paxil.",
+        "label": 0
+    },
+    {
+        "data": "Coffee, brewed from the beans of the Coffea plant, has many different flavors and varieties.",
+        "label": 1
+    },
+    {
+        "data": "No one has gotten scurvy during modern times.",
+        "label": 0
+    },
+    {
+        "data": "Harry Houdini flies airplanes and performs stunts.",
+        "label": 1
+    },
+    {
+        "data": "The Titanic contained a Lifeboat for everyone.",
+        "label": 0
+    },
+    {
+        "data": "The Apollo 15 served as the first mission to the moon.",
+        "label": 0
+    },
+    {
+        "data": "Many movies have been made about Apollo 11.",
+        "label": 1
+    },
+    {
+        "data": "Paul Allen served as owner of an NBA team.",
+        "label": 1
+    },
+    {
+        "data": "A nun will usually exercise leadership.",
+        "label": 0
+    },
+    {
+        "data": "Augusta, Georgia earned its name for the hottest month of the year (August) which is particularly hot there.",
+        "label": 0
+    },
+    {
+        "data": "Pearl divers are risking their lives Pearl hunting.",
+        "label": 1
+    },
+    {
+        "data": "the President of India do not sleep.",
+        "label": 0
+    },
+    {
+        "data": "A porch comes in many styles and looks in different living situations.",
+        "label": 1
+    },
+    {
+        "data": "History books like Records of the Three Kingdoms can give one knowledge of past events.",
+        "label": 1
+    },
+    {
+        "data": "Brussels sprout comes in a form of edible flower.",
+        "label": 0
+    },
+    {
+        "data": "The elephant serve as common source of protein for humans.",
+        "label": 0
+    },
+    {
+        "data": "Quark ruled the Klingon High Council on Star Trek: Deep Space Nine.",
+        "label": 0
+    },
+    {
+        "data": "Dodo birds current flourishing in population has led to too many of them being born.",
+        "label": 0
+    },
+    {
+        "data": "Dwyane Wade played basketball for the Miami Heat.",
+        "label": 1
+    },
+    {
+        "data": "Adam Levine starred in American horror story.",
+        "label": 1
+    },
+    {
+        "data": "The torque causes rotation motion on the body it acts on.",
+        "label": 1
+    },
+    {
+        "data": "Most Americans eat dosa regularly with most meals.",
+        "label": 0
+    },
+    {
+        "data": "The Hopi tribe continues a proud indigenous heritage in south africa.",
+        "label": 0
+    },
+    {
+        "data": "Boris Yeltsin lead the British to victory over the French in a war.",
+        "label": 0
+    },
+    {
+        "data": "Menopause happens to women at an older age.",
+        "label": 1
+    },
+    {
+        "data": "Dance remains a critical component of theatrical productions, especially musicals.",
+        "label": 1
+    },
+    {
+        "data": "Waiting staff wait for people to finish tasks.",
+        "label": 0
+    },
+    {
+        "data": "The American Indian Wars featured fighting in North America.",
+        "label": 1
+    },
+    {
+        "data": "Muse teaches a philosophy course at Cambridge.",
+        "label": 0
+    },
+    {
+        "data": "dosa often are served at McDonalds and other fast food restaurants.",
+        "label": 0
+    },
+    {
+        "data": "Joan of Arc stayed in Russia to avoid execution.",
+        "label": 0
+    },
+    {
+        "data": "Humans cannot eat fennel because it's poisonous.",
+        "label": 0
+    },
+    {
+        "data": "Dan Brown wrote the novel Huckleberry Finn.",
+        "label": 0
+    },
+    {
+        "data": "Carrots are grown in trees and bushes.",
+        "label": 0
+    },
+    {
+        "data": "Products containing coffea should be avoided if you dislike caffeine.",
+        "label": 1
+    },
+    {
+        "data": "Many Greek residents live in the Olympic Stadium.",
+        "label": 0
+    },
+    {
+        "data": "3G phones are mostly being phased out as most people own 4G phones with some even moving onto 5g.",
+        "label": 1
+    },
+    {
+        "data": "Many families prefer preparing spaghetti since the preparation is pretty easy.",
+        "label": 1
+    },
+    {
+        "data": "A webmaster makes sure that a website remains under control.",
+        "label": 1
+    },
+    {
+        "data": "Sarah Vaughan sang jazz music and was a Grammy Award winner.",
+        "label": 1
+    },
+    {
+        "data": "James Baldwin wrote a number of books.",
+        "label": 1
+    },
+    {
+        "data": "Harry Potter can teach classes on how to fly on a broomstick.",
+        "label": 0
+    },
+    {
+        "data": "People use spaghetti to tie items together.",
+        "label": 0
+    },
+    {
+        "data": "A public execution was the end of Louis XVI of France.",
+        "label": 1
+    },
+    {
+        "data": "Starch cannot be found among animal byproducts.",
+        "label": 0
+    },
+    {
+        "data": "Nancy Pelosi serves as an impoverished politician.",
+        "label": 0
+    },
+    {
+        "data": "Seeing a jaguar means you saw a large species of dog.",
+        "label": 0
+    },
+    {
+        "data": "Cars excel at speeding at Las Vegas Motor Speedway.",
+        "label": 1
+    },
+    {
+        "data": "The Hotel manager always works from home.",
+        "label": 0
+    },
+    {
+        "data": "People get drunk drinking too much Opuntia.",
+        "label": 1
+    },
+    {
+        "data": "Edema signals a bodily malfunction that should be treated.",
+        "label": 1
+    },
+    {
+        "data": "Quantum mechanics describe how quantum computers thrive in high temperatures.",
+        "label": 0
+    },
+    {
+        "data": "Northeast China largest ethnic group are Muslims.",
+        "label": 0
+    },
+    {
+        "data": "Islamophobia means people being afraid of spiders.",
+        "label": 0
+    },
+    {
+        "data": "A snowshoe finds itself only on adults and not children.",
+        "label": 0
+    },
+    {
+        "data": "The Statue of Freedom and the Statue of Liberty are the same thing.",
+        "label": 0
+    },
+    {
+        "data": "The very unfortunate Pope Pius VI was publicly arrested and died in prison a short time later.",
+        "label": 1
+    },
+    {
+        "data": "A highway connects the railroads together.",
+        "label": 0
+    },
+    {
+        "data": "David Cameron ruled the government in England.",
+        "label": 1
+    },
+    {
+        "data": "The producers created Star Trek: Deep Space Nine as a reality show.",
+        "label": 0
+    },
+    {
+        "data": "America was a member of the Axis powers.",
+        "label": 0
+    },
+    {
+        "data": "Alexander Graham Bell will contest in the next presidential elections.",
+        "label": 0
+    },
+    {
+        "data": "The correct use of a Firewall will help prevent unwanted access to a computer.",
+        "label": 1
+    },
+    {
+        "data": "Ray Charles went blind in his childhood from glaucoma.",
+        "label": 1
+    },
+    {
+        "data": "Stephen Harper increased transparency in the Canadian government.",
+        "label": 0
+    },
+    {
+        "data": "Boyle's law prevents people from making false claims in court.",
+        "label": 0
+    },
+    {
+        "data": "The Daytona 500 hosts a Halloween haunted house every October.",
+        "label": 0
+    },
+    {
+        "data": "Alanis Morissette won the Juno award for video of the year.",
+        "label": 1
+    },
+    {
+        "data": "Hard disk drives operate best in extremely hot conditions.",
+        "label": 0
+    },
+    {
+        "data": "C. S. Lewis made many films that people cherish today.",
+        "label": 0
+    },
+    {
+        "data": "President of Ukraine made a lot of money in the box office.",
+        "label": 0
+    },
+    {
+        "data": "Charles the Bald ruled over France and Italy during the 9th century.",
+        "label": 1
+    },
+    {
+        "data": "Adelaide hosts many different festivals each year.",
+        "label": 1
+    },
+    {
+        "data": "Muse had several songs that were hits in the US.",
+        "label": 1
+    },
+    {
+        "data": "Augusta, Georgia has many deserts to walk around.",
+        "label": 0
+    },
+    {
+        "data": "Circumference measurements indicate the mass of an object.",
+        "label": 0
+    },
+    {
+        "data": "Little children play in Minor League Baseball.",
+        "label": 0
+    },
+    {
+        "data": "A United States president has veto power to refuse to approve a bill.",
+        "label": 1
+    },
+    {
+        "data": "Sojourner Truth changed her name to Isabella Baumfree.",
+        "label": 0
+    },
+    {
+        "data": "Richard Linklater directed some popular movies.",
+        "label": 1
+    },
+    {
+        "data": "Bill Richardson ran as a Republican when he was governor of New Mexico.",
+        "label": 0
+    },
+    {
+        "data": "Christmas Trees abound in the month of July.",
+        "label": 0
+    },
+    {
+        "data": "Apartheid became the nickname for slavery in the united states.",
+        "label": 0
+    },
+    {
+        "data": "In 1983, the Catholic Church published a Code of canon law.",
+        "label": 1
+    },
+    {
+        "data": "The United States doesn't enforce laws against hate speech.",
+        "label": 1
+    },
+    {
+        "data": "The aileron works with the help of the engine.",
+        "label": 0
+    },
+    {
+        "data": "The family of Barack Obama includes his wife and six sons.",
+        "label": 0
+    },
+    {
+        "data": "Recycling and environmental conservation is not something Robert Redford cares about.",
+        "label": 0
+    },
+    {
+        "data": "It is a common practice for babies to gift their mothers a rose at the time of their birth.",
+        "label": 0
+    },
+    {
+        "data": "Benedict Arnold often dined on Eggs Benedict.",
+        "label": 0
+    },
+    {
+        "data": "Steve Albini founded his own recording studio.",
+        "label": 1
+    },
+    {
+        "data": "Richard Branson philanthropy has brought him great public renown.",
+        "label": 1
+    },
+    {
+        "data": "You must have a university degree in order to be able to get hired as a civil engineer.",
+        "label": 0
+    },
+    {
+        "data": "Kia Motors ceases to exist as an entity.",
+        "label": 0
+    },
+    {
+        "data": "In 2016, the Renminbi was recognized as a reserve currency by the IMF.",
+        "label": 1
+    },
+    {
+        "data": "there are no rules in professional boxing.",
+        "label": 0
+    },
+    {
+        "data": "Ti\u00ebsto performed at the electronic music festival.",
+        "label": 1
+    },
+    {
+        "data": "Dwyane Wade played basketball during his career.",
+        "label": 1
+    },
+    {
+        "data": "Food Network produces many cooking shows.",
+        "label": 1
+    },
+    {
+        "data": "The Arctic Ocean smells cleaner than the Pacific and the Atlantic due to the colder water temperatures.",
+        "label": 0
+    },
+    {
+        "data": "Prince Philip, Duke of Edinburgh continues to serve as a member of the royal family.",
+        "label": 0
+    },
+    {
+        "data": "Edward Said died from cancer in New York.",
+        "label": 1
+    },
+    {
+        "data": "Benito Mussolini subjected the citizens of Italy to his rule.",
+        "label": 1
+    },
+    {
+        "data": "The Battle of Arras involved British forces attacking Germany.",
+        "label": 1
+    },
+    {
+        "data": "The scrotum holds the urine produced by the man.",
+        "label": 0
+    },
+    {
+        "data": "Housefly grows as large as a pear fruit.",
+        "label": 0
+    },
+    {
+        "data": "Tim McGraw married the singer Faith Hill.",
+        "label": 1
+    },
+    {
+        "data": "Dubai runs along the coast of the Persian Gulf.",
+        "label": 1
+    },
+    {
+        "data": "Amazon sells the best home cooked meals.",
+        "label": 0
+    },
+    {
+        "data": "An amoeba overtakes other life forms for sustenance.",
+        "label": 1
+    },
+    {
+        "data": "Women use their scrotum to create babies.",
+        "label": 0
+    },
+    {
+        "data": "Boa constrictors serve as a source of food for most people.",
+        "label": 0
+    },
+    {
+        "data": "Walt Whitman wrote many wonderful poems.",
+        "label": 1
+    },
+    {
+        "data": "James Watson sings popular pop music.",
+        "label": 0
+    },
+    {
+        "data": "Lent period is practiced by catholics.",
+        "label": 1
+    },
+    {
+        "data": "The Polish Armed Forces fought for Poland in World War II..",
+        "label": 1
+    },
+    {
+        "data": "Jim Webb works in the field of politics.",
+        "label": 1
+    },
+    {
+        "data": "Premier of the Soviet Union continue to exist.",
+        "label": 0
+    },
+    {
+        "data": "A butler excels at gliding quietly about.",
+        "label": 1
+    },
+    {
+        "data": "William Howard Taft served as an American politician.",
+        "label": 1
+    },
+    {
+        "data": "Nobody has a birthday on March 20.",
+        "label": 0
+    },
+    {
+        "data": "The United States Marine Corps exists as a branch of the United States.",
+        "label": 1
+    },
+    {
+        "data": "Celsius competes with Fahrenheit for the top method of temperature measurement.",
+        "label": 1
+    },
+    {
+        "data": "Walter Mondale competed against Ronald Reagan in the 1984 United States presidential election.",
+        "label": 1
+    },
+    {
+        "data": "RoboCop lead the United States as a president.",
+        "label": 0
+    },
+    {
+        "data": "Lamprey live on both land and water.",
+        "label": 0
+    },
+    {
+        "data": "Scientists got rid of smallpox with vaccines.",
+        "label": 1
+    },
+    {
+        "data": "Motion sickness can only be caused while flying in an airplane.",
+        "label": 0
+    },
+    {
+        "data": "Someone ordered chocolate cake for dessert.",
+        "label": 1
+    },
+    {
+        "data": "Pears taste the best when they transition to a dark green.",
+        "label": 0
+    },
+    {
+        "data": "The torque cast John Lennon as its star.",
+        "label": 0
+    },
+    {
+        "data": "Epcot has world class roller coasters to ride.",
+        "label": 0
+    },
+    {
+        "data": "Echinacea has no side effects when consumed daily as a tea.",
+        "label": 0
+    },
+    {
+        "data": "Many vegetables contain high levels of starch.",
+        "label": 1
+    },
+    {
+        "data": "You can watch Star Trek: The Next Generation a tv show in the sci-fi genre.",
+        "label": 1
+    },
+    {
+        "data": "Howard Hughes was among the first people to use the aileron.",
+        "label": 0
+    },
+    {
+        "data": "Laws against hate speech force people to love speech.",
+        "label": 0
+    },
+    {
+        "data": "The Great Pyramid of Giza resides in the country of Egypt.",
+        "label": 1
+    },
+    {
+        "data": "That's So Raven's spinoff show includes all of the main characters.",
+        "label": 0
+    },
+    {
+        "data": "C. S. Lewis wrote the Narnian Chronicles.",
+        "label": 1
+    },
+    {
+        "data": "A scrotum holds the testicles for the male.",
+        "label": 1
+    },
+    {
+        "data": "Once elected the President of the Republic of China serves a term of 8 years.",
+        "label": 0
+    },
+    {
+        "data": "An ape knows how to solve college-level calculus.",
+        "label": 0
+    },
+    {
+        "data": "Geoffrey Chaucer wrote the greatest poems of the Spanish language.",
+        "label": 0
+    },
+    {
+        "data": "Bryan Adams has never made any music.",
+        "label": 0
+    },
+    {
+        "data": "Walt Whitman wrote many poems and essays.",
+        "label": 1
+    },
+    {
+        "data": "Susan Sarandon performed in front of the camera.",
+        "label": 1
+    },
+    {
+        "data": "The man turned on his electric lamp thanks to Alexander Graham Bell.",
+        "label": 0
+    },
+    {
+        "data": "Popeye met up with Donald Duck and Mickey Mouse.",
+        "label": 0
+    },
+    {
+        "data": "Wilhelm Wundt studied under Sigmund Freud.",
+        "label": 0
+    },
+    {
+        "data": "Zack Ryder survived cancer and he is a wrestler.",
+        "label": 1
+    },
+    {
+        "data": "The philosophies of Parmenides and Heraclitus are considered to be in agreement.",
+        "label": 0
+    },
+    {
+        "data": "United States Department of Housing and Urban Development helps the underprivileged find housing to live in.",
+        "label": 1
+    },
+    {
+        "data": "Many people visit the Washington Monument each year.",
+        "label": 1
+    },
+    {
+        "data": "several celebrities appear on The Tonight Show Starring Jimmy Fallon.",
+        "label": 1
+    },
+    {
+        "data": "the Culture of Italy includes pierogi and sauerkraut.",
+        "label": 0
+    },
+    {
+        "data": "One can see both the Statue of Freedom and the United States Capitol at the same time.",
+        "label": 1
+    },
+    {
+        "data": "Many people bike across the Sydney Harbour Bridge cycleway in the morning.",
+        "label": 1
+    },
+    {
+        "data": "The Watergate scandal occurred before World War II.",
+        "label": 0
+    },
+    {
+        "data": "March Madness is celebrated and sponsored by the NBA.",
+        "label": 0
+    },
+    {
+        "data": "The Offspring play rock music for a living.",
+        "label": 1
+    },
+    {
+        "data": "Pangolins hunt and eat penguins and polar bears.",
+        "label": 0
+    },
+    {
+        "data": "Western Wall ceases to exist as a religious site.",
+        "label": 0
+    },
+    {
+        "data": "The Battle of France occurred during the second world war.",
+        "label": 1
+    },
+    {
+        "data": "Satanism created career opportunities for Anton Lavey.",
+        "label": 1
+    },
+    {
+        "data": "In the calendar year, May comes after April and before June.",
+        "label": 1
+    },
+    {
+        "data": "Popeye lives in San Diego, California in the comics.",
+        "label": 0
+    },
+    {
+        "data": "Pablo Neruda wrote the novel Duma Key.",
+        "label": 0
+    },
+    {
+        "data": "Soup exists in hot or cold cuisines.",
+        "label": 1
+    },
+    {
+        "data": "Meningitis causes seizures in sufferers of the disease.",
+        "label": 1
+    },
+    {
+        "data": "If people want to see celebrities, The US Open is a great place to go.",
+        "label": 1
+    },
+    {
+        "data": "A black fly does not bite.",
+        "label": 0
+    },
+    {
+        "data": "A Druze works in a factory and makes shows.",
+        "label": 0
+    },
+    {
+        "data": "Jaguars can be found at the bottom of a food web.",
+        "label": 0
+    },
+    {
+        "data": "Modern spaceflight started prior to World War I.",
+        "label": 0
+    },
+    {
+        "data": "WordPress uses steam to print words on paper.",
+        "label": 0
+    },
+    {
+        "data": "Hunting elks continues to be illegal.",
+        "label": 0
+    },
+    {
+        "data": "Boats and water can cause motion sickness in people.",
+        "label": 1
+    },
+    {
+        "data": "The walrus lives in ice in the Arctic ocean.",
+        "label": 1
+    },
+    {
+        "data": "Artists paint pastoral scenes of countrysides.",
+        "label": 1
+    },
+    {
+        "data": "Toni Morrison has written different books.",
+        "label": 1
+    },
+    {
+        "data": "Carnival in Rio de Janeiro involves dancing and music.",
+        "label": 1
+    },
+    {
+        "data": "Pig latin transforms Latin into a slang language.",
+        "label": 1
+    },
+    {
+        "data": "A B movie contains poorly filmed scenes.",
+        "label": 1
+    },
+    {
+        "data": "Watchmen the show only contains stories about watchmakers.",
+        "label": 0
+    },
+    {
+        "data": "The Kuril Islands belong to Russia without dispute.",
+        "label": 0
+    },
+    {
+        "data": "The Offspring released their first album in 1989 on vinyl and cassettes.",
+        "label": 1
+    },
+    {
+        "data": "The President of the Republic of China bakes cakes for a living.",
+        "label": 0
+    },
+    {
+        "data": "Emperor Meiji earned the knighthood of the Order of the Golden Fleece.",
+        "label": 1
+    },
+    {
+        "data": "People either know Tim McGraw by having listened to his music, watching him on TV, or familiarity with his wife, Faith Hill.",
+        "label": 1
+    },
+    {
+        "data": "H. P. Lovecraft wrote the, Call of Cthulhu.",
+        "label": 1
+    },
+    {
+        "data": "A woman cannot be a brigadier general.",
+        "label": 0
+    },
+    {
+        "data": "The walrus swims faster than a dolphin.",
+        "label": 0
+    },
+    {
+        "data": "A butterfly can eat other butterflies as a main food source.",
+        "label": 0
+    },
+    {
+        "data": "The first European settlers to America came in contact with the Hopi people.",
+        "label": 0
+    },
+    {
+        "data": "The concept of special relativity was discovered in mathematics.",
+        "label": 0
+    },
+    {
+        "data": "If you participate in fishery, it can't be a sport.",
+        "label": 0
+    },
+    {
+        "data": "Eating fennel seeds will trigger a reaction in people with sunflower seed allergies.",
+        "label": 0
+    },
+    {
+        "data": "The Offspring represents the children of the head of Columbia Records.",
+        "label": 0
+    },
+    {
+        "data": "Mona Lisa is a perfect example of Art Nouveau work.",
+        "label": 0
+    },
+    {
+        "data": "Peter Sellers intended to be a pilot but ended up as an entertainer in the Royal Air Force instead.",
+        "label": 1
+    },
+    {
+        "data": "Up features a talking dolphin.",
+        "label": 0
+    },
+    {
+        "data": "The United States Armed Forces have fought in many countries around the world.",
+        "label": 1
+    },
+    {
+        "data": "C. S. Lewis authored The Lord of the Rings trilogy.",
+        "label": 0
+    },
+    {
+        "data": "The First Sino-Japanese War involved the country of Japan.",
+        "label": 1
+    },
+    {
+        "data": "Dance dates back to ancient times across many cultures.",
+        "label": 1
+    },
+    {
+        "data": "John Dewey famously did not believe in God.",
+        "label": 1
+    },
+    {
+        "data": "The United States Department of Housing and Urban Development helps some homeowners with a loan.",
+        "label": 1
+    },
+    {
+        "data": "Dwyane Wade serves as an NBA player currently.",
+        "label": 0
+    },
+    {
+        "data": "If you want to celebrate on NYE, sometimes you clink Champagne.",
+        "label": 1
+    },
+    {
+        "data": "Menachem Begin represented a country based on Christianity.",
+        "label": 0
+    },
+    {
+        "data": "The Fairly OddParents had to eat magic beans in order to fulfill their children's wishes.",
+        "label": 0
+    },
+    {
+        "data": "The Bible describes the Philistines in great detail.",
+        "label": 1
+    },
+    {
+        "data": "The Surrender of Japan happened in 1945.",
+        "label": 1
+    },
+    {
+        "data": "Koalas have gills and breathe underwater.",
+        "label": 0
+    },
+    {
+        "data": "The Philistines considered the Israelites to be allies.",
+        "label": 0
+    },
+    {
+        "data": "Gregory Peck possessed the talent to play Atticus Finch in To Kill a Mockingbird.",
+        "label": 1
+    },
+    {
+        "data": "Adam Levine sings in a band but has ever acted.",
+        "label": 0
+    },
+    {
+        "data": "Dmitry Medvedev plays hockey for the French national team.",
+        "label": 0
+    },
+    {
+        "data": "Punch coined the term cartoon.",
+        "label": 1
+    },
+    {
+        "data": "The English Channel played a role in WW2.",
+        "label": 1
+    },
+    {
+        "data": "The Druze serve as the main Christian group in Lebanon.",
+        "label": 0
+    },
+    {
+        "data": "Nutritionists recommend feeding your child nothing but dessert for the first three years of their life.",
+        "label": 0
+    },
+    {
+        "data": "Bruce Lee cooks his famous Kung Fu soup for fellow singers.",
+        "label": 0
+    },
+    {
+        "data": "Nights begin to grow longer during the Autumn.",
+        "label": 1
+    },
+    {
+        "data": "Giant squid mostly exist on land and travel there.",
+        "label": 0
+    },
+    {
+        "data": "The Hopi people often were found in the desert Southwest.",
+        "label": 1
+    },
+    {
+        "data": "Pope Leo X served as the pope during the Renaissance.",
+        "label": 1
+    },
+    {
+        "data": "The local fair is opening up their new corn maize this coming Fall with the promise of an exciting time!.",
+        "label": 0
+    },
+    {
+        "data": "Daniel Dennett lack of education has been an impediment to his ambitions.",
+        "label": 0
+    },
+    {
+        "data": "American journalist can be proud when they win the Pulitzer Prize.",
+        "label": 1
+    },
+    {
+        "data": "Tim McGraw collaborated with another country artist on a track.",
+        "label": 1
+    },
+    {
+        "data": "Ayyubid dynasty the founding dynasty of the medieval Sultanate of Egypt.",
+        "label": 1
+    },
+    {
+        "data": "Athletes compete in the Olympics to receive the Pulitzer Prize.",
+        "label": 0
+    },
+    {
+        "data": "An aphid makes maps in their homes.",
+        "label": 0
+    },
+    {
+        "data": "Monopoly entertained Revolutionary War soldiers.",
+        "label": 0
+    },
+    {
+        "data": "Naruto Uzumaki wanted to and became Hokage.",
+        "label": 1
+    },
+    {
+        "data": "The Wonderful Wizard of Oz got turned into a popular movie.",
+        "label": 1
+    },
+    {
+        "data": "In Golden Glove professional boxing below the belt hits are punished by reprisal; that is, if you strike your opponent's groin, they are afforded a free shot at your groin in return.",
+        "label": 0
+    },
+    {
+        "data": "Jim Webb ran for president in 2020.",
+        "label": 1
+    },
+    {
+        "data": "Hippopotamus only eat plants and no meat.",
+        "label": 1
+    },
+    {
+        "data": "Paula Deen shows off her skills on Food Network.",
+        "label": 1
+    },
+    {
+        "data": "Adam Levine serves as a singer in a rock band.",
+        "label": 1
+    },
+    {
+        "data": "The walrus lives in a wide range of the world's oceans.",
+        "label": 1
+    },
+    {
+        "data": "Muse released an entirely acoustic album.",
+        "label": 0
+    },
+    {
+        "data": "Carrots contain large amounts of vitamin A.",
+        "label": 1
+    },
+    {
+        "data": "The elephant grows horns as they get older.",
+        "label": 0
+    },
+    {
+        "data": "Holy Saturday represents the death of the Buddha.",
+        "label": 0
+    },
+    {
+        "data": "Bigfoot habitats the Northwest US and Canada.",
+        "label": 0
+    },
+    {
+        "data": "Kid the Wiz made an album called The Wonderful Wizard of Oz.",
+        "label": 0
+    },
+    {
+        "data": "The Ashes may be won by only good teams.",
+        "label": 1
+    },
+    {
+        "data": "Snickers taste like caramel and peanuts.",
+        "label": 1
+    },
+    {
+        "data": "Internet troll often leave words of encouragement for online influencers.",
+        "label": 0
+    },
+    {
+        "data": "There have been multiple documentary film festivals over the years.",
+        "label": 1
+    },
+    {
+        "data": "An ape mirrors our behaviors due to genetics.",
+        "label": 1
+    },
+    {
+        "data": "Susan Sarandon votes like a conservative Republican.",
+        "label": 0
+    },
+    {
+        "data": "Harry Houdini made a career out of being a magician.",
+        "label": 1
+    },
+    {
+        "data": "Vice Media produces documentaries and television shows.",
+        "label": 1
+    },
+    {
+        "data": "One can listen to music on ITunes.",
+        "label": 1
+    },
+    {
+        "data": "Atlas played the role of God of Lightning in Greek mythology.",
+        "label": 0
+    },
+    {
+        "data": "Firewall gives hackers a way to walk in and grab information.",
+        "label": 0
+    },
+    {
+        "data": "Alexander Graham Bell invented the light bulb.",
+        "label": 0
+    },
+    {
+        "data": "Dissociative identity disorder hear internal voices.",
+        "label": 1
+    },
+    {
+        "data": "The Teletubbies live in Wisconsin, USA.",
+        "label": 0
+    },
+    {
+        "data": "Paul Allen invented Microsoft together with Bill Gates.",
+        "label": 1
+    },
+    {
+        "data": "The president gave his speech in pig latin.",
+        "label": 0
+    },
+    {
+        "data": "Pearl Harbor bombing took the lives of many armed services members in Hawaii.",
+        "label": 1
+    },
+    {
+        "data": "Internet troll live beneath bridges and have the same morphological features as the trolls of folklore.",
+        "label": 0
+    },
+    {
+        "data": "Sam Cooke exists as an inductee in the Hall of Fame.",
+        "label": 1
+    },
+    {
+        "data": "Green Day has always had this name for the band.",
+        "label": 0
+    },
+    {
+        "data": "The Alpaca's fur is so soft we used it today in a lot of sewing and clothing.",
+        "label": 0
+    },
+    {
+        "data": "George Armstrong Custer survived the Battle of Little Bighorn.",
+        "label": 0
+    },
+    {
+        "data": "Most followers of Druze live in the middle east.",
+        "label": 1
+    },
+    {
+        "data": "The aileron works according to the desired path.",
+        "label": 1
+    },
+    {
+        "data": "Lamprey feed by sucking the blood of other fish.",
+        "label": 1
+    },
+    {
+        "data": "Hailing as the number one vacation spot, brussels sprouts Fruit Garden is a village in Brussels.",
+        "label": 0
+    },
+    {
+        "data": "Spaghetti ceases to be served in American household.",
+        "label": 0
+    },
+    {
+        "data": "Out of the days in a week Wednesday Is the Halfway point in a week known as Hump day .",
+        "label": 1
+    },
+    {
+        "data": "A Bengal tiger can take down a large deer.",
+        "label": 1
+    },
+    {
+        "data": "Laurence Fishburne starred in the movie Pulp Fiction.",
+        "label": 0
+    },
+    {
+        "data": "Pope Leo X spoke to Pope Francis.",
+        "label": 0
+    },
+    {
+        "data": "Athletes played football in Super Bowl XLVII.",
+        "label": 1
+    },
+    {
+        "data": "Sockeye salmon jump on the river and inlet banks to spawn.",
+        "label": 0
+    },
+    {
+        "data": "People got to see the monitor lizard in the area of the zoo marked as the African savannah.",
+        "label": 0
+    },
+    {
+        "data": "Alfalfa smells like burnt raisins in the fall before it's harvested.",
+        "label": 0
+    },
+    {
+        "data": "Country music lovers often go out to country festivals to see Ti\u00ebsto.",
+        "label": 0
+    },
+    {
+        "data": "The hair stylist believed she was an expert is cosmology because she could also do clients makeup.",
+        "label": 0
+    },
+    {
+        "data": "The Statue of Freedom stands taller than the Statue of Liberty.",
+        "label": 0
+    },
+    {
+        "data": "Green Day sometimes destroys equipment during their shows.",
+        "label": 1
+    },
+    {
+        "data": "Professional boxing takes skill and practice to perform.",
+        "label": 1
+    },
+    {
+        "data": "A protest is a demonstration of freedom of speech in action.",
+        "label": 1
+    },
+    {
+        "data": "Benito Mussolini supported democracy for countries.",
+        "label": 0
+    },
+    {
+        "data": "Hector Berlioz composed sacred music and was a French conductor.",
+        "label": 1
+    },
+    {
+        "data": "Bigfoot exists as a living entity in the United States.",
+        "label": 0
+    },
+    {
+        "data": "A kiln can double as a convection oven and be used to cook traditional dishes of the Ahurveh tribe of coastal Sudan.",
+        "label": 0
+    },
+    {
+        "data": "People recover from the day when they sleep.",
+        "label": 1
+    },
+    {
+        "data": "A civil engineer may perform land surveying for highway construction.",
+        "label": 1
+    },
+    {
+        "data": "Augusta, Georgia has many beaches to swim at.",
+        "label": 1
+    },
+    {
+        "data": "The Palace of Versailles typically represents the Roman Empire.",
+        "label": 0
+    },
+    {
+        "data": "Plano, Texas locates itself only in Collin County.",
+        "label": 0
+    },
+    {
+        "data": "Purchasing a diamond doesn't require much money.",
+        "label": 0
+    },
+    {
+        "data": "Diamonds illuminates bright light under the sun.",
+        "label": 1
+    },
+    {
+        "data": "Christianity in China declines when more westerners move to the country.",
+        "label": 0
+    },
+    {
+        "data": "James Watson has declared his love for God many times.",
+        "label": 0
+    },
+    {
+        "data": "Dan Brown wrote a popular novel about solving mysteries.",
+        "label": 1
+    },
+    {
+        "data": "The food known as dosa often are served with Indian dishes.",
+        "label": 1
+    },
+    {
+        "data": "Lake trout swim and live in freshwater.",
+        "label": 1
+    },
+    {
+        "data": "Paratroopers function as part of an airborne force.",
+        "label": 1
+    },
+    {
+        "data": "With freedom of speech one can yell fire in a crowded theatre with no repercussions.",
+        "label": 0
+    },
+    {
+        "data": "Sick people will often take echinacea to try to help their immune systems.",
+        "label": 1
+    },
+    {
+        "data": "Elk live in north america and are similar to moose.",
+        "label": 1
+    },
+    {
+        "data": "Cellulose in meals cannot be digested in the human body.",
+        "label": 1
+    },
+    {
+        "data": "Aerial photography lets us take photos from the ground to capture unique photos of the sky.",
+        "label": 0
+    },
+    {
+        "data": "Fifth Amendment to the United States Constitution freed all slaves.",
+        "label": 0
+    },
+    {
+        "data": "It is safe for someone with a nut allergy to eat just one almond.",
+        "label": 0
+    },
+    {
+        "data": "A spider monkey can bark when threatened.",
+        "label": 1
+    },
+    {
+        "data": "The classical music concert included music by Fr\u00e9d\u00e9ric Chopin.",
+        "label": 1
+    },
+    {
+        "data": "The house had a great yard that can be viewed from the porch.",
+        "label": 1
+    },
+    {
+        "data": "Robert De Niro acted in many different films.",
+        "label": 1
+    },
+    {
+        "data": "An ape enjoys climbing trees and eating bananas.",
+        "label": 1
+    },
+    {
+        "data": "In robotics, some robots are autonomous, while others need human assistance to operate properly.",
+        "label": 1
+    },
+    {
+        "data": "Fred Flintstone created the first Brake system by using his feet to stop a car.",
+        "label": 0
+    },
+    {
+        "data": "Harvesting a Carrot requires the use of a ladder.",
+        "label": 0
+    },
+    {
+        "data": "Only on Wednesday can people go to church.",
+        "label": 0
+    },
+    {
+        "data": "Current leaders of Russia can look to Dmitry Medvedev for advice.",
+        "label": 1
+    },
+    {
+        "data": "Robert De Niro loves his country, Germany.",
+        "label": 0
+    },
+    {
+        "data": "Paul Allen invested money into philanthropic projects.",
+        "label": 1
+    },
+    {
+        "data": "Dorset history can be traced back to the Stone Age.",
+        "label": 1
+    },
+    {
+        "data": "Reading Records of the Three Kingdoms will help one predict events in the future.",
+        "label": 0
+    },
+    {
+        "data": "Alexander Graham Bell descended from a Scottish physicist.",
+        "label": 0
+    },
+    {
+        "data": "Scurvy ravages the human body in its later stages.",
+        "label": 1
+    },
+    {
+        "data": "Software engineers cease to exist as a viable occupation.",
+        "label": 0
+    },
+    {
+        "data": "Wednesday gives people a chance to exchange gifts with each other.",
+        "label": 0
+    },
+    {
+        "data": "A business magnate can acquire and sell other companies.",
+        "label": 1
+    },
+    {
+        "data": "Punch reports on the latest boxing matches around the world.",
+        "label": 0
+    },
+    {
+        "data": "The Capitalist system was founded because of the Monopoly.",
+        "label": 0
+    },
+    {
+        "data": "Playing a melody makes great music.",
+        "label": 1
+    },
+    {
+        "data": "The pancreas serves a vital organ in the human body.",
+        "label": 1
+    },
+    {
+        "data": "The Iran hostage crisis ended with a successful US special forces operation.",
+        "label": 0
+    },
+    {
+        "data": "Catfish have whiskers and swim in water.",
+        "label": 1
+    },
+    {
+        "data": "AN Internet troll scrapes the bottom of the ocean for lobsters.",
+        "label": 0
+    },
+    {
+        "data": "The Ten Commandments feature prominently in the Old Testament of the Christian Bible.",
+        "label": 1
+    },
+    {
+        "data": "Motion sickness only happens to people while they are sleeping.",
+        "label": 0
+    },
+    {
+        "data": "As a natural resource water provides many uses, from farming to drinking.",
+        "label": 1
+    },
+    {
+        "data": "Children learning the trumpet may excel in smooth jazz.",
+        "label": 1
+    },
+    {
+        "data": "Drinking Champagne is a good holistic method of recovering from illness.",
+        "label": 0
+    },
+    {
+        "data": "Soup no longer exists as part of cuisine.",
+        "label": 0
+    },
+    {
+        "data": "The Foreign policy of the United States adapted to the new reality of terrorism after 9/11..",
+        "label": 1
+    },
+    {
+        "data": "A musket fires a small projectile through the use of gunpowder.",
+        "label": 1
+    },
+    {
+        "data": "The Great Pyramid of Giza can talk and interact with people.",
+        "label": 0
+    },
+    {
+        "data": "Robert Downey Jr. won two Golden Globes.",
+        "label": 1
+    },
+    {
+        "data": "Opuntia grows in the Americas and in Africa.",
+        "label": 0
+    },
+    {
+        "data": "Categorized as a natural wonder, Lawrencium is respected as a strong subject.",
+        "label": 0
+    },
+    {
+        "data": "Cell biology instructs the details of the inside of a cell.",
+        "label": 1
+    },
+    {
+        "data": "A praetor commanded armies and also could work as a magistrate.",
+        "label": 1
+    },
+    {
+        "data": "Chevrolet Camaro are often chosen for purchase by large families.",
+        "label": 0
+    },
+    {
+        "data": "Cell membrane only exists in some living creatures.",
+        "label": 0
+    },
+    {
+        "data": "The dodo bird no longer lives on planet earth.",
+        "label": 1
+    },
+    {
+        "data": "Brakes make sure the car stops.",
+        "label": 1
+    },
+    {
+        "data": "The Sound of Music takes a person back in time before world war two tore Europe apart.",
+        "label": 1
+    },
+    {
+        "data": "Dissociative identity disorder can not be diagnosed.",
+        "label": 0
+    },
+    {
+        "data": "The Eastern Front experienced a lot of battles and blood.",
+        "label": 1
+    },
+    {
+        "data": "One can watch Bugs Bunny on the television.",
+        "label": 1
+    },
+    {
+        "data": "Ray Charles saw all the people in the audience.",
+        "label": 0
+    },
+    {
+        "data": "Some Like it Hot was directed by Billy Wilder.",
+        "label": 1
+    },
+    {
+        "data": "Whole Foods Market currently operates as part of a larger business.",
+        "label": 1
+    },
+    {
+        "data": "The US Open gets televised all around the world.",
+        "label": 1
+    },
+    {
+        "data": "Higher education means high school level education.",
+        "label": 0
+    },
+    {
+        "data": "Panasonic makes lots of board games for kids.",
+        "label": 0
+    },
+    {
+        "data": "You might need water when you eat dosa because it is spicy.",
+        "label": 1
+    },
+    {
+        "data": "The Tonight Show Starring Jimmy Fallon airs on Sunday nights.",
+        "label": 0
+    },
+    {
+        "data": "The Coen brothers directed the film Garfield.",
+        "label": 0
+    },
+    {
+        "data": "Someone living in Massachusetts would most likely travel by plane to reach Portsmouth, New Hampshire.",
+        "label": 0
+    },
+    {
+        "data": "Of the twelve months in the year, March takes place third.",
+        "label": 1
+    },
+    {
+        "data": "The Chicago Symphony Orchestra performed a symphony from Mozart.",
+        "label": 1
+    },
+    {
+        "data": "John Dryden died with no children.",
+        "label": 0
+    },
+    {
+        "data": "James Hetfield plays loud music in a band.",
+        "label": 1
+    },
+    {
+        "data": "The first painting was created in 2015.",
+        "label": 0
+    },
+    {
+        "data": "Pulitzer Prize winning books will often have the Pulitzer emblem on the book cover.",
+        "label": 1
+    },
+    {
+        "data": "Jonathan Swift attended Trinity College in Dublin.",
+        "label": 1
+    },
+    {
+        "data": "Founder of Disney Walt Whitman is known for advantage in the animation world.",
+        "label": 0
+    },
+    {
+        "data": "The olive tree smells of blueberries when in bloom.",
+        "label": 0
+    },
+    {
+        "data": "Arcade Fire won the Juno Award for group of the year.",
+        "label": 1
+    },
+    {
+        "data": "The butterfly can fly in the air.",
+        "label": 1
+    },
+    {
+        "data": "J. P. Morgan restored the US Treasury surplus.",
+        "label": 1
+    },
+    {
+        "data": "Tim McGraw creates popular country music.",
+        "label": 1
+    },
+    {
+        "data": "Flag of the United States originates in the country of France.",
+        "label": 0
+    },
+    {
+        "data": "Epcot brings in hundreds of thousands of tourists every year.",
+        "label": 1
+    },
+    {
+        "data": "Spider-Man 3 features James Franco as the Green Goblin.",
+        "label": 1
+    },
+    {
+        "data": "Joan of Arc performed in plays dressed as a man.",
+        "label": 0
+    },
+    {
+        "data": "The President of India stopped COVID-19 before mass sickness in his country.",
+        "label": 0
+    },
+    {
+        "data": "Popeye hates to eat Spinach because it is nasty.",
+        "label": 0
+    },
+    {
+        "data": "The Coen brothers made the movie Garfield starring Bill Murray.",
+        "label": 0
+    },
+    {
+        "data": "The Wonderful Wizard of Oz starts off in Texas.",
+        "label": 0
+    },
+    {
+        "data": "An Internet troll is a person who creates memes online.",
+        "label": 0
+    },
+    {
+        "data": "Victoria Beckham married David Beckham and are still together.",
+        "label": 1
+    },
+    {
+        "data": "The Fleur-de-lis originated as a French symbol.",
+        "label": 1
+    },
+    {
+        "data": "Hypoxia only effects people in extreme conditions.",
+        "label": 0
+    },
+    {
+        "data": "One can purchase a diamond ring at the local jewelry store.",
+        "label": 1
+    },
+    {
+        "data": "Warren E. Burger played for the New Orleans Pelicans at center.",
+        "label": 0
+    },
+    {
+        "data": "No Dutch people live in Scotland.",
+        "label": 0
+    },
+    {
+        "data": "Medical Subject Headings help users discover information.",
+        "label": 1
+    },
+    {
+        "data": "Harry Potter the book turned film-series, has expanded so much that the brand now encompasses entire cafes and theme parks.",
+        "label": 1
+    },
+    {
+        "data": "Waiting staff serves food in restaurants.",
+        "label": 1
+    },
+    {
+        "data": "Florence Nightingale treated people in England.",
+        "label": 1
+    },
+    {
+        "data": "African Americans helped pioneer blues music in the United States.",
+        "label": 1
+    },
+    {
+        "data": "The American Indian Wars centered conflicts between American colonizers and indigenous peoples in North America.",
+        "label": 1
+    },
+    {
+        "data": "On the Origin of Species birthed as a result of musing from Charles Darwin.",
+        "label": 1
+    },
+    {
+        "data": "People watch sports games at the Pepsi Center.",
+        "label": 1
+    },
+    {
+        "data": "Emperor Meiji rules Japan during his reign as emperor.",
+        "label": 1
+    },
+    {
+        "data": "Watchmen depicted apocalypse in comical form.",
+        "label": 1
+    },
+    {
+        "data": "Women artists include people like Maya Angelou.",
+        "label": 1
+    },
+    {
+        "data": "Salmonella cleans and helps aid your digestive system.",
+        "label": 0
+    },
+    {
+        "data": "Trafford's city government oversees the northwest English borough.",
+        "label": 1
+    },
+    {
+        "data": "The Magic Flute stands out in the operatic musicals as one of the best ever.",
+        "label": 1
+    },
+    {
+        "data": "Albertus Magnus practiced chemistry in his home country of Germany.",
+        "label": 1
+    },
+    {
+        "data": "Bigfoot loves being an American president.",
+        "label": 0
+    },
+    {
+        "data": "The attack on Pearl Harbor took place in 1941.",
+        "label": 1
+    },
+    {
+        "data": "Booker T. Washington wife, Fannie Smith, continued his cause after his death.",
+        "label": 0
+    },
+    {
+        "data": "Hippopotamus eat primarily meat from other animals.",
+        "label": 0
+    },
+    {
+        "data": "Microsoft created ITunes to use for streaming music.",
+        "label": 0
+    },
+    {
+        "data": "Bigfoot participates in the ecosystem of forest.",
+        "label": 0
+    },
+    {
+        "data": "The President of the Republic of China reigns for life.",
+        "label": 0
+    },
+    {
+        "data": "Good Friday plays an important role in religious festivities in Mexico.",
+        "label": 1
+    },
+    {
+        "data": "Smallpox has never been used as a biological weapon.",
+        "label": 0
+    },
+    {
+        "data": "Cytomegalovirus infects people and can make them quite ill.",
+        "label": 1
+    },
+    {
+        "data": "Sodium hydroxide accepts and bonds to Hydrogen ions.",
+        "label": 1
+    },
+    {
+        "data": "Professional boxing need three fighters at a time.",
+        "label": 0
+    },
+    {
+        "data": "Emperor Meiji ruled over Japan and his reign was called the Meiji period.",
+        "label": 1
+    },
+    {
+        "data": "You can see that the television program Malcolm in the Middle won a Peabody Award.",
+        "label": 1
+    },
+    {
+        "data": "Laurence Fishburne served as an actor in many American films.",
+        "label": 1
+    },
+    {
+        "data": "Paul Allen makes documentary films and own the Seattle Seahawks.",
+        "label": 1
+    },
+    {
+        "data": "A hamster can grow to over twenty pounds in weight.",
+        "label": 0
+    },
+    {
+        "data": "The cricetidae create the first appearance for the hamster among other rodents.",
+        "label": 1
+    },
+    {
+        "data": "Embryophytes are the largest mammals to ever live.",
+        "label": 0
+    },
+    {
+        "data": "You can celebrate lent, the Atheist's holiday.",
+        "label": 0
+    },
+    {
+        "data": "LinkedIn restricts their membership to people who are currently and actively teaching or studying.",
+        "label": 0
+    },
+    {
+        "data": "Iggy Pop participated in Dancing with the Stars.",
+        "label": 0
+    },
+    {
+        "data": "Google Play began marketing for their new word puzzle APP WordPress and already has a five star rating.",
+        "label": 0
+    },
+    {
+        "data": "Using allium can replace cooking with salt.",
+        "label": 0
+    },
+    {
+        "data": "Marshall McLuhan practice Islam fervently and has partaken in various jihads.",
+        "label": 0
+    },
+    {
+        "data": "If you want a guitar, check out Yamaha Corporation.",
+        "label": 1
+    },
+    {
+        "data": "Brussels sprouts are grown on trees.",
+        "label": 0
+    },
+    {
+        "data": "Driving cars at the Las Vegas Motor Speedway is only for the public.",
+        "label": 0
+    },
+    {
+        "data": "The United States Department of Housing and Urban Development can arrest trespassers.",
+        "label": 0
+    },
+    {
+        "data": "Louis C.K. discovered the Covid Vaccine.",
+        "label": 0
+    },
+    {
+        "data": "A butterfly flies with three wings.",
+        "label": 0
+    },
+    {
+        "data": "Donkeys are used by humans as a working animal.",
+        "label": 1
+    },
+    {
+        "data": "The leafhopper frequently jumps on plants.",
+        "label": 1
+    },
+    {
+        "data": "With social media being such a big part of people's lives, hate speech is becoming more and more of an issue.",
+        "label": 1
+    },
+    {
+        "data": "The show Prison Break premiered in the 1950s.",
+        "label": 0
+    },
+    {
+        "data": "Arnold Schwarzenegger hails from Poland, from the city of Krakow.",
+        "label": 0
+    },
+    {
+        "data": "The Curse of the Bambino began when Babe Ruth was traded to the Yankees.",
+        "label": 1
+    },
+    {
+        "data": "Dave Grohl drums for a living and played in Nirvana.",
+        "label": 1
+    },
+    {
+        "data": "Bret Hart established himself as a professional wrestler.",
+        "label": 1
+    },
+    {
+        "data": "Lake trout often overproduce when spawning.",
+        "label": 0
+    },
+    {
+        "data": "The monitor lizard lived in the reptile house at the zoo.",
+        "label": 1
+    },
+    {
+        "data": "Dave Grohl sings for the band the Foo Fighters.",
+        "label": 1
+    },
+    {
+        "data": "Jimmy Page won a Grammy for his contribution to music.",
+        "label": 1
+    },
+    {
+        "data": "Petro Poroshenko ruled as President of Ukraine.",
+        "label": 1
+    },
+    {
+        "data": "Emperor Meiji ceases to be recognized as a former emperor of Japan.",
+        "label": 0
+    },
+    {
+        "data": "A butler works in a house for a family.",
+        "label": 1
+    },
+    {
+        "data": "Heracles met with Atlas after his original ten labors invalidated.",
+        "label": 1
+    },
+    {
+        "data": "W. B. Yeats married Maud Gonne.",
+        "label": 0
+    },
+    {
+        "data": "Michelangelo worked in various media making murals and statues still appreciated today.",
+        "label": 1
+    },
+    {
+        "data": "Willow bark overcomes the fever of colds and viruses.",
+        "label": 1
+    },
+    {
+        "data": "Menopause often happens before a woman gets to the age of twenty.",
+        "label": 0
+    },
+    {
+        "data": "Most people avoid adding turmeric to their food because it is more known as a medicinal ingredient.",
+        "label": 0
+    },
+    {
+        "data": "Richard Linklater won the Golden Globe Awards.",
+        "label": 1
+    },
+    {
+        "data": "Telling someone they are a nerd is a compliment to many.",
+        "label": 0
+    },
+    {
+        "data": "The Battle of Arras happened during World War Two.",
+        "label": 0
+    },
+    {
+        "data": "The lowest resolution for ultra-high-definition television is 16k.",
+        "label": 0
+    },
+    {
+        "data": "Many people eat dosa in India.",
+        "label": 1
+    },
+    {
+        "data": "The Fleur-de-lis symbolized the British monarchy.",
+        "label": 0
+    },
+    {
+        "data": "William Howard Taft ceases to be President of the United States.",
+        "label": 0
+    },
+    {
+        "data": "Metallica sings the hit song enter sandman.",
+        "label": 1
+    },
+    {
+        "data": "Pearl S. Buck had a long career as a civil rights attorney.",
+        "label": 0
+    },
+    {
+        "data": "Many people like to throw meatballs as an Olympic sport.",
+        "label": 0
+    },
+    {
+        "data": "Alfred Nobel took a career in acting.",
+        "label": 0
+    },
+    {
+        "data": "Walrus species is categorized under marine mammals.",
+        "label": 1
+    },
+    {
+        "data": "Penguin Books uses the labor of penguins to bind their books.",
+        "label": 0
+    },
+    {
+        "data": "Melodrama usually features plot devices inclusive of tragedy or trauma.",
+        "label": 1
+    },
+    {
+        "data": "Germany was one of the countries fighting in the Battle of France.",
+        "label": 1
+    },
+    {
+        "data": "All humans are mostly made of Cellulose.",
+        "label": 0
+    },
+    {
+        "data": "Hamsters are predators to domestic cats.",
+        "label": 0
+    },
+    {
+        "data": "The Swedish Hockey League consists of 14 teams.",
+        "label": 1
+    },
+    {
+        "data": "Michelle Obama gave birth to Malia Obama, who remains as part of the Family of Barack Obama.",
+        "label": 1
+    },
+    {
+        "data": "All people from Northfield, New Jersey should instantly recognize music from Art Blakey.",
+        "label": 0
+    },
+    {
+        "data": "Myth and superstition explode rationalism, proving that it is wrong.",
+        "label": 0
+    },
+    {
+        "data": "Tool performs exclusively for a Las Vegas residence.",
+        "label": 0
+    },
+    {
+        "data": "The Battle of France had only a couple hundred deaths and the rest causalities.",
+        "label": 0
+    },
+    {
+        "data": "Thurgood Marshall grew up in Baltimore, Maryland.",
+        "label": 1
+    },
+    {
+        "data": "One can listen to the Beauty and the Beast music on Youtube.",
+        "label": 1
+    },
+    {
+        "data": "Las Vegas Motor Speedway displays hundreds of botanical specimens.",
+        "label": 0
+    },
+    {
+        "data": "Spotted hyena eat a mainly plant based diet.",
+        "label": 0
+    },
+    {
+        "data": "Urban renewal continues to grow popular in some cities in America.",
+        "label": 1
+    },
+    {
+        "data": "Edema, the goddess of elephants, married the god of wooly mammoths.",
+        "label": 0
+    },
+    {
+        "data": "The vertebral column carries telephone and power lines from house to house.",
+        "label": 0
+    },
+    {
+        "data": "Horace Greeley Lived on a farm and was a world renowned prized cattle farmer.",
+        "label": 0
+    },
+    {
+        "data": "Robert De Niro skills as an actor have won him many awards.",
+        "label": 1
+    },
+    {
+        "data": "Lent scored the winning goal in yesterday's final match.",
+        "label": 0
+    },
+    {
+        "data": "A nerd often loves a subject so much they get stereotyped for being so intelligent.",
+        "label": 1
+    },
+    {
+        "data": "Sam Cooke played third base for the Boston Red Sox.",
+        "label": 0
+    },
+    {
+        "data": "Richard Branson flew into outer space aboard his own spacecraft.",
+        "label": 1
+    },
+    {
+        "data": "Freedom of speech protects death threats in the USA.",
+        "label": 0
+    },
+    {
+        "data": "The University of Freiburg establishes itself as a premier historic university in Germany.",
+        "label": 1
+    },
+    {
+        "data": "The butterfly ate the bug that it caught.",
+        "label": 0
+    },
+    {
+        "data": "Androgyny focuses on people wearing whatever clothes they feel comfortable in.",
+        "label": 1
+    },
+    {
+        "data": "A butterfly starts out as a caterpillar then transforms into a Butterfly.",
+        "label": 1
+    },
+    {
+        "data": "Jean-Jacques Rousseau played soccer for a living.",
+        "label": 0
+    },
+    {
+        "data": "Coffea helps people bake in the kitchen.",
+        "label": 0
+    },
+    {
+        "data": "Born in France during the 1800's Johann Gottfried Herder fathered 10 sons.",
+        "label": 0
+    },
+    {
+        "data": "Eating lots of dessert can lead to obesity.",
+        "label": 1
+    },
+    {
+        "data": "Abstract art emanates ancient and traditional themes.",
+        "label": 0
+    },
+    {
+        "data": "Hate speech creates hate crimes at times.",
+        "label": 1
+    },
+    {
+        "data": "Alcatraz Island still has many prisoners located there.",
+        "label": 0
+    },
+    {
+        "data": "Olympic Stadium can hold more than twenty people.",
+        "label": 1
+    },
+    {
+        "data": "Jacob Zuma serves as President of South Africa currently.",
+        "label": 0
+    },
+    {
+        "data": "Nickel has a chemical abbreviation of the chemical symbol Ni.",
+        "label": 1
+    },
+    {
+        "data": "Sodium hydroxide dirties things it comes in contact with.",
+        "label": 0
+    },
+    {
+        "data": "Bowhead whale swim in controlled climates in zoos.",
+        "label": 0
+    },
+    {
+        "data": "The Offspring attracts punk music fans.",
+        "label": 1
+    },
+    {
+        "data": "Firewall blocking is ineffective against individual IPs.",
+        "label": 0
+    },
+    {
+        "data": "A supervillain finds himself in comics as a nefarious character.",
+        "label": 1
+    },
+    {
+        "data": "Bruce Lee worked as a police officer.",
+        "label": 0
+    },
+    {
+        "data": "Alcatraz Island housed many criminals during its operation.",
+        "label": 1
+    },
+    {
+        "data": "The elk ate the beaver that it caught.",
+        "label": 0
+    },
+    {
+        "data": "Melody sounds like the highest pitch from a trumpet.",
+        "label": 0
+    },
+    {
+        "data": "Hector Berlioz sang the song someday, somewhere, somehow.",
+        "label": 0
+    },
+    {
+        "data": "Kids like drinking Opuntia a lot.",
+        "label": 0
+    },
+    {
+        "data": "Due to vaccinations Smallpox has been completely eradicated from the population.",
+        "label": 1
+    },
+    {
+        "data": "Due to the COVID-19 outbreak, EastEnders went on a reduced schedule and even a hiatus until eventually returning to their full time schedule.",
+        "label": 1
+    },
+    {
+        "data": "Ray Charles won the Grammy for the male artist of the year.",
+        "label": 1
+    },
+    {
+        "data": "The building was constructed with diamond.",
+        "label": 0
+    },
+    {
+        "data": "An Art Deco style can be used to remodel an apartment.",
+        "label": 1
+    },
+    {
+        "data": "Mickey Mantle played on the New York Yankees.",
+        "label": 1
+    },
+    {
+        "data": "Weakness is an early symptom of scurvy.",
+        "label": 1
+    },
+    {
+        "data": "William Howard Taft served as Governor of an island.",
+        "label": 1
+    },
+    {
+        "data": "Monopoly requires multiple people to play.",
+        "label": 1
+    },
+    {
+        "data": "A grouse has wings and can fly.",
+        "label": 1
+    },
+    {
+        "data": "Buenos Aires Province resides in South America.",
+        "label": 1
+    },
+    {
+        "data": "Parkinson's disease causes various hallucinations in people.",
+        "label": 0
+    },
+    {
+        "data": "Geoffrey Chaucer typed his stories on a computer.",
+        "label": 0
+    },
+    {
+        "data": "No voice actors sang in the Beauty and the Beast.",
+        "label": 0
+    },
+    {
+        "data": "The man from Monmouth County, New Jersey drives to work in Los Angeles every day.",
+        "label": 0
+    },
+    {
+        "data": "Pi plays no role in the calculation of the circumference.",
+        "label": 0
+    },
+    {
+        "data": "The author of The Jungle Book consulted Jane Goodall about monkey behavior.",
+        "label": 0
+    },
+    {
+        "data": "A brigadier general ranks as a two star general.",
+        "label": 0
+    },
+    {
+        "data": "The larynx allows people to speak.",
+        "label": 1
+    },
+    {
+        "data": "A snowshoe helps one travel in snow.",
+        "label": 1
+    },
+    {
+        "data": "Adam Levine starred in JAWS! the movie.",
+        "label": 0
+    },
+    {
+        "data": "Ronda Rousey has never won an Olympic medal.",
+        "label": 0
+    },
+    {
+        "data": "John Tyler ran for president in 1840.",
+        "label": 0
+    },
+    {
+        "data": "Elk live in the United States and Canada.",
+        "label": 1
+    },
+    {
+        "data": "Gray fox are the only four-legged carnivores in South America.",
+        "label": 0
+    },
+    {
+        "data": "Tim McGraw contributes to many space missions with NASA.",
+        "label": 0
+    },
+    {
+        "data": "Androgyny involves the melding together -- or rejecting of -- gender binaries.",
+        "label": 1
+    },
+    {
+        "data": "WordPress has recently surpassed Facebook for generated internet traffic.",
+        "label": 0
+    },
+    {
+        "data": "Courage wells from the adiodactus gland located near the base of the skull.",
+        "label": 0
+    },
+    {
+        "data": "Consumerism saves money and does not spend.",
+        "label": 0
+    },
+    {
+        "data": "Lent requires people to pray for 2 months straight.",
+        "label": 0
+    },
+    {
+        "data": "Hip hop music inspired Fr\u00e9d\u00e9ric Chopin to play piano.",
+        "label": 0
+    },
+    {
+        "data": "A plurality vote elects the President of the Republic of China.",
+        "label": 1
+    },
+    {
+        "data": "Robert Redford acted in many different movies throughout his long career.",
+        "label": 1
+    },
+    {
+        "data": "Slayer plays hard rocking guitar metal.",
+        "label": 1
+    }
+]

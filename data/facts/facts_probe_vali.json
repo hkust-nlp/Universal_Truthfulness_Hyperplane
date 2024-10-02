@@ -1,0 +1,450 @@
+[
+    {
+        "data": "The human brain controls the body's functions.",
+        "label": 1
+    },
+    {
+        "data": "The human body is composed of about 60% water.",
+        "label": 1
+    },
+    {
+        "data": "The three types of clouds are igneous, sedimentary, and metamorphic.",
+        "label": 0
+    },
+    {
+        "data": "The Krebs cycle is a series of chemical reactions that generate energy in cells.",
+        "label": 1
+    },
+    {
+        "data": "The human respiratory system consists of lungs and airways.",
+        "label": 1
+    },
+    {
+        "data": "Humans have five senses: sight, hearing, touch, taste, and smell.",
+        "label": 1
+    },
+    {
+        "data": "The largest bird in the world is the penguin.",
+        "label": 0
+    },
+    {
+        "data": "Fossils are the preserved remains or traces of organisms that lived in the past.",
+        "label": 1
+    },
+    {
+        "data": "The circulatory system transports nutrients and oxygen throughout the body.",
+        "label": 1
+    },
+    {
+        "data": "The pH scale measures the sweetness or bitterness of a substance, ranging from 0 (most sweet) to 14 (most bitter), with 7 being neutral.",
+        "label": 0
+    },
+    {
+        "data": "Sound travels as a wave through various mediums.",
+        "label": 1
+    },
+    {
+        "data": "The Great Sphinx of Giza is an ancient statue in Egypt.",
+        "label": 1
+    },
+    {
+        "data": "The Panama Canal connects the Atlantic and Pacific oceans.",
+        "label": 1
+    },
+    {
+        "data": "Rainbows are formed when light is refracted through water droplets in the air.",
+        "label": 1
+    },
+    {
+        "data": "The highest point in Africa is Mount Kilimanjaro.",
+        "label": 1
+    },
+    {
+        "data": "Volcanic eruptions destroy existing land.",
+        "label": 0
+    },
+    {
+        "data": "The only continent without any forests is South America.",
+        "label": 0
+    },
+    {
+        "data": "Ice floats on water due to its lower density.",
+        "label": 1
+    },
+    {
+        "data": "The human body has 12 pairs of legs.",
+        "label": 0
+    },
+    {
+        "data": "The continent of Antarctica is mostly covered in ice.",
+        "label": 1
+    },
+    {
+        "data": "The Great Barrier Reef is located in the Atlantic Ocean.",
+        "label": 0
+    },
+    {
+        "data": "Humans have wings and can fly.",
+        "label": 0
+    },
+    {
+        "data": "The carbon cycle disrupts the balance of carbon in Earth's atmosphere, oceans, and biosphere.",
+        "label": 0
+    },
+    {
+        "data": "Water is wet.",
+        "label": 1
+    },
+    {
+        "data": "The process by which a gas turns into a liquid is called condensation.",
+        "label": 0
+    },
+    {
+        "data": "The human body has 206 bones.",
+        "label": 1
+    },
+    {
+        "data": "The oldest known human fossils are around 300,000 years old.",
+        "label": 1
+    },
+    {
+        "data": "The human urinary system helps remove waste products from the body.",
+        "label": 1
+    },
+    {
+        "data": "The coldest place on Earth is the equator.",
+        "label": 0
+    },
+    {
+        "data": "The first man-made satellite was launched by France.",
+        "label": 0
+    },
+    {
+        "data": "The highest mountain in North America is Denali.",
+        "label": 1
+    },
+    {
+        "data": "Birds can fly.",
+        "label": 1
+    },
+    {
+        "data": "Inertia is an object's resistance to change in motion.",
+        "label": 1
+    },
+    {
+        "data": "The first law of thermodynamics states that energy cannot be created or destroyed, only converted from one form to another.",
+        "label": 1
+    },
+    {
+        "data": "Polar bears have white fur to camouflage in their snowy environment.",
+        "label": 1
+    },
+    {
+        "data": "The human circulatory system is an open system consisting of the heart, air vessels, and air.",
+        "label": 0
+    },
+    {
+        "data": "The largest land animal in the world is the whale.",
+        "label": 0
+    },
+    {
+        "data": "The planet Jupiter is the largest planet in our solar system.",
+        "label": 1
+    },
+    {
+        "data": "Tides are caused by the gravitational interactions between the Earth, Moon, and Sun.",
+        "label": 1
+    },
+    {
+        "data": "The process by which plants release oxygen and absorb carbon dioxide is called respiration.",
+        "label": 1
+    },
+    {
+        "data": "The scientific method is a process for testing hypotheses and acquiring knowledge.",
+        "label": 1
+    },
+    {
+        "data": "The planet Mars is named after the Roman god of war.",
+        "label": 1
+    },
+    {
+        "data": "Hibernation conserves energy during cold periods.",
+        "label": 1
+    },
+    {
+        "data": "The Earth's magnetic field is what causes compasses to point south.",
+        "label": 0
+    },
+    {
+        "data": "The largest ocean in the world is the Indian Ocean.",
+        "label": 0
+    },
+    {
+        "data": "The largest mammal in the world is the mouse.",
+        "label": 0
+    },
+    {
+        "data": "The Great Wall of China is located in South America.",
+        "label": 0
+    },
+    {
+        "data": "Trees absorb carbon dioxide and release oxygen.",
+        "label": 1
+    },
+    {
+        "data": "Sound travels through the air as vibrations.",
+        "label": 1
+    },
+    {
+        "data": "The longest mountain range in the world is located in Australia.",
+        "label": 0
+    },
+    {
+        "data": "Cars need gasoline or electricity to run.",
+        "label": 1
+    },
+    {
+        "data": "The largest ocean in the world is the Pacific Ocean.",
+        "label": 1
+    },
+    {
+        "data": "The fastest bird in the world is the penguin.",
+        "label": 0
+    },
+    {
+        "data": "Neurons are specialized cells that transmit electrical and chemical signals in the nervous system.",
+        "label": 1
+    },
+    {
+        "data": "The Nile River is the longest river in the world.",
+        "label": 0
+    },
+    {
+        "data": "Pizza is a type of food that no one likes.",
+        "label": 0
+    },
+    {
+        "data": "The Statue of Liberty is located in Paris.",
+        "label": 0
+    },
+    {
+        "data": "A human pregnancy typically lasts around 9 months.",
+        "label": 1
+    },
+    {
+        "data": "The currency used in Japan is the yen.",
+        "label": 1
+    },
+    {
+        "data": "The tallest animal in the world is the penguin.",
+        "label": 0
+    },
+    {
+        "data": "The largest lake in the world is located in Antarctica.",
+        "label": 0
+    },
+    {
+        "data": "The human respiratory system includes the trachea, bronchi, and lungs.",
+        "label": 1
+    },
+    {
+        "data": "Oxygen is essential for respiration.",
+        "label": 1
+    },
+    {
+        "data": "Oxygen is necessary for humans to breathe.",
+        "label": 1
+    },
+    {
+        "data": "Metamorphosis is a biological process in which an organism undergoes a significant change in form during its life cycle.",
+        "label": 1
+    },
+    {
+        "data": "Fish breathe through gills.",
+        "label": 1
+    },
+    {
+        "data": "The human body has 100 bones.",
+        "label": 0
+    },
+    {
+        "data": "The human muscular system allows us to move and lift things.",
+        "label": 1
+    },
+    {
+        "data": "DNA erases genetic information in living organisms.",
+        "label": 0
+    },
+    {
+        "data": "Earth has multiple moons.",
+        "label": 0
+    },
+    {
+        "data": "The theory of evolution, proposed by Charles Darwin, states that species evolve over time through natural selection.",
+        "label": 1
+    },
+    {
+        "data": "Radioactive decay occurs when stable atomic nuclei absorb energy in the form of radiation.",
+        "label": 0
+    },
+    {
+        "data": "The human eye can distinguish about 10 million different colors.",
+        "label": 1
+    },
+    {
+        "data": "The color of the sky is blue.",
+        "label": 1
+    },
+    {
+        "data": "Cats can bark like dogs.",
+        "label": 0
+    },
+    {
+        "data": "Human digestion begins in the mouth and ends in the small intestine.",
+        "label": 1
+    },
+    {
+        "data": "A substance that cannot be broken down into simpler substances by chemical means is called an element.",
+        "label": 1
+    },
+    {
+        "data": "Auroras occur at Earth's equator.",
+        "label": 0
+    },
+    {
+        "data": "A potato is a type of meat.",
+        "label": 0
+    },
+    {
+        "data": "The largest animal in the world is a mosquito.",
+        "label": 0
+    },
+    {
+        "data": "Cars can travel faster than the speed of light.",
+        "label": 0
+    },
+    {
+        "data": "The Earth's rotation on its axis causes day and night.",
+        "label": 1
+    },
+    {
+        "data": "The speed of light is approximately 10 meters per second.",
+        "label": 0
+    },
+    {
+        "data": "The study of antimatter and its interactions with dark energy is called anti-physics.",
+        "label": 0
+    },
+    {
+        "data": "Friction is the force that encourages motion between two surfaces in contact.",
+        "label": 0
+    },
+    {
+        "data": "The longest highway in the world is the Pan-American Highway.",
+        "label": 1
+    },
+    {
+        "data": "Neptune has the calmest winds in the solar system.",
+        "label": 0
+    },
+    {
+        "data": "The color of an object depends on the temperature of its surface.",
+        "label": 0
+    },
+    {
+        "data": "The conservation of energy principle states that energy can be created and destroyed.",
+        "label": 0
+    },
+    {
+        "data": "Neptune has the strongest winds in the solar system.",
+        "label": 1
+    },
+    {
+        "data": "The human liver helps filter toxins from the body.",
+        "label": 1
+    },
+    {
+        "data": "Sharks are sea creatures that have a reputation for being friendly.",
+        "label": 0
+    },
+    {
+        "data": "The Earth's ozone layer protects us from harmful ultraviolet (UV) radiation from the sun.",
+        "label": 1
+    },
+    {
+        "data": "Sunflowers follow the movement of the moon across the sky.",
+        "label": 0
+    },
+    {
+        "data": "The planet Mars is known as the \"Red Planet\" due to its reddish appearance.",
+        "label": 1
+    },
+    {
+        "data": "The Nile River is the longest river in the world.",
+        "label": 1
+    },
+    {
+        "data": "The process by which cells divide to form two identical daughter cells is called mitosis.",
+        "label": 1
+    },
+    {
+        "data": "Volcanic eruptions can create new land.",
+        "label": 1
+    },
+    {
+        "data": "The smallest unit of life is the cell.",
+        "label": 1
+    },
+    {
+        "data": "A circle has 200 degrees.",
+        "label": 0
+    },
+    {
+        "data": "The Sahara is the largest hot desert.",
+        "label": 1
+    },
+    {
+        "data": "The circulatory system blocks nutrients and oxygen throughout the body.",
+        "label": 0
+    },
+    {
+        "data": "Trees are not plants, they are animals.",
+        "label": 0
+    },
+    {
+        "data": "The largest living organism in the world is a single ant.",
+        "label": 0
+    },
+    {
+        "data": "The coldest place on Earth is the equator.",
+        "label": 0
+    },
+    {
+        "data": "The sun rises in the west.",
+        "label": 0
+    },
+    {
+        "data": "The study of the Earth's metaphysical structure, processes, and history is called meta-geology.",
+        "label": 0
+    },
+    {
+        "data": "Water is useless for life.",
+        "label": 0
+    },
+    {
+        "data": "The sun rises in the east and sets in the west.",
+        "label": 1
+    },
+    {
+        "data": "Osmosis is the movement of water across a selectively permeable membrane.",
+        "label": 1
+    },
+    {
+        "data": "The sky is often clear when it's going to rain.",
+        "label": 0
+    },
+    {
+        "data": "The Statue of Liberty is located in Tokyo.",
+        "label": 0
+    }
+]

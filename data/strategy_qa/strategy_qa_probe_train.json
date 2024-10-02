@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "Can the Palace of Westminster tell time in the dark?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a dog easily notice ammonia?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did the Eastern Orthodox Church and the Byzantine Empire ever use the same calendar?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Has the Subway restaurant franchise had any connections with child abusers?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "When the shuttle Columbia 11 landed, was it the season for Christmas carols?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Bonanza marathon end before WWE Heat marathon?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do human sacrums have more fused vertebrae than an Alaskan Malamute?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Y2K relevant to the plot of The Godfather?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is coal needed to practice parachuting?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is there radiation where Nikola Tesla once worked?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Terry Pratchett write about quantum mechanics?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Monty Python write the Who's on First sketch?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can Centurylink max internet plan upload 1000GB in a fortnight?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is the tibia necessary to win the Stanley Cup?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Holy Saturday 2019 have special significance to pot smokers?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Edward II crucial to England's victory at Battle of Falkirk?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Modern Family win a Slammy award?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do the directors of The Matrix advocate for transgender rights?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did breakdancing grow in popularity during WW2?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could a sloth hypothetically watch an entire episode of Scrubs underwater?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "In Hey Arnold, did any characters stay on a porch all the time?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did King James I despise fairy beings?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Ganymede in the Milky Way galaxy?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Dr. Seuss live a tragedy free life?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could the Austrian casualties from Seven Years' War fit in Indianapolis Motor Speedway?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Fran\u00e7ois Mitterrand serve under Napoleon Bonapart in the French army?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are psychiatric patients welcome to join the United States Air Force?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could a monolingual American read Lenovo's native name?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Homer Simpson need two hands worth of fingers to count to 5?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can Kit & Kaboodle hypothetically help someone past the Underworld gates?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Lupita Nyongo have citizenship in paternal Family of Barack Obama's origin country?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Emma Stone pursue a higher education?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would the chef at Carmine's restaurant panic if there was no basil?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Goofy have counted nine planets in his first year?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Were mollusks an ingredient in the color purple?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is University of Pittsburgh easier to enter than FBI?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can 1980 United States presidential election result be considered a photo finish?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did France win the French Revolution?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Daniel thrown into the lion's den in the New Testament?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can Lamborghini's fastest model win a race against a Porsche 911?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was animal in You're a Good Sport, Charlie Brown, hypothetically a hound?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a binge watch of entire Young and the Restless take longer than a leap year?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are Brussels sprout particularly good for adrenal fatigue?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Northern fur seal make good pet for six year old?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Carrie Poppy be likely to trust a psychic?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Thiago Moises May 13 2020 submission move hypothetically hurt Achilles?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is nickel a better payout than mercury if given a dollar per atomic number?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is there a Harry Potter character named after Florence?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could amoebas have played a part in the Black Death?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will electric car struggle to finish Daytona 500?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Edgar Allan Poe obscure in the world of horror fiction?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was Snoop Dogg's debut studio album released on the weekend?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are emus related to elks?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Bob Marley's children hypothetically win tug of war against Kublai Khan's children?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would an oil painter avoid reds from scale insects that live on a cactus?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Reza Shah be related to Queen Elizabeth I?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did the band Led Zeppelin own a prime number of gilded gramophones?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a compact disc melt in magma?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Antarctica have a lot of problems relating to homelessness?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is a fairy more prevalent in world myths than a valkyrie?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was P. G. Wodehouse's favorite book The Hunger Games?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Buzz Aldrin have owned a computer?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "If you add water to rice pudding is it horchata?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Taylor Swift refer to Snoopy as oppa?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Richard Wagner compose the theme songs for two television series?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can a blind person tell time by Big Ben?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was the tenth Amendment to the Constitution written using Pitman shorthand?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "When en route from China to France, must pilots know their altitude in the imperial foot?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can an African Elephant get pregnant twice in a year?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is there a full Neptunian orbit between the first two burials of women in the Panth\u00e9on?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would someone on Venus be unlikely to experience hypothermia?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could you watch a new Seinfeld episode every day for a year?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can you worship Ahura Mazda at a mosque?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Supreme Court of the United States analogous to High Courts of Justice of Spain?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can giant pandas sell out a Metallica show?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Jack Dempsey have most title fight wins in either of his weight classes?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are some types of pancakes named after coins?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would JPEG be a good format for saving an image of Da Vinci's Vitruvian Man?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are Disney's seven dwarves the original ones?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Has the Holy Grail been featured in at least five films?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are all twins the same gender?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Were Beauty and the Beast adaptations devoid of Kurt Sutter collaborators?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could one Amazon share ever buy twenty year Netflix subscription?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is surfing popular in Des Moines, Iowa?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would 2020 Toyota Supra lag behind at a Nascar rally?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was the first Vice President of the United States an Ottoman descendant?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are more people today related to Genghis Khan than Julius Caesar?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Saint Augustine use the Julian calendar?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a rabbi worship martyrs Ranavalona I killed?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do the Ubuntu people speak Ubuntu?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Sam Harris worship Shiva?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Snoopy look like Chance from Homeward Bound?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would the crew of Apollo 15 have difficulty riding a unicycle?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Martin Luther believe in Satan?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could an ocelot subsist on a single bee hummingbird per day?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do drag kings take testosterone to look masculine?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would ramen be bad for someone with heart failure?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Edward Snowden have visited the headquarters of United Nations Conference on Trade and Development?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could a delicious recipe be made with The Onion?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could every citizen of Samoa send a letter to a unique JPMorgan Chase employee?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Tony Stark be considered a polymath?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do mollymawks live where albatrosses cannot?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Matt Damon be afraid of parachuting?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could ancient Tony Bennett have a baby in 2020?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is white light the absence of color?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is a cory catfish likely to eat another living fish?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can a person who knows only English read Kanji?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Donatello use a smartphone?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are Big Ben's bells currently rung on their normal schedule at the Palace of Westminster?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did the Social Democratic Party of Germany help Frederick II become King of Prussia?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is starving Hamas agent eating pig bad?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are all characters in Legend of Robin Hood fictional?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Has Aretha Franklin ever collaborated with a suicidal person?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "For Hostas to look their best, do they need lots of chlorophyll?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are peaches best eaten when firm?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was King Kong (2005 film) the lead actress's biggest box office role?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Snickers helpful for weight loss?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can Clouded leopards chase down many Pronghorn antelopes?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was the amount of spinach Popeye ate unhealthy?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Adam Sandler get a reference to Cole Spouse and a scuba man doll?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was Land of Israel in possession of an Islamic empire in 16th century?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Benito Mussolini hypothetically play well in the NBA?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are banana trees used by judges for maintaining order?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a copy of The Daily Mirror sustain a campfire?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can a banana get a virus?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are banana trees used by judges for maintaining order?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would an owl monkey enjoy a strawberry?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Kim Kardashian a guru?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a Common warthog starve in a greenhouse?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is most coffee produced South of the Equator?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Eddie Hall hypothetically deadlift the world's largest cheeseburger?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a jumping spider need over half a dozen contact lenses?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does selling a 2020 Chevrolet Corvette almost pay for a year at Columbia University?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would an environmentalist advocate for preventing domestic canine reproduction?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are the knights in the Medieval Times show not authentic knights?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was the Donatello crucifix identified in 2020 life size?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "For bone growth, is kale more beneficial than spinach?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does a kangaroo incubate its offspring?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could Marco Rubio ride the Candymonium roller coaster at Hershey Park?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does the actress who played Elizabeth II speak fluent Arabic?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does James Webb Space Telescope fail astronomer in locating planet Krypton?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Oculudentavis more dangerous than Allosaurus?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can the Dalai Lama fit in a car?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Snoopy transmit rabies?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would an American feel lost due to language barriers at Disneyland Paris?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a 2019 Toyota Hilux hypothetically support weight of thirty Big John Studd clones?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does welding with acetylene simulate the temperature of a star?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did the founders of the biggest city in Orange County, California speak Italian?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the United States Capitol located near the White House?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a psychic who admits to hot reading be trustworthy?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does coding rely on Boolean algebra characters?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "In star rating systems, is 5 stars considered good?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was Gandalf present at the death of Eomer?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Will AC/DC album sales buy more B-52 bombers than Lil Wayne's?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could a llama birth twice during War in Vietnam (1945-46)?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do most high school head coaches make as much as the Head Coach at NCSU?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Harry Truman's presidency unaffected by the twenty-third Amendment to the US Constitution?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Gandalf hypothetically a formidable foe for Charmed's Barbas?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is CAS number 8009-03-8 harmful for a rash?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is myocardial infarction a brain problem?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could Eric Clapton's children play a regulation game of basketball among themselves?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are coopers required in the beverage industry?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do most people only memorize slightly over half of their ZIP code?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Will parma ham be ready for New Year's if the pig is slaughtered in December?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can the Supreme Court of Canada fight a Lucha trios match?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Jamie Brewer have attended the United States Naval Academy?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was a Tiny House ceiling out of Osama bin Laden's reach?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Shiva's divine dance an ancient physical fitness pose?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Oscar Wilde have operated a motor vehicle?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would the chef at La Grenouille find salsa to be a strange request?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Toyota stadium house people suffering homelessness in Michigan?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Shakespeare famous because of the infinitive form?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Has type of political association Pompey had with Caesar influenced reality TV?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Bombyx mori have a monopoly over silk production?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a Liebherr LTM 11200-9.1 hypothetically lift Mount Emei?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does James Webb Space Telescope fail astronomer in locating planet Krypton?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do skeletons have hair?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did King James I despise fairy beings?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are leaves from coca good for gaining weight?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Melania Trump have same profession as Olga Kurylenko?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will someone die without white blood cells?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do drag kings take testosterone to look masculine?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the current Chief Justice of the United States forbidden from buying alcohol?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do restaurants associate meatballs with the wrong country of origin?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would the current president of Ohio University hypothetically wear a jockstrap?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Julia Roberts practice blast beats as a child?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could a snowy owl survive in the Sonoran?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a model be appropriate to star in a LA Femme Nikita remake?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Rick and Morty considered an anime?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Disney have an ice princess?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Disney get most of Rudyard Kipling's The Jungle Book profits?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Eric Clapton's mother hypothetically be unable to legally purchase cigarettes in the USA at his birth?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does monster name in West African Folklore that witches send into villages set Scrabble record?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Phineas and Ferb enjoy winter?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is the most recent Democrat President in the US known for his painting practice?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is The Joy of Painting TV show still producing new episodes?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could James Brown's ex-wives hold a doubles game of tennis?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Terence Tao outperform Eminem in a math competition?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Mary, mother of Jesus have hypothetically prayed to Artemis if she was Greek?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are flag of Gabon colors found in rainbow?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Firefighters be included in a September 11th memorial?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Anakin Skywalker from Star Wars associated with the color black?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can children be hurt by jalapeno peppers?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can Clouded leopards chase down many Pronghorn antelopes?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Casio's first invention be worn around the ankle?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Gomer Pyle salute a lieutenant?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would most school children in New York be wearing jackets on groundhog day?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the Yellow Pages the fastest way to find a phone number?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Woody Allen await the Second Coming?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was King Kong (2005 film) the lead actress's biggest box office role?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can you watch Rick and Morty in Mariana Trench?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Rumi spend his time in a state of euphoria?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was the Japanese street aesthetic once illuminated by noble gasses?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do Shivambu practitioners believe ammonia is unhealthy?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can the Very Large Telescope observe the largest mountain on Earth?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a Bulgarian priest eat a four-course meal on Christmas Eve?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do shrimp taste best when cooked for a long time?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did any of Maya Angelou's children follow in her footsteps?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are flag of Gabon colors found in rainbow?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a honey badger's dentures be different from a wolverine's?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Mickey Mouse appear in a cartoon with Bugs Bunny in 1930?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are the knights in the Medieval Times show not authentic knights?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a tool used for Martin Luther's Reformation opening salvo aid in a crucifixion?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Earth Day celebrated in summer?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "If you were at an Apple store, would most of the computers be running Ubuntu?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was King Kong (2005 film) solvent?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are Naruhito's ancestors the focus of Romance of the Three Kingdoms?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can Curiosity take samples of rocks from Lacus Temporis?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does the book Revolutionary Road give a glimpse at life in a suburb?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could the Port of Baltimore handle the entire world's cargo production of ginger each year?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Jack Sparrow know any sea shantys?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Steve Carell's character on The Office portrayed as one with tremendous leadership skills?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Pig Latin related to real Latin?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Dr. Seuss live a tragedy free life?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Christmas celebrated during winter?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Harvey Milk ever run for governor?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Switzerland support the United States in the Spanish\u2013American War?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can you purchase General Motors products at a movie theater?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could a hundred thousand lolcats fit on a first generation iPhone?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is it understandable to compare a blood spatter pattern to a Jackson Pollock piece?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a pescatarian be unable to eat anchovy pizza?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a Rockette look odd with a moustache?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is All Purpose Flour safe for someone who has celiac disease?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is cow methane safer for environment than cars?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could someone mistake the smell of your brussels sprouts for a fart?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do Apollo and Baldur share similar interests?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Jackson Pollock straight edge?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does the density of helium cause voices to sound deeper?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was it typical to see Johnny Cash on stage in a rainbow-colored outfit?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are there Americans still enlisted in the Confederate States Army?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the name of a mythical creature also the name of a Small Solar System body?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Amtrak operate four wheel vehicles?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are some adherents to Christianity in China historic enemies of Catholic Church?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are there some countries where waiting staff need no tip?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Has the creator of Futurama lived in multiple centuries?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do the James Bond and Doctor Who series have a similarity in format?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a vegetarian be able to eat something at Chick-fil-A?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Glycol something United Airlines would buy?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Sojourner Truth use the elevator at the Washington Monument?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was Elizabeth II the Queen during the Persian Gulf War?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the Mona Lisa based on a real person?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did William Shaespeare read the Daily Mirror?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does a Generation Y member satisfy NYPD police officer age requirement?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can a honey bee sting a human more than once?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do anatomical and symbolic hearts look remarkably different?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Stephen King join the NASA Astronaut Corps?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is material from an aloe plant sometimes enclosed in petroleum-derived products?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Rurouni Kenshin from same country as lead character in Nobunaga's Ambition?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did earth complete at least one orbit around the sun during the Napoleonic Wars?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would it be impossible to seat every Chief Justice of the United States on a Boeing 737?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can your psychologist say hello to you while you are out at the supermarket?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Nikola Tesla's home country involved in the American Civil War?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Super Mario protagonist hypothetically not need continuing education classes in Illinois?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did mercenaries fight for England in the Glorious Revolution?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Mozart accused of stealing from Richard Wagner?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do seven McDonald's hamburgers exceed USDA recommended fat allowance?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "If someone is a vegan, would they eat honey?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Will a Euro sink in water?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could someone with fine motor control issues benefit from an altered keyboard layout?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was Emperor Commodus paid tribute in Pound sterling?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would the author of Little Women have remembered the ratification of the 13th Amendment?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Were Beauty and the Beast adaptations devoid of Kurt Sutter collaborators?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does the anatomy of a camel lend itself to jokes on Wednesdays?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could the leader of Heaven's Gate save images in JPEG format?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Ivan the Terrible use the Byzantine calendar?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do seven McDonald's hamburgers exceed USDA recommended fat allowance?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Hanuman ever experience an orgasm?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Disney's Alice in Wonderland involve the celebration of a holiday?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Cosmic Girls play League of Legends alone?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would an Olympic athlete be tired out after running a mile?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did J. Edgar Hoover take his calls in Langley, Virginia?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a Wolverine and a Lynx be hard to tell apart?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Oscar Wilde have operated a motor vehicle?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could the Jackson 5 play a full game of rugby with each other?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can the Communist Party of the Soviet Union get a perfect all kill?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was Hillary Clinton's deputy chief of staff in 2009 baptised?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is helium the cause of the Hindenburg explosion?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Martin Luther believe in Satan?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does water have viscosity?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could you go to New York Public Library and the Six Flags Great Escape in the same day?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do the Ubuntu people speak Ubuntu?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do members of the Supreme Court of the United States have longer terms than most senators?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will Conan the Barbarian hypothetically last a short time inside of Call of Duty?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a vegan prefer a natural bongo drum over a synthetic one?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can someone in Uberlandia work for Mitsubishi?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Benito Mussolini wear bigger shoes than Haf\u00fe\u00f3r Bj\u00f6rnsson?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could a student at the University of Houston see a caracal on campus?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would New Year's Eve hypothetically be Bacchus's favorite holiday?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Anakin Skywalker from Star Wars associated with the color black?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a black widow woman have use for peaches?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can horseradish be eaten in a religious context?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can the US branch of government that has power over the military also have the power to veto?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Dante Alighieri hypothetically place Rupert Murdoch in 8th Circle of Hell?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Christopher Nolan's movies finance Cyprus's entire GDP?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are Christmas trees dissimilar to deciduous trees?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are there options for students who struggle to understand the writing style of Othello?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do manta rays live in water above the safe temperature for cold food storage?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "If your skin was turning the color of a zombie, could it be because of nickel?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Dorothea Wendling from same place Porsche originated?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Hades and Osiris hypothetically compete for real estate in the Underworld?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is being 5 year Capital One Venture member more cost effective than being in Church of Satan?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can dessert be made with vegetables?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do Armenians tend to dislike System of a Down?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do the telescopes at Goldstone Deep Space Communications Complex work the night shift?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Teri Hatcher last twice as many episodes on Desperate Housewives as her Superman show?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will Dustin Hoffman likely vote for Trump in 2020?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do sun bears stay active during winter?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do guitarists need both hands to play?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Hapshetsut be considered a monarch?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did the population of the Warsaw Ghetto record secret police on cell phones?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are Scottish people Albidosi?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Emmanuel Macron celebrate Cinco de Mayo?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would the chef at Carmine's restaurant panic if there was no basil?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can you find Bob Marley's face in most smoke shops?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Durian cause someone's stomach to feel unwell?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is strep throat harmless to singer Rita Ora after her 2020 tonsilitis surgery?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can a greyhound walk on two legs?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "If you have a serious injury in Bangladesh, would you probably dial a Fibonacci number?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is it best to avoid kola nuts with colitis?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could $1 for each 2009 eclipse buy a copy of TIME magazine in 2020?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are fresh garlic cloves as easy to eat as roasted garlic cloves?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was hippie culture encouraged by the government in the Soviet Union?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is The Invisible Man more prevalent in films than Picnic at Hanging Rock?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can children be soldiers in the US Army?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are black and white prison uniforms made to resemble a zebra?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Donatello use a smartphone?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Richard III know his grandson?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Eddie Murphy's father see his first stand up show?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Zorro carve his name into items regularly?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the tibia required for floor exercises?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did the death of Helen Palmer have a significant effect on Dr. Seuss?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Gordon Ramsey use uranium as a seasoning?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do German Shepherds worry about the Abitur?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could all of the 2008 Summer Olympics women find a hookup athlete partner?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do more Cauliflower grow in Arizona than California?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do Chinese Americans face discrimination at a Federal level in the US?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do some people soak in olive oil and water?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Has a neanderthal ever served on the Supreme Court of the United States?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are seasons of Survivor surpassed by number of Ancient Greek letters?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do human sacrums have more fused vertebrae than an Alaskan Malamute?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do Squidward Tentacles and Alan Greenspan have different musical passions?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a duke hypothetically be subservient to a Tsar?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is overfeeding Lactobacillus unwise for people without dental insurance?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does Olympia Washington share name with Hephaestus's workshop location?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Ariana Grande's signature style combine comfort items and high fashion?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are Doctors of Homeopathy more likely than Doctors of Internal Medicine to recommend Quartz as a treatment?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are red legs a sign of failing health in those with Anorexia Nervosa?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can DRL Racer X drone get across Brooklyn Bridge in 18 seconds?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Ibn Saud tolerate salsa music?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Krishna skilled at using the bow?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could you drive from New England to a Sainsbury's?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is it okay to lie after taking an oath in a court of law?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would hypothermia be a concern for a human wearing zoot suit on Triton?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do giraffes require special facilities at zoos?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Were the Great Pyramids built by a theocratic government?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Al-Farabi ever meet Mohammed?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is RoboCop director from same country as Gaite Jansen?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are cucumbers often found in desert?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can the Toyota Hilux tip the scales against Mr. Ed?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Billy Graham support agnosticism?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does The Hague border multiple bodies of water?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Has the creator of Futurama lived in multiple centuries?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do all of the African regions that participated in the Portugese Colonial War share an official language?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are Tom and Jerry featured in a ride at Disneyland?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Mickey Mouse blend in with the American flag?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "If you have a serious injury in Bangladesh, would you probably dial a Fibonacci number?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do Sweet Potatoes prevent other plants from growing in their place?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the kayak a traditional boat in New Zealand?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is sound barrier too much for Audi R8 V-10 Plus to break?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would the owners of the company Peter Griffin works for need barley?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can I ski in Steamboat Springs, Colorado in August?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Mario use mushrooms to run faster?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did the Nepalese Civil War take place near India?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Will Tokyo Tower be repainted only once during President Trump's first term?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can vitamin C rich fruits be bad for health?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Darth Vader hypothetically catch the Coronavirus?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "If you have black hair and want red hair, do you need bleach?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Will Chuck Norris be a nonagenarian by time next leap year after 2020 happens?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do people with swallowing disorders need high viscosity drinks?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can food be cooked in the cosmic microwave background?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Were there eight humans on Noah's Ark?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can first letter row of QWERTY keyboard spell a palindrome?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Christopher Columbus break the fifth commandment in Christianity?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a Germaphobia be able to participate in Judo?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can an art dealer buy Boeing 737-800 with a Da Vinci painting?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Final Fantasy VI require electricity to play?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was Dorothea Wendling from same place Porsche originated?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could chives be mistaken for grass?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could one Amazon share ever buy twenty year Netflix subscription?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will you see peach blossoms and Andromeda at the same time?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a clouded leopard encounter an awake pangolin?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do flying fish have good eyesight?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can Michael Jordan become a professional cook in America?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Stephen King fans be likely to own an image of a clown?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does United Airlines have a perfect operation record?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Elon Musk be more likely to know about astrology than physics?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was it typical to see Johnny Cash on stage in a rainbow-colored outfit?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was the MLB World Series held in Newcastle, New South Wales?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is the Golden eagle considered a scavenger bird?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the Yellow Pages the fastest way to find a phone number?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Amtrak operate four wheel vehicles?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can an emu chase a bogan?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Wednesday have something to do with Thor?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did James Watson's partner in studying the double helix outlive him?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can members of the Green Party of England and Wales vote in the USA?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can giant pandas sell out a Metallica show?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Tata Hexa can accomodate every Spice Girl?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is calling ABBA the Swedish Beatles a preposterous claim?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Saturn named after king of gods in Greek mythology?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Recep Tayyip Erdo\u011fan be unfamiliar with b\u00f6rek?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a geographer use biochemistry in their work?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Naruto escape the Temple of Doom?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could someone in Tokyo take a taxi to the The Metropolitan Museum of Art?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a false pope become a saint?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Benjamin Franklin a prime candidate to have his statues removed by Black Lives Matter movement?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Long John Silver's serve sea otter?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are looks the easiest way to tell rosemary from lavender?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Hurricane Harvey catch a Peregrine falcon?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does walking across Amazonas put a person's life at risk?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Easy Rider make a profit at the theater when it was released?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does a person using tonsure have hair at the top of their scalp?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could a sloth hypothetically watch an entire episode of Scrubs underwater?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can an ostrich fit into the nest of a swallow?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was dynamite used during Middle Ages warfare?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a compass attuned to Earth's magnetic field be a bad gift for a Christmas elf??",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did U.S. soldiers listen to Justin Bieber's Believe album during the Battle of Baghdad?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "If you bottle your own milk, would there be cream on top of it?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could a monolingual American read Lenovo's native name?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was the original James Bond actor born near the Washington Monument?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Walt Disney ever interviewed by Anderson Cooper?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can an elite runner circle the Pyrenees in one day?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is it common to see frost during some college commencements?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a Fakir be surprised if they saw a comma in their religious book?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would an ancient visitor to Persia probably consume crocus threads?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was a person sold a Creative Commons License for Boticelli's The Birth of Venus ripped off?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Mary, mother of Jesus have hypothetically prayed to Artemis if she was Greek?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are selfies more dangerous than plague in modern times?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is the E.T. the Extra-Terrestrial Atari Landfill story an urban legend?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is an ammonia fighting cleaner good for pet owners?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is All Purpose Flour safe for someone who has celiac disease?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did the Berlin Wall prevent any athletes from competing in the 1936 Summer Olympics?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was Hundred Years' War a misnomer?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a Rabbi celebrate Christmas?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Dr. Seuss make himself famous?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Romeo and Juliet an unusual title to teach high schoolers?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a blooming onion be possible with a shallot?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are looks the easiest way to tell rosemary from lavender?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Alistair Darling in favor of Scottish independence?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was San Antonio the site of a major battle in the 19th century?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does the Roman god Vulcan have a Greek equivalent?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does being good at guitar hero make you a good guitarist?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can you conduct surveillance from a teddy bear?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Will AC/DC album sales buy more B-52 bombers than Lil Wayne's?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can Amtrak's Acela Express break the sound barrier?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Barron Trump have lived through the Mexican Revolution?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Amy Winehouse always perform live perfectly?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "WIll Noah's Ark hypothetically sail through flooded Lincoln Tunnel?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Gordon Ramsey use uranium as a seasoning?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are fossil fuels reducing jobs in the Gulf of Mexico?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Casio's founding year a composite number?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is ABBA's 1970's genre still relevant today?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Will electric car struggle to finish Daytona 500?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could an escapee swim nonstop from Alcatraz island to Siberia?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can atheism surpass Christianity in American black communities by 2021?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Klingons appear in the movie The Last Jedi?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Columbus obtain his funding from the rulers of the Portugese Empire?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are any of the destinations of Japan Airlines former Axis Powers?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could the Dominican Order hypothetically defeat Blessed Gerard's order?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Will Al Pacino and Margaret Qualley score same amount of Bacon Number points?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Atlantic Salmon be within David Duchovny's dietary guidelines?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is MIX a word and a roman numeral?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is shoe soup innocuous?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can you get Raclette in YMCA headquarters city?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can you find Bugs Bunny at Space Mountain?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is it unusual to eat spaghetti without a fork?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Will twenty pea pods contents cover entire chess board?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can amoebas get cancer?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would keelhauling be a fair punishment under the Eighth Amendment?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Hades have a loose grip on the Underworld?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Metallica band members cutting their hair hurt their sales?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Islamophobia against Cyprus majority religion misdirected?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a modern central processing unit circuit chip fit on a housekey?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are cucumbers often found in desert?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Amy Winehouse always perform live perfectly?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did children read Harry Potter and the Philosopher's Stone during the Albanian Civil War?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Was milliner in Alice in Wonderland (1951 film) likely in need of succimer?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can oysters be preserved without refrigeration?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Krishna skilled at using the bow?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would someone with leukophobia enjoy looking at the Flag of the United States?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are aggressive bumblebees suicidal?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do calico cat patterns cover every drain fly color variety?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could a fan of the Botany Swarm vote for John Key?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is dysphoria around one's pelvis treatable without surgery?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does the United States of America touch the Indian Ocean?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can Billie Eilish afford a Porsche?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did The Who have to cancel tours due to World War II?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a false pope become a saint?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are most mall Santa Claus actors white?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "When en route from China to France, must pilots know their altitude in the imperial foot?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can the Department of Defense perform a solo?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does the United States Navy create radioactive waste?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is the Mona Lisa based on a real person?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would only warm weather attire be a good idea on Mercury?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could Rhode Island sink into the Bohai Sea?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could someone have arrived at Wrestlemania X in a Toyota Prius?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does store bought milk have cream at the top?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would an oil painter avoid reds from scale insects that live on a cactus?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would someone in CHE101 require a Maya Angelou book?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was the 1980 presidential election won by a member of the Grand Old Party?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do most middle class families have butlers?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are goats found on abyssal plains?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Michael Phelps be good at pearl hunting?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is the E.T. the Extra-Terrestrial Atari Landfill story an urban legend?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is there any absolute way to prevent abortion?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can you buy Reddit at Walmart?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could an infant solve a sudoku puzzle?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Eye surgery on a fly be in vain?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are vinegar pickled cucumbers rich in lactobacillus?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Y2K relevant to the plot of The Godfather?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are all the elements plants need for photosynthesis present in atmosphere of Mars?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can you hide a basketball in a sand cat's ear?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would an Evander Holyfield 2020 boxing return set age record?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Cynthia Powell celebrate a silver anniversary with John Lennon?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do Bing (search engine) searches earn the searcher more than competitors do?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do hyenas appear in a Broadway musical?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would 2019 Natalie Portman avoid a Snickers bar due to her diet?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would you hire someone with dyscalculia to do surveying work?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can the Moscow Kremlin fit inside Disney Land?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does crucifixion violate US eighth amendment?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Harry Houdini's wife make psychics look foolish?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did the Watergate scandal help the Republican party?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Ganymede in the Milky Way galaxy?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Modern Family win a Slammy award?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is there historic graffiti on Alcatraz?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does highest US Court have enough seats for every Prime Minister of the United Kingdom since 1952?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a student of the class of 2017 have amnesia about 9/11?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Has a tumulus been discovered on Mars?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Kim Il-sung network on LinkedIn?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is \"A Tale of Two Cities\" a parody of the Bible?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a TMNT coloring book have pizza in it?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is an internet connection essential for someone using Chrome OS?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could the Pope be on an episode of Pimp My Ride?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would you find olives at a heladeria?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Eiffel Tower contribute to a war victory?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "While viewing \"Scary Movie\" is the viewer likely to experience an increase in adrenaline?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Albany, Georgia the most populous US Albany?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Will the Albany in Georgia reach a hundred thousand occupants before the one in New York?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do hamsters provide food for any animals?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "If you were on a diet, would you have to skip lunch at McDonald's?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a Rockette look odd with a moustache?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Richard Dawkins hypothetically refuse an offering of the Last rites?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Jesse W. Moore a potential recipient of a Snoopy-themed award from NASA?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Were Walkman's used in the Kingdom of Hungary?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Do Australians ride Kangaroos to work?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a silicon shortage be bad for Intel's sales?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the Holy Land important to Eastern religions?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "When Hugh Jackman was a teacher, would he have taught The Great Gatsby?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a rabbi save the soul of a Christian?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is it possible for biologist Rachel Carson to have flown to the moon?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Were there greater landslides than 1980 United States presidential election?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can a computer be programmed entirely in Boolean algebra?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can you see live harbor seals in Washington DC?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does New Year's Day always occur on a Wednesday?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does the swastika have positive uses?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would an Olympic athlete be tired out after running a mile?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Christopher Nolan indebted to Bob Kane?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does the Pixar film Brave feature Scottish people?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a physician be unlikely to recommend Reiki?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do you have to pass through circle of lust to find Saladin in Dante's Inferno?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did the original lead guitarist of Metallica fail after parting from the band?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does acupuncture cause pain in many people?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did any Golden Globe winners attend John Kerry's alma mater?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the span in C-SPAN named after Alan Greenspan?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could the members of The Police perform lawful arrests?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Morris County named after a chief justice?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can a computer be programmed entirely in Boolean algebra?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can lettuce result in spontaneous abortion?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does a Disney princess on Broadway have red hair?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "If someone is lactose intolerant, do they have to avoid cream?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Confederate States Army influence West Point fashion?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Ibn Saud tolerate salsa music?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can Hulk's alter ego explain atomic events?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Medieval English lords engage in fair trade with peasants?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a 2019 Toyota Hilux hypothetically support weight of thirty Big John Studd clones?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do Elementary School students typically need graphing calculators?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would most children be up past their bedtime if they were watching Conan O'Brien?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is starving Hamas agent eating pig bad?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can first letter row of QWERTY keyboard spell a palindrome?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can you conduct surveillance from a teddy bear?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could Jamie Brewer have attended the United States Naval Academy?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Elizabeth I of England own any viscose fiber?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a blooming onion be possible with a shallot?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the kayak a traditional boat in New Zealand?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Nintendo's link ever see an astronomer?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Cholera alive?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did anyone in the 1912 election take a majority of the popular vote?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the tongue part of a creature's head?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is the Flying Spaghetti Monster part of an ancient pantheon?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did U2 play a concert at the Polo Grounds?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Los Angeles Memorial Sports Arena hypothetically inadequate for hosting Coachella?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Has Oscar Wilde's most famous character ever been in an Eva Green project?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can you chew argon?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can you buy chlorine at a dollar store?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Clark Gable appear in any movies scored by John Williams?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Pan a symbol of virtue and virginity in women?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the CIA part of the Department of Defense?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did the Democratic Party's nominee for President of the U.S. in 1908 watch TV?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Were plants crucial for The King of Rock'n Roll's snack with bananas?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are LinkedIn and LeafedIn related companies?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does a Generation Y member satisfy NYPD police officer age requirement?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Melania Trump have same profession as Olga Kurylenko?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can a snake swallow an M60 Patton?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could someone have arrived at Wrestlemania X in a Toyota Prius?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is the Matrix a standalone movie?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is it understandable to compare a blood spatter pattern to a Jackson Pollock piece?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Has the Subway restaurant franchise had any connections with child abusers?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was ship that recovered Apollo 13 named after a World War II battle?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does United Airlines have a perfect operation record?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is it normal to blow out candles during a funeral?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was John George Bice's birthplace near Cornwall?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Operation Barbarossa or Barbarossa's last expedition succeed?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Have the Israelis played the Hammerstein Ballroom?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could a firewall be destroyed by a hammer?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is an ocelot a good present for a kindergartener?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does James Watson believe that Africans are inferior to Europeans?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Eid al-Fitr holiday inappropriate to watch entire US Office?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will Chick-fil-A hypothetically refuse to sponsor a Pride parade?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the United States the largest exporter of Fair Trade products?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Ada Lovelace die tragically young for her era?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does a bumblebee have to worry about spider veins?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a viewer of Monday Night Football be able to catch WWE Raw during commercial breaks?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Lee Sedol understand the complexities of the Sicilian Defence?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a Reconstruction era coin buy DJI Mavic Pro Drone?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a moose hypothetically be too much for a minotaur to devour whole?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is popular science used to peer review papers?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does a bumblebee have to worry about spider veins?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was the original Metroid groundbreaking for its polygons?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does butter industry survive cow extinction?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could a chipmunk fit 100 chocolate chips in his mouth?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Were deaths from Apollo 13 mission eclipsed by other space missions?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Statue of Liberty be visible if submerged in Bohai Sea?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is pig meat considered inedible within the cuisine of Hawaii?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Does Santa Claus hypothetically give Joffrey Baratheon presents?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Sony definitively win the video game war against Sega?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is it difficult to conduct astrophotography in the summer in Sweden?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a veteran of the Phillippine-American War come home craving SPAM?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Shakespeare famous because of the infinitive form?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would 2020 Toyota Supra lag behind at a Nascar rally?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Dustin Hoffman one of the B'nei Yisrael?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do most religious people in Quebec refer to the Quran?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Was Dr. Seuss a liar?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does the United States of America touch the Indian Ocean?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did John Lennon listen to Compact discs?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a kaffir lime be a good ingredient for making a candle?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Hillary Clinton's deputy chief of staff in 2009 baptised?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Al Pacino act in a movie during World War II?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could all of the 2008 Summer Olympics women find a hookup athlete partner?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Phobos (moon) name origin similar to Roman god Pavor?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will the Stanford Linear Accelerator fit on the Golden Gate Bridge?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Carmen Electra own a junk?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did anyone in the 1912 election take a majority of the popular vote?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can someone from New England profit by growing coffee?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a crocodile survive longer in Great Salt Lake than alligator?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do pirates care about vitamin C?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did Wednesday have something to do with Thor?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "For Hostas to look their best, do they need lots of chlorophyll?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did original Nintendo have games in same format as Playstation 3?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can lobster breathe in the desert?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Were the Spice Girls inspired by Little Mix?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did Elizabeth I of England own any viscose fiber?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did a Mediterranean Sea creature kill Steve Irwin?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would Roman Gallic Wars army struggle to build the pyramids faster?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is Bern a poor choice for a xenophobic Swiss citizen to live?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Did England win any Olympic gold medals in 1800?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can a New Yorker get their eyes checked by Rand Paul legally?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Happy Gilmore Productions CEO own a Torah?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can Justin Timberlake ride Shipwreck Falls at Six Flags?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is chaff produced by hydropower?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Noah's Ark an upgrade for Golden Age of Piracy pirates?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could someone in a coma experience fear?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Does Guam have a state capital?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could Amazon afford The Mona Lisa?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Could someone in a coma experience fear?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is a doctorate required to teach at a SUNY School?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "At Christmastime, do some films remind us that groundhog day is approaching?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Snoop Dogg's debut studio album released on the weekend?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is shrimp prevalent in Ethiopian cuisine?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is it best to avoid kola nuts with colitis?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Olivia Newton-John hyphenated celebrity name with most letters?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can you see live harbor seals in Washington DC?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Bob Marley's children hypothetically win tug of war against Kublai Khan's children?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would four shoes be insufficient for a set of octuplets?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Should someone prone to jealousy be in a polyamorous relationship?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Has Elon Musk's hairline changed?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Route 66 generally unknown to Americans?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would the Titanic be well preserved at the bottom of the Gulf of Finland?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can whole genome sequencing be used for COVID-19?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would an ethics professor teach a class on Cezanne?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was the son of Tsar Nicholas a daredevil?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can you fit every resident of Auburn, New York, in Tropicana Field?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does the texture of leaves remain the same independent of their coloring changing?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Are Scottish people descended from Mary, Queen of Scots part French?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did the Presidency of Bill Clinton conclude with his impeachment?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did villain that killed Superman murder Robin?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do American wheelchair users know what the ADA is?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does a person need to be a parent to become a grandparent?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Will a Euro sink in water?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was dynamite used during Middle Ages warfare?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are Brian Cranston and Saoirse Ronan's combined Emmy Awards a prime number?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is a northern fur seal needing emergency surgery in July likely a safe anesthesia candidate?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could the Pope be on an episode of Pimp My Ride?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Does Lemon enhance the flavor of milk?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would a snake have reasons to fear a honey badger?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Does an individual oceanographer study many sciences?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is the letter D influenced by the shape of ancient doors?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Did Jerry Seinfeld have reason to cheer in 1986?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would it be unusual to find a yellow perch in the Red Sea?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are there multiple Star Wars TV shows produced by Disney?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do sun bears stay active during winter?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do women often need new shoes during their pregnancy?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Superhero fiction invented in the digital format?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Paleography hypothetically helps to understand Cthulhu?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Did the Royal Air Force fight in the Boxer Rebellion?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would Atlantic Salmon be within David Duchovny's dietary guidelines?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Batman (1989 film) likely to be shown on flight from NY to Kansas City?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can Aerosmith fit in a 2020 Mitsubishi Outlander?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Tata Hexa can accomodate every Spice Girl?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is groundhog day used as a global season indicator?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Was Noah associated with a dove?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Are there bones in an anchovy pizza?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was Surfing popular when pogs came out?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can Vice President of the United States kill with impunity?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "For bone growth, is kale more beneficial than spinach?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Reza Shah be related to Queen Elizabeth I?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Menthol associated with Thanksgiving?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a New Yorker get their eyes checked by Rand Paul legally?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Could a camel fit in a dog house?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would a week be enough time to watch every episode of Ugly Betty?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Is Bactrian Camel most impressive animal when it comes to number of humps?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Did Northwest Airlines' longevity surpass Betty White?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is helium the cause of the Hindenburg explosion?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Richard Dawkins hypothetically refuse an offering of the Last rites?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Do tourists prefer Tuvalu to Niue?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do Republicans reject all forms of welfare?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could Palm Beach be held in the palm of your hand?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is the name of a mythical creature also the name of a Small Solar System body?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Can a prime number be represented by the number of days in a week?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can a dolphin keep a diary?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Were there under 150,000 American troops in Vietnam in 1965?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could Robert Wadlow hypothetically see Frankenstein's monster's bald spot from above?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a Durian be dangerous if it fell on your head?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Would a hypothetical Yeti be towered over by Andre the Giant?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are there any official American knights?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Can a snow leopard eat twice its own body weight?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Is Tange Sazen hypothetically an ideal choice for a secretary job?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Has categories of Nobel prizes remained same since Alfred Nobel established them?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Krishna similar to Holy Spirit?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would Lord Voldemort hypothetically be an effective fighter after Final Fantasy silence is cast?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Would Carmine's kitchen staff be panicked if they had no olive oil?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are eagles and young bears both used as labels for skills-training youth groups?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Are fresh garlic cloves as easy to eat as roasted garlic cloves?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would someone in CHE101 require a Maya Angelou book?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Has spinach been a source of power in a comic movie?",
+        "answer": "No.",
+        "label": 0
+    },
+    {
+        "question": "Do you need to schedule separate preventive healthcare and sickness visits?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can you transport a primate in a backpack?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Could all People's Volunteer Army hypothetically be transported on Symphony of the Seas?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Do people remember Lucille Ball's winemaking as successful?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Could a cow produce Harvey Milk?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Would someone with back pain enjoy picking strawberries?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Are Durian fruits an olfactory delight?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is groundhog day used as a global season indicator?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Is Newt Gingrich's nickname a type of Reptile?",
+        "answer": "Yes.",
+        "label": 0
+    },
+    {
+        "question": "Can a Muslim eat a McRib sandwich?",
+        "answer": "No.",
+        "label": 1
+    },
+    {
+        "question": "Is there a warthog on Broadway?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a Durian be dangerous if it fell on your head?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Would a recruit for the United States Marine Corps be turned away for self harm?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Was the Peak of the Andes hidden from the view of the Colossus of Rhodes?",
+        "answer": "Yes.",
+        "label": 1
+    },
+    {
+        "question": "Can every digit in Pi be memorized?",
+        "answer": "Yes.",
+        "label": 0
+    }
+]

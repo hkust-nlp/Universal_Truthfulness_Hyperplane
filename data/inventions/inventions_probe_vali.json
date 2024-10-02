@@ -1,0 +1,1506 @@
+[
+    {
+        "data": "Philo Farnsworth lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Alessandro Volta invented the electric battery.",
+        "label": 1
+    },
+    {
+        "data": "Sergey Brin and Larry Page lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Ferdinand von Zeppelin lived in France.",
+        "label": 0
+    },
+    {
+        "data": "Sergey Brin and Larry Page invented the Google search engine.",
+        "label": 1
+    },
+    {
+        "data": "Clyde Tombaugh lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Henri Giffard lived in France.",
+        "label": 1
+    },
+    {
+        "data": "Richard Leach Maddox invented the blood types.",
+        "label": 0
+    },
+    {
+        "data": "Cai Lun invented the piano.",
+        "label": 0
+    },
+    {
+        "data": "Charles Goodyear lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Ralph Benjamin lived in Italy.",
+        "label": 0
+    },
+    {
+        "data": "Yoshua Bengio lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Valdemar Poulsen invented the mechanical television.",
+        "label": 0
+    },
+    {
+        "data": "Otis Boykin invented the refrigeration (absorption process).",
+        "label": 0
+    },
+    {
+        "data": "Henry Ford lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Rudolf Diesel lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Nikola Tesla invented the alternating current (AC) electrical system.",
+        "label": 1
+    },
+    {
+        "data": "Konrad Zuse lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "John Atanasoff invented the first electronic digital computer (prototype).",
+        "label": 1
+    },
+    {
+        "data": "Alessandro Volta lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Louis Pasteur lived in France.",
+        "label": 1
+    },
+    {
+        "data": "Rudolf K\u00e1lm\u00e1n invented the U.S.",
+        "label": 1
+    },
+    {
+        "data": "Christopher Cockerell invented the hovercraft.",
+        "label": 1
+    },
+    {
+        "data": "Charles Fritts lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "John Kay lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Georges Claude invented the various inventions and concepts (theoretical).",
+        "label": 0
+    },
+    {
+        "data": "R. Buckminster Fuller lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Fridtjof Nansen invented the modern polar exploration.",
+        "label": 1
+    },
+    {
+        "data": "Karl Benz lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "John Ambrose Fleming lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Joseph Henry invented the electromagnetic relay.",
+        "label": 1
+    },
+    {
+        "data": "Charles Macintosh invented the waterproof fabric.",
+        "label": 1
+    },
+    {
+        "data": "Gideon Sundback lived in Sweden/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Ruth Handler invented the refracting telescope.",
+        "label": 0
+    },
+    {
+        "data": "Carl Sontheimer lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Joseph Marie Jacquard invented the Jacquard loom.",
+        "label": 1
+    },
+    {
+        "data": "Frederick G. Creed invented the teleprinter.",
+        "label": 1
+    },
+    {
+        "data": "Nikolai Basov invented the molecular laser.",
+        "label": 1
+    },
+    {
+        "data": "John Walker lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "George Pullman lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "John von Neumann invented the Google search engine.",
+        "label": 0
+    },
+    {
+        "data": "Charles Tellier lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Hans von Ohain lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Karl Landsteiner invented the blood types.",
+        "label": 1
+    },
+    {
+        "data": "Semyon Kirlian lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Luther George Simjian invented the Automated Teller Machine (ATM).",
+        "label": 1
+    },
+    {
+        "data": "Charles Babbage invented the stored-program computer architecture.",
+        "label": 0
+    },
+    {
+        "data": "Hippolyte M\u00e8ge-Mouri\u00e8s invented the margarine.",
+        "label": 1
+    },
+    {
+        "data": "Henry Ford invented the assembly line production.",
+        "label": 1
+    },
+    {
+        "data": "John T. Parsons lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Charles Babbage invented the analytical engine (mechanical computer).",
+        "label": 1
+    },
+    {
+        "data": "Ernesto Blanco lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Philo Taylor Farnsworth lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Charles Fritts invented the refrigeration unit for trucks.",
+        "label": 0
+    },
+    {
+        "data": "Joseph Aspdin lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Blaise Pascal invented the mechanical calculator.",
+        "label": 1
+    },
+    {
+        "data": "Ada Lovelace lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "John Shepherd-Barron invented the ATM.",
+        "label": 1
+    },
+    {
+        "data": "Marie Curie lived in Hungary.",
+        "label": 0
+    },
+    {
+        "data": "Louis Pasteur lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Yvonne Brill lived in Canada.",
+        "label": 1
+    },
+    {
+        "data": "Henry Bessemer invented the Bessemer process for steelmaking.",
+        "label": 1
+    },
+    {
+        "data": "Heinrich Hertz invented the internal combustion engine.",
+        "label": 0
+    },
+    {
+        "data": "Michael Faraday invented the electric generator.",
+        "label": 1
+    },
+    {
+        "data": "Wallace Carothers invented the nylon.",
+        "label": 1
+    },
+    {
+        "data": "Otis Boykin lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "August Horch lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Carl Wilhelm Siemens invented the Siemens regenerative furnace.",
+        "label": 1
+    },
+    {
+        "data": "Alva J. Fisher invented the electric washing machine.",
+        "label": 1
+    },
+    {
+        "data": "Robert Chesebrough invented the roll film.",
+        "label": 0
+    },
+    {
+        "data": "Marvin Camras invented the magnetic recording.",
+        "label": 1
+    },
+    {
+        "data": "Arthur Pitney invented the friction match.",
+        "label": 0
+    },
+    {
+        "data": "Edwin Herbert Hall lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Christopher Cockerell invented the margarine.",
+        "label": 0
+    },
+    {
+        "data": "Candace Pert invented the discovery of opiate receptor.",
+        "label": 1
+    },
+    {
+        "data": "Gustaf Dal\u00e9n lived in Sweden.",
+        "label": 1
+    },
+    {
+        "data": "Henry Bessemer lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Frederick G. Creed lived in Canada.",
+        "label": 1
+    },
+    {
+        "data": "Ernest Swinton lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Josephine Cochrane invented the automatic dishwasher.",
+        "label": 1
+    },
+    {
+        "data": "Thomas Savery invented the bagless vacuum cleaner.",
+        "label": 0
+    },
+    {
+        "data": "Walter Hunt invented the safety pin.",
+        "label": 1
+    },
+    {
+        "data": "Semyon Kirlian invented the friction match.",
+        "label": 0
+    },
+    {
+        "data": "Ruth Benerito invented the wrinkle-resistant fabric.",
+        "label": 1
+    },
+    {
+        "data": "Cai Lun invented the papermaking process.",
+        "label": 1
+    },
+    {
+        "data": "Hans Geiger invented the Geiger counter.",
+        "label": 1
+    },
+    {
+        "data": "Alfred Nobel invented the Band-Aid.",
+        "label": 0
+    },
+    {
+        "data": "Eli Whitney lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Stephanie Kwolek invented the co-discovery of HIV.",
+        "label": 0
+    },
+    {
+        "data": "Igor Sikorsky invented the laser.",
+        "label": 0
+    },
+    {
+        "data": "Andr\u00e9-Jacques Garnerin lived in Netherlands.",
+        "label": 0
+    },
+    {
+        "data": "Charles Wheatstone invented the Wheatstone bridge.",
+        "label": 1
+    },
+    {
+        "data": "Sergey Brin and Larry Page invented the DNA fingerprinting.",
+        "label": 0
+    },
+    {
+        "data": "Rudolf Diesel invented the microphone (carbon).",
+        "label": 0
+    },
+    {
+        "data": "Godfrey Hounsfield lived in Denmark.",
+        "label": 0
+    },
+    {
+        "data": "Yoshiro Nakamatsu lived in Japan.",
+        "label": 1
+    },
+    {
+        "data": "Marie Curie invented the discovery of radium and polonium.",
+        "label": 1
+    },
+    {
+        "data": "Thomas Edison lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Alexander Graham Bell invented the telephone.",
+        "label": 1
+    },
+    {
+        "data": "Godfrey Hounsfield lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Florence Parpart lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Gideon Sundback invented the zipper.",
+        "label": 1
+    },
+    {
+        "data": "Florence Parpart invented the modern electric refrigerator.",
+        "label": 1
+    },
+    {
+        "data": "Charles Cros lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Samuel Colt lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Yoshua Bengio lived in Canada.",
+        "label": 1
+    },
+    {
+        "data": "John Callcott Horsley invented the programmable computer (Z3).",
+        "label": 0
+    },
+    {
+        "data": "Zhores Alferov invented the power loom.",
+        "label": 0
+    },
+    {
+        "data": "Daniel Fahrenheit invented the mercury-in-glass thermometer.",
+        "label": 1
+    },
+    {
+        "data": "Christopher Cockerell lived in France.",
+        "label": 0
+    },
+    {
+        "data": "Nikolai Basov lived in Soviet Union.",
+        "label": 1
+    },
+    {
+        "data": "Nikolay Slavyanov invented the U.S.",
+        "label": 0
+    },
+    {
+        "data": "Charles Cros lived in France.",
+        "label": 1
+    },
+    {
+        "data": "Joseph-Armand Bombardier invented the snowmobile.",
+        "label": 1
+    },
+    {
+        "data": "Carlos Glidden lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "R. Buckminster Fuller lived in Scotland.",
+        "label": 0
+    },
+    {
+        "data": "Joseph-Armand Bombardier invented the orangutan conservation.",
+        "label": 0
+    },
+    {
+        "data": "Ami Argand lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Thomas Wedgwood invented the photogram (proto-photography).",
+        "label": 1
+    },
+    {
+        "data": "Blaise Pascal invented the discovery of radium and polonium.",
+        "label": 0
+    },
+    {
+        "data": "Yvonne Brill invented the electric wheelchair.",
+        "label": 0
+    },
+    {
+        "data": "Arthur Fry invented the Post-it notes.",
+        "label": 1
+    },
+    {
+        "data": "Hans Goldschmidt invented the refracting telescope.",
+        "label": 0
+    },
+    {
+        "data": "Charles Macintosh lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Christian Huygens lived in Scotland.",
+        "label": 0
+    },
+    {
+        "data": "Elisha Otis invented the tank.",
+        "label": 0
+    },
+    {
+        "data": "Charles Tellier invented the liquefied gas refrigeration.",
+        "label": 1
+    },
+    {
+        "data": "Dr. Robert Gallo invented the arc welding.",
+        "label": 0
+    },
+    {
+        "data": "Alva J. Fisher lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Philo Farnsworth lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Kwolek lived in Stephanie.",
+        "label": 1
+    },
+    {
+        "data": "Nikola Tesla lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Nicolas Appert lived in Russia.",
+        "label": 0
+    },
+    {
+        "data": "Gordon Gould lived in Canada.",
+        "label": 0
+    },
+    {
+        "data": "Garrett Morgan invented the traffic signal.",
+        "label": 1
+    },
+    {
+        "data": "Evangelista Torricelli lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Wilhelm Conrad R\u00f6ntgen invented the X-rays discovery.",
+        "label": 1
+    },
+    {
+        "data": "Edouard Benedictus invented the internet protocol suite.",
+        "label": 0
+    },
+    {
+        "data": "Orville and Wilbur Wright lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Yoshiro Nakamatsu lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Robert Moog invented the Moog synthesizer.",
+        "label": 1
+    },
+    {
+        "data": "John Wesley Hyatt lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "L\u00e1szl\u00f3 B\u00edr\u00f3 invented the ballpoint pen.",
+        "label": 1
+    },
+    {
+        "data": "Richard Trevithick invented the airplane.",
+        "label": 0
+    },
+    {
+        "data": "Charles Wheatstone invented the phonograph (independent inventor).",
+        "label": 0
+    },
+    {
+        "data": "John Bardeen invented the transistor.",
+        "label": 1
+    },
+    {
+        "data": "Maria Telkes invented the ballpoint pen.",
+        "label": 0
+    },
+    {
+        "data": "Benjamin Franklin invented the lightning rod.",
+        "label": 1
+    },
+    {
+        "data": "Andr\u00e9-Jacques Garnerin lived in France.",
+        "label": 1
+    },
+    {
+        "data": "Willem Einthoven lived in Netherlands.",
+        "label": 1
+    },
+    {
+        "data": "Charles Strite invented the various inventions and concepts (theoretical).",
+        "label": 0
+    },
+    {
+        "data": "Ruth Benerito lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Godfrey Hounsfield invented the electromagnetism discovery.",
+        "label": 0
+    },
+    {
+        "data": "Reginald Fessenden invented the electromagnetic field theory.",
+        "label": 0
+    },
+    {
+        "data": "Hans Lippershey invented the refracting telescope.",
+        "label": 1
+    },
+    {
+        "data": "Karl Benz invented the gasoline-powered automobile.",
+        "label": 1
+    },
+    {
+        "data": "John Boyd Dunlop invented the pneumatic bicycle tire.",
+        "label": 1
+    },
+    {
+        "data": "Robert Moog lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Charles Goodyear invented the dry collodion photographic plate.",
+        "label": 0
+    },
+    {
+        "data": "Josephine Cochrane lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "James Murray Spangler invented the electromagnet.",
+        "label": 0
+    },
+    {
+        "data": "Edwin Link lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "James Hargreaves lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Frederick G. Creed invented the AGA lighthouse.",
+        "label": 0
+    },
+    {
+        "data": "Willis Carrier invented the air conditioning.",
+        "label": 1
+    },
+    {
+        "data": "Joseph Henry invented the linoleum.",
+        "label": 0
+    },
+    {
+        "data": "Alexander Fleming invented the airship (non-rigid).",
+        "label": 0
+    },
+    {
+        "data": "Sir Humphry Davy invented the light bulb.",
+        "label": 0
+    },
+    {
+        "data": "Fritz Pfleumer lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Benjamin Franklin invented the Unimate (first industrial robot).",
+        "label": 0
+    },
+    {
+        "data": "Sir Sandford Fleming lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "William Sturgeon lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Sir Isaac Newton lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Leon Theremin invented the theremin.",
+        "label": 1
+    },
+    {
+        "data": "Evangelista Torricelli lived in Italy.",
+        "label": 1
+    },
+    {
+        "data": "Charles Babbage lived in Hungary/U.S.",
+        "label": 0
+    },
+    {
+        "data": "Hedy Lamarr invented the Morse code.",
+        "label": 0
+    },
+    {
+        "data": "Hans von Ohain invented the jet engine.",
+        "label": 1
+    },
+    {
+        "data": "Ferdinand Carr\u00e9 invented the refrigeration (absorption process).",
+        "label": 1
+    },
+    {
+        "data": "Frank Julian Sprague invented the electric streetcar system.",
+        "label": 1
+    },
+    {
+        "data": "R. Buckminster Fuller invented the mechanical television.",
+        "label": 0
+    },
+    {
+        "data": "Joseph Engelberger invented the discovery of Pluto.",
+        "label": 0
+    },
+    {
+        "data": "Nils Bohlin lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Samuel Morse lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Cai Lun lived in Italy.",
+        "label": 0
+    },
+    {
+        "data": "Jack Kilby invented the integrated circuit.",
+        "label": 1
+    },
+    {
+        "data": "Fridtjof Nansen lived in Norway.",
+        "label": 1
+    },
+    {
+        "data": "George Cayley lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Herbert Saffir lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Alan Turing lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Emile Berliner invented the gramophone.",
+        "label": 1
+    },
+    {
+        "data": "Samuel Fox invented the steel ribbed umbrella.",
+        "label": 1
+    },
+    {
+        "data": "Giovanni Caselli invented the pantelegraph (image transmission).",
+        "label": 1
+    },
+    {
+        "data": "Frank Julian Sprague invented the electric traffic light.",
+        "label": 0
+    },
+    {
+        "data": "Narinder Singh Kapany lived in India.",
+        "label": 1
+    },
+    {
+        "data": "Johannes Gutenberg invented the bagless vacuum cleaner.",
+        "label": 0
+    },
+    {
+        "data": "Ada Lovelace invented the programming language (theoretical).",
+        "label": 1
+    },
+    {
+        "data": "Jean-Bernard-L\u00e9on Foucault lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Lloyd Groff Copeman invented the electromagnetic waves discovery.",
+        "label": 0
+    },
+    {
+        "data": "Thomas Edison invented the light bulb.",
+        "label": 1
+    },
+    {
+        "data": "Frank Bunker Gilbreth lived in Russia.",
+        "label": 0
+    },
+    {
+        "data": "Lester Wire invented the power loom.",
+        "label": 0
+    },
+    {
+        "data": "Reginald Fessenden lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Michael Faraday invented the friction match.",
+        "label": 0
+    },
+    {
+        "data": "Charles Francis Jenkins lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Rudolf Diesel invented the diesel engine.",
+        "label": 1
+    },
+    {
+        "data": "Birut\u00e9 Galdikas invented the pasteurization.",
+        "label": 0
+    },
+    {
+        "data": "Sir Sandford Fleming invented the integrated circuit.",
+        "label": 0
+    },
+    {
+        "data": "Lester Wire lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Carlos Glidden lived in Scotland.",
+        "label": 0
+    },
+    {
+        "data": "Mary Walton invented the canning process.",
+        "label": 0
+    },
+    {
+        "data": "Florence Parpart lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Semyon Kirlian lived in Russia.",
+        "label": 1
+    },
+    {
+        "data": "Paul Gottlieb Nipkow invented the Nipkow disk (mechanical television).",
+        "label": 1
+    },
+    {
+        "data": "Alexander Graham Bell lived in Scotland/Canada/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Carl Wilhelm Siemens lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "John T. Parsons invented the Pullman railroad sleeping car.",
+        "label": 0
+    },
+    {
+        "data": "Daniel Fahrenheit lived in Poland/Germany.",
+        "label": 1
+    },
+    {
+        "data": "Daniel Fahrenheit lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Mary Anderson lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Nicolas Appert lived in France.",
+        "label": 1
+    },
+    {
+        "data": "Heinrich Hertz lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Albert Ghiorso lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "David Edward Hughes invented the microphone (carbon).",
+        "label": 1
+    },
+    {
+        "data": "Robert Noyce lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Ralph H. Baer invented the first home video game console.",
+        "label": 1
+    },
+    {
+        "data": "Thomas Edison lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Clyde Tombaugh invented the discovery of Pluto.",
+        "label": 1
+    },
+    {
+        "data": "James Clerk Maxwell invented the electromagnetic field theory.",
+        "label": 1
+    },
+    {
+        "data": "Arthur Fry invented the Phonautograph.",
+        "label": 0
+    },
+    {
+        "data": "Gideon Sundback invented the electron scanning tube (Image dissector).",
+        "label": 0
+    },
+    {
+        "data": "Fridtjof Nansen lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "John von Neumann lived in Hungary/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Ralph H. Baer lived in France.",
+        "label": 0
+    },
+    {
+        "data": "Karl Landsteiner lived in Austria.",
+        "label": 1
+    },
+    {
+        "data": "Clarence Birdseye invented the flash freezing.",
+        "label": 1
+    },
+    {
+        "data": "Luther Simjian invented the Bankograph (early ATM).",
+        "label": 1
+    },
+    {
+        "data": "Yoshiro Nakamatsu invented the pop-up toaster.",
+        "label": 0
+    },
+    {
+        "data": "Felix Hoffmann invented the agricultural innovations.",
+        "label": 0
+    },
+    {
+        "data": "Grace Hopper lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "George Eastman lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Evangelista Torricelli invented the barometer.",
+        "label": 1
+    },
+    {
+        "data": "Hans Oersted lived in Denmark.",
+        "label": 1
+    },
+    {
+        "data": "Willis Carrier invented the radio.",
+        "label": 0
+    },
+    {
+        "data": "Elihu Thomson lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "August Horch invented the electron cooling.",
+        "label": 0
+    },
+    {
+        "data": "John Harrison invented the steel ribbed umbrella.",
+        "label": 0
+    },
+    {
+        "data": "Nikolay Slavyanov invented the shielded metal arc welding.",
+        "label": 1
+    },
+    {
+        "data": "Joseph Glidden invented the barbed wire.",
+        "label": 1
+    },
+    {
+        "data": "George Eastman invented the Wheatstone bridge.",
+        "label": 0
+    },
+    {
+        "data": "Nils Bohlin lived in Sweden.",
+        "label": 1
+    },
+    {
+        "data": "Pierre Curie invented the modern chemical nomenclature.",
+        "label": 0
+    },
+    {
+        "data": "Konrad Zuse invented the discovery of radium and polonium.",
+        "label": 0
+    },
+    {
+        "data": "John Ambrose Fleming invented the vacuum tube diode.",
+        "label": 1
+    },
+    {
+        "data": "Narinder Singh Kapany invented the programming language (theoretical).",
+        "label": 0
+    },
+    {
+        "data": "Yoshua Bengio invented the mechanical refrigeration (ice-making machine).",
+        "label": 0
+    },
+    {
+        "data": "David Edward Hughes invented the piano roll (used in player pianos).",
+        "label": 0
+    },
+    {
+        "data": "Eugene Polley invented the Morse code.",
+        "label": 0
+    },
+    {
+        "data": "Archimedes lived in Ancient Greece.",
+        "label": 1
+    },
+    {
+        "data": "Stephanie Kwolek lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Elisha Otis lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Mary Anderson invented the cotton gin.",
+        "label": 0
+    },
+    {
+        "data": "Frank Bunker Gilbreth lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Herbert Saffir lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Charles Wheatstone lived in France.",
+        "label": 0
+    },
+    {
+        "data": "James Clerk Maxwell invented the electric stove.",
+        "label": 0
+    },
+    {
+        "data": "Elisha Gray invented the frequency hopping spread spectrum.",
+        "label": 0
+    },
+    {
+        "data": "Archimedes invented the electric washing machine.",
+        "label": 0
+    },
+    {
+        "data": "Edmund Cartwright invented the power loom.",
+        "label": 1
+    },
+    {
+        "data": "Ernest Swinton invented the tank.",
+        "label": 1
+    },
+    {
+        "data": "Kwolek invented the U.S.",
+        "label": 1
+    },
+    {
+        "data": "George Antheil invented the piano roll (used in player pianos).",
+        "label": 1
+    },
+    {
+        "data": "John Ericsson lived in Sweden.",
+        "label": 1
+    },
+    {
+        "data": "Richard Leach Maddox invented the dry collodion photographic plate.",
+        "label": 1
+    },
+    {
+        "data": "Kwolek lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Alan Turing invented the Turing machine (theoretical).",
+        "label": 1
+    },
+    {
+        "data": "George Antheil invented the Band-Aid.",
+        "label": 0
+    },
+    {
+        "data": "Hans Lippershey invented the co-discovery of multiple elements.",
+        "label": 0
+    },
+    {
+        "data": "John von Neumann lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Mary Walton invented the noise reduction system for elevated railways.",
+        "label": 1
+    },
+    {
+        "data": "Eli Whitney invented the cotton gin.",
+        "label": 1
+    },
+    {
+        "data": "Orville and Wilbur Wright invented the Jacquard loom.",
+        "label": 0
+    },
+    {
+        "data": "Leon Theremin invented the Geiger counter.",
+        "label": 0
+    },
+    {
+        "data": "Hippolyte M\u00e8ge-Mouri\u00e8s lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Carl Elsener invented the Swiss Army knife.",
+        "label": 1
+    },
+    {
+        "data": "Igor Sikorsky lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Galileo Galilei invented the improved telescope.",
+        "label": 1
+    },
+    {
+        "data": "Gordon Gould invented the snowmobile.",
+        "label": 0
+    },
+    {
+        "data": "Elisha Gray lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Evangelista Torricelli invented the wireless remote control.",
+        "label": 0
+    },
+    {
+        "data": "Christopher Cockerell lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Bartolomeo Cristofori invented the geodesic dome.",
+        "label": 0
+    },
+    {
+        "data": "James Starley lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Philipp Reis invented the early telephone prototype.",
+        "label": 1
+    },
+    {
+        "data": "Paul Gottlieb Nipkow lived in Denmark.",
+        "label": 0
+    },
+    {
+        "data": "David Schwarz lived in France.",
+        "label": 0
+    },
+    {
+        "data": "Charles Wheatstone lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Walter Hunt lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Benjamin Holt lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "John Kay invented the flying shuttle.",
+        "label": 1
+    },
+    {
+        "data": "Daniel Fahrenheit invented the piano roll (used in player pianos).",
+        "label": 0
+    },
+    {
+        "data": "Joseph Bramah lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Charles Fritts invented the solar cell.",
+        "label": 1
+    },
+    {
+        "data": "Leonardo da Vinci lived in Italy.",
+        "label": 1
+    },
+    {
+        "data": "James Murray Spangler lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "George de Mestral lived in Switzerland.",
+        "label": 1
+    },
+    {
+        "data": "Joseph-Armand Bombardier lived in Canada.",
+        "label": 1
+    },
+    {
+        "data": "Alec Jeffreys invented the phonograph (independent inventor).",
+        "label": 0
+    },
+    {
+        "data": "Georges Claude invented the neon lighting.",
+        "label": 1
+    },
+    {
+        "data": "Edwin H. Land invented the three-point seatbelt.",
+        "label": 0
+    },
+    {
+        "data": "Carl Wilhelm Siemens lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Joseph Engelberger lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Paul Gottlieb Nipkow invented the electromagnetism discovery.",
+        "label": 0
+    },
+    {
+        "data": "John Boyd Dunlop invented the refrigeration (absorption process).",
+        "label": 0
+    },
+    {
+        "data": "Alfred Nobel invented the dynamite.",
+        "label": 1
+    },
+    {
+        "data": "John Logie Baird lived in Japan.",
+        "label": 0
+    },
+    {
+        "data": "Edwin Herbert Hall invented the airplane.",
+        "label": 0
+    },
+    {
+        "data": "Wallace Carothers lived in Denmark.",
+        "label": 0
+    },
+    {
+        "data": "Elisha Otis lived in U.K.",
+        "label": 0
+    },
+    {
+        "data": "Nikola Tesla lived in Austrian Empire (modern-day Croatia)/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Ferdinand von Zeppelin invented the piezoelectricity.",
+        "label": 0
+    },
+    {
+        "data": "Heinrich G\u00f6bel invented the early incandescent light bulb.",
+        "label": 1
+    },
+    {
+        "data": "James Watt invented the steam engine improvements.",
+        "label": 1
+    },
+    {
+        "data": "Percy Spencer invented the industrial robot.",
+        "label": 0
+    },
+    {
+        "data": "Samuel Fox invented the liquefied gas refrigeration.",
+        "label": 0
+    },
+    {
+        "data": "Willis Carrier lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Samuel Morse invented the Morse code.",
+        "label": 1
+    },
+    {
+        "data": "Alfred Nobel lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Heinrich Hertz invented the electromagnetic waves discovery.",
+        "label": 1
+    },
+    {
+        "data": "Luther Simjian lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "George Cayley lived in Canada.",
+        "label": 0
+    },
+    {
+        "data": "Whitcomb Judson invented the slide fastener (zipper precursor).",
+        "label": 1
+    },
+    {
+        "data": "Charles Tellier invented the penicillin discovery.",
+        "label": 0
+    },
+    {
+        "data": "Willem Einthoven lived in France.",
+        "label": 0
+    },
+    {
+        "data": "Elihu Thomson invented the arc welding.",
+        "label": 1
+    },
+    {
+        "data": "Herbert Saffir invented the Saffir-Simpson Hurricane Scale.",
+        "label": 1
+    },
+    {
+        "data": "Hedy Lamarr lived in Austria/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Robert Adler lived in Austria/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Luther George Simjian lived in Norway.",
+        "label": 0
+    },
+    {
+        "data": "Igor Tamm invented the Unimate (first industrial robot).",
+        "label": 0
+    },
+    {
+        "data": "Charles Townes lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "George Washington Carver invented the Gatling gun.",
+        "label": 0
+    },
+    {
+        "data": "Wallace Carothers lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Leon Theremin lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Maria Telkes lived in Hungary/U.S.",
+        "label": 1
+    },
+    {
+        "data": "Edwin Link invented the flight simulator (Link Trainer).",
+        "label": 1
+    },
+    {
+        "data": "Charles Macintosh lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Henri Giffard lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "George de Mestral lived in Canada.",
+        "label": 0
+    },
+    {
+        "data": "Hedy Lamarr lived in U.S.",
+        "label": 0
+    },
+    {
+        "data": "Marie Curie invented the U.S.",
+        "label": 0
+    },
+    {
+        "data": "Edmund Cartwright lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "Joseph Swan lived in Austrian Empire (modern-day Croatia)/U.S.",
+        "label": 0
+    },
+    {
+        "data": "Thomas Wedgwood lived in Finland.",
+        "label": 0
+    },
+    {
+        "data": "Charles Strite invented the pop-up toaster.",
+        "label": 1
+    },
+    {
+        "data": "Philo Farnsworth invented the electroencephalography (EEG).",
+        "label": 0
+    },
+    {
+        "data": "Ami Argand lived in Switzerland.",
+        "label": 1
+    },
+    {
+        "data": "Charles Strite lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "Charles Babbage lived in U.K.",
+        "label": 1
+    },
+    {
+        "data": "John Logie Baird invented the karaoke machine.",
+        "label": 0
+    },
+    {
+        "data": "Frederick McKinley Jones invented the refrigeration unit for trucks.",
+        "label": 1
+    },
+    {
+        "data": "John Ambrose Fleming invented the Band-Aid.",
+        "label": 0
+    },
+    {
+        "data": "Frederick McKinley Jones lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "John Callcott Horsley lived in Germany.",
+        "label": 0
+    },
+    {
+        "data": "Heinrich G\u00f6bel lived in Germany.",
+        "label": 1
+    },
+    {
+        "data": "Hans von Ohain lived in Canada.",
+        "label": 0
+    },
+    {
+        "data": "Hans Berger invented the flash freezing.",
+        "label": 0
+    },
+    {
+        "data": "Mary Walton lived in U.S.",
+        "label": 1
+    },
+    {
+        "data": "John Bardeen invented the telegraph printer.",
+        "label": 0
+    },
+    {
+        "data": "Tim Berners-Lee invented the movable type printing press.",
+        "label": 0
+    },
+    {
+        "data": "Hedy Lamarr invented the frequency hopping spread spectrum.",
+        "label": 1
+    },
+    {
+        "data": "Orville and Wilbur Wright invented the airplane.",
+        "label": 1
+    },
+    {
+        "data": "Igor Sikorsky invented the practical helicopter.",
+        "label": 1
+    },
+    {
+        "data": "James Dyson invented the U.S.",
+        "label": 0
+    },
+    {
+        "data": "Felix Hoffmann invented the aspirin synthesis.",
+        "label": 1
+    },
+    {
+        "data": "Ferdinand Carr\u00e9 invented the Post-it notes.",
+        "label": 0
+    }
+]

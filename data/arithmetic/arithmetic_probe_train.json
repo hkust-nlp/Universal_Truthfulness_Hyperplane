@@ -1,0 +1,4002 @@
+[
+    {
+        "question": "What is 486 plus 493?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 182 plus 500?",
+        "answer": "682.",
+        "label": 1
+    },
+    {
+        "question": "What is 61 minus 40?",
+        "answer": "2.",
+        "label": 0
+    },
+    {
+        "question": "What is 63 plus 50?",
+        "answer": "113.",
+        "label": 1
+    },
+    {
+        "question": "What is 7 minus 4?",
+        "answer": "8.",
+        "label": 0
+    },
+    {
+        "question": "What is 85824 times 17712?",
+        "answer": "1520114688.",
+        "label": 1
+    },
+    {
+        "question": "What is 10396 plus 51293?",
+        "answer": "61689.",
+        "label": 1
+    },
+    {
+        "question": "What is 42162 times 77808?",
+        "answer": "3280540896.",
+        "label": 1
+    },
+    {
+        "question": "What is 346 minus 861?",
+        "answer": "5104.",
+        "label": 0
+    },
+    {
+        "question": "What is 945 times 405?",
+        "answer": "382725.",
+        "label": 1
+    },
+    {
+        "question": "What is 62 plus 75?",
+        "answer": "137.",
+        "label": 1
+    },
+    {
+        "question": "What is 470 minus 433?",
+        "answer": "37.",
+        "label": 1
+    },
+    {
+        "question": "What is 64982 plus 72371?",
+        "answer": "23069839.",
+        "label": 0
+    },
+    {
+        "question": "What is 52470 divided by 90?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 83 times 62?",
+        "answer": "5146.",
+        "label": 1
+    },
+    {
+        "question": "What is 41 times 70?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 34 plus 38?",
+        "answer": "27.",
+        "label": 0
+    },
+    {
+        "question": "What is 31416 plus 14910?",
+        "answer": "46326.",
+        "label": 1
+    },
+    {
+        "question": "What is 390 divided by 39?",
+        "answer": "10.",
+        "label": 1
+    },
+    {
+        "question": "What is 89082 minus 56954?",
+        "answer": "794.",
+        "label": 0
+    },
+    {
+        "question": "What is 941 times 871?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 718 times 430?",
+        "answer": "222236.",
+        "label": 0
+    },
+    {
+        "question": "What is 67940 divided by 790?",
+        "answer": "9096.",
+        "label": 0
+    },
+    {
+        "question": "What is 3400 divided by 850?",
+        "answer": "4.",
+        "label": 1
+    },
+    {
+        "question": "What is 706 times 280?",
+        "answer": "197680.",
+        "label": 1
+    },
+    {
+        "question": "What is 798 times 296?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 612 minus 670?",
+        "answer": "15015.",
+        "label": 0
+    },
+    {
+        "question": "What is 381 times 243?",
+        "answer": "92583.",
+        "label": 1
+    },
+    {
+        "question": "What is 264 divided by 6?",
+        "answer": "27.",
+        "label": 0
+    },
+    {
+        "question": "What is 691 plus 801?",
+        "answer": "6434.",
+        "label": 0
+    },
+    {
+        "question": "What is 7257 minus 6011?",
+        "answer": "1246.",
+        "label": 1
+    },
+    {
+        "question": "What is 30 minus 79?",
+        "answer": "-49.",
+        "label": 1
+    },
+    {
+        "question": "What is 57 minus 39?",
+        "answer": "18.",
+        "label": 1
+    },
+    {
+        "question": "What is 2636 times 9938?",
+        "answer": "58723452.",
+        "label": 0
+    },
+    {
+        "question": "What is 346 divided by 346?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 54 minus 18?",
+        "answer": "68.",
+        "label": 0
+    },
+    {
+        "question": "What is 94353 times 86921?",
+        "answer": "8475591019.",
+        "label": 0
+    },
+    {
+        "question": "What is 5785 times 9323?",
+        "answer": "53933555.",
+        "label": 1
+    },
+    {
+        "question": "What is 67234 minus 30656?",
+        "answer": "36578.",
+        "label": 1
+    },
+    {
+        "question": "What is 3744 divided by 48?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 3960 divided by 220?",
+        "answer": "20.",
+        "label": 0
+    },
+    {
+        "question": "What is 95 times 29?",
+        "answer": "9961.",
+        "label": 0
+    },
+    {
+        "question": "What is 2208 times 8960?",
+        "answer": "57092217.",
+        "label": 0
+    },
+    {
+        "question": "What is 73824 times 62574?",
+        "answer": "70058440.",
+        "label": 0
+    },
+    {
+        "question": "What is 91 divided by 7?",
+        "answer": "13.",
+        "label": 1
+    },
+    {
+        "question": "What is 38790 divided by 3879?",
+        "answer": "13.",
+        "label": 0
+    },
+    {
+        "question": "What is 766 times 603?",
+        "answer": "461898.",
+        "label": 1
+    },
+    {
+        "question": "What is 61992 divided by 9?",
+        "answer": "6888.",
+        "label": 1
+    },
+    {
+        "question": "What is 8437 minus 4253?",
+        "answer": "4184.",
+        "label": 1
+    },
+    {
+        "question": "What is 940 minus 988?",
+        "answer": "796.",
+        "label": 0
+    },
+    {
+        "question": "What is 94065 times 75828?",
+        "answer": "4666592948.",
+        "label": 0
+    },
+    {
+        "question": "What is 78876 minus 29579?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 17 times 47?",
+        "answer": "799.",
+        "label": 1
+    },
+    {
+        "question": "What is 70548 plus 40040?",
+        "answer": "183579.",
+        "label": 0
+    },
+    {
+        "question": "What is 42 plus 94?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 12 minus 31?",
+        "answer": "-19.",
+        "label": 1
+    },
+    {
+        "question": "What is 34 times 45?",
+        "answer": "1530.",
+        "label": 1
+    },
+    {
+        "question": "What is 15955 times 12822?",
+        "answer": "204575010.",
+        "label": 1
+    },
+    {
+        "question": "What is 290 minus 564?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 259 minus 785?",
+        "answer": "-526.",
+        "label": 1
+    },
+    {
+        "question": "What is 208 minus 938?",
+        "answer": "-730.",
+        "label": 1
+    },
+    {
+        "question": "What is 894 plus 302?",
+        "answer": "14.",
+        "label": 0
+    },
+    {
+        "question": "What is 46 minus 22?",
+        "answer": "24.",
+        "label": 1
+    },
+    {
+        "question": "What is 76 plus 57?",
+        "answer": "133.",
+        "label": 1
+    },
+    {
+        "question": "What is 48 minus 87?",
+        "answer": "-39.",
+        "label": 1
+    },
+    {
+        "question": "What is 1584 divided by 44?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 81554 plus 65336?",
+        "answer": "795381.",
+        "label": 0
+    },
+    {
+        "question": "What is 1898 minus 6168?",
+        "answer": "14060.",
+        "label": 0
+    },
+    {
+        "question": "What is 61573 plus 57199?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 3050 minus 6613?",
+        "answer": "83135.",
+        "label": 0
+    },
+    {
+        "question": "What is 82960 divided by 61?",
+        "answer": "1360.",
+        "label": 1
+    },
+    {
+        "question": "What is 540 minus 560?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 56 divided by 28?",
+        "answer": "2.",
+        "label": 1
+    },
+    {
+        "question": "What is 97 times 94?",
+        "answer": "807827.",
+        "label": 0
+    },
+    {
+        "question": "What is 48868 times 41005?",
+        "answer": "2003832340.",
+        "label": 1
+    },
+    {
+        "question": "What is 528 minus 711?",
+        "answer": "-183.",
+        "label": 1
+    },
+    {
+        "question": "What is 5 times 0?",
+        "answer": "0.",
+        "label": 1
+    },
+    {
+        "question": "What is 218 times 139?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 7704 times 3152?",
+        "answer": "24283008.",
+        "label": 1
+    },
+    {
+        "question": "What is 4098 minus 7697?",
+        "answer": "86237.",
+        "label": 0
+    },
+    {
+        "question": "What is 2 minus 3?",
+        "answer": "3.",
+        "label": 0
+    },
+    {
+        "question": "What is 54 minus 54?",
+        "answer": "846.",
+        "label": 0
+    },
+    {
+        "question": "What is 1017 times 9019?",
+        "answer": "9172323.",
+        "label": 1
+    },
+    {
+        "question": "What is 303 plus 446?",
+        "answer": "749.",
+        "label": 1
+    },
+    {
+        "question": "What is 18 minus 42?",
+        "answer": "469.",
+        "label": 0
+    },
+    {
+        "question": "What is 85738 plus 88056?",
+        "answer": "173794.",
+        "label": 1
+    },
+    {
+        "question": "What is 59 times 86?",
+        "answer": "5074.",
+        "label": 1
+    },
+    {
+        "question": "What is 2 minus 1?",
+        "answer": "8.",
+        "label": 0
+    },
+    {
+        "question": "What is 9185 times 5999?",
+        "answer": "55100815.",
+        "label": 1
+    },
+    {
+        "question": "What is 97 times 94?",
+        "answer": "9118.",
+        "label": 1
+    },
+    {
+        "question": "What is 27341 times 37729?",
+        "answer": "6805062261.",
+        "label": 0
+    },
+    {
+        "question": "What is 254 times 444?",
+        "answer": "112776.",
+        "label": 1
+    },
+    {
+        "question": "What is 585 divided by 9?",
+        "answer": "65.",
+        "label": 1
+    },
+    {
+        "question": "What is 13544 plus 43994?",
+        "answer": "57538.",
+        "label": 1
+    },
+    {
+        "question": "What is 48922 minus 50069?",
+        "answer": "76459.",
+        "label": 0
+    },
+    {
+        "question": "What is 78718 plus 47889?",
+        "answer": "126607.",
+        "label": 1
+    },
+    {
+        "question": "What is 784 divided by 784?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 7487 plus 3708?",
+        "answer": "10110.",
+        "label": 0
+    },
+    {
+        "question": "What is 80 minus 49?",
+        "answer": "4110.",
+        "label": 0
+    },
+    {
+        "question": "What is 29 times 48?",
+        "answer": "3016.",
+        "label": 0
+    },
+    {
+        "question": "What is 849 plus 526?",
+        "answer": "1375.",
+        "label": 1
+    },
+    {
+        "question": "What is 12 plus 96?",
+        "answer": "39657.",
+        "label": 0
+    },
+    {
+        "question": "What is 22756 minus 33556?",
+        "answer": "24193897.",
+        "label": 0
+    },
+    {
+        "question": "What is 7771 plus 8320?",
+        "answer": "634.",
+        "label": 0
+    },
+    {
+        "question": "What is 5698 times 4555?",
+        "answer": "25954390.",
+        "label": 1
+    },
+    {
+        "question": "What is 15 plus 18?",
+        "answer": "93.",
+        "label": 0
+    },
+    {
+        "question": "What is 838 times 439?",
+        "answer": "367882.",
+        "label": 1
+    },
+    {
+        "question": "What is 7345 divided by 7345?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 96072 times 75867?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 4219 plus 8308?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 24 plus 63?",
+        "answer": "28.",
+        "label": 0
+    },
+    {
+        "question": "What is 18497 times 99794?",
+        "answer": "119631181156.",
+        "label": 0
+    },
+    {
+        "question": "What is 58 times 42?",
+        "answer": "2436.",
+        "label": 1
+    },
+    {
+        "question": "What is 33 plus 73?",
+        "answer": "106.",
+        "label": 1
+    },
+    {
+        "question": "What is 725 minus 642?",
+        "answer": "83.",
+        "label": 1
+    },
+    {
+        "question": "What is 807 plus 181?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 3065 times 5741?",
+        "answer": "24021789.",
+        "label": 0
+    },
+    {
+        "question": "What is 3440 times 7653?",
+        "answer": "602165.",
+        "label": 0
+    },
+    {
+        "question": "What is 62363 minus 58816?",
+        "answer": "3547.",
+        "label": 1
+    },
+    {
+        "question": "What is 4764 minus 8276?",
+        "answer": "-3512.",
+        "label": 1
+    },
+    {
+        "question": "What is 985 times 126?",
+        "answer": "124110.",
+        "label": 1
+    },
+    {
+        "question": "What is 17 times 77?",
+        "answer": "1309.",
+        "label": 1
+    },
+    {
+        "question": "What is 39009 plus 50332?",
+        "answer": "22484.",
+        "label": 0
+    },
+    {
+        "question": "What is 9819 minus 3902?",
+        "answer": "38.",
+        "label": 0
+    },
+    {
+        "question": "What is 760 plus 819?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 471 divided by 157?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 57 times 53?",
+        "answer": "3021.",
+        "label": 1
+    },
+    {
+        "question": "What is 5413 plus 4747?",
+        "answer": "10160.",
+        "label": 1
+    },
+    {
+        "question": "What is 87376 minus 83343?",
+        "answer": "12.",
+        "label": 0
+    },
+    {
+        "question": "What is 2134 times 5512?",
+        "answer": "11762608.",
+        "label": 1
+    },
+    {
+        "question": "What is 61844 times 93846?",
+        "answer": "5803812024.",
+        "label": 1
+    },
+    {
+        "question": "What is 69175 divided by 69175?",
+        "answer": "5.",
+        "label": 0
+    },
+    {
+        "question": "What is 71630 divided by 95?",
+        "answer": "754.",
+        "label": 1
+    },
+    {
+        "question": "What is 89 plus 87?",
+        "answer": "176.",
+        "label": 1
+    },
+    {
+        "question": "What is 17120 plus 69393?",
+        "answer": "86513.",
+        "label": 1
+    },
+    {
+        "question": "What is 1403 plus 9287?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 93 plus 21?",
+        "answer": "114.",
+        "label": 1
+    },
+    {
+        "question": "What is 1575 minus 3151?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4654 plus 7360?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 768 times 576?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 767 minus 307?",
+        "answer": "460.",
+        "label": 1
+    },
+    {
+        "question": "What is 54766 minus 64153?",
+        "answer": "-9387.",
+        "label": 1
+    },
+    {
+        "question": "What is 4576 times 4800?",
+        "answer": "99122017.",
+        "label": 0
+    },
+    {
+        "question": "What is 32 minus 69?",
+        "answer": "-37.",
+        "label": 1
+    },
+    {
+        "question": "What is 540 minus 711?",
+        "answer": "-171.",
+        "label": 1
+    },
+    {
+        "question": "What is 45841 plus 79582?",
+        "answer": "125423.",
+        "label": 1
+    },
+    {
+        "question": "What is 99 plus 48?",
+        "answer": "147.",
+        "label": 1
+    },
+    {
+        "question": "What is 9753 times 2022?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 49 minus 18?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 63993 plus 32438?",
+        "answer": "96431.",
+        "label": 1
+    },
+    {
+        "question": "What is 61 times 86?",
+        "answer": "73.",
+        "label": 0
+    },
+    {
+        "question": "What is 813 times 950?",
+        "answer": "3041.",
+        "label": 0
+    },
+    {
+        "question": "What is 29612 plus 46968?",
+        "answer": "33086.",
+        "label": 0
+    },
+    {
+        "question": "What is 24 minus 73?",
+        "answer": "-49.",
+        "label": 1
+    },
+    {
+        "question": "What is 216 divided by 24?",
+        "answer": "7.",
+        "label": 0
+    },
+    {
+        "question": "What is 19344 divided by 12?",
+        "answer": "1612.",
+        "label": 1
+    },
+    {
+        "question": "What is 46317 plus 80919?",
+        "answer": "789225.",
+        "label": 0
+    },
+    {
+        "question": "What is 180 times 424?",
+        "answer": "30925.",
+        "label": 0
+    },
+    {
+        "question": "What is 23055 minus 63609?",
+        "answer": "516122.",
+        "label": 0
+    },
+    {
+        "question": "What is 89 minus 25?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 8105 times 9823?",
+        "answer": "465525.",
+        "label": 0
+    },
+    {
+        "question": "What is 81304 divided by 40652?",
+        "answer": "817.",
+        "label": 0
+    },
+    {
+        "question": "What is 18 plus 58?",
+        "answer": "76.",
+        "label": 1
+    },
+    {
+        "question": "What is 501 minus 421?",
+        "answer": "59.",
+        "label": 0
+    },
+    {
+        "question": "What is 97728 plus 46649?",
+        "answer": "144377.",
+        "label": 1
+    },
+    {
+        "question": "What is 46464 minus 18444?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 13 plus 58?",
+        "answer": "6799.",
+        "label": 0
+    },
+    {
+        "question": "What is 367 plus 618?",
+        "answer": "985.",
+        "label": 1
+    },
+    {
+        "question": "What is 68 plus 14?",
+        "answer": "82.",
+        "label": 1
+    },
+    {
+        "question": "What is 7952 minus 5278?",
+        "answer": "2674.",
+        "label": 1
+    },
+    {
+        "question": "What is 695 divided by 1?",
+        "answer": "9.",
+        "label": 0
+    },
+    {
+        "question": "What is 4567 plus 7851?",
+        "answer": "12418.",
+        "label": 1
+    },
+    {
+        "question": "What is 72211 times 37656?",
+        "answer": "37907096.",
+        "label": 0
+    },
+    {
+        "question": "What is 98756 minus 61556?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 76 divided by 4?",
+        "answer": "36.",
+        "label": 0
+    },
+    {
+        "question": "What is 316 divided by 4?",
+        "answer": "79.",
+        "label": 1
+    },
+    {
+        "question": "What is 123 times 177?",
+        "answer": "21771.",
+        "label": 1
+    },
+    {
+        "question": "What is 40 minus 70?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 3913 minus 2363?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 40488 times 53567?",
+        "answer": "2168820696.",
+        "label": 1
+    },
+    {
+        "question": "What is 69570 times 35821?",
+        "answer": "2492066970.",
+        "label": 1
+    },
+    {
+        "question": "What is 11448 plus 19552?",
+        "answer": "37854.",
+        "label": 0
+    },
+    {
+        "question": "What is 326 times 450?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 1834 divided by 262?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 9388 minus 9135?",
+        "answer": "809.",
+        "label": 0
+    },
+    {
+        "question": "What is 183 times 876?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 37559 plus 80134?",
+        "answer": "117693.",
+        "label": 1
+    },
+    {
+        "question": "What is 490 divided by 98?",
+        "answer": "5.",
+        "label": 1
+    },
+    {
+        "question": "What is 273 times 841?",
+        "answer": "229593.",
+        "label": 1
+    },
+    {
+        "question": "What is 1355 minus 7997?",
+        "answer": "-6642.",
+        "label": 1
+    },
+    {
+        "question": "What is 5490 divided by 9?",
+        "answer": "610.",
+        "label": 1
+    },
+    {
+        "question": "What is 70780 minus 58130?",
+        "answer": "12650.",
+        "label": 1
+    },
+    {
+        "question": "What is 51101 minus 18910?",
+        "answer": "58031.",
+        "label": 0
+    },
+    {
+        "question": "What is 32691 minus 64822?",
+        "answer": "-32131.",
+        "label": 1
+    },
+    {
+        "question": "What is 769 plus 781?",
+        "answer": "1550.",
+        "label": 1
+    },
+    {
+        "question": "What is 8683 minus 1835?",
+        "answer": "2738.",
+        "label": 0
+    },
+    {
+        "question": "What is 243 times 548?",
+        "answer": "4657.",
+        "label": 0
+    },
+    {
+        "question": "What is 78 times 60?",
+        "answer": "4680.",
+        "label": 1
+    },
+    {
+        "question": "What is 180 divided by 90?",
+        "answer": "6.",
+        "label": 0
+    },
+    {
+        "question": "What is 53 times 95?",
+        "answer": "5035.",
+        "label": 1
+    },
+    {
+        "question": "What is 29 minus 93?",
+        "answer": "757.",
+        "label": 0
+    },
+    {
+        "question": "What is 474 times 450?",
+        "answer": "53824193.",
+        "label": 0
+    },
+    {
+        "question": "What is 5484 times 2746?",
+        "answer": "47855659.",
+        "label": 0
+    },
+    {
+        "question": "What is 3 times 6?",
+        "answer": "18.",
+        "label": 1
+    },
+    {
+        "question": "What is 6825 divided by 75?",
+        "answer": "81.",
+        "label": 0
+    },
+    {
+        "question": "What is 714 minus 416?",
+        "answer": "298.",
+        "label": 1
+    },
+    {
+        "question": "What is 11442 times 54355?",
+        "answer": "621929910.",
+        "label": 1
+    },
+    {
+        "question": "What is 507 minus 647?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 718 minus 314?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 21 minus 13?",
+        "answer": "8.",
+        "label": 1
+    },
+    {
+        "question": "What is 153 times 876?",
+        "answer": "134028.",
+        "label": 1
+    },
+    {
+        "question": "What is 7970 times 9482?",
+        "answer": "3658980301.",
+        "label": 0
+    },
+    {
+        "question": "What is 193 plus 116?",
+        "answer": "309.",
+        "label": 1
+    },
+    {
+        "question": "What is 206 times 530?",
+        "answer": "109180.",
+        "label": 1
+    },
+    {
+        "question": "What is 6719 times 7350?",
+        "answer": "79081208.",
+        "label": 0
+    },
+    {
+        "question": "What is 2 times 0?",
+        "answer": "785.",
+        "label": 0
+    },
+    {
+        "question": "What is 9421 minus 4207?",
+        "answer": "5214.",
+        "label": 1
+    },
+    {
+        "question": "What is 3625 plus 4972?",
+        "answer": "8597.",
+        "label": 1
+    },
+    {
+        "question": "What is 898 minus 426?",
+        "answer": "12456.",
+        "label": 0
+    },
+    {
+        "question": "What is 28968 divided by 408?",
+        "answer": "71.",
+        "label": 1
+    },
+    {
+        "question": "What is 7923 minus 2371?",
+        "answer": "5552.",
+        "label": 1
+    },
+    {
+        "question": "What is 1687 plus 4734?",
+        "answer": "6421.",
+        "label": 1
+    },
+    {
+        "question": "What is 7834 plus 1092?",
+        "answer": "8926.",
+        "label": 1
+    },
+    {
+        "question": "What is 528 times 713?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 66550 divided by 1331?",
+        "answer": "50.",
+        "label": 1
+    },
+    {
+        "question": "What is 90 plus 58?",
+        "answer": "155.",
+        "label": 0
+    },
+    {
+        "question": "What is 37 minus 10?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 62416 divided by 31208?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 10 plus 50?",
+        "answer": "60.",
+        "label": 1
+    },
+    {
+        "question": "What is 9053 times 8796?",
+        "answer": "79630188.",
+        "label": 1
+    },
+    {
+        "question": "What is 83506 divided by 86?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 652 minus 768?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 553 minus 249?",
+        "answer": "304.",
+        "label": 1
+    },
+    {
+        "question": "What is 3294 divided by 6?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4514 plus 2616?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 74 times 52?",
+        "answer": "7160.",
+        "label": 0
+    },
+    {
+        "question": "What is 9079 minus 2771?",
+        "answer": "6308.",
+        "label": 1
+    },
+    {
+        "question": "What is 1921 times 4572?",
+        "answer": "8782812.",
+        "label": 1
+    },
+    {
+        "question": "What is 844 divided by 4?",
+        "answer": "211.",
+        "label": 1
+    },
+    {
+        "question": "What is 54 times 11?",
+        "answer": "594.",
+        "label": 1
+    },
+    {
+        "question": "What is 59 plus 88?",
+        "answer": "147.",
+        "label": 1
+    },
+    {
+        "question": "What is 2849 times 4291?",
+        "answer": "165259.",
+        "label": 0
+    },
+    {
+        "question": "What is 2155 minus 3671?",
+        "answer": "-1516.",
+        "label": 1
+    },
+    {
+        "question": "What is 13 minus 58?",
+        "answer": "90862.",
+        "label": 0
+    },
+    {
+        "question": "What is 6070 times 9467?",
+        "answer": "2366664321.",
+        "label": 0
+    },
+    {
+        "question": "What is 441 times 394?",
+        "answer": "173754.",
+        "label": 1
+    },
+    {
+        "question": "What is 162 times 698?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 9043 minus 5803?",
+        "answer": "5674.",
+        "label": 0
+    },
+    {
+        "question": "What is 99 times 61?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4892 times 2604?",
+        "answer": "9368441828.",
+        "label": 0
+    },
+    {
+        "question": "What is 47 minus 38?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 693 minus 123?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 98718 minus 94726?",
+        "answer": "3992.",
+        "label": 1
+    },
+    {
+        "question": "What is 313 minus 583?",
+        "answer": "77.",
+        "label": 0
+    },
+    {
+        "question": "What is 55 plus 74?",
+        "answer": "129.",
+        "label": 1
+    },
+    {
+        "question": "What is 6263 minus 1389?",
+        "answer": "4874.",
+        "label": 1
+    },
+    {
+        "question": "What is 357 times 449?",
+        "answer": "160293.",
+        "label": 1
+    },
+    {
+        "question": "What is 14692 plus 95830?",
+        "answer": "110522.",
+        "label": 1
+    },
+    {
+        "question": "What is 6932 minus 6278?",
+        "answer": "654.",
+        "label": 1
+    },
+    {
+        "question": "What is 73 times 46?",
+        "answer": "3358.",
+        "label": 1
+    },
+    {
+        "question": "What is 4098 minus 2928?",
+        "answer": "9291.",
+        "label": 0
+    },
+    {
+        "question": "What is 63 times 70?",
+        "answer": "4410.",
+        "label": 1
+    },
+    {
+        "question": "What is 5 minus 1?",
+        "answer": "4.",
+        "label": 1
+    },
+    {
+        "question": "What is 98 minus 35?",
+        "answer": "63.",
+        "label": 1
+    },
+    {
+        "question": "What is 35 minus 44?",
+        "answer": "-9.",
+        "label": 1
+    },
+    {
+        "question": "What is 36 minus 70?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 7904 divided by 304?",
+        "answer": "26.",
+        "label": 1
+    },
+    {
+        "question": "What is 61573 plus 55702?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 30975 minus 84767?",
+        "answer": "-53792.",
+        "label": 1
+    },
+    {
+        "question": "What is 61042 minus 31652?",
+        "answer": "29390.",
+        "label": 1
+    },
+    {
+        "question": "What is 995 minus 950?",
+        "answer": "7738.",
+        "label": 0
+    },
+    {
+        "question": "What is 231 divided by 7?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 10 times 65?",
+        "answer": "430.",
+        "label": 0
+    },
+    {
+        "question": "What is 4 times 7?",
+        "answer": "2199.",
+        "label": 0
+    },
+    {
+        "question": "What is 116 minus 518?",
+        "answer": "8496.",
+        "label": 0
+    },
+    {
+        "question": "What is 25039 plus 79674?",
+        "answer": "76005098.",
+        "label": 0
+    },
+    {
+        "question": "What is 433 times 110?",
+        "answer": "47630.",
+        "label": 1
+    },
+    {
+        "question": "What is 750 minus 696?",
+        "answer": "54.",
+        "label": 1
+    },
+    {
+        "question": "What is 8276 plus 9247?",
+        "answer": "5863789.",
+        "label": 0
+    },
+    {
+        "question": "What is 77400 divided by 6?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 75842 plus 77173?",
+        "answer": "9828.",
+        "label": 0
+    },
+    {
+        "question": "What is 89 plus 68?",
+        "answer": "157.",
+        "label": 1
+    },
+    {
+        "question": "What is 638 minus 780?",
+        "answer": "21.",
+        "label": 0
+    },
+    {
+        "question": "What is 456 times 695?",
+        "answer": "316920.",
+        "label": 1
+    },
+    {
+        "question": "What is 7601 times 5584?",
+        "answer": "42443984.",
+        "label": 1
+    },
+    {
+        "question": "What is 23 times 82?",
+        "answer": "1886.",
+        "label": 1
+    },
+    {
+        "question": "What is 96611 minus 23868?",
+        "answer": "72743.",
+        "label": 1
+    },
+    {
+        "question": "What is 7868 plus 3824?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 21063 divided by 7?",
+        "answer": "3009.",
+        "label": 1
+    },
+    {
+        "question": "What is 56 minus 53?",
+        "answer": "737.",
+        "label": 0
+    },
+    {
+        "question": "What is 34449 plus 20189?",
+        "answer": "70547.",
+        "label": 0
+    },
+    {
+        "question": "What is 419 times 647?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 81 minus 12?",
+        "answer": "69.",
+        "label": 1
+    },
+    {
+        "question": "What is 96072 times 75867?",
+        "answer": "7288694424.",
+        "label": 1
+    },
+    {
+        "question": "What is 749 times 644?",
+        "answer": "482356.",
+        "label": 1
+    },
+    {
+        "question": "What is 209 minus 602?",
+        "answer": "672821.",
+        "label": 0
+    },
+    {
+        "question": "What is 20 minus 33?",
+        "answer": "-13.",
+        "label": 1
+    },
+    {
+        "question": "What is 44885 times 54808?",
+        "answer": "528366600800.",
+        "label": 0
+    },
+    {
+        "question": "What is 2338 times 6483?",
+        "answer": "15157254.",
+        "label": 1
+    },
+    {
+        "question": "What is 92963 divided by 1?",
+        "answer": "983.",
+        "label": 0
+    },
+    {
+        "question": "What is 88563 minus 76234?",
+        "answer": "614.",
+        "label": 0
+    },
+    {
+        "question": "What is 30 plus 70?",
+        "answer": "100.",
+        "label": 1
+    },
+    {
+        "question": "What is 3174 minus 8750?",
+        "answer": "8201024.",
+        "label": 0
+    },
+    {
+        "question": "What is 7040 minus 1109?",
+        "answer": "5931.",
+        "label": 1
+    },
+    {
+        "question": "What is 648 minus 746?",
+        "answer": "2.",
+        "label": 0
+    },
+    {
+        "question": "What is 1870 plus 1584?",
+        "answer": "18.",
+        "label": 0
+    },
+    {
+        "question": "What is 5615 minus 2886?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 733 plus 654?",
+        "answer": "887017.",
+        "label": 0
+    },
+    {
+        "question": "What is 3156 plus 2356?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 79973 minus 23954?",
+        "answer": "56019.",
+        "label": 1
+    },
+    {
+        "question": "What is 46 times 67?",
+        "answer": "3082.",
+        "label": 1
+    },
+    {
+        "question": "What is 325 divided by 325?",
+        "answer": "6.",
+        "label": 0
+    },
+    {
+        "question": "What is 5286 plus 6203?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 12 minus 21?",
+        "answer": "-9.",
+        "label": 1
+    },
+    {
+        "question": "What is 6885 divided by 153?",
+        "answer": "45.",
+        "label": 1
+    },
+    {
+        "question": "What is 80304 divided by 7?",
+        "answer": "46250.",
+        "label": 0
+    },
+    {
+        "question": "What is 72469 times 11975?",
+        "answer": "867816275.",
+        "label": 1
+    },
+    {
+        "question": "What is 9 plus 5?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 34 divided by 34?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 25324 times 77949?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 78 divided by 26?",
+        "answer": "3.",
+        "label": 1
+    },
+    {
+        "question": "What is 97872 plus 65505?",
+        "answer": "686876.",
+        "label": 0
+    },
+    {
+        "question": "What is 521 minus 572?",
+        "answer": "-51.",
+        "label": 1
+    },
+    {
+        "question": "What is 496 divided by 62?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 9753 times 8829?",
+        "answer": "86109237.",
+        "label": 1
+    },
+    {
+        "question": "What is 9611 times 9653?",
+        "answer": "92774983.",
+        "label": 1
+    },
+    {
+        "question": "What is 7257 plus 9398?",
+        "answer": "6066483.",
+        "label": 0
+    },
+    {
+        "question": "What is 5749 divided by 5749?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 992 times 108?",
+        "answer": "903219.",
+        "label": 0
+    },
+    {
+        "question": "What is 518 times 145?",
+        "answer": "75110.",
+        "label": 1
+    },
+    {
+        "question": "What is 837 divided by 3?",
+        "answer": "3.",
+        "label": 0
+    },
+    {
+        "question": "What is 57653 times 15665?",
+        "answer": "903134245.",
+        "label": 1
+    },
+    {
+        "question": "What is 1496 times 9846?",
+        "answer": "14729616.",
+        "label": 1
+    },
+    {
+        "question": "What is 45566 times 43397?",
+        "answer": "7012810237.",
+        "label": 0
+    },
+    {
+        "question": "What is 9246 minus 7566?",
+        "answer": "1680.",
+        "label": 1
+    },
+    {
+        "question": "What is 88518 divided by 6?",
+        "answer": "27186.",
+        "label": 0
+    },
+    {
+        "question": "What is 6824 times 8622?",
+        "answer": "5719969770.",
+        "label": 0
+    },
+    {
+        "question": "What is 12 times 49?",
+        "answer": "588.",
+        "label": 1
+    },
+    {
+        "question": "What is 49485 divided by 5?",
+        "answer": "9897.",
+        "label": 1
+    },
+    {
+        "question": "What is 400 divided by 5?",
+        "answer": "80.",
+        "label": 1
+    },
+    {
+        "question": "What is 3384 plus 1654?",
+        "answer": "5038.",
+        "label": 1
+    },
+    {
+        "question": "What is 9396 divided by 9396?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 792 times 623?",
+        "answer": "928449.",
+        "label": 0
+    },
+    {
+        "question": "What is 81703 plus 84473?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 89 plus 97?",
+        "answer": "186.",
+        "label": 1
+    },
+    {
+        "question": "What is 8108 plus 6683?",
+        "answer": "14791.",
+        "label": 1
+    },
+    {
+        "question": "What is 93066 times 79892?",
+        "answer": "9405698506.",
+        "label": 0
+    },
+    {
+        "question": "What is 31247 minus 37397?",
+        "answer": "-6150.",
+        "label": 1
+    },
+    {
+        "question": "What is 310 times 368?",
+        "answer": "83163118.",
+        "label": 0
+    },
+    {
+        "question": "What is 92178 minus 16678?",
+        "answer": "75500.",
+        "label": 1
+    },
+    {
+        "question": "What is 2258 minus 1177?",
+        "answer": "1081.",
+        "label": 1
+    },
+    {
+        "question": "What is 9377 plus 4162?",
+        "answer": "13539.",
+        "label": 1
+    },
+    {
+        "question": "What is 28 plus 66?",
+        "answer": "7124.",
+        "label": 0
+    },
+    {
+        "question": "What is 512 times 328?",
+        "answer": "167936.",
+        "label": 1
+    },
+    {
+        "question": "What is 844 divided by 4?",
+        "answer": "26222.",
+        "label": 0
+    },
+    {
+        "question": "What is 559 times 933?",
+        "answer": "863604.",
+        "label": 0
+    },
+    {
+        "question": "What is 326 times 450?",
+        "answer": "146700.",
+        "label": 1
+    },
+    {
+        "question": "What is 216 times 510?",
+        "answer": "188465.",
+        "label": 0
+    },
+    {
+        "question": "What is 8885 times 2151?",
+        "answer": "16570861.",
+        "label": 0
+    },
+    {
+        "question": "What is 894 plus 435?",
+        "answer": "1329.",
+        "label": 1
+    },
+    {
+        "question": "What is 1338 times 2642?",
+        "answer": "3534996.",
+        "label": 1
+    },
+    {
+        "question": "What is 5250 plus 4015?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 5004 divided by 834?",
+        "answer": "6.",
+        "label": 1
+    },
+    {
+        "question": "What is 61 minus 21?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 66112 plus 53554?",
+        "answer": "119666.",
+        "label": 1
+    },
+    {
+        "question": "What is 723 times 190?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 45570 divided by 434?",
+        "answer": "105.",
+        "label": 1
+    },
+    {
+        "question": "What is 2979 minus 2900?",
+        "answer": "2.",
+        "label": 0
+    },
+    {
+        "question": "What is 7968 times 8573?",
+        "answer": "47590977.",
+        "label": 0
+    },
+    {
+        "question": "What is 48860 divided by 7?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 31696 times 96248?",
+        "answer": "3050676608.",
+        "label": 1
+    },
+    {
+        "question": "What is 93885 plus 15920?",
+        "answer": "109805.",
+        "label": 1
+    },
+    {
+        "question": "What is 78 plus 53?",
+        "answer": "131.",
+        "label": 1
+    },
+    {
+        "question": "What is 72518 plus 15573?",
+        "answer": "88091.",
+        "label": 1
+    },
+    {
+        "question": "What is 98099 times 83206?",
+        "answer": "8162425394.",
+        "label": 1
+    },
+    {
+        "question": "What is 8067 times 4418?",
+        "answer": "35640006.",
+        "label": 1
+    },
+    {
+        "question": "What is 997 plus 486?",
+        "answer": "1483.",
+        "label": 1
+    },
+    {
+        "question": "What is 95818 minus 32956?",
+        "answer": "56984.",
+        "label": 0
+    },
+    {
+        "question": "What is 246 plus 742?",
+        "answer": "714.",
+        "label": 0
+    },
+    {
+        "question": "What is 556 plus 165?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 7730 plus 8001?",
+        "answer": "15731.",
+        "label": 1
+    },
+    {
+        "question": "What is 8092 divided by 68?",
+        "answer": "119.",
+        "label": 1
+    },
+    {
+        "question": "What is 26580 times 54007?",
+        "answer": "1435506060.",
+        "label": 1
+    },
+    {
+        "question": "What is 77672 divided by 5548?",
+        "answer": "2997.",
+        "label": 0
+    },
+    {
+        "question": "What is 88 plus 98?",
+        "answer": "186.",
+        "label": 1
+    },
+    {
+        "question": "What is 27126 times 68360?",
+        "answer": "1854333360.",
+        "label": 1
+    },
+    {
+        "question": "What is 514 plus 611?",
+        "answer": "1125.",
+        "label": 1
+    },
+    {
+        "question": "What is 285 divided by 19?",
+        "answer": "15.",
+        "label": 1
+    },
+    {
+        "question": "What is 212 minus 598?",
+        "answer": "8385.",
+        "label": 0
+    },
+    {
+        "question": "What is 16 times 51?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 46 plus 89?",
+        "answer": "135.",
+        "label": 1
+    },
+    {
+        "question": "What is 82 times 79?",
+        "answer": "368398.",
+        "label": 0
+    },
+    {
+        "question": "What is 6900 minus 8059?",
+        "answer": "-1159.",
+        "label": 1
+    },
+    {
+        "question": "What is 7405 minus 9457?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 3715 minus 1920?",
+        "answer": "1795.",
+        "label": 1
+    },
+    {
+        "question": "What is 56 plus 56?",
+        "answer": "5.",
+        "label": 0
+    },
+    {
+        "question": "What is 709 times 883?",
+        "answer": "626047.",
+        "label": 1
+    },
+    {
+        "question": "What is 8 minus 9?",
+        "answer": "78.",
+        "label": 0
+    },
+    {
+        "question": "What is 2 plus 2?",
+        "answer": "4.",
+        "label": 1
+    },
+    {
+        "question": "What is 13566 divided by 51?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 34 times 67?",
+        "answer": "2278.",
+        "label": 1
+    },
+    {
+        "question": "What is 9972 minus 5129?",
+        "answer": "20.",
+        "label": 0
+    },
+    {
+        "question": "What is 47941 minus 45796?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 25 minus 98?",
+        "answer": "5.",
+        "label": 0
+    },
+    {
+        "question": "What is 8318 plus 7259?",
+        "answer": "15577.",
+        "label": 1
+    },
+    {
+        "question": "What is 2614 minus 1817?",
+        "answer": "797.",
+        "label": 1
+    },
+    {
+        "question": "What is 4221 minus 3028?",
+        "answer": "1193.",
+        "label": 1
+    },
+    {
+        "question": "What is 87 minus 85?",
+        "answer": "2.",
+        "label": 1
+    },
+    {
+        "question": "What is 15167 plus 69631?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 87217 plus 39052?",
+        "answer": "828338.",
+        "label": 0
+    },
+    {
+        "question": "What is 557 times 465?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 6 divided by 6?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 590 times 491?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 803 divided by 803?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 68 minus 85?",
+        "answer": "324.",
+        "label": 0
+    },
+    {
+        "question": "What is 89088 divided by 4?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 15 minus 16?",
+        "answer": "-1.",
+        "label": 1
+    },
+    {
+        "question": "What is 9448 divided by 4?",
+        "answer": "2362.",
+        "label": 1
+    },
+    {
+        "question": "What is 63754 plus 71152?",
+        "answer": "792251.",
+        "label": 0
+    },
+    {
+        "question": "What is 188 minus 941?",
+        "answer": "80.",
+        "label": 0
+    },
+    {
+        "question": "What is 635 plus 881?",
+        "answer": "6604.",
+        "label": 0
+    },
+    {
+        "question": "What is 6690 divided by 1115?",
+        "answer": "3.",
+        "label": 0
+    },
+    {
+        "question": "What is 94516 plus 82564?",
+        "answer": "177080.",
+        "label": 1
+    },
+    {
+        "question": "What is 149 plus 274?",
+        "answer": "423.",
+        "label": 1
+    },
+    {
+        "question": "What is 87559 plus 78645?",
+        "answer": "166204.",
+        "label": 1
+    },
+    {
+        "question": "What is 16482 times 40919?",
+        "answer": "471152045.",
+        "label": 0
+    },
+    {
+        "question": "What is 74268 times 69863?",
+        "answer": "588675424851.",
+        "label": 0
+    },
+    {
+        "question": "What is 59334 divided by 2?",
+        "answer": "29667.",
+        "label": 1
+    },
+    {
+        "question": "What is 42480 divided by 36?",
+        "answer": "9189.",
+        "label": 0
+    },
+    {
+        "question": "What is 78069 divided by 78069?",
+        "answer": "4.",
+        "label": 0
+    },
+    {
+        "question": "What is 47 minus 89?",
+        "answer": "-42.",
+        "label": 1
+    },
+    {
+        "question": "What is 17126 times 20337?",
+        "answer": "611001297.",
+        "label": 0
+    },
+    {
+        "question": "What is 1113 plus 6523?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 21795 minus 30663?",
+        "answer": "-8868.",
+        "label": 1
+    },
+    {
+        "question": "What is 610 plus 631?",
+        "answer": "1241.",
+        "label": 1
+    },
+    {
+        "question": "What is 89950 minus 74505?",
+        "answer": "15445.",
+        "label": 1
+    },
+    {
+        "question": "What is 50 plus 12?",
+        "answer": "9376.",
+        "label": 0
+    },
+    {
+        "question": "What is 78 minus 38?",
+        "answer": "40.",
+        "label": 1
+    },
+    {
+        "question": "What is 5260 times 3585?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 3 minus 2?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 408 plus 888?",
+        "answer": "8592.",
+        "label": 0
+    },
+    {
+        "question": "What is 326 minus 229?",
+        "answer": "2984.",
+        "label": 0
+    },
+    {
+        "question": "What is 40 times 84?",
+        "answer": "877467.",
+        "label": 0
+    },
+    {
+        "question": "What is 594 divided by 297?",
+        "answer": "7.",
+        "label": 0
+    },
+    {
+        "question": "What is 8145 minus 9397?",
+        "answer": "-1252.",
+        "label": 1
+    },
+    {
+        "question": "What is 418 plus 727?",
+        "answer": "1145.",
+        "label": 1
+    },
+    {
+        "question": "What is 62 plus 67?",
+        "answer": "129.",
+        "label": 1
+    },
+    {
+        "question": "What is 9065 times 6726?",
+        "answer": "60971190.",
+        "label": 1
+    },
+    {
+        "question": "What is 954 minus 166?",
+        "answer": "942.",
+        "label": 0
+    },
+    {
+        "question": "What is 14117 minus 86067?",
+        "answer": "65458165.",
+        "label": 0
+    },
+    {
+        "question": "What is 42 divided by 42?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 12410 times 97324?",
+        "answer": "1207790840.",
+        "label": 1
+    },
+    {
+        "question": "What is 60 times 92?",
+        "answer": "5520.",
+        "label": 1
+    },
+    {
+        "question": "What is 167 minus 529?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 14 times 49?",
+        "answer": "953.",
+        "label": 0
+    },
+    {
+        "question": "What is 1535 plus 1254?",
+        "answer": "2789.",
+        "label": 1
+    },
+    {
+        "question": "What is 26916 times 40273?",
+        "answer": "1083988068.",
+        "label": 1
+    },
+    {
+        "question": "What is 80821 times 16053?",
+        "answer": "825875123323.",
+        "label": 0
+    },
+    {
+        "question": "What is 25061 minus 94158?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 28060 divided by 61?",
+        "answer": "460.",
+        "label": 1
+    },
+    {
+        "question": "What is 6711 minus 3750?",
+        "answer": "2961.",
+        "label": 1
+    },
+    {
+        "question": "What is 11 plus 72?",
+        "answer": "34.",
+        "label": 0
+    },
+    {
+        "question": "What is 626 plus 257?",
+        "answer": "883.",
+        "label": 1
+    },
+    {
+        "question": "What is 95400 divided by 318?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 6212 plus 2591?",
+        "answer": "4683.",
+        "label": 0
+    },
+    {
+        "question": "What is 5239 divided by 13?",
+        "answer": "403.",
+        "label": 1
+    },
+    {
+        "question": "What is 5629 plus 6248?",
+        "answer": "11877.",
+        "label": 1
+    },
+    {
+        "question": "What is 346 minus 861?",
+        "answer": "-515.",
+        "label": 1
+    },
+    {
+        "question": "What is 42 times 78?",
+        "answer": "3276.",
+        "label": 1
+    },
+    {
+        "question": "What is 66374 plus 40816?",
+        "answer": "400383.",
+        "label": 0
+    },
+    {
+        "question": "What is 1178 divided by 1178?",
+        "answer": "602.",
+        "label": 0
+    },
+    {
+        "question": "What is 95 times 13?",
+        "answer": "921910.",
+        "label": 0
+    },
+    {
+        "question": "What is 25 times 52?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 54 times 97?",
+        "answer": "2063.",
+        "label": 0
+    },
+    {
+        "question": "What is 744 minus 945?",
+        "answer": "-201.",
+        "label": 1
+    },
+    {
+        "question": "What is 71630 divided by 95?",
+        "answer": "50190.",
+        "label": 0
+    },
+    {
+        "question": "What is 84990 minus 15434?",
+        "answer": "69556.",
+        "label": 1
+    },
+    {
+        "question": "What is 561 times 435?",
+        "answer": "244035.",
+        "label": 1
+    },
+    {
+        "question": "What is 4976 minus 1838?",
+        "answer": "3138.",
+        "label": 1
+    },
+    {
+        "question": "What is 59 plus 82?",
+        "answer": "141.",
+        "label": 1
+    },
+    {
+        "question": "What is 17192 divided by 7?",
+        "answer": "5877.",
+        "label": 0
+    },
+    {
+        "question": "What is 1815 divided by 5?",
+        "answer": "363.",
+        "label": 1
+    },
+    {
+        "question": "What is 8544 divided by 6?",
+        "answer": "441827.",
+        "label": 0
+    },
+    {
+        "question": "What is 24086 times 30527?",
+        "answer": "735273322.",
+        "label": 1
+    },
+    {
+        "question": "What is 5611 plus 3642?",
+        "answer": "9253.",
+        "label": 1
+    },
+    {
+        "question": "What is 4005 plus 9345?",
+        "answer": "13350.",
+        "label": 1
+    },
+    {
+        "question": "What is 19606 plus 36448?",
+        "answer": "56054.",
+        "label": 1
+    },
+    {
+        "question": "What is 2212 divided by 7?",
+        "answer": "472.",
+        "label": 0
+    },
+    {
+        "question": "What is 51876 minus 82341?",
+        "answer": "-30465.",
+        "label": 1
+    },
+    {
+        "question": "What is 9 minus 3?",
+        "answer": "6.",
+        "label": 1
+    },
+    {
+        "question": "What is 8979 minus 6418?",
+        "answer": "49.",
+        "label": 0
+    },
+    {
+        "question": "What is 66807 minus 26525?",
+        "answer": "40282.",
+        "label": 1
+    },
+    {
+        "question": "What is 18655 plus 65241?",
+        "answer": "83896.",
+        "label": 1
+    },
+    {
+        "question": "What is 501 plus 287?",
+        "answer": "6.",
+        "label": 0
+    },
+    {
+        "question": "What is 880 divided by 5?",
+        "answer": "176.",
+        "label": 1
+    },
+    {
+        "question": "What is 73350 minus 99885?",
+        "answer": "454427.",
+        "label": 0
+    },
+    {
+        "question": "What is 60001 divided by 29?",
+        "answer": "2069.",
+        "label": 1
+    },
+    {
+        "question": "What is 279 times 190?",
+        "answer": "53010.",
+        "label": 1
+    },
+    {
+        "question": "What is 24486 minus 36119?",
+        "answer": "6508.",
+        "label": 0
+    },
+    {
+        "question": "What is 21194 minus 33241?",
+        "answer": "-12047.",
+        "label": 1
+    },
+    {
+        "question": "What is 89950 divided by 25?",
+        "answer": "85.",
+        "label": 0
+    },
+    {
+        "question": "What is 6618 plus 6580?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 37 times 68?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 97471 minus 55337?",
+        "answer": "60896.",
+        "label": 0
+    },
+    {
+        "question": "What is 925 minus 489?",
+        "answer": "13759.",
+        "label": 0
+    },
+    {
+        "question": "What is 1966 divided by 983?",
+        "answer": "2.",
+        "label": 1
+    },
+    {
+        "question": "What is 8739 minus 1157?",
+        "answer": "15.",
+        "label": 0
+    },
+    {
+        "question": "What is 2520 times 9497?",
+        "answer": "23932440.",
+        "label": 1
+    },
+    {
+        "question": "What is 998 minus 179?",
+        "answer": "819.",
+        "label": 1
+    },
+    {
+        "question": "What is 95 times 81?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 43 plus 20?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 358 times 345?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 49 minus 22?",
+        "answer": "28.",
+        "label": 0
+    },
+    {
+        "question": "What is 20623 minus 92808?",
+        "answer": "34109775.",
+        "label": 0
+    },
+    {
+        "question": "What is 76 times 25?",
+        "answer": "1900.",
+        "label": 1
+    },
+    {
+        "question": "What is 90 divided by 6?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 10 minus 10?",
+        "answer": "0.",
+        "label": 1
+    },
+    {
+        "question": "What is 85184 minus 31082?",
+        "answer": "5739729.",
+        "label": 0
+    },
+    {
+        "question": "What is 576 plus 770?",
+        "answer": "59.",
+        "label": 0
+    },
+    {
+        "question": "What is 60407 plus 38688?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 938 minus 424?",
+        "answer": "24336.",
+        "label": 0
+    },
+    {
+        "question": "What is 9053 times 8796?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 70480 minus 73380?",
+        "answer": "14253.",
+        "label": 0
+    },
+    {
+        "question": "What is 78 minus 24?",
+        "answer": "54.",
+        "label": 1
+    },
+    {
+        "question": "What is 4244 divided by 1?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 8972 divided by 1?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 266 times 834?",
+        "answer": "221844.",
+        "label": 1
+    },
+    {
+        "question": "What is 1239 divided by 21?",
+        "answer": "59.",
+        "label": 1
+    },
+    {
+        "question": "What is 577 times 774?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 32 minus 89?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 8673 divided by 3?",
+        "answer": "2891.",
+        "label": 1
+    },
+    {
+        "question": "What is 81532 plus 20969?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 1615 times 6181?",
+        "answer": "9982315.",
+        "label": 1
+    },
+    {
+        "question": "What is 79 times 74?",
+        "answer": "5846.",
+        "label": 1
+    },
+    {
+        "question": "What is 326 minus 352?",
+        "answer": "592.",
+        "label": 0
+    },
+    {
+        "question": "What is 24383 minus 23041?",
+        "answer": "423614.",
+        "label": 0
+    },
+    {
+        "question": "What is 7050 divided by 25?",
+        "answer": "282.",
+        "label": 1
+    },
+    {
+        "question": "What is 8884 times 3970?",
+        "answer": "5754495974.",
+        "label": 0
+    },
+    {
+        "question": "What is 8778 minus 5692?",
+        "answer": "3086.",
+        "label": 1
+    },
+    {
+        "question": "What is 84261 plus 64086?",
+        "answer": "8502.",
+        "label": 0
+    },
+    {
+        "question": "What is 61 minus 82?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 510 times 417?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 48 times 72?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 1299 times 3043?",
+        "answer": "1451417.",
+        "label": 0
+    },
+    {
+        "question": "What is 95719 minus 42026?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 255 minus 803?",
+        "answer": "-548.",
+        "label": 1
+    },
+    {
+        "question": "What is 40 times 45?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 3331 minus 6871?",
+        "answer": "90692.",
+        "label": 0
+    },
+    {
+        "question": "What is 12565 plus 52909?",
+        "answer": "65474.",
+        "label": 1
+    },
+    {
+        "question": "What is 69058 divided by 473?",
+        "answer": "72969.",
+        "label": 0
+    },
+    {
+        "question": "What is 58062 minus 17822?",
+        "answer": "40240.",
+        "label": 1
+    },
+    {
+        "question": "What is 497 minus 485?",
+        "answer": "12.",
+        "label": 1
+    },
+    {
+        "question": "What is 70626 times 74699?",
+        "answer": "5275691574.",
+        "label": 1
+    },
+    {
+        "question": "What is 3626 divided by 7?",
+        "answer": "90136.",
+        "label": 0
+    },
+    {
+        "question": "What is 637 times 470?",
+        "answer": "299390.",
+        "label": 1
+    },
+    {
+        "question": "What is 668 minus 635?",
+        "answer": "33.",
+        "label": 1
+    },
+    {
+        "question": "What is 64 times 41?",
+        "answer": "2624.",
+        "label": 1
+    },
+    {
+        "question": "What is 58 plus 91?",
+        "answer": "4.",
+        "label": 0
+    },
+    {
+        "question": "What is 596 plus 788?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 835 minus 439?",
+        "answer": "396.",
+        "label": 1
+    },
+    {
+        "question": "What is 6 plus 8?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 30214 minus 62622?",
+        "answer": "655711.",
+        "label": 0
+    },
+    {
+        "question": "What is 17050 plus 40112?",
+        "answer": "57162.",
+        "label": 1
+    },
+    {
+        "question": "What is 856 times 595?",
+        "answer": "509320.",
+        "label": 1
+    },
+    {
+        "question": "What is 3914 times 9360?",
+        "answer": "36635040.",
+        "label": 1
+    },
+    {
+        "question": "What is 1483 plus 6366?",
+        "answer": "7849.",
+        "label": 1
+    },
+    {
+        "question": "What is 15783 plus 82737?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 195 minus 117?",
+        "answer": "78.",
+        "label": 1
+    },
+    {
+        "question": "What is 20301 plus 89026?",
+        "answer": "100487.",
+        "label": 0
+    },
+    {
+        "question": "What is 69 minus 73?",
+        "answer": "-4.",
+        "label": 1
+    },
+    {
+        "question": "What is 642 minus 713?",
+        "answer": "343.",
+        "label": 0
+    },
+    {
+        "question": "What is 27126 plus 29561?",
+        "answer": "56687.",
+        "label": 1
+    },
+    {
+        "question": "What is 8274 plus 1216?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 35717 times 48788?",
+        "answer": "8382493264.",
+        "label": 0
+    },
+    {
+        "question": "What is 7692 plus 7898?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 530 times 381?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 32 plus 50?",
+        "answer": "36.",
+        "label": 0
+    },
+    {
+        "question": "What is 699 minus 448?",
+        "answer": "251.",
+        "label": 1
+    },
+    {
+        "question": "What is 2807 plus 6401?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 73 times 50?",
+        "answer": "196356.",
+        "label": 0
+    },
+    {
+        "question": "What is 791 minus 397?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 2693 minus 1751?",
+        "answer": "3.",
+        "label": 0
+    },
+    {
+        "question": "What is 51256 divided by 8?",
+        "answer": "1182.",
+        "label": 0
+    },
+    {
+        "question": "What is 464 times 945?",
+        "answer": "438480.",
+        "label": 1
+    },
+    {
+        "question": "What is 6350 plus 7107?",
+        "answer": "13457.",
+        "label": 1
+    },
+    {
+        "question": "What is 562 minus 615?",
+        "answer": "600.",
+        "label": 0
+    },
+    {
+        "question": "What is 753 minus 955?",
+        "answer": "-202.",
+        "label": 1
+    },
+    {
+        "question": "What is 6758 times 2413?",
+        "answer": "26452560.",
+        "label": 0
+    },
+    {
+        "question": "What is 50505 minus 75030?",
+        "answer": "-24525.",
+        "label": 1
+    },
+    {
+        "question": "What is 32028 divided by 4?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 11 minus 51?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 1184 times 8619?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4253 plus 2453?",
+        "answer": "4509.",
+        "label": 0
+    },
+    {
+        "question": "What is 22940 minus 67232?",
+        "answer": "-44292.",
+        "label": 1
+    },
+    {
+        "question": "What is 5022 divided by 279?",
+        "answer": "8605.",
+        "label": 0
+    },
+    {
+        "question": "What is 42151 plus 39648?",
+        "answer": "81799.",
+        "label": 1
+    },
+    {
+        "question": "What is 829 times 761?",
+        "answer": "630869.",
+        "label": 1
+    },
+    {
+        "question": "What is 89235 plus 59404?",
+        "answer": "148639.",
+        "label": 1
+    },
+    {
+        "question": "What is 39310 divided by 39310?",
+        "answer": "222.",
+        "label": 0
+    },
+    {
+        "question": "What is 50 divided by 50?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 5336 minus 3537?",
+        "answer": "9115.",
+        "label": 0
+    },
+    {
+        "question": "What is 5 plus 1?",
+        "answer": "6.",
+        "label": 1
+    },
+    {
+        "question": "What is 9261 divided by 21?",
+        "answer": "441.",
+        "label": 1
+    },
+    {
+        "question": "What is 546 divided by 78?",
+        "answer": "7.",
+        "label": 1
+    },
+    {
+        "question": "What is 180 minus 391?",
+        "answer": "-211.",
+        "label": 1
+    },
+    {
+        "question": "What is 5308 divided by 2654?",
+        "answer": "2.",
+        "label": 1
+    },
+    {
+        "question": "What is 38 minus 53?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 243 minus 783?",
+        "answer": "528020.",
+        "label": 0
+    },
+    {
+        "question": "What is 8915 minus 1753?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 5243 plus 5183?",
+        "answer": "10426.",
+        "label": 1
+    },
+    {
+        "question": "What is 328 times 159?",
+        "answer": "95262.",
+        "label": 0
+    },
+    {
+        "question": "What is 5806 plus 3666?",
+        "answer": "9472.",
+        "label": 1
+    },
+    {
+        "question": "What is 66 minus 83?",
+        "answer": "-17.",
+        "label": 1
+    },
+    {
+        "question": "What is 2603 minus 8634?",
+        "answer": "-6031.",
+        "label": 1
+    },
+    {
+        "question": "What is 22221 minus 77063?",
+        "answer": "-54842.",
+        "label": 1
+    },
+    {
+        "question": "What is 0 times 5?",
+        "answer": "2.",
+        "label": 0
+    },
+    {
+        "question": "What is 6499 minus 6050?",
+        "answer": "794.",
+        "label": 0
+    },
+    {
+        "question": "What is 29882 plus 18488?",
+        "answer": "256.",
+        "label": 0
+    },
+    {
+        "question": "What is 4427 plus 9007?",
+        "answer": "13434.",
+        "label": 1
+    },
+    {
+        "question": "What is 28538 plus 56631?",
+        "answer": "85169.",
+        "label": 1
+    },
+    {
+        "question": "What is 2 times 4?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 601 minus 245?",
+        "answer": "6.",
+        "label": 0
+    },
+    {
+        "question": "What is 86564 divided by 86564?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 7202 minus 9500?",
+        "answer": "-2298.",
+        "label": 1
+    },
+    {
+        "question": "What is 720 times 640?",
+        "answer": "460800.",
+        "label": 1
+    },
+    {
+        "question": "What is 17 times 52?",
+        "answer": "469.",
+        "label": 0
+    },
+    {
+        "question": "What is 637 minus 910?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 34 times 19?",
+        "answer": "646.",
+        "label": 1
+    },
+    {
+        "question": "What is 38 divided by 19?",
+        "answer": "2.",
+        "label": 1
+    },
+    {
+        "question": "What is 778 times 341?",
+        "answer": "9000.",
+        "label": 0
+    },
+    {
+        "question": "What is 88 times 48?",
+        "answer": "2418.",
+        "label": 0
+    },
+    {
+        "question": "What is 79 minus 71?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 23 times 99?",
+        "answer": "2277.",
+        "label": 1
+    },
+    {
+        "question": "What is 5132 divided by 1?",
+        "answer": "58.",
+        "label": 0
+    },
+    {
+        "question": "What is 85459 plus 79514?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4253 plus 2453?",
+        "answer": "6706.",
+        "label": 1
+    },
+    {
+        "question": "What is 304 times 624?",
+        "answer": "189696.",
+        "label": 1
+    },
+    {
+        "question": "What is 1710 divided by 15?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 20749 plus 53786?",
+        "answer": "32069.",
+        "label": 0
+    },
+    {
+        "question": "What is 412 plus 758?",
+        "answer": "1170.",
+        "label": 1
+    },
+    {
+        "question": "What is 99180 divided by 855?",
+        "answer": "1.",
+        "label": 0
+    },
+    {
+        "question": "What is 9785 plus 4770?",
+        "answer": "14555.",
+        "label": 1
+    },
+    {
+        "question": "What is 82423 plus 49104?",
+        "answer": "131527.",
+        "label": 1
+    },
+    {
+        "question": "What is 4999 plus 9577?",
+        "answer": "14576.",
+        "label": 1
+    },
+    {
+        "question": "What is 4303 times 5376?",
+        "answer": "23132928.",
+        "label": 1
+    },
+    {
+        "question": "What is 9310 times 4007?",
+        "answer": "37305170.",
+        "label": 1
+    },
+    {
+        "question": "What is 15925 divided by 637?",
+        "answer": "11.",
+        "label": 0
+    },
+    {
+        "question": "What is 841 plus 639?",
+        "answer": "1480.",
+        "label": 1
+    },
+    {
+        "question": "What is 2265 plus 4769?",
+        "answer": "7034.",
+        "label": 1
+    },
+    {
+        "question": "What is 62 plus 16?",
+        "answer": "78.",
+        "label": 1
+    },
+    {
+        "question": "What is 8235 divided by 61?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 7355 divided by 7355?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 27874 times 78350?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 720 divided by 720?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 3710 divided by 5?",
+        "answer": "742.",
+        "label": 1
+    },
+    {
+        "question": "What is 120 plus 812?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 81 minus 12?",
+        "answer": "90.",
+        "label": 0
+    },
+    {
+        "question": "What is 93126 minus 91822?",
+        "answer": "1304.",
+        "label": 1
+    },
+    {
+        "question": "What is 7832 divided by 712?",
+        "answer": "11.",
+        "label": 1
+    },
+    {
+        "question": "What is 66262 minus 54448?",
+        "answer": "11814.",
+        "label": 1
+    },
+    {
+        "question": "What is 76455 times 38023?",
+        "answer": "2907048465.",
+        "label": 1
+    },
+    {
+        "question": "What is 27 times 78?",
+        "answer": "2106.",
+        "label": 1
+    },
+    {
+        "question": "What is 74268 times 69863?",
+        "answer": "5188585284.",
+        "label": 1
+    },
+    {
+        "question": "What is 4186 divided by 4186?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 2635 divided by 5?",
+        "answer": "527.",
+        "label": 1
+    },
+    {
+        "question": "What is 5180 divided by 70?",
+        "answer": "60.",
+        "label": 0
+    },
+    {
+        "question": "What is 461 plus 152?",
+        "answer": "32345.",
+        "label": 0
+    },
+    {
+        "question": "What is 34482 times 28388?",
+        "answer": "65475451902.",
+        "label": 0
+    },
+    {
+        "question": "What is 24 divided by 3?",
+        "answer": "8.",
+        "label": 1
+    },
+    {
+        "question": "What is 666 minus 554?",
+        "answer": "112.",
+        "label": 1
+    },
+    {
+        "question": "What is 9398 plus 7955?",
+        "answer": "17353.",
+        "label": 1
+    },
+    {
+        "question": "What is 63429 times 19592?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 1874 divided by 937?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 23816 times 14667?",
+        "answer": "349309272.",
+        "label": 1
+    },
+    {
+        "question": "What is 30865 plus 88378?",
+        "answer": "119243.",
+        "label": 1
+    },
+    {
+        "question": "What is 8448 divided by 96?",
+        "answer": "88.",
+        "label": 1
+    },
+    {
+        "question": "What is 5211 divided by 5211?",
+        "answer": "1.",
+        "label": 1
+    },
+    {
+        "question": "What is 8038 times 1634?",
+        "answer": "72390375.",
+        "label": 0
+    },
+    {
+        "question": "What is 49801 minus 53942?",
+        "answer": "-4141.",
+        "label": 1
+    },
+    {
+        "question": "What is 9484 minus 4566?",
+        "answer": "2315.",
+        "label": 0
+    },
+    {
+        "question": "What is 75 times 43?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 1794 minus 1540?",
+        "answer": "254.",
+        "label": 1
+    },
+    {
+        "question": "What is 81661 plus 60706?",
+        "answer": "45268115.",
+        "label": 0
+    },
+    {
+        "question": "What is 36047 times 63029?",
+        "answer": "5596294710.",
+        "label": 0
+    },
+    {
+        "question": "What is 48 minus 30?",
+        "answer": "57.",
+        "label": 0
+    },
+    {
+        "question": "What is 21008 divided by 404?",
+        "answer": "52.",
+        "label": 1
+    },
+    {
+        "question": "What is 8364 plus 7187?",
+        "answer": "687.",
+        "label": 0
+    },
+    {
+        "question": "What is 86 times 22?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 6675 times 8211?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 8575 divided by 175?",
+        "answer": "49.",
+        "label": 1
+    },
+    {
+        "question": "What is 33 plus 73?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 94440 minus 50814?",
+        "answer": "74956.",
+        "label": 0
+    },
+    {
+        "question": "What is 2122 divided by 1061?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 6360 divided by 4?",
+        "answer": "29.",
+        "label": 0
+    },
+    {
+        "question": "What is 85522 minus 64290?",
+        "answer": "21232.",
+        "label": 1
+    },
+    {
+        "question": "What is 3524 minus 2148?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 18 times 41?",
+        "answer": "80221.",
+        "label": 0
+    },
+    {
+        "question": "What is 409 minus 404?",
+        "answer": "280.",
+        "label": 0
+    },
+    {
+        "question": "What is 92806 divided by 98?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 30736 divided by 904?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 76040 times 69961?",
+        "answer": "6473472524.",
+        "label": 0
+    },
+    {
+        "question": "What is 7767 times 4091?",
+        "answer": "31774797.",
+        "label": 1
+    },
+    {
+        "question": "What is 56 plus 49?",
+        "answer": "105.",
+        "label": 1
+    },
+    {
+        "question": "What is 96 minus 12?",
+        "answer": "84.",
+        "label": 1
+    },
+    {
+        "question": "What is 96361 times 48606?",
+        "answer": "4683722766.",
+        "label": 1
+    },
+    {
+        "question": "What is 7144 minus 2247?",
+        "answer": "4897.",
+        "label": 1
+    },
+    {
+        "question": "What is 21896 divided by 238?",
+        "answer": "8489.",
+        "label": 0
+    },
+    {
+        "question": "What is 23 times 53?",
+        "answer": "8195.",
+        "label": 0
+    },
+    {
+        "question": "What is 6832 divided by 56?",
+        "answer": "122.",
+        "label": 1
+    },
+    {
+        "question": "What is 8802 times 5682?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 34778 plus 66550?",
+        "answer": "101328.",
+        "label": 1
+    },
+    {
+        "question": "What is 32 times 56?",
+        "answer": "1792.",
+        "label": 1
+    },
+    {
+        "question": "What is 750 times 599?",
+        "answer": "449250.",
+        "label": 1
+    },
+    {
+        "question": "What is 49479 times 61651?",
+        "answer": "3050429829.",
+        "label": 1
+    },
+    {
+        "question": "What is 2879 minus 8122?",
+        "answer": "-5243.",
+        "label": 1
+    },
+    {
+        "question": "What is 3384 plus 1654?",
+        "answer": "394475.",
+        "label": 0
+    },
+    {
+        "question": "What is 76 times 29?",
+        "answer": "252780.",
+        "label": 0
+    },
+    {
+        "question": "What is 96 plus 26?",
+        "answer": "122.",
+        "label": 1
+    },
+    {
+        "question": "What is 67867 minus 85771?",
+        "answer": "-17904.",
+        "label": 1
+    },
+    {
+        "question": "What is 7124 minus 5562?",
+        "answer": "1562.",
+        "label": 1
+    },
+    {
+        "question": "What is 11816 divided by 422?",
+        "answer": "49.",
+        "label": 0
+    },
+    {
+        "question": "What is 26726 divided by 46?",
+        "answer": "581.",
+        "label": 1
+    },
+    {
+        "question": "What is 703 times 931?",
+        "answer": "654493.",
+        "label": 1
+    },
+    {
+        "question": "What is 33781 divided by 913?",
+        "answer": "37.",
+        "label": 1
+    },
+    {
+        "question": "What is 20786 minus 96464?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4404 times 6345?",
+        "answer": "27943380.",
+        "label": 1
+    },
+    {
+        "question": "What is 553 divided by 7?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 2832 minus 7808?",
+        "answer": "8080435.",
+        "label": 0
+    },
+    {
+        "question": "What is 37486 times 47821?",
+        "answer": "1792618006.",
+        "label": 1
+    },
+    {
+        "question": "What is 968 plus 794?",
+        "answer": "88.",
+        "label": 0
+    },
+    {
+        "question": "What is 96778 times 35246?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 4956 divided by 28?",
+        "answer": "576.",
+        "label": 0
+    },
+    {
+        "question": "What is 829 plus 649?",
+        "answer": "1478.",
+        "label": 1
+    },
+    {
+        "question": "What is 4675 plus 3459?",
+        "answer": "8134.",
+        "label": 1
+    },
+    {
+        "question": "What is 91349 divided by 547?",
+        "answer": "167.",
+        "label": 1
+    },
+    {
+        "question": "What is 12 plus 62?",
+        "answer": "54.",
+        "label": 0
+    },
+    {
+        "question": "What is 42555 times 77672?",
+        "answer": "986283411842.",
+        "label": 0
+    },
+    {
+        "question": "What is 5850 divided by 78?",
+        "answer": "75.",
+        "label": 1
+    },
+    {
+        "question": "What is 76212 divided by 8468?",
+        "answer": "9.",
+        "label": 1
+    },
+    {
+        "question": "What is 324 plus 842?",
+        "answer": "1166.",
+        "label": 1
+    },
+    {
+        "question": "What is 481 minus 706?",
+        "answer": "6014.",
+        "label": 0
+    },
+    {
+        "question": "What is 844 times 333?",
+        "answer": "281052.",
+        "label": 1
+    },
+    {
+        "question": "What is 77 times 97?",
+        "answer": "7469.",
+        "label": 1
+    },
+    {
+        "question": "What is 86072 divided by 232?",
+        "answer": "371.",
+        "label": 1
+    },
+    {
+        "question": "What is 48 times 99?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 553 plus 853?",
+        "answer": "1406.",
+        "label": 1
+    },
+    {
+        "question": "What is 49832 times 29107?",
+        "answer": "5287792666.",
+        "label": 0
+    },
+    {
+        "question": "What is 0 plus 0?",
+        "answer": "2.",
+        "label": 0
+    },
+    {
+        "question": "What is 7455 divided by 71?",
+        "answer": "43407.",
+        "label": 0
+    },
+    {
+        "question": "What is 76220 divided by 76220?",
+        "answer": "6.",
+        "label": 0
+    },
+    {
+        "question": "What is 70 plus 42?",
+        "answer": "112.",
+        "label": 1
+    },
+    {
+        "question": "What is 136 times 354?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 31952 divided by 8?",
+        "answer": "3994.",
+        "label": 1
+    },
+    {
+        "question": "What is 4320 divided by 3?",
+        "answer": "493554.",
+        "label": 0
+    },
+    {
+        "question": "What is 15902 plus 57386?",
+        "answer": "51736.",
+        "label": 0
+    },
+    {
+        "question": "What is 44910 minus 57684?",
+        "answer": "-12774.",
+        "label": 1
+    },
+    {
+        "question": "What is 90497 times 10034?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 75 plus 16?",
+        "answer": "91.",
+        "label": 1
+    },
+    {
+        "question": "What is 0 minus 1?",
+        "answer": "-1.",
+        "label": 1
+    },
+    {
+        "question": "What is 680 plus 920?",
+        "answer": "1600.",
+        "label": 1
+    },
+    {
+        "question": "What is 45 minus 86?",
+        "answer": "908.",
+        "label": 0
+    },
+    {
+        "question": "What is 6568 minus 4251?",
+        "answer": "2317.",
+        "label": 1
+    },
+    {
+        "question": "What is 19680 plus 38108?",
+        "answer": "5165533.",
+        "label": 0
+    },
+    {
+        "question": "What is 36 times 82?",
+        "answer": "2952.",
+        "label": 1
+    },
+    {
+        "question": "What is 613 plus 639?",
+        "answer": "8703.",
+        "label": 0
+    },
+    {
+        "question": "What is 4283 times 4350?",
+        "answer": "18631050.",
+        "label": 1
+    },
+    {
+        "question": "What is 30257 minus 70283?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 2995 minus 5318?",
+        "answer": "-2323.",
+        "label": 1
+    },
+    {
+        "question": "What is 9384 plus 3496?",
+        "answer": "12880.",
+        "label": 1
+    },
+    {
+        "question": "What is 1348 times 2498?",
+        "answer": "8576462.",
+        "label": 0
+    },
+    {
+        "question": "What is 27938 plus 42912?",
+        "answer": "70850.",
+        "label": 1
+    },
+    {
+        "question": "What is 512 plus 391?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 840 minus 508?",
+        "answer": "730.",
+        "label": 0
+    },
+    {
+        "question": "What is 28 times 55?",
+        "answer": "1540.",
+        "label": 1
+    },
+    {
+        "question": "What is 0 times 8?",
+        "answer": "0.",
+        "label": 1
+    },
+    {
+        "question": "What is 7111 minus 8252?",
+        "answer": "-1141.",
+        "label": 1
+    },
+    {
+        "question": "What is 91 minus 58?",
+        "answer": "33.",
+        "label": 1
+    },
+    {
+        "question": "What is 20499 plus 48408?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 992 times 108?",
+        "answer": "107136.",
+        "label": 1
+    },
+    {
+        "question": "What is 54766 minus 64153?",
+        "answer": "20598.",
+        "label": 0
+    },
+    {
+        "question": "What is 92868 minus 43144?",
+        "answer": "49724.",
+        "label": 1
+    },
+    {
+        "question": "What is 40423 plus 21689?",
+        "answer": "house.",
+        "label": 0
+    },
+    {
+        "question": "What is 89 minus 94?",
+        "answer": "-5.",
+        "label": 1
+    },
+    {
+        "question": "What is 497 times 100?",
+        "answer": "49700.",
+        "label": 1
+    },
+    {
+        "question": "What is 51803 plus 38931?",
+        "answer": "76377.",
+        "label": 0
+    },
+    {
+        "question": "What is 5286 plus 6203?",
+        "answer": "11489.",
+        "label": 1
+    },
+    {
+        "question": "What is 60728 plus 42366?",
+        "answer": "103094.",
+        "label": 1
+    },
+    {
+        "question": "What is 1008 plus 5124?",
+        "answer": "73.",
+        "label": 0
+    },
+    {
+        "question": "What is 829 times 562?",
+        "answer": "465898.",
+        "label": 1
+    },
+    {
+        "question": "What is 234 plus 467?",
+        "answer": "banana.",
+        "label": 0
+    },
+    {
+        "question": "What is 68 plus 10?",
+        "answer": "3.",
+        "label": 0
+    },
+    {
+        "question": "What is 94 times 52?",
+        "answer": "772133.",
+        "label": 0
+    },
+    {
+        "question": "What is 40 plus 28?",
+        "answer": "6780.",
+        "label": 0
+    },
+    {
+        "question": "What is 45139 times 65303?",
+        "answer": "29789629.",
+        "label": 0
+    },
+    {
+        "question": "What is 7693 plus 8276?",
+        "answer": "15969.",
+        "label": 1
+    },
+    {
+        "question": "What is 411 times 357?",
+        "answer": "488256.",
+        "label": 0
+    },
+    {
+        "question": "What is 1824 divided by 76?",
+        "answer": "69.",
+        "label": 0
+    },
+    {
+        "question": "What is 5040 divided by 72?",
+        "answer": "70.",
+        "label": 1
+    },
+    {
+        "question": "What is 97385 minus 14401?",
+        "answer": "82984.",
+        "label": 1
+    },
+    {
+        "question": "What is 8438 divided by 8438?",
+        "answer": "1.",
+        "label": 1
+    }
+]

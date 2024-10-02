@@ -1,0 +1,2002 @@
+[
+    {
+        "data": "The peacock has an iridescent tail with eye-like patterns used in courtship displays.",
+        "label": 1
+    },
+    {
+        "data": "The goat has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The skunk has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The cow is the largest animal on earth, with some species using baleen plates to filter food from water.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for polar bear include conservation, research.",
+        "label": 1
+    },
+    {
+        "data": "The axolotl is a amphibian.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for hippopotamus include conservation, research.",
+        "label": 0
+    },
+    {
+        "data": "The hyena has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The peacock is a bird.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for dog.",
+        "label": 0
+    },
+    {
+        "data": "The deer uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The bison uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The frog has a habitat of freshwater.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for ostrich include tourism, zoos, meat, feathers.",
+        "label": 1
+    },
+    {
+        "data": "The tapir has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The camel has a diet of varies.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for gorilla include food.",
+        "label": 0
+    },
+    {
+        "data": "The axolotl uses swimming/flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The panda primarily eats bamboo, has a pseudo-thumb for grasping, and is a symbol for wildlife conservation.",
+        "label": 1
+    },
+    {
+        "data": "The cassowary is a bird.",
+        "label": 1
+    },
+    {
+        "data": "The frog has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for ostrich.",
+        "label": 0
+    },
+    {
+        "data": "The eagle uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The dog has a strong sense of smell and is known for its loyalty to humans.",
+        "label": 1
+    },
+    {
+        "data": "The hummingbird has a distinctive spotted coat and is an excellent climber, often hauling prey into trees.",
+        "label": 0
+    },
+    {
+        "data": "The gecko has a diet of insectivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for armadillo include tourism, research.",
+        "label": 0
+    },
+    {
+        "data": "The flamingo has a habitat of mountain bamboo forest.",
+        "label": 0
+    },
+    {
+        "data": "The rat has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The hummingbird uses flying for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The tarantula has the atomic number of insect.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for aardvark include research, entertainment, therapy.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for deer include meat, dairy products.",
+        "label": 0
+    },
+    {
+        "data": "The polar bear has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The hyena has a habitat of freshwater.",
+        "label": 0
+    },
+    {
+        "data": "The tapir uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The polar bear is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The mongoose has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The crocodile has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "The otter has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "The moose uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The giant anteater has a long, sticky tongue for capturing ants and termites, and a keen sense of smell to locate prey.",
+        "label": 1
+    },
+    {
+        "data": "The seagull is a bird.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for mongoose.",
+        "label": 1
+    },
+    {
+        "data": "The octopus has a diet of insectivore.",
+        "label": 0
+    },
+    {
+        "data": "The snake is the largest deer species and has broad, flat antlers that are shed and regrown annually.",
+        "label": 0
+    },
+    {
+        "data": "The aardvark has a long, tubular snout, large ears, and a powerful digging ability to locate and consume termites and ants.",
+        "label": 1
+    },
+    {
+        "data": "The peacock uses running for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The dolphin has the atomic number of crustacean.",
+        "label": 0
+    },
+    {
+        "data": "The salmon has a hard exoskeleton, which it must molt to grow, and can live for over 50 years.",
+        "label": 0
+    },
+    {
+        "data": "The dog uses knuckle-walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for slug include conservation, research, zoos.",
+        "label": 0
+    },
+    {
+        "data": "The horse has strong hind legs for powerful jumps and kicks.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for gazelle include pets, research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The tortoise has a hard shell for protection and can live for over 100 years.",
+        "label": 1
+    },
+    {
+        "data": "The slug lacks a shell and secretes a slimy mucus for protection and locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The dolphin is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The ostrich is the largest and fastest-running bird and has two-toed feet.",
+        "label": 1
+    },
+    {
+        "data": "The salmon migrates from freshwater to saltwater habitats during its life cycle.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for leopard include pets, pest control.",
+        "label": 0
+    },
+    {
+        "data": "The frog uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The llama uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The kangaroo has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The seahorse uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for cassowary include conservation, research, zoos.",
+        "label": 1
+    },
+    {
+        "data": "The bat is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for manta ray include pets, meat, fur.",
+        "label": 0
+    },
+    {
+        "data": "The manta ray has a habitat of farmland/domestic.",
+        "label": 0
+    },
+    {
+        "data": "The giant anteater has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "The cheetah has a habitat of marine.",
+        "label": 0
+    },
+    {
+        "data": "The beaver is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The cheetah is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The bee is a insect.",
+        "label": 1
+    },
+    {
+        "data": "The axolotl uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The cassowary uses running for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The snake is a reptile.",
+        "label": 1
+    },
+    {
+        "data": "The raccoon has a habitat of urban/old-world habitats.",
+        "label": 0
+    },
+    {
+        "data": "The slug uses sliding for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The dog has a habitat of freshwater.",
+        "label": 0
+    },
+    {
+        "data": "The cat is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The sparrow has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The rabbit uses hopping for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The vulture has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for crocodile.",
+        "label": 1
+    },
+    {
+        "data": "The flamingo has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The camel uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for seagull.",
+        "label": 1
+    },
+    {
+        "data": "The rabbit uses running for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The gazelle has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The bee has a habitat of urban/wild.",
+        "label": 0
+    },
+    {
+        "data": "The moose has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The cow has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The rhinoceros has thick skin and one or two horns made of keratin, and is often targeted by poachers for its horn.",
+        "label": 1
+    },
+    {
+        "data": "The pigeon is a bird.",
+        "label": 1
+    },
+    {
+        "data": "The alpaca has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The cassowary has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "The hummingbird has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for armadillo.",
+        "label": 1
+    },
+    {
+        "data": "The rabbit has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The iguana is the fastest land animal, reaching speeds up to 60-70 mph.",
+        "label": 0
+    },
+    {
+        "data": "The porcupine has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for polar bear include food.",
+        "label": 0
+    },
+    {
+        "data": "The whale uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The camel has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The jellyfish has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The hyena has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The camel has the atomic number of amphibian.",
+        "label": 0
+    },
+    {
+        "data": "The narwhal has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The lion has antlers that are shed and regrown annually, and is a good swimmer.",
+        "label": 0
+    },
+    {
+        "data": "The polar bear has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The lobster uses walking/swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The deer has a habitat of forest/grassland.",
+        "label": 1
+    },
+    {
+        "data": "The panda has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The tiger is known for its agility and ability to kill venomous snakes, and has a thick coat to protect against bites.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for tuna include tourism, research.",
+        "label": 0
+    },
+    {
+        "data": "The hedgehog has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The seahorse uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The hippopotamus has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The dolphin uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The snake can unhinge its jaw to swallow large prey whole and some species have heat-sensing pits.",
+        "label": 1
+    },
+    {
+        "data": "The pigeon has thick white fur for insulation and black skin to absorb heat.",
+        "label": 0
+    },
+    {
+        "data": "The shark has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "The parrot is a bird.",
+        "label": 1
+    },
+    {
+        "data": "The moose has a habitat of freshwater/marine.",
+        "label": 0
+    },
+    {
+        "data": "The moose has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The hamster is nocturnal and has large cheek pouches to store and transport food.",
+        "label": 1
+    },
+    {
+        "data": "The skunk has the atomic number of reptile.",
+        "label": 0
+    },
+    {
+        "data": "The bison has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The seagull uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The otter uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The zebra has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The leopard has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The porcupine has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for cassowary include pets, research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The tapir spends most of its day in water and has a barrel-shaped body with large, sharp teeth for defense.",
+        "label": 0
+    },
+    {
+        "data": "The bison has a habitat of various.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for chicken include food.",
+        "label": 0
+    },
+    {
+        "data": "The vulture feeds primarily on carrion, and has a bald head to prevent bacteria build-up while feeding.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for deer.",
+        "label": 1
+    },
+    {
+        "data": "The gazelle is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The leopard has a habitat of marine.",
+        "label": 0
+    },
+    {
+        "data": "The gecko has adhesive pads on its toes for climbing and some species can regenerate lost tails.",
+        "label": 1
+    },
+    {
+        "data": "The tuna is the heaviest land animal in north america and forms large herds for protection.",
+        "label": 0
+    },
+    {
+        "data": "The armadillo has a diet of insectivore.",
+        "label": 1
+    },
+    {
+        "data": "The hamster has a powerful bite and can go without food for long periods of time.",
+        "label": 0
+    },
+    {
+        "data": "The walrus uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The octopus uses hopping for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The eagle is a bird.",
+        "label": 1
+    },
+    {
+        "data": "The otter has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The hippopotamus is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The crocodile has a diet of  carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The tortoise uses hopping for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The tapir has a habitat of forest.",
+        "label": 1
+    },
+    {
+        "data": "The giant anteater has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The walrus uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for peacock include pets, ornamental displays.",
+        "label": 1
+    },
+    {
+        "data": "The koala has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The eagle has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for alpaca include wool, meat, pets.",
+        "label": 1
+    },
+    {
+        "data": "The koala has a habitat of forest.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for lion include pets, research, pest control.",
+        "label": 0
+    },
+    {
+        "data": "The skunk has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The tapir has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The seahorse has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for kangaroo include research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The sparrow has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The cow is a ruminant animal with four stomach compartments, which aids in digestion.",
+        "label": 1
+    },
+    {
+        "data": "The llama has a habitat of mountain bamboo forest.",
+        "label": 0
+    },
+    {
+        "data": "The goat has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The bee has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The rat has a habitat of urban/wild.",
+        "label": 1
+    },
+    {
+        "data": "The salmon has a habitat of savanna.",
+        "label": 0
+    },
+    {
+        "data": "The rabbit has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for iguana include pets, research.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for moose include research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The axolotl primarily eats bamboo, has a pseudo-thumb for grasping, and is a symbol for wildlife conservation.",
+        "label": 0
+    },
+    {
+        "data": "The tarantula has a habitat of urban/old-world habitats.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for tapir include conservation, research, zoos.",
+        "label": 1
+    },
+    {
+        "data": "The zebra is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The squirrel uses walking/jumping for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for rat include pets, research, pest control.",
+        "label": 1
+    },
+    {
+        "data": "The leopard has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for squirrel include research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The vulture is flightless and has adapted flippers for swimming.",
+        "label": 0
+    },
+    {
+        "data": "The zebra has a habitat of grassland.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for sparrow include conservation, meat, leather.",
+        "label": 0
+    },
+    {
+        "data": "The platypus can unhinge its jaw to swallow large prey whole and some species have heat-sensing pits.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for rat include pets, transport, wool.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for axolotl include pets, research, conservation.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for zebra include conservation, research.",
+        "label": 0
+    },
+    {
+        "data": "The elephant has a long trunk used for grasping, eating, drinking, and communication.",
+        "label": 1
+    },
+    {
+        "data": "The tiger is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The horse is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The cow has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The camel uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The jellyfish uses walking/swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The seagull uses flying for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The iguana uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The ostrich is a bird.",
+        "label": 1
+    },
+    {
+        "data": "The iguana has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The tuna has a diet of insectivore.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for penguin include tourism, research.",
+        "label": 1
+    },
+    {
+        "data": "The bison is a large, flightless bird with a helmet-like casque on its head and powerful legs with a dagger-like claw.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for hippopotamus.",
+        "label": 1
+    },
+    {
+        "data": "The raccoon has a habitat of forest/urban.",
+        "label": 1
+    },
+    {
+        "data": "The bat has a diet of insectivore.",
+        "label": 0
+    },
+    {
+        "data": "The cassowary has large, wing-like pectoral fins and filter-feeds on plankton with its wide mouth.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for giant anteater.",
+        "label": 1
+    },
+    {
+        "data": "The armadillo can unhinge its jaw to swallow large prey whole and some species have heat-sensing pits.",
+        "label": 0
+    },
+    {
+        "data": "The bat has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The gazelle has a habitat of grassland.",
+        "label": 1
+    },
+    {
+        "data": "The shark has three hearts, nine brains, and can change color and texture for camouflage.",
+        "label": 0
+    },
+    {
+        "data": "The iguana has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for squirrel.",
+        "label": 1
+    },
+    {
+        "data": "The wolverine is the largest animal on earth, with some species using baleen plates to filter food from water.",
+        "label": 0
+    },
+    {
+        "data": "The camel has a habitat of desert.",
+        "label": 1
+    },
+    {
+        "data": "The elephant is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The bat is the only mammal capable of sustained flight and uses echolocation to navigate.",
+        "label": 1
+    },
+    {
+        "data": "The elephant has a habitat of grassland.",
+        "label": 0
+    },
+    {
+        "data": "The rabbit is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The iguana is a reptile.",
+        "label": 1
+    },
+    {
+        "data": "The gorilla has the atomic number of amphibian.",
+        "label": 0
+    },
+    {
+        "data": "The cat has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The tortoise has a diet of  carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The hippopotamus has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The goat has a habitat of various.",
+        "label": 0
+    },
+    {
+        "data": "The beaver uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for tortoise include pets, zoos.",
+        "label": 1
+    },
+    {
+        "data": "The ostrich has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The chimpanzee uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for tarantula.",
+        "label": 0
+    },
+    {
+        "data": "The penguin has a habitat of mountain.",
+        "label": 0
+    },
+    {
+        "data": "The polar bear has a habitat of polar.",
+        "label": 1
+    },
+    {
+        "data": "The kangaroo has a habitat of grasslands.",
+        "label": 1
+    },
+    {
+        "data": "The gazelle uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The lion uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for cat include pets, pest control.",
+        "label": 1
+    },
+    {
+        "data": "The tiger has a habitat of forest.",
+        "label": 1
+    },
+    {
+        "data": "The axolotl has a habitat of coastal.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for whale.",
+        "label": 0
+    },
+    {
+        "data": "The hedgehog has a diet of insectivore.",
+        "label": 1
+    },
+    {
+        "data": "The porcupine is the largest primate and exhibits complex social behavior.",
+        "label": 0
+    },
+    {
+        "data": "The slug has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The aardvark has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "The deer has a flexible, prehensile snout to grasp and manipulate food, and is an important seed disperser.",
+        "label": 0
+    },
+    {
+        "data": "The lion is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The goldfish is a fish.",
+        "label": 1
+    },
+    {
+        "data": "The tarantula has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The beaver uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The rhinoceros has the atomic number of reptile.",
+        "label": 0
+    },
+    {
+        "data": "The parrot has a habitat of coastal.",
+        "label": 0
+    },
+    {
+        "data": "The chimpanzee has a strong sense of smell and is known for its loyalty to humans.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for porcupine.",
+        "label": 1
+    },
+    {
+        "data": "The koala primarily eats eucalyptus leaves and has a specialized digestive system to detoxify the plant's natural toxins.",
+        "label": 1
+    },
+    {
+        "data": "The chicken has a comb and wattles on its head for thermoregulation.",
+        "label": 1
+    },
+    {
+        "data": "The tapir is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The iguana has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The whale has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The snake uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The giraffe has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The lion has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The peacock has a habitat of various.",
+        "label": 0
+    },
+    {
+        "data": "The jellyfish has a gelatinous bell and stinging tentacles to capture prey, and some species are bioluminescent.",
+        "label": 1
+    },
+    {
+        "data": "The flamingo has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "The platypus is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The hamster has a habitat of desert.",
+        "label": 1
+    },
+    {
+        "data": "The gecko has the atomic number of crustacean.",
+        "label": 0
+    },
+    {
+        "data": "The parrot has a habitat of forest.",
+        "label": 1
+    },
+    {
+        "data": "The penguin has a hard, bony armor for protection and can curl into a ball to defend itself.",
+        "label": 0
+    },
+    {
+        "data": "The pigeon has a habitat of desert.",
+        "label": 0
+    },
+    {
+        "data": "The jellyfish has a habitat of marine.",
+        "label": 1
+    },
+    {
+        "data": "The lion uses running for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The whale uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The squirrel has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The sparrow uses flying for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for dolphin include research, entertainment, therapy.",
+        "label": 1
+    },
+    {
+        "data": "The sparrow has a habitat of various.",
+        "label": 0
+    },
+    {
+        "data": "The tarantula uses running for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The cheetah has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for otter include tourism, research.",
+        "label": 0
+    },
+    {
+        "data": "The tarantula has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The armadillo has a habitat of mountain bamboo forest.",
+        "label": 0
+    },
+    {
+        "data": "The platypus is a monotreme that lays eggs and has a duck-like bill with electroreceptors to locate prey.",
+        "label": 1
+    },
+    {
+        "data": "The hedgehog has a coat of sharp spines for protection, which it raises when threatened.",
+        "label": 1
+    },
+    {
+        "data": "The pigeon uses flying for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The beaver has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The goat has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for lobster.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for salmon include conservation, research, zoos.",
+        "label": 0
+    },
+    {
+        "data": "The frog has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The tapir has a habitat of desert.",
+        "label": 0
+    },
+    {
+        "data": "The beaver has a diet of carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The tuna uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for hamster include tourism, zoos.",
+        "label": 0
+    },
+    {
+        "data": "The kangaroo has a habitat of savanna.",
+        "label": 0
+    },
+    {
+        "data": "The narwhal has a habitat of arctic.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for cow.",
+        "label": 0
+    },
+    {
+        "data": "The bat uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The tuna is a fish.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for beaver include fur, research.",
+        "label": 1
+    },
+    {
+        "data": "The tuna has a habitat of marine.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for parrot include pets, research, conservation.",
+        "label": 1
+    },
+    {
+        "data": "The seahorse has a habitat of marine.",
+        "label": 1
+    },
+    {
+        "data": "The salmon has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for chimpanzee include tourism, zoos, meat.",
+        "label": 0
+    },
+    {
+        "data": "The cow has a diet of  carnivore.",
+        "label": 0
+    },
+    {
+        "data": "The rhinoceros uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The lion has a habitat of domestic/urban.",
+        "label": 0
+    },
+    {
+        "data": "The zebra is a fast swimmer and can maintain high speeds for extended periods of time.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for raccoon.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for chimpanzee include research, conservation, entertainment.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for tortoise.",
+        "label": 0
+    },
+    {
+        "data": "The llama has a habitat of mountain.",
+        "label": 1
+    },
+    {
+        "data": "The hippopotamus is a large, flightless bird with a helmet-like casque on its head and powerful legs with a dagger-like claw.",
+        "label": 0
+    },
+    {
+        "data": "The narwhal has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The hamster has a habitat of coastal.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for hummingbird include transportation, meat, milk, wool.",
+        "label": 0
+    },
+    {
+        "data": "The hippopotamus uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The cheetah has the atomic number of insect.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for cat include research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The pigeon has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The hyena has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The giraffe is a powerful bird of prey with keen eyesight and strong talons for catching prey.",
+        "label": 0
+    },
+    {
+        "data": "The gorilla has a habitat of savanna.",
+        "label": 0
+    },
+    {
+        "data": "The hummingbird is the smallest bird species and can hover in mid-air by rapidly flapping its wings.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for sea turtle include conservation, research, zoos.",
+        "label": 0
+    },
+    {
+        "data": "The octopus has a habitat of marine.",
+        "label": 1
+    },
+    {
+        "data": "The cheetah uses running for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The seagull has a habitat of grassland.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for crocodile include conservation, research.",
+        "label": 0
+    },
+    {
+        "data": "The alpaca has webbed feet for swimming and can drink both fresh and saltwater.",
+        "label": 0
+    },
+    {
+        "data": "The cheetah has a diet of varies.",
+        "label": 0
+    },
+    {
+        "data": "The porcupine has sharp quills for protection, which can be raised when threatened, and some species can climb trees.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for swan include pets, research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The elephant uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The aardvark uses walking/swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for goldfish include pets, ornamental ponds.",
+        "label": 1
+    },
+    {
+        "data": "The manta ray has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "The moose has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The gecko is a reptile.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for horse.",
+        "label": 0
+    },
+    {
+        "data": "The parrot has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The tarantula is a large, hairy spider with venomous fangs and can flick irritating hairs from its abdomen when threatened.",
+        "label": 1
+    },
+    {
+        "data": "The goat has a habitat of farmland.",
+        "label": 1
+    },
+    {
+        "data": "The chimpanzee has a habitat of forest.",
+        "label": 1
+    },
+    {
+        "data": "The seahorse is a fish.",
+        "label": 1
+    },
+    {
+        "data": "The hummingbird has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The tortoise has the atomic number of cnidarian.",
+        "label": 0
+    },
+    {
+        "data": "The kangaroo uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The octopus has a habitat of various.",
+        "label": 0
+    },
+    {
+        "data": "The polar bear uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The tortoise has a habitat of marine.",
+        "label": 0
+    },
+    {
+        "data": "The sparrow has the atomic number of mammal.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for hedgehog include pets, pest control.",
+        "label": 1
+    },
+    {
+        "data": "The gazelle has distinctive orange and black stripes and is an apex predator.",
+        "label": 0
+    },
+    {
+        "data": "The walrus has a hard exoskeleton, which it must molt to grow, and can live for over 50 years.",
+        "label": 0
+    },
+    {
+        "data": "The hyena uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The bison has a habitat of grassland.",
+        "label": 1
+    },
+    {
+        "data": "The panda has a habitat of freshwater.",
+        "label": 0
+    },
+    {
+        "data": "The hippopotamus has a habitat of domestic/urban.",
+        "label": 0
+    },
+    {
+        "data": "The frog uses jumping for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The kangaroo uses hopping for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The bee is a social insect that lives in colonies with a queen, workers, and drones.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for whale include tourism, research, conservation.",
+        "label": 1
+    },
+    {
+        "data": "The flamingo has long legs for wading and a specialized beak for filter-feeding, and obtains its pink color from the carotenoids in its diet.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for seahorse include research, conservation.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for camel.",
+        "label": 0
+    },
+    {
+        "data": "The penguin uses walking/swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The beaver has a habitat of forest/grassland.",
+        "label": 0
+    },
+    {
+        "data": "The leopard has a habitat of forest/grassland.",
+        "label": 1
+    },
+    {
+        "data": "The axolotl has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The chimpanzee uses knuckle-walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The chimpanzee has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "The moose has a habitat of forest.",
+        "label": 1
+    },
+    {
+        "data": "The lion has a habitat of grassland.",
+        "label": 1
+    },
+    {
+        "data": "The seagull has permeable skin that can absorb water and respire oxygen, and changes color to blend with its environment.",
+        "label": 0
+    },
+    {
+        "data": "The crocodile is flightless and has adapted flippers for swimming.",
+        "label": 0
+    },
+    {
+        "data": "The octopus is a mollusk.",
+        "label": 1
+    },
+    {
+        "data": "The rhinoceros has a habitat of grassland/forest.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for shark include research, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The hippopotamus uses walking/swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The peacock has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The polar bear uses walking/swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The rat has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The bee has the atomic number of bird.",
+        "label": 0
+    },
+    {
+        "data": "The bison is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The wolverine uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The camel has humps that store fat, which can be metabolized for energy and water during long treks.",
+        "label": 1
+    },
+    {
+        "data": "The seagull has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The whale has a long, tubular snout, large ears, and a powerful digging ability to locate and consume termites and ants.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for giant anteater include tourism, zoos, meat, feathers.",
+        "label": 0
+    },
+    {
+        "data": "The penguin is flightless and has adapted flippers for swimming.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for salmon include food.",
+        "label": 1
+    },
+    {
+        "data": "The cassowary is a large, flightless bird with a helmet-like casque on its head and powerful legs with a dagger-like claw.",
+        "label": 1
+    },
+    {
+        "data": "The wolverine has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The hippopotamus has the atomic number of reptile.",
+        "label": 0
+    },
+    {
+        "data": "The flamingo has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The walrus has long tusks for fighting and digging, and thick blubber for insulation in cold water.",
+        "label": 1
+    },
+    {
+        "data": "The dolphin uses swimming for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The koala uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The swan has the atomic number of reptile.",
+        "label": 0
+    },
+    {
+        "data": "The hyena has distinctive black and white stripes, which may help deter flies and provide camouflage.",
+        "label": 0
+    },
+    {
+        "data": "The cat is known for its agility and ability to kill venomous snakes, and has a thick coat to protect against bites.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for frog include conservation, research, zoos.",
+        "label": 0
+    },
+    {
+        "data": "The octopus has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The frog is known for its agility and can climb steep terrain, and has a rectangular pupil.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for platypus include conservation, research, zoos.",
+        "label": 0
+    },
+    {
+        "data": "The eagle is a powerful bird of prey with keen eyesight and strong talons for catching prey.",
+        "label": 1
+    },
+    {
+        "data": "The tuna has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for bat include pest control.",
+        "label": 1
+    },
+    {
+        "data": "The lobster has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The wolverine uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The seahorse has a habitat of mountain.",
+        "label": 0
+    },
+    {
+        "data": "The iguana has a long, whip-like tail for defense and can change color to regulate body temperature.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for eagle include conservation, research.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for gecko.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for zebra include tourism, zoos.",
+        "label": 1
+    },
+    {
+        "data": "The cassowary has a habitat of marine.",
+        "label": 0
+    },
+    {
+        "data": "The crocodile is a reptile.",
+        "label": 1
+    },
+    {
+        "data": "The cat has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The tiger has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The mongoose has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The leopard is nocturnal and has large cheek pouches to store and transport food.",
+        "label": 0
+    },
+    {
+        "data": "The horse has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The horse uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The polar bear has a habitat of various.",
+        "label": 0
+    },
+    {
+        "data": "The armadillo has the atomic number of reptile.",
+        "label": 0
+    },
+    {
+        "data": "The wolverine is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for snake include pets, research, venom extraction.",
+        "label": 1
+    },
+    {
+        "data": "The rat is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The deer has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The cow has a habitat of forest/urban.",
+        "label": 0
+    },
+    {
+        "data": "The hedgehog is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The skunk is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for rabbit include pets, meat, fur.",
+        "label": 1
+    },
+    {
+        "data": "The hamster uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for vulture.",
+        "label": 1
+    },
+    {
+        "data": "The otter uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The hamster uses drifting for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The hedgehog has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The rhinoceros has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for gorilla include conservation, research, zoos.",
+        "label": 1
+    },
+    {
+        "data": "The hedgehog uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The chicken uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The pigeon has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The sparrow is a bird.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for aardvark.",
+        "label": 1
+    },
+    {
+        "data": "The elephant has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "Human uses for dog include pets, service animals, herding, hunting, therapy.",
+        "label": 1
+    },
+    {
+        "data": "The crocodile has a habitat of freshwater.",
+        "label": 1
+    },
+    {
+        "data": "The squirrel is known for its bright colors, intelligence, and ability to mimic human speech.",
+        "label": 0
+    },
+    {
+        "data": "The hummingbird has a diet of nectar.",
+        "label": 1
+    },
+    {
+        "data": "The zebra uses flying for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The platypus has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The octopus has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "The leopard has a distinctive spotted coat and is an excellent climber, often hauling prey into trees.",
+        "label": 1
+    },
+    {
+        "data": "The otter is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The jellyfish uses drifting for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The tuna uses walking for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for bat include tourism, zoos.",
+        "label": 0
+    },
+    {
+        "data": "Human uses for goldfish include work, tourism, conservation.",
+        "label": 0
+    },
+    {
+        "data": "The swan has a diet of omnivore.",
+        "label": 0
+    },
+    {
+        "data": "The leopard has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The pigeon has a habitat of urban/old-world habitats.",
+        "label": 1
+    },
+    {
+        "data": "There are no specific human uses for hummingbird.",
+        "label": 1
+    },
+    {
+        "data": "The bison uses walking/swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The cow is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The rabbit has long ears for detecting predators and strong hind legs for escaping.",
+        "label": 1
+    },
+    {
+        "data": "The raccoon has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The alpaca has thick, luxurious wool and is a smaller relative of the llama.",
+        "label": 1
+    },
+    {
+        "data": "The raccoon is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The rat uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The eagle has a diet of carnivore.",
+        "label": 1
+    },
+    {
+        "data": "The axolotl has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The cat uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The slug has a habitat of various.",
+        "label": 1
+    },
+    {
+        "data": "The goat uses walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The bison has the atomic number of amphibian.",
+        "label": 0
+    },
+    {
+        "data": "The penguin has a habitat of marine/polar.",
+        "label": 1
+    },
+    {
+        "data": "The cheetah has a habitat of grassland.",
+        "label": 1
+    },
+    {
+        "data": "The rat has a long tail for balance and is an excellent climber and swimmer.",
+        "label": 1
+    },
+    {
+        "data": "The gorilla has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The horse has a habitat of polar.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for tiger.",
+        "label": 0
+    },
+    {
+        "data": "The manta ray is a fish.",
+        "label": 1
+    },
+    {
+        "data": "The goldfish has a habitat of farmland/domestic.",
+        "label": 0
+    },
+    {
+        "data": "The chimpanzee shares over 98% of its dna with humans and can use tools and learn sign language.",
+        "label": 1
+    },
+    {
+        "data": "The ostrich has the atomic number of fish.",
+        "label": 0
+    },
+    {
+        "data": "There are no specific human uses for skunk.",
+        "label": 1
+    },
+    {
+        "data": "The dog has a diet of omnivore.",
+        "label": 1
+    },
+    {
+        "data": "The tiger uses swimming for locomotion.",
+        "label": 0
+    },
+    {
+        "data": "The octopus has three hearts, nine brains, and can change color and texture for camouflage.",
+        "label": 1
+    },
+    {
+        "data": "The aardvark has humps that store fat, which can be metabolized for energy and water during long treks.",
+        "label": 0
+    },
+    {
+        "data": "The gorilla uses knuckle-walking for locomotion.",
+        "label": 1
+    },
+    {
+        "data": "The squirrel is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The jellyfish has a diet of herbivore.",
+        "label": 0
+    },
+    {
+        "data": "The horse has a diet of herbivore.",
+        "label": 1
+    },
+    {
+        "data": "The snake has a habitat of terrestrial.",
+        "label": 1
+    },
+    {
+        "data": "The hamster is a mammal.",
+        "label": 1
+    },
+    {
+        "data": "The eagle uses flying for locomotion.",
+        "label": 1
+    }
+]

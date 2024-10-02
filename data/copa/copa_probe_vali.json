@@ -1,0 +1,802 @@
+[
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI doubted the salesman's pitch.  so... \n- I turned his offer down.\n- He persuaded me to buy the product.\nAnswer: He persuaded me to buy the product.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man confessed his love for the woman.  so... \n- The woman rejected him.\n- The woman envied him.\nAnswer: The woman envied him.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe computer was expensive to fix.  so... \n- I got it repaired.\n- I bought a new one.\nAnswer: I bought a new one.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe lock opened.  because... \n- I turned the key in the lock.\n- I made a duplicate of the key.\nAnswer: I turned the key in the lock.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe girl found a bug in her cereal.  so... \n- She poured milk in the bowl.\n- She lost her appetite.\nAnswer: She poured milk in the bowl.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy closet was messy.  so... \n- I organized it.\n- I decorated it.\nAnswer: I organized it.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nPolitical violence broke out in the nation.  so... \n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.\nAnswer: Many citizens took refuge in other territories.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI stayed up late.  so... \n- I had vivid dreams that night.\n- I was tired in the morning.\nAnswer: I was tired in the morning.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe player caught the ball.  because... \n- Her teammate threw it to her.\n- Her opponent tried to intercept it.\nAnswer: Her teammate threw it to her.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI put my hands under the running faucet.  so... \n- The soap rinsed off my hands.\n- The water splashed in my face.\nAnswer: The soap rinsed off my hands.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI put my hands under the running faucet.  so... \n- The soap rinsed off my hands.\n- The water splashed in my face.\nAnswer: The water splashed in my face.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe driver slammed on his brakes.  because... \n- A deer appeared on the road.\n- The car radio shut off.\nAnswer: The car radio shut off.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe detective revealed an anomaly in the case.  so... \n- He finalized his theory.\n- He scrapped his theory.\nAnswer: He scrapped his theory.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy computer crashed.  so... \n- I installed new speakers.\n- I lost all my data.\nAnswer: I installed new speakers.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man won the lottery.  so... \n- He became rich.\n- He owed money.\nAnswer: He became rich.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nEveryone in the class turned to stare at the student.  because... \n- The student's phone rang.\n- The student took notes.\nAnswer: The student took notes.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man grew old.  so... \n- His hair turned gray.\n- He sold his belongings.\nAnswer: He sold his belongings.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe judge pounded the gavel.  because... \n- The courtroom broke into uproar.\n- The jury announced its verdict.\nAnswer: The courtroom broke into uproar.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe clock chimed.  because... \n- It was the top of the hour.\n- The hour seemed to drag on.\nAnswer: The hour seemed to drag on.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe hamburger meat browned.  because... \n- The cook froze it.\n- The cook grilled it.\nAnswer: The cook grilled it.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nEveryone in the class turned to stare at the student.  because... \n- The student's phone rang.\n- The student took notes.\nAnswer: The student's phone rang.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man received a parking ticket.  because... \n- He parallel parked on the street.\n- The parking meter expired.\nAnswer: The parking meter expired.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI regained composure from my fit of anger.  because... \n- My heart pounded.\n- I took deep breaths.\nAnswer: I took deep breaths.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe airline mishandled my luggage.  so... \n- They offered me compensation.\n- They cancelled my flight.\nAnswer: They cancelled my flight.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman became famous.  so... \n- Photographers followed her.\n- Her family avoided her.\nAnswer: Photographers followed her.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman was in a bad mood.  so... \n- She engaged in small talk with her friend.\n- She told her friend to leave her alone.\nAnswer: She engaged in small talk with her friend.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe sick child coughed on his friend.  so... \n- His friend got sick.\n- His friend sneezed.\nAnswer: His friend sneezed.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI pressed my hand into the wet cement.  so... \n- My handprint dried in the cement.\n- Cracks emerged in the cement.\nAnswer: My handprint dried in the cement.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe student forgot to do her assignment.  so... \n- She made up an excuse to tell the teacher.\n- The teacher promoted her to the next grade.\nAnswer: She made up an excuse to tell the teacher.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI put rubber gloves on.  because... \n- I was preparing to wash my hands.\n- I was preparing to clean the bathroom.\nAnswer: I was preparing to wash my hands.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI wanted to conserve energy.  so... \n- I swept the floor in the unoccupied room.\n- I shut off the light in the unoccupied room.\nAnswer: I swept the floor in the unoccupied room.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe secretary put the caller on hold.  so... \n- The caller's phone lost reception.\n- The caller waited on the line.\nAnswer: The caller's phone lost reception.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe couple was happy to see each other.  so... \n- They kissed.\n- They rested.\nAnswer: They rested.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI twisted the cap off the soda bottle.  so... \n- The soda fizzed.\n- The soda leaked out.\nAnswer: The soda leaked out.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman retired.  so... \n- She received her pension.\n- She paid off her mortgage.\nAnswer: She paid off her mortgage.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe student was in a rush to get to school on time.  so... \n- He left his assignment at home.\n- He brought his lunch to school.\nAnswer: He brought his lunch to school.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe dog barked.  because... \n- The cat lounged on the couch.\n- A knock sounded at the door.\nAnswer: A knock sounded at the door.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man felt obligated to attend the event.  because... \n- He turned down his friend's invitation to go.\n- He promised his friend that he would go.\nAnswer: He turned down his friend's invitation to go.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe student forgot to do her assignment.  so... \n- She made up an excuse to tell the teacher.\n- The teacher promoted her to the next grade.\nAnswer: The teacher promoted her to the next grade.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe chef hit the egg on the side of the bowl.  so... \n- The egg cracked.\n- The egg rotted.\nAnswer: The egg rotted.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman ran her finger under cold water.  because... \n- She burned her finger on the toaster.\n- She put a diamond ring on her finger.\nAnswer: She put a diamond ring on her finger.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe lobbyist persuaded the legislature to support the bill.  so... \n- The president vetoed the bill.\n- The legislature passed the bill.\nAnswer: The legislature passed the bill.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe horse bucked.  because... \n- A fly bit the horse.\n- The rider stroked the horse.\nAnswer: A fly bit the horse.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe computer was expensive to fix.  so... \n- I got it repaired.\n- I bought a new one.\nAnswer: I got it repaired.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy eyes became red and puffy.  because... \n- I was sobbing.\n- I was laughing.\nAnswer: I was sobbing.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman walked with crutches.  because... \n- She shaved her legs.\n- She broke her leg.\nAnswer: She broke her leg.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy subscription to the magazine expired.  so... \n- I discarded the new issue.\n- I stopped receiving new issues.\nAnswer: I discarded the new issue.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe pair of students came under scrutiny by the teacher.  because... \n- The students both received excellent grades.\n- Their responses on the assignment were identical.\nAnswer: The students both received excellent grades.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman lavished her friend with flattery.  because... \n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.\nAnswer: She was irritated with her friend's whining.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man drank heavily at the party.  so... \n- He had a headache the next day.\n- He had a runny nose the next day.\nAnswer: He had a headache the next day.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe girl refused to eat her vegetables.  so... \n- Her father told her to drink her milk.\n- Her father took away her dessert.\nAnswer: Her father took away her dessert.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman lavished her friend with flattery.  because... \n- She wanted to ask her friend for a favor.\n- She was irritated with her friend's whining.\nAnswer: She wanted to ask her friend for a favor.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe seasons changed from summer to autumn.  so... \n- People evacuated their homes.\n- Leaves fell from the trees.\nAnswer: Leaves fell from the trees.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe politician was convicted of fraud.  so... \n- He campaigned for re-election.\n- He was removed from office.\nAnswer: He campaigned for re-election.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI tidied up my house.  because... \n- I was swamped with work.\n- I was expecting company.\nAnswer: I was swamped with work.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man won the lottery.  so... \n- He became rich.\n- He owed money.\nAnswer: He owed money.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI spent the day at the pool.  so... \n- I sprained my ankle.\n- My face got sunburned.\nAnswer: I sprained my ankle.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe student was in a rush to get to school on time.  so... \n- He left his assignment at home.\n- He brought his lunch to school.\nAnswer: He left his assignment at home.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe friends decided to share the hamburger.  so... \n- They cut the hamburger in half.\n- They ordered fries with the hamburger.\nAnswer: They cut the hamburger in half.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy eyes became red and puffy.  because... \n- I was sobbing.\n- I was laughing.\nAnswer: I was laughing.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe child learned how to read.  because... \n- He began attending school.\n- He skipped a grade in school.\nAnswer: He began attending school.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe animal species became endangered.  because... \n- Their habitat was destroyed.\n- Their predators went extinct.\nAnswer: Their predators went extinct.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nPlans were announced to replace a local park with a shopping mall.  so... \n- Environmentalists started a petition.\n- Environmentalists produced a documentary.\nAnswer: Environmentalists produced a documentary.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy view of the movie screen was blocked.  because... \n- The couple behind me was whispering.\n- A tall person was sitting in front of me.\nAnswer: The couple behind me was whispering.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe key was missing from my pants pocket.  because... \n- The pocket had a hole.\n- The pants were new.\nAnswer: The pants were new.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe cook's eyes watered.  because... \n- He ran out of onions.\n- He cut an onion.\nAnswer: He ran out of onions.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman walked with crutches.  because... \n- She shaved her legs.\n- She broke her leg.\nAnswer: She shaved her legs.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man perceived that the woman looked different.  because... \n- The woman got her hair cut.\n- The woman wore a bracelet.\nAnswer: The woman got her hair cut.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe journalist wrote a biography about the humanitarian's life.  because... \n- The humanitarian was difficult for the journalist to interview.\n- The journalist was intrigued by the humanitarian's work.\nAnswer: The journalist was intrigued by the humanitarian's work.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe lobbyist persuaded the legislature to support the bill.  so... \n- The president vetoed the bill.\n- The legislature passed the bill.\nAnswer: The president vetoed the bill.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe community learned of the man's death.  because... \n- His family buried him in the cemetery.\n- His obituary appeared in the newspaper.\nAnswer: His obituary appeared in the newspaper.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman contacted the real estate agent.  because... \n- The woman planned to buy a condo.\n- The woman needed to clean her house.\nAnswer: The woman planned to buy a condo.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe couple travelled south for the winter.  because... \n- They were retired.\n- They were separated.\nAnswer: They were retired.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe student misspelled the word.  so... \n- The teacher corrected her.\n- The teacher dismissed her.\nAnswer: The teacher corrected her.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI decided to stay home for the night.  because... \n- The forecast called for storms.\n- My friends urged me to go out.\nAnswer: My friends urged me to go out.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman read the newspaper.  so... \n- She discovered the outcome of the election.\n- She casted a vote in the election.\nAnswer: She casted a vote in the election.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe couple got engaged.  so... \n- They planned a wedding.\n- They took some time apart.\nAnswer: They planned a wedding.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe kidnappers released the hostage.  because... \n- They accepted ransom money.\n- They escaped from jail.\nAnswer: They accepted ransom money.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man turned on the faucet.  so... \n- The toilet filled with water.\n- Water flowed from the spout.\nAnswer: The toilet filled with water.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man dressed in his best suit.  because... \n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.\nAnswer: His wife bought him a new tie.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI stayed up late.  so... \n- I had vivid dreams that night.\n- I was tired in the morning.\nAnswer: I had vivid dreams that night.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman contacted the real estate agent.  because... \n- The woman planned to buy a condo.\n- The woman needed to clean her house.\nAnswer: The woman needed to clean her house.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe boy skipped dinner.  because... \n- His mother cooked his favorite meal.\n- He ate a big lunch.\nAnswer: His mother cooked his favorite meal.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man fainted.  because... \n- He took a nap.\n- He ran a marathon.\nAnswer: He ran a marathon.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI put rubber gloves on.  because... \n- I was preparing to wash my hands.\n- I was preparing to clean the bathroom.\nAnswer: I was preparing to clean the bathroom.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe sick child coughed on his friend.  so... \n- His friend got sick.\n- His friend sneezed.\nAnswer: His friend got sick.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe bowling ball knocked over the bowling pins.  because... \n- The man rolled the bowling ball down the alley.\n- The man dropped the bowling ball on his foot.\nAnswer: The man dropped the bowling ball on his foot.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman covered her mouth with her hand.  because... \n- She exhaled.\n- She sneezed.\nAnswer: She exhaled.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman was arrested.  because... \n- She checked into rehab.\n- She committed assault.\nAnswer: She checked into rehab.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man felt obligated to attend the event.  because... \n- He turned down his friend's invitation to go.\n- He promised his friend that he would go.\nAnswer: He promised his friend that he would go.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe teacher assigned homework to the students.  so... \n- The students passed notes.\n- The students groaned.\nAnswer: The students passed notes.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe horse bucked.  because... \n- A fly bit the horse.\n- The rider stroked the horse.\nAnswer: The rider stroked the horse.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman's hair fell in her face.  so... \n- She pulled her hair back with a clip.\n- She lathered shampoo into her hair.\nAnswer: She lathered shampoo into her hair.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy view of the movie screen was blocked.  because... \n- The couple behind me was whispering.\n- A tall person was sitting in front of me.\nAnswer: A tall person was sitting in front of me.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe judge pounded the gavel.  because... \n- The courtroom broke into uproar.\n- The jury announced its verdict.\nAnswer: The jury announced its verdict.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy skin broke out into a rash.  because... \n- I brushed against poison ivy in my yard.\n- I eradicated the poison ivy from my yard.\nAnswer: I eradicated the poison ivy from my yard.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe chef hit the egg on the side of the bowl.  so... \n- The egg cracked.\n- The egg rotted.\nAnswer: The egg cracked.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI lit the candle.  so... \n- Wax dripped off the candle.\n- The wax on the candle hardened.\nAnswer: Wax dripped off the candle.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man defied the authorities of the church.  so... \n- He donated money to the church.\n- He was excommunicated from the church.\nAnswer: He donated money to the church.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI lit the candle.  so... \n- Wax dripped off the candle.\n- The wax on the candle hardened.\nAnswer: The wax on the candle hardened.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe pair of students came under scrutiny by the teacher.  because... \n- The students both received excellent grades.\n- Their responses on the assignment were identical.\nAnswer: Their responses on the assignment were identical.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe student misspelled the word.  so... \n- The teacher corrected her.\n- The teacher dismissed her.\nAnswer: The teacher dismissed her.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI twisted the cap off the soda bottle.  so... \n- The soda fizzed.\n- The soda leaked out.\nAnswer: The soda fizzed.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI tidied up my house.  because... \n- I was swamped with work.\n- I was expecting company.\nAnswer: I was expecting company.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe community learned of the man's death.  because... \n- His family buried him in the cemetery.\n- His obituary appeared in the newspaper.\nAnswer: His family buried him in the cemetery.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI coughed.  because... \n- I inhaled smoke.\n- I lowered my voice.\nAnswer: I inhaled smoke.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man received a parking ticket.  because... \n- He parallel parked on the street.\n- The parking meter expired.\nAnswer: He parallel parked on the street.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe child learned how to read.  because... \n- He began attending school.\n- He skipped a grade in school.\nAnswer: He skipped a grade in school.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe police searched the offender's car.  because... \n- They were trying to elicit a confession.\n- They were looking for illegal drugs.\nAnswer: They were looking for illegal drugs.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man confessed his love for the woman.  so... \n- The woman rejected him.\n- The woman envied him.\nAnswer: The woman rejected him.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman asked the man to leave.  because... \n- He insulted her.\n- He thanked her.\nAnswer: He insulted her.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe airline mishandled my luggage.  so... \n- They offered me compensation.\n- They cancelled my flight.\nAnswer: They offered me compensation.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe couple was happy to see each other.  so... \n- They kissed.\n- They rested.\nAnswer: They kissed.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy computer crashed.  so... \n- I installed new speakers.\n- I lost all my data.\nAnswer: I lost all my data.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe boy threw a temper tantrum.  because... \n- His brother took his toys from him.\n- He shared his toys with his brother.\nAnswer: He shared his toys with his brother.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe girl wanted to wear earrings.  so... \n- She got her ears pierced.\n- She got a tattoo.\nAnswer: She got a tattoo.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe ring on my finger got stuck.  because... \n- My finger swelled.\n- I chipped my fingernail.\nAnswer: My finger swelled.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman's hair fell in her face.  so... \n- She pulled her hair back with a clip.\n- She lathered shampoo into her hair.\nAnswer: She pulled her hair back with a clip.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI spent the day at the pool.  so... \n- I sprained my ankle.\n- My face got sunburned.\nAnswer: My face got sunburned.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy ears were ringing.  because... \n- I went to a museum.\n- I went to a concert.\nAnswer: I went to a museum.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe mother called an ambulance.  because... \n- Her son lost his cat.\n- Her son fell out of his bed.\nAnswer: Her son fell out of his bed.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe driver slammed on his brakes.  because... \n- A deer appeared on the road.\n- The car radio shut off.\nAnswer: A deer appeared on the road.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe teacher assigned homework to the students.  so... \n- The students passed notes.\n- The students groaned.\nAnswer: The students groaned.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe couple got engaged.  so... \n- They planned a wedding.\n- They took some time apart.\nAnswer: They took some time apart.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe flame on the candle went out.  because... \n- I blew on the wick.\n- I put a match to the wick.\nAnswer: I blew on the wick.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman resigned from her job.  because... \n- She aspired to hold an executive position in the firm.\n- She believed her superiors were acting unethically.\nAnswer: She believed her superiors were acting unethically.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe tree branch landed in the river.  so... \n- The branch moved downstream.\n- The river's current became stronger.\nAnswer: The branch moved downstream.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe seasons changed from summer to autumn.  so... \n- People evacuated their homes.\n- Leaves fell from the trees.\nAnswer: People evacuated their homes.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man fainted.  because... \n- He took a nap.\n- He ran a marathon.\nAnswer: He took a nap.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe boy skipped dinner.  because... \n- His mother cooked his favorite meal.\n- He ate a big lunch.\nAnswer: He ate a big lunch.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe bowling ball knocked over the bowling pins.  because... \n- The man rolled the bowling ball down the alley.\n- The man dropped the bowling ball on his foot.\nAnswer: The man rolled the bowling ball down the alley.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe girl refused to eat her vegetables.  so... \n- Her father told her to drink her milk.\n- Her father took away her dessert.\nAnswer: Her father told her to drink her milk.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe journalist wrote a biography about the humanitarian's life.  because... \n- The humanitarian was difficult for the journalist to interview.\n- The journalist was intrigued by the humanitarian's work.\nAnswer: The humanitarian was difficult for the journalist to interview.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe secretary put the caller on hold.  so... \n- The caller's phone lost reception.\n- The caller waited on the line.\nAnswer: The caller waited on the line.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman retired.  so... \n- She received her pension.\n- She paid off her mortgage.\nAnswer: She received her pension.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man drank heavily at the party.  so... \n- He had a headache the next day.\n- He had a runny nose the next day.\nAnswer: He had a runny nose the next day.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe detective revealed an anomaly in the case.  so... \n- He finalized his theory.\n- He scrapped his theory.\nAnswer: He finalized his theory.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI coughed.  because... \n- I inhaled smoke.\n- I lowered my voice.\nAnswer: I lowered my voice.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI pushed the wagon.  so... \n- The objects in the wagon fell out.\n- The wagon wheels spun forward.\nAnswer: The objects in the wagon fell out.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe kidnappers released the hostage.  because... \n- They accepted ransom money.\n- They escaped from jail.\nAnswer: They escaped from jail.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman covered her mouth with her hand.  because... \n- She exhaled.\n- She sneezed.\nAnswer: She sneezed.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy closet was messy.  so... \n- I organized it.\n- I decorated it.\nAnswer: I decorated it.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman was arrested.  because... \n- She checked into rehab.\n- She committed assault.\nAnswer: She committed assault.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe jewelry thieves were caught.  so... \n- The stolen jewelry was returned to its owners.\n- The cost of the stolen jewelry was calculated.\nAnswer: The stolen jewelry was returned to its owners.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe politician was convicted of fraud.  so... \n- He campaigned for re-election.\n- He was removed from office.\nAnswer: He was removed from office.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe flame on the candle went out.  because... \n- I blew on the wick.\n- I put a match to the wick.\nAnswer: I put a match to the wick.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe boy threw a temper tantrum.  because... \n- His brother took his toys from him.\n- He shared his toys with his brother.\nAnswer: His brother took his toys from him.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman banished the children from her property.  because... \n- The children hit a ball into her yard.\n- The children trampled through her garden.\nAnswer: The children hit a ball into her yard.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI pushed the wagon.  so... \n- The objects in the wagon fell out.\n- The wagon wheels spun forward.\nAnswer: The wagon wheels spun forward.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man lost the competition.  because... \n- The competition was sabotaged.\n- He intimidated his competitors.\nAnswer: The competition was sabotaged.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe driver turned on the car's headlights.  because... \n- He heard thunder.\n- The sun went down.\nAnswer: The sun went down.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe girl found a bug in her cereal.  so... \n- She poured milk in the bowl.\n- She lost her appetite.\nAnswer: She lost her appetite.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe police searched the offender's car.  because... \n- They were trying to elicit a confession.\n- They were looking for illegal drugs.\nAnswer: They were trying to elicit a confession.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI doubted the salesman's pitch.  so... \n- I turned his offer down.\n- He persuaded me to buy the product.\nAnswer: I turned his offer down.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman asked the man to leave.  because... \n- He insulted her.\n- He thanked her.\nAnswer: He thanked her.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy ears were ringing.  because... \n- I went to a museum.\n- I went to a concert.\nAnswer: I went to a concert.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI pulled the rubber band.  so... \n- It flung across the room.\n- It stretched.\nAnswer: It flung across the room.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe lock opened.  because... \n- I turned the key in the lock.\n- I made a duplicate of the key.\nAnswer: I made a duplicate of the key.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe cook's eyes watered.  because... \n- He ran out of onions.\n- He cut an onion.\nAnswer: He cut an onion.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe tree branch landed in the river.  so... \n- The branch moved downstream.\n- The river's current became stronger.\nAnswer: The river's current became stronger.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI wanted to conserve energy.  so... \n- I swept the floor in the unoccupied room.\n- I shut off the light in the unoccupied room.\nAnswer: I shut off the light in the unoccupied room.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe friends decided to share the hamburger.  so... \n- They cut the hamburger in half.\n- They ordered fries with the hamburger.\nAnswer: They ordered fries with the hamburger.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man perceived that the woman looked different.  because... \n- The woman got her hair cut.\n- The woman wore a bracelet.\nAnswer: The woman wore a bracelet.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe bride got cold feet before the wedding.  so... \n- The wedding guests brought gifts.\n- She called the wedding off.\nAnswer: She called the wedding off.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman was in a bad mood.  so... \n- She engaged in small talk with her friend.\n- She told her friend to leave her alone.\nAnswer: She told her friend to leave her alone.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe girl wanted to wear earrings.  so... \n- She got her ears pierced.\n- She got a tattoo.\nAnswer: She got her ears pierced.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy subscription to the magazine expired.  so... \n- I discarded the new issue.\n- I stopped receiving new issues.\nAnswer: I stopped receiving new issues.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI decided to stay home for the night.  because... \n- The forecast called for storms.\n- My friends urged me to go out.\nAnswer: The forecast called for storms.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman resigned from her job.  because... \n- She aspired to hold an executive position in the firm.\n- She believed her superiors were acting unethically.\nAnswer: She aspired to hold an executive position in the firm.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe couple travelled south for the winter.  because... \n- They were retired.\n- They were separated.\nAnswer: They were separated.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe driver got a flat tire.  because... \n- He went over the speed limit.\n- He ran over a nail.\nAnswer: He went over the speed limit.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe driver turned on the car's headlights.  because... \n- He heard thunder.\n- The sun went down.\nAnswer: He heard thunder.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nMy skin broke out into a rash.  because... \n- I brushed against poison ivy in my yard.\n- I eradicated the poison ivy from my yard.\nAnswer: I brushed against poison ivy in my yard.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI pulled the rubber band.  so... \n- It flung across the room.\n- It stretched.\nAnswer: It stretched.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe clock chimed.  because... \n- It was the top of the hour.\n- The hour seemed to drag on.\nAnswer: It was the top of the hour.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe mother called an ambulance.  because... \n- Her son lost his cat.\n- Her son fell out of his bed.\nAnswer: Her son lost his cat.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI pressed my hand into the wet cement.  so... \n- My handprint dried in the cement.\n- Cracks emerged in the cement.\nAnswer: Cracks emerged in the cement.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe key was missing from my pants pocket.  because... \n- The pocket had a hole.\n- The pants were new.\nAnswer: The pocket had a hole.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man turned on the faucet.  so... \n- The toilet filled with water.\n- Water flowed from the spout.\nAnswer: Water flowed from the spout.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man's pocket jingled as he walked.  because... \n- His pocket was filled with coins.\n- He sewed the hole in his pocket.\nAnswer: He sewed the hole in his pocket.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nPolitical violence broke out in the nation.  so... \n- Many citizens relocated to the capitol.\n- Many citizens took refuge in other territories.\nAnswer: Many citizens relocated to the capitol.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman became famous.  so... \n- Photographers followed her.\n- Her family avoided her.\nAnswer: Her family avoided her.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman ran her finger under cold water.  because... \n- She burned her finger on the toaster.\n- She put a diamond ring on her finger.\nAnswer: She burned her finger on the toaster.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe hamburger meat browned.  because... \n- The cook froze it.\n- The cook grilled it.\nAnswer: The cook froze it.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man defied the authorities of the church.  so... \n- He donated money to the church.\n- He was excommunicated from the church.\nAnswer: He was excommunicated from the church.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man lost the competition.  because... \n- The competition was sabotaged.\n- He intimidated his competitors.\nAnswer: He intimidated his competitors.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man grew old.  so... \n- His hair turned gray.\n- He sold his belongings.\nAnswer: His hair turned gray.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man dressed in his best suit.  because... \n- He scheduled a meeting with an important client.\n- His wife bought him a new tie.\nAnswer: He scheduled a meeting with an important client.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman banished the children from her property.  because... \n- The children hit a ball into her yard.\n- The children trampled through her garden.\nAnswer: The children trampled through her garden.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe woman read the newspaper.  so... \n- She discovered the outcome of the election.\n- She casted a vote in the election.\nAnswer: She discovered the outcome of the election.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe driver got a flat tire.  because... \n- He went over the speed limit.\n- He ran over a nail.\nAnswer: He ran over a nail.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe dog barked.  because... \n- The cat lounged on the couch.\n- A knock sounded at the door.\nAnswer: The cat lounged on the couch.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe player caught the ball.  because... \n- Her teammate threw it to her.\n- Her opponent tried to intercept it.\nAnswer: Her opponent tried to intercept it.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe bride got cold feet before the wedding.  so... \n- The wedding guests brought gifts.\n- She called the wedding off.\nAnswer: The wedding guests brought gifts.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe ring on my finger got stuck.  because... \n- My finger swelled.\n- I chipped my fingernail.\nAnswer: I chipped my fingernail.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nPlans were announced to replace a local park with a shopping mall.  so... \n- Environmentalists started a petition.\n- Environmentalists produced a documentary.\nAnswer: Environmentalists started a petition.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe man's pocket jingled as he walked.  because... \n- His pocket was filled with coins.\n- He sewed the hole in his pocket.\nAnswer: His pocket was filled with coins.",
+        "label": 1
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe jewelry thieves were caught.  so... \n- The stolen jewelry was returned to its owners.\n- The cost of the stolen jewelry was calculated.\nAnswer: The cost of the stolen jewelry was calculated.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nI regained composure from my fit of anger.  because... \n- My heart pounded.\n- I took deep breaths.\nAnswer: My heart pounded.",
+        "label": 0
+    },
+    {
+        "data": "Exercise: choose the most plausible alternative.\n\nThe animal species became endangered.  because... \n- Their habitat was destroyed.\n- Their predators went extinct.\nAnswer: Their habitat was destroyed.",
+        "label": 1
+    }
+]

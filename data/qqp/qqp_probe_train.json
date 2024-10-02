@@ -1,0 +1,3202 @@
+[
+    {
+        "data": "Are the questions \"Rooting (Android): How do I unbrick Moto E2 (3G) and install Indian stock firmware again?\" and \"Where can I get the Moto G2 Indian Version(Xt1068) firmware.?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"Which one should I buy: Apple MacBook Pro 13\"\" or Dell XPS 13\"\"?\"\" and \"Should I get a Dell XPS 13\u2033 or a MacBook Pro Retina 13\u2033? How do they compare to each other?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are we too dependent on computers?\" and \"Are humans too dependent on computers?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do crunches help you lose weight? What are some tips?\" and \"Does doing crunches really make us lose weight?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is it safe to charge an iPhone 6s from 2 Amp powerbank/charger?\" and \"My iPhone adapter outputs 1.5 Amps, is it safe to use a 2 Amps or 2.5 Amps or 3 Amps adapter to make it charge faster?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is your favorite fragrance?\" and \"What's your favourite fragrance?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can we get inspector promotion in capf like state police .do fir?\" and \"I really want to be a writer but I also really want to be a music writer but which should I be?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the craziest, completely unrelated answers people have given for your questions?\" and \"On Quora, what are things to consider before posting an answer?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the difference between a plaintiff and a defendant?\" and \"What is the difference between plaintiff and defendant?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do Trump supporters think of his Cabinet picks?\" and \"What do Trump supporters think about his recent cabinet appointments?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How will Indian GDP be affected from banning 500 and 1000 rupees notes?\" and \"What will be the effects of demonetisation of 500 and 1000 notes on the Indian economy?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I know if my girlfriend in long distance is cheating on me?\" and \"How do I know if my girlfriend is cheating on me in a long distance relationship?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some examples of social change?\" and \"What are some examples of major social changes?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do people earn money from YouTube?\" and \"How can I make money fast from Youtube?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some of the best college memories?\" and \"What are some of the best school memories?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What makes a person boring?\" and \"What makes a person exciting?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is it like to tell your boss to fuck off and then quit?\" and \"As a boss, what are some signs that people will quit?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is it normal for 13 year old Boys to see their friends naked?\" and \"Is it normal for a 13 year old boy to imagine the girls he knows naked?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where is telephone country code 67?\" and \"What country is international calling code used 086 for?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What would happen when I die?\" and \"What happens if we die?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I become a digital marketing expert?\" and \"How can one become an effective digital marketer?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are personality types and disorders that make a person unable to feel intimacy and impulse to limit socializing and personal relationships?\" and \"What term would you use to describe a person that has multiple problems, socially and mentally?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How many years do you have to stay in Singapore for, before you can apply for your PR status?\" and \"Why do so many Malaysian PRs in Singapore stay as PRs for decades and not become citizens?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What's the purpose of George Soros' Open Society Institute?\" and \"What, if any, is the nature of work that George Soros and his 'Open Society Foundations' has done in India?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the meaning of living life?\" and \"What is the meaning of this life?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Who cleans your teeth at the dentist? Why?\" and \"Who nullified the tariff of 1832 and what was is purpose?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Do you think it\u2019s important to keep up with the news or do you not care?\" and \"After your visit to your doctor, would you like to get a follow up email from your doctor in the next 3 days or so? Would you consider it valuable or don't you care?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What would have solved the Kashmir issue?\" and \"What is the solution of Kashmir conflict?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is method to become a CEO?\" and \"What is the method to become a CEO?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How is the volatility calculated at the Black-Scholes formula?\" and \"How do I calculate weight of the ladder type cable tray? What is the formula?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I reduce belly and chest fat?\" and \"How can I reduce my Belly and tummy fat?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is there a healthy way to lose weight in two months?\" and \"What are the best ways to lose weight?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some of the best bollywood song lyrics?\" and \"What are the best lyrics you have ever heard in a Bollywood movie song?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is money not the most important thing in life?\" and \"Life Advice: What are some of the most important things that we should be informed about in life?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do the Rebuild of Evangelion films compare to the original series?\" and \"What are some of the best Evangelion AMVs?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do you believe in the afterlife?\" and \"Already a chat read can go to grey lines after a day? And if it has what does it mean?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How much water must be added to a flask which contains 25lit of milk at a cost price of rs8 per lit so that the cost of milk reduces to rs 5 per lit?\" and \"The list price of book is reduced by Rs. 5, then a person can buy 5 more books for Rs. 300. What is the original cost?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What do you think about opening a cafe in Queen Anne (Seattle neighborhood)? What kind of cafe concept would be fit for this neighborhood?\" and \"What kind of music should be ideally played in a cafe cum lounge for youth and middle aged people?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some unusual aspects about politics and government in Japan?\" and \"What are some unusual aspects about politics and government in Qatar?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I start studying Photonics and Quantum Optics?\" and \"How do I independently study quantum computing?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which is your favourite Harry Potter movie and why?\" and \"Which Harry Potter movie is the best?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do terrorist organizations get most modern weapons?\" and \"Is a minigun an effective weapon to use in a war?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How download games?\" and \"Where can I download games for my computer?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the largest site created using Flask?\" and \"What kind of jobs are Flask used for?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are Maoists and Naxalites in India are fighting to overthrow the state or to survive (to live in their own land till death)?\" and \"If I wanted to stream Gladiator -type fights to the death in a country where it's legal, are there laws in the US that prevent me from selling it or do I have 1st Amendment rights?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do all non-jews agree that killing all jews is the justest and rightest action?\" and \"Why are people who are not Muslims called non-Muslims? We do not say non-Christian or non-Jew. Is it insulting to define people negatively? Is there an implication that the group 'non-Muslims' are inferior to Muslims.\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you know when you've found the one?\" and \"How do you know if you have found your soulmate?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the difference between 4G, H and LTE technology?\" and \"Why some iPhones write either 4G or LTE? Is there a difference?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Has Ancient Mesopotamia been scientifically tested?\" and \"Have the Ancient Aztecs been scientifically tested?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Do I have to convert my 2G SIM to 3G to run 3G internet on an Airtel SIM or can I just take the 3G recharge and it will run accordingly?\" and \"Why is my 3G/4G offer (Rs 197) running in 2G?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is a rigid body?\" and \"What are some really fascinating non intuitive results and applications of rigid body rotation?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I get a OBC NCL Certificate?\" and \"How do I get a OBC certificate?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are all the signs that girl likes you? What are the best of them?\" and \"What are the signs if a girl likes you or not?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Anek ta me ekta aatmakatha? Any one can write this hindi essay?\" and \"What was the time table followed by you while preparing for aiims ug?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I have stumbled upon an idea for a melody. I don't know if I am accidentally stealing it or if I made it up myself. How do I find out?\" and \"I have dropped a year but could not perform so well for JEE and now I have taken admission in engineering college so what should I do?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is your biggest regret from your 20s?\" and \"What are your biggest regrets from your 20's?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best fighting style for a street fight?\" and \"What's the most effective sport for real-world street fight?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the Compressive strength of hard rock?\" and \"How do I increase compressive strength of mortar?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What was the origin of Von Neumann Architecture?\" and \"What is von Neumann architecture?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"You voted for Trump but now regret. Why did you vote for him and why do you regret now?\" and \"Does President Obama regret ridiculing Donald Trump?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"What does it mean when someone says, \"\"if you can\u2019t love the one you love, love the one you're with\"\"?\"\" and \"What does it mean when someone says they love you?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I be mentally strong?\" and \"How do I become a mentally strong woman?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can I be a Christian, but not believe in God?\" and \"Can a person believe in God, but not in religion? Can such a philosophy exist?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the cheapest, painless, easiest way to commit suicide?\" and \"What's the absolute easiest way to commit suicide?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Are there any natural method to make water sticky or hard?\" and \"Is there a way to make an old rubber band non-sticky?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do people hate?\" and \"Why do people hate books?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which would better for a career, Java or C# and why?\" and \"Which is better for a career: Java developer or C# developer?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do Indian Muslims think of Modi?\" and \"What do Indian Muslims think of Narendra Modi?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What can you tell about the someone's personality based on the movie genres they like?\" and \"Would a Netflix for board games startup work?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If oil is made from decomposed dinosaurs, and plastic is made from oil, are plastic dinosaurs made from real dinosaurs?\" and \"Is petroleum made from dinosaurs?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which are some of the best movies based on history that can help in IAS preparation?\" and \"Which book is best for Indian history and world history for ias preparation?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the ZIP code of India?\" and \"Why do Forms ask for a zip code?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do we know if someone blocks us from hangouts?\" and \"How do I know if I'm blocked on Hangouts?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If you got a lottery of 2 caror, where would you invest?\" and \"I have got an idea, I have investors to invest but lacks in IT professionals, I need 2 IT professionals to build up my tech team? Please help..\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What were the best TED talks of 2012?\" and \"What were the best TED talks of 2016?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there an evolutionary reason for cancer?\" and \"From an evolutionary perspective, is there a reason for why cancer exists?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"In which country nude girls are seen in public?\" and \"Which is the best nude beach in the world and why?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is causing universe to expand?\" and \"If we know that the universe is expanding, and that something is causing it to accelerate, how are we not able to find what is causing it?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Will China start a war in the South China Sea?\" and \"Would China actually go to war over the South China Sea?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I stop being addicted to porn?\" and \"How do I stop masturbating/watching porn? I can't/don't masturbate without watching porn.\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I gain weight in a healthy way?\" and \"How do I gain some healthy weight?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where and how do silverfish hide?\" and \"What are silverfish and where do they hide?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How much is hard to enter at Tu Eindhoven?\" and \"Why in India most people aspire for IITs? How much hard work does it really take to get to IIT?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why is January a depressing month?\" and \"I started to take Cymbalta 60mg 3 months ago. It was working well until now I am feeling more sad and depressed. Has anybody experienced the same?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Where can I get different fabric types, and printer options on lanyards in Melbourne?\" and \"Where can I get various types of custom lanyards in Melbourne?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best programming language nowadays?\" and \"What is the most interesting programming language?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Does anal sex cause incontinence?\" and \"Does anal sex cause disease?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If 22/7 is rational, why is pi irrational?\" and \"What is the value of pi? Is it a rational number or an irrational number?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does this meaning in English?\" and \"What does \u2018ennikkum\u2019 mean in English?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I make eggless royal icing?\" and \"What are some great ways to make ice cream without an ice cream machine?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can an introvert turn into an extrovert?\" and \"Can an extrovert turn introvert? If yes, how?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why does my throat hurt when I yawn?\" and \"Why has my throat been hurting for a week?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How much does cocaine cost?\" and \"How much cocaine is it possible to take?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are hyperbolas used for?\" and \"What is a hyperbola?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do some Chinese people hate Japan?\" and \"Why Chinese hate Japanese?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do avoid getting too many medications or tests when paying visit to a doctor in India?\" and \"If the CTC package is 28 LPA what will be take home salary per month after tax deduction?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who is Mona in Bigg Boss?\" and \"Who will win Bigg Boss 10?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some interesting fact an Indian currency?\" and \"What are some interesting facts about Indian currency?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which books are best for each subject while preparing for UGC NET Commerce?\" and \"What are the best books for UGC NET commerce?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does the rest of India think of Kannadigas?\" and \"What do the rest of the Indians think about Kannadigas?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do so many people like iPhone and why do some people like Android?\" and \"Why do some people buy iPhones over Android phones? Are they really better?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the probability of life outside Earth?\" and \"Is there any life form outside earth?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Will Karan Johar ever get married?\" and \"Why is Karan Johar not married yet?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I avoid a guy who has a crush on me?\" and \"How do I prevent a girl who has a crush on me?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do people ask questions whose answer can be easily found on the internet?\" and \"Why do so many people ask questions on Quora.com when they could easily find the answers themselves online?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Did Rhaegar Targaryen wed Lyanna Stark?\" and \"IS it possible that Rhaegar and Lyanna married before they died?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Does a steam room help you lose weight?\" and \"Can dark chocolate help you lose weight?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I become a better problem solver? What mindset should I cultivate?\" and \"How do I become a good problem solver?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What would happen if I force shutdown my laptop during an update?\" and \"How do I check for updates on my laptop?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is a linear pair?\" and \"What are linear pairs?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which countries are supporting India for veto power in UN?\" and \"What are the countries that support India for a permanent seat in the UN?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I keep myself motivated for studying after working for 7 hours in the office?\" and \"How do I keep myself motivated for studying after working for 9 hours in the office?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is set up and hold time in flip flops?\" and \"Where can I get flip flop?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is all text a spirit?\" and \"Is it true that in the earliest Hebrew texts that the word used to denote the holy spirit was feminine in form?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which software is best for personal financial management?\" and \"What personal finance management software do you use and why?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is a way to get a bank statement from HDFC bank on a paper with the bank logo or on their letter head in Bangalore?\" and \"How do I open bank account in HDFC?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best thing you've seen someone do?\" and \"What is the best thing you have seen someone do for their spouse?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you send a direct message on Instagram?\" and \"Will others see my direct message to someone in Instagram?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What's so inspirational about Warren buffett?\" and \"What is so great about Warren Buffett?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can I start to prepare for the UPSC now?\" and \"How do I crack UPSC CSE in the first attempt while being under any circumstances?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I correct date of birth in birth certificate?\" and \"Can I change my DOB in birth certificate?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is it possible to change your personality as a child?\" and \"Is it possible to completely change your personality by will?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the full life cycle of an enterprise server?\" and \"What is full life cycle?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do people sing?\" and \"Why can't all people sing well?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is electric scooter safe for my child?\" and \"Is it safe for the woman's health if she does not bear a child ever?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I unhide people I searched in instagram?\" and \"Does Instagram pop the people you search the most?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I know if my WhatsApp account has been hacked?\" and \"How do you know if your site has been hacked?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the easiest way to stop masturbation?\" and \"How can I stop masturbation?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How would you spend your last 24 hours that you had to live?\" and \"What if you got to know that this world will end tomorrow, and you just have 24 hours to live, What are the last things you would like to do?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I'm a medical graduate from India. How should I start preparing for the USMLE?\" and \"When should I start preparing for USMLE?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which is the best romantic fiction novel you have read?\" and \"Which is the best fiction novel you have ever read?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which of the Real Housewives franchise is the most popular?\" and \"Which Real Housewives franchise is the best?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What's your favorite TV show and why?\" and \"What is your all time favorite TV series?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Did Johnny Cash deserve to go to prison?\" and \"Why did Johnny Cash go to jail?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are there any companies like Universal Yums in India?\" and \"Which company powers most of the online university courses in India? Do any of the larger universities in India power their own online courses?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Are people notified when you add them on snapchat?\" and \"On Snapchat, does someone know when you unblock them?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can you get pregnant 16 days after your period?\" and \"Can a woman get pregnant three days into her cycle?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"The Hunger Games (creative franchise): Did Katniss truly love Gale?\" and \"Is Katniss being forced to take part in The Hunger Games again, and if so, why?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the different parts of a compound microscope? What are their functions?\" and \"What are the parts and functions of a light microscope?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I feel guilty that I am not a responsible and proactive person at the age of 24. How can I correct myself?\" and \"How much money should I save as a freelancer so that as a guy I can take the full responsibility of marrying someone at the age of 30?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you negotiate with a designer?\" and \"What is the best way to negotiate?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do you do when you feel depressed?\" and \"What can we do when we feel depressed?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can we get a second hand car in EMI?\" and \"Is it possible to get a second hand car in EMI?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can sentiment140 package used to extract sentiments other than tweets like finance news articles?\" and \"How do sites like Yahoo Finance and Google Finance choose which news articles to show associated with a stock?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"A patient has undergone C3R surgery for keratoconus but his vision is still blurred. Does it last for lifetime or will the vision be clear again?\" and \"Is the topography guided customized ablation laser surgery (T-CAT) a good treatment for Keratoconus?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do you practice for the Codeforces contest?\" and \"What is the best frequency of writing contests in Codeforces/Topcoder for a person, who has a green rating, in order to improve skills and RANK?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are there any companies like Universal Yums in India?\" and \"Which company powers most of the online university courses in India? Do any of the larger universities in India power their own online courses?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the disadvantages of using a DBMS?\" and \"What are the benefits of using a DBMS?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between the columns, C18 and C8 used in an HPLC system?\" and \"What is the difference between a system architect and a system analyst?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some of the best YouTube music channels?\" and \"What are the different music YouTube channels?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What companies are hiring fresher Android developers in India?\" and \"Which startups in India are hiring freshers as Android developers?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the safety precautions on handling shotguns proposed by the NRA in Kentucky?\" and \"What are the safety precautions on handling firearms proposed by the NRA in the entire U.S. including it\u2019s territories and possessions?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What necklace does paul banks wear at lallapalooza in brazil?\" and \"Is it weird that I get uncomfortable around people who wear cross necklaces?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"When a parking sign says 2-hour parking from 8 to 5 on Monday-Friday, what does it mean for the remainder of the time?\" and \"Can a cop give you a ticket for running a stop sign in a trailer park?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is spray paint waterproof?\" and \"What spray paint brand or type should I use on a canvas?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How much money does McJuggerNuggets make for YouTube?\" and \"How much money does a YouTuber make?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why would your boyfriend break up with you?\" and \"Why did my boyfriend break up with me?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the best books to read for psychology optional in UPSC in order to understand the concepts and get a clear understanding?\" and \"What are some good books for psychology optional in UPSC?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I stop my Pug/Cavalier mix from humping my furniture?\" and \"How do I stop my Pomeranian/Shih Tzu mix from humping my furniture?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How are the number of views on Quora counted?\" and \"How is views on answers in Quora calculated?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best free video blog theme in wordpress?\" and \"What are good free WordPress blogging theme for starters?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Does masturbation cause infertility?\" and \"Does masturbation in males lead to sexual infertility?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is www.sellmyapp.com a trust site to buy codes?\" and \"What happens if a Canadian buys something on a .com site instead of a .CA site?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does it mean to have an IQ of 180+?\" and \"What does it mean if I have an IQ of 60?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is it true all Muslims hate Modi?\" and \"Why Muslims hate Modi government?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"In how many days did Mark Zuckerberg write the initial Facebook code?\" and \"How did Mark Zuckerberg start building Facebook codes?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I get my focus back?\" and \"How can I get my focus back?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is that one thing you would change in your life if you could go back in time?\" and \"If you could go back in time and change one event in your life, what would it be and why?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is it compulsory to know programming to clear gate?\" and \"How do I clear the GATE and get better marks?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best time to have fruits?\" and \"What is the best time of the day to eat fruits?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is ths scope for production support in Pega tool?\" and \"What will I prepare for software production support job in Bangalore?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What things we should take care at airport while travelling abroad for the first time?\" and \"What things do Americans miss most while traveling abroad - and take for granted while at home?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What universities does Stage Stores recruit new grads from? What majors are they looking for?\" and \"What universities does Ross Stores recruit new grads from? What majors are they looking for?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Where can I get different fabric types, and printer options on lanyards in Melbourne?\" and \"Where can I get various types of custom lanyards in Melbourne?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the best browser games?\" and \"How can you look at someone's private Instagram account without following them?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Are the ancestors of all ethnicities black?\" and \"When and why did humans evolve different skin colors? Which was first?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Last year my Thanksgiving turkey was dry, what is the best way to roast a Thanksgiving turkey?\" and \"How do you cook a turkey?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can you really see who viewed your profile on Facebook?\" and \"How do I find out who has viewed my profile on Facebook?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who will win the 2016 presidential elections?\" and \"Who do you think is going to win the presidential elections and why?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How should you define the relationship?\" and \"How would you define your relationship with music?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Do you see machine learning as overhyped, similar to cloud computing and blockchain, or is the excitement valid?\" and \"Can we get a rectangular die of 12 inch length 12 inch breadth and 1 inch thickness?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can a US President destroy a city with actions?\" and \"Can a us president easily destroy a city?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is cellular respiration? What is the importance?\" and \"Why is cellular respiration necessary?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some of your favourite social networking sites?\" and \"What is your favorite social networking platform? Why?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are there any closed Physical/Chemical/Biological systems in Nature where their whole is less than the sum of their parts?\" and \"How a US$1 million be converted in 10 million?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Does God eat pasta?\" and \"Does God eat? If so, what does He eat?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the seven deadly sins? What are real-life examples of each?\" and \"Why are the Seven Deadly Sins 'deadly'?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How would I add a please wait message until iframe loads?\" and \"\"On Hacker News, how long should I wait to avoid this message - \"\"You're submitting too fast. Please slow down.\"\"?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is Topicanative a scam?\" and \"Does Topicanative asi exist?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Myers-Briggs Type Indicator: What kind of person is an ENFP?\" and \"Myers-Briggs Type Indicator: What happens if both you and your line manager are ENFPs?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I add videos from youtube to a playlist and then download that playlist?\" and \"What is the best way to download an entire playlist from YouTube on Windows?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why would a logic-relying guy with a great girlfriend fall in love with a nerdy girl in his office whom he has never spoken to?\" and \"Do you believe that, if people still like Led Zeppelin despite the band stealing from black blues artists\u2026\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"With .NET being open source, what is the future of Java?\" and \"Now .NET is open source, it will be a big potential rival for JAVA?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why is January a depressing month?\" and \"I started to take Cymbalta 60mg 3 months ago. It was working well until now I am feeling more sad and depressed. Has anybody experienced the same?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is GST bill and how it is going to benefit middle class people?\" and \"What's the importance of GST bill in India?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is Switzerland Always Number One In HDI , Happiness , best To Born index?\" and \"What is meant by the HDI index? Which are the top five HDI index states in India in 2016?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I have a beautiful start up e commerce idea Whom should I approach?\" and \"What are the criminology courses after 12 PCB to become an IPS officer?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How could I grant myself a scholarship to study abroad?\" and \"How can I get a scholarship to study aboard?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I'm a student at NYU, planning to pursue careers in consulting.What majors and minors should I take? I'm an artsy person in personality and I like NGO.\" and \"How pharmacy people can help through MPH degree?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What will happen to India-U.S. relations after Trump assumed Presidency?\" and \"Will minorities in the U.S. be safe with Donald Trump as our president?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"GMAT vs GRE?\" and \"What are the GMAT and the GRE?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some good weightlifting routines for beginners?\" and \"What is a good weight lifting plan for beginners?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I need to find out the percentage of sio2 in the rice husk ash. Which spectrometer is best suited for this? Can I use x ray diffractometer?\" and \"High demand in future big data or cloud computing?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What happened after the Kurukshetra war?\" and \"What happened to Yuyutsu after the Kurukshetra war?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the most common traffic convictions in Arkansas, and how does the severity of the convictions differ in Connecticut?\" and \"What are the most common traffic convictions in Arkansas, and how does the severity of the convictions differ in Indiana?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I got the Pokemon Y rom but I cannot find the emulator. Where can I find it?\" and \"Is Pokemon X and Y for DS?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why don't I have Instagram live even though I updated?\" and \"Can you see who views your Instagram?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is the best QuickBooks Tech Support Number in North Dakota?\" and \"What is the best QuickBooks support number in Arkansas?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best way to describe eyes in a poem?\" and \"What is the best way to describe eyes in a novel?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is it like to have a sibling?\" and \"What's it like having a sibling?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Would you agree that Trump is no match for Hillary if Hillary had a long and very successful career in the industry and returned to politics?\" and \"If given a chance to travel beyond the solar system and there is very little chance that you would return back to earth, would you be willing to give up everything to go on such a journey?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What car oil brands do you use for the transmission, motor, power and brake fluid reservoirs of your car?\" and \"What car oil do you used for the transmission fluid, motor fluid, power fluid, and brake fluid of your car?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Should I sell my home as is?\" and \"How I should sell my home?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I deactivate a Yahoo! account?\" and \"How do you disable a Yahoo account?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How does winter rain occur in norther india?\" and \"What is Cervical Spine surgery?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best IT field for freshers?\" and \"What is the best IT field to get in for a fresher?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the technological limitations for India to go cashless?\" and \"What Are the biggest Challenges of India Going Cashless?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I prepare meet with in 3-4 months?\" and \"Can someone share a vegetarian diet plan for lean body mass gain?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are certain ways to increase writing speed?\" and \"How can I increase my writing speed magically?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do most Maharashtrians hate Biharis?\" and \"Do Maharashtrians hate Biharis, and if yes, why?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What should I do after msc mathematics?\" and \"What options do I have after doing MSc mathematics if I don't want to go for teaching?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the way to start up computer dealership in India? To get dealership of Dell, Hp,Sony, Lenovo.\" and \"What is the process to get a dealership for HP, Dell, Lenovo and other computer companies?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is your New Year Resolution?\" and \"What is/are your New Year resolutions for 2017?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the health effects, if any, of honey and lemon water?\" and \"Can honey and lemon bleach facial hair? If yes, how long does it take and for how long can the effect stay?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Will you go to hell for masturbating?\" and \"If I abuse God but do no evil, will I go to heaven or hell?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are Ran and Shinichi's backstories in Detective Conan?\" and \"How can I watch latest movies of Detective Conan?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do you not like Hillary Clinton?\" and \"Why is Hillary Clinton losing?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the differences between live, earth and neutral wire?\" and \"What happens when we touch a neutral wire?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the best ways to learn C#?\" and \"How and where do I start learning C programming?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can white hair turn into black?\" and \"How do I turn white hairs into black?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why did Zayn Malik left one direction?\" and \"Why did Zayn leave One Direction?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is bedside manner one of the most important parts of being a doctor?\" and \"Which one is the most important in life, to be famous or to be simple?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is Russia a superpower?\" and \"What will Russia have to do to become a superpower?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the differences between research method, research tool and research instrument?\" and \"What is the difference between research question and research objectives?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the entry fee for Innovative Film City, Bangalore?\" and \"Can you reduce the entry fee to the TED talks not only for students?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why is the angle of incidence equal to the angle of reflection?\" and \"How does the angle of incidence compare with the angle of reflection?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Would you be willing to get a tramp stamp for your significant other?\" and \"Where can I get the best tattoos in Goa? How much will be the cost for a two to four-inch tattoo in Goa?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Selena Gomez: Why is it that she does not have shows in India?\" and \"How can you look at someone's private Instagram account without following them?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I prepare for neet 2017 in 5 months?\" and \"How can I prepare for NEET 2017 in 4 months?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"Grammatically, which sentence is correct, \"\"I didn't know\"\" or \"\"I didn't knew\"\"?\"\" and \"What is here and not there?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who is more likely to be elected president, Hillary or Trump and why?\" and \"Who is most likely to be president? Hillary or Trump?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is Twitter censoring my brand's tweets?\" and \"If a user deletes a tweet on Twitter, will all associated re-tweets also be deleted?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Does the truth come out when you're angry?\" and \"Is it true that truth comes out when you're angry?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"All problems are only due to two words \"\"early\"\" and \"\"late\"\" We dream too early.. And act too late.. We trust too early.. And forgive too late.?\"\" and \"How to use VoLTE in 'HTC Desire 728 ultra edition'?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I improve in competitive programming?\" and \"How do I become efficient in competitive programming?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is the best printer I can buy?\" and \"Which is the best printer to buy?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is the best laptop in range of 40000 to 50000?\" and \"Which is the best laptop under Rs 50000?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Indian Railways: What are the differences between the different classes of Air-Conditioned (AC) Coaches? \" and \"How is the Indian railway different from Indian mean time?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is Pakistan a failed and a terror state?\" and \"What will happen if Pakistan is declared as a terror state?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I measure the thickness of a paper?\" and \"How can you measure the thickness of paper?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do you feel is the purpose of life?\" and \"What is the GRAND purpose of life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does this meaning in English?\" and \"What does \u2018ennikkum\u2019 mean in English?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the cons of a career as a IITJEE JEE faculty?\" and \"Reason for soil of the Western Ghats are affected by wind erosion?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some things our society does now that will be judged negatively or even condemned in the future?\" and \"What is wrong with our society today?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Was Demonetization even necessary?\" and \"How do you look demonetization? Was it necessary?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Who is going to be a better president - Hillary Clinton or Donald Trump?\" and \"Who is the better candidate for being the President of the United States of America: Hillary Clinton or Donald Trump?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What's the most memorable event in your life?\" and \"What is the most memorable incident/event of your life?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How will the scrapping of Rs 500 and Rs 1000 notes help in reducing black money and corruption?\" and \"Would banning notes of denominations 500 and 1000 help to curb the black money in system?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the websites similar to appfutura.com?\" and \"What websites are similar to Caring.com?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the best universities for doing MS in Structural Engineering?\" and \"What are some good colleges for an MS in structural engineering in US?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are good spots for adventure sports around Bangalore?\" and \"What are the adventures sports in UAE?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do you think I should buy a used car or a new car?\" and \"What do you consider when buying a new car?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the total compensation one can expect for a senior software developer (10+ yrs experience) at Uber today?\" and \"I am a software developer with 3 yrs of experience doing MBA. Am I eligible for a management role with these qualifications?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What do the foreign countries think of Indian Armed Forces?\" and \"What do the foreigners think of Indian Armed Forces?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I cancel a ticket on Book My Show?\" and \"How do I get printed tickets from book my show?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which book should I prefer for the BITSAT 2016?\" and \"Is the Arihant BITSAT book of 2014 good for the BITSAT of 2016? Or should I buy the latest one?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do many Indians want to leave India to settle abroad?\" and \"If India is so good why do Indians leave India?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If Obama has done a good job why have the Democrats lost so many governors and congress/state legislature seats?\" and \"Is there/has there ever been a governor in a US state who was a member of neither the Democratic or the Republican parties?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I overcome bad memories and overthinking?\" and \"what should i do to overcome the bad memories?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Would I benefit from waking up at 7.30am each day?\" and \"How do I wake up at 3 am and what are its benefits?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I increase my height I am 5'2 and 13 years old?\" and \"How can I increase my height after 18 years of age?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How well can betta fish see in the dark? And is it okay to have them in the dark at night?\" and \"What do I need to know about having a pet betta fish?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Do you love yourself?\" and \"Do you love love?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do we continue to drink breast-milk from a cow through-out adulthood when only 25% of the global population is lactase persistent?\" and \"When breastfeeding, does comfort suckling stimulate the breast to produce more milk? Or is it the case that only active suckling (actually drinking milk) stimulates the breast to produce milk?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How does Instacart and Postmates manage their on demand logistics operation?\" and \"What is Postmates?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are your strength and weaknesses?\" and \"What are your IT strengths and weaknesses?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why are some people so obsessed with you?\" and \"Why are people so obsessed with careers?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you explain the concept of NAT to a 9-year-old child?\" and \"What is the best way to explain conception to a 6 year old child?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is masturbation for a boy harmful?\" and \"Is masturbation good or does it do harm?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between Kochi, Cochin and Ernakulam in Kerala? Is it all the same? Ernakulam is the district but what about Kochi and Cochin?\" and \"Kochi, Kerala, India: What is difference between Kochi and Ernakulam?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is Putin weak?\" and \"Where is Putin?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can the paramagnetism of oxygen be explained?\" and \"What is oxygen paramagnetism?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do all of my questions on Quora need improvement?\" and \"My questions on Quora all need improving. How do you ask a question on Quora?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"What will be the effect of \"\"Eliminating Master\u2019s degree exemption\"\" in new H1B Bill on old employees who don't have master degree?\"\" and \"Should I tell my prospective employer that I don't want H1B as I'll enrol in a Masters degree after 3 years, and thus I can use all 3 years of my OPT?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I stop watching porn?\" and \"Why can't I stop watching porn?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why did Michael Jackson hold his baby over a balcony/rail?\" and \"Will I hurt my babys head when holding him on my palm? He keeps turning his head around a lot. He is just a little more than a month.\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why does cereal come in a bag inside of a box?\" and \"Why does milk in Israel still come in bags?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can I hide apps in my android phone?\" and \"What is the best hide app for Android phones?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is the Indian Army killing innocent civilians in Indian controlled Kashmir?\" and \"How do Indian military and Paramilitary forces keep killing peaceful civilians protestors in Jammu Kashmir?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Wheres the best place to start if I want to pursue a career in video game development?\" and \"I want to start getting into computer programming and game development. Where can I start?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Interstellar (2014 movie): Why did every hour on the first planet take 7 years on Earth?\" and \"What is an explanation for the Interstellar movie?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I get paid on Quora?\" and \"How do contributors get paid by Quora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the corporate culture like at Kimball Electronics? How is the culture different than other companies?\" and \"What is the corporate culture like at Benchmark Electronics? How is the culture different than other companies?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can people actively control their emotions?\" and \"How do smart and successful people control their emotions?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is it possible that I am a sociopath?\" and \"Is it realistically possible for a sociopath to stop being a sociopath?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is asexual reproduction? What are the pros and cons?\" and \"Why did things evolve to require two to reproduce?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How is the chemical formula of margarine determined?\" and \"How do you determine the chemical formula of corn starch?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I am very depressed after watching a video on animal cruelty. I keep crying whenever I think about it, please help?\" and \"Is 'Ghotra' also a Jatt Surname?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why was Stalin nominated for the Nobel Peace Prize in 1948?\" and \"Why did President Obama win the Nobel Peace Prize?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Do you think Hillary Clinton will win?\" and \"Will Hillary be president?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best way to euthanize a dog at home?\" and \"What is the best way to euthanize your dog?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which according to you is the best innings played in ODI Cricket?\" and \"Which is the greatest innings in ODI cricket according to you?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the best book for GATE preparation (IN)?\" and \"What is the best book for gate preparation?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there any health benefits on Sleeping naked?\" and \"Are there any health benefits from sleeping naked?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What were the major effects of the cambodia earthquake, and how do these effects compare to the Tohoku earthquake in 2011?\" and \"What were the major effects of the cambodia earthquake, and how do these effects compare to the Concepcion earthquake in 1751?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best way to get back my Android mobile (Samsung Galaxy S6) if I lost it somehow?\" and \"How can I get my lost Samsung j7 back?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are there hidden apps on my phone?\" and \"How do I catch a cheating spouse using hidden apps on a smart phone?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How is Samsung better than Apple?\" and \"How can Apple's A9 be better than Snapdragon 810?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the pros and cons of socialism and communism?\" and \"What are the pros and cons of socialism?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What ingredients are in Maggi noodles?\" and \"How can one make Maggi noodles as shown in the pack?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the Expected cutoff for KVPY SA stream 2016?\" and \"How was KVPY SA 2016 ? How does it compare to previous year papers? What is your expected cutoff for it?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the meaning of the ending scene of the movie \u201cCast Away\u201d?\" and \"Does the film Haunt have a hidden meaning?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What was Purulia Arms drop case? How many other such incidents have been covered up by Indian Government?\" and \"As of 2016 how well does Indian and Pakistani Armed forces fare against each other?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Will the windmills generate weather change?\" and \"Do windmill fields change wind patterns?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why should we ban the death penalty?\" and \"Do you believe in the death penalty? Why or Why not?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I use my iPhone as a wireless router?\" and \"What is the best wireless router for home use?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you organize your most frequently websites?\" and \"What are the most frequent websites that entrepreneurs visit?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I speaking fluently speaking English?\" and \"What can I do to practice my English?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What's the difference between gyros, shawarma, d\u00f6ner & kebab?\" and \"What is the origin of shawarma?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Are agreements made on normal papers (not stamp paper) valid? All the parties involved in the agreement have duly signed it. Can they be used as evidence or proof in a court house?\" and \"What is the use of an Rs 100 and an Rs 500 stamp paper?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I control my subconscious mind most easily and proficiently?\" and \"Can I control subconscious mind?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can one run Windows OS on a Mac?\" and \"How can you put Windows OS on a Mac?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"When will the Facebook era end?\" and \"When are we expecting the end of Facebook or of its popularity?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If Donald Trump gets elected President, how would it affect countries like India and China?\" and \"Is there an actual possibility of Donald Trump being elected president, and, if so, how would it affect the rest of the world?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"W? Hat is the qualifications & experience requirea to become a govt iti collage teacher\" and \"What will be the impact of demonetization in the long run?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I understand machine learning?\" and \"How do I start learning machine learning?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the weirdest experience that you have ever had?\" and \"What's the weirdest experience you've ever had?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can you grow more after 13?\" and \"Can I grow more after 19?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I Integrate: 1/ (1- x^3)?\" and \"How do I integrate |x|?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I get my email address back?\" and \"How do I get an email address for free?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"Do all Chinese restaurants have \"\"secret\"\" menus?\"\" and \"Where can I find restaurant menus in Lebanon?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there a possibility to love 2 person at once?\" and \"Is it possible that a woman can be in love with 2 men at a same time?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Should I get Invisalign orthodontics in Mexico?\" and \"Orthodontics: How important is it for a child to get braces if they have relatively straight teeth (but not perfectly so)?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who won the Super Bowl 1?\" and \"In 1995, who won the Super Bowl?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I join NGO in jaipur?\" and \"How can I join an NGO in Kolkata?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"As a passive attacker, can Trudy determine Bob's identity?\" and \"If your U.S. birth certificate is stolen, is your identity in danger? If so, to what degree?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Could God who is truly all powerful create a rock that he himself could not lift?\" and \"If god is all powerful can he make a rock so heavy he cant lift and if he cant lift it is he so powerful?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How much weight can an eagle carry?\" and \"When and how do eagles learn to fly?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does a business analyst do in a banking financial services sector?\" and \"Under what occupation sector, does data analyst/business analyst fall?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is your greatest accomplishment to date?\" and \"What are your greatest accomplishments?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can anyone write the complete poetry that Piyush Mishra recited at the FTII which was in reply/continuation or interpretation to Faiz Ahmed Faiz's Kuch Ishq, Kuch Kaam?\" and \"Would you write poetry about a boy or a man?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are the people of New York City more racist than the average American?\" and \"What is the scope of planetary science in USA?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why don't Non-Agency MBS's have negative convexity risk like Agency MBS's have?\" and \"What will be the impact on inflation if credit rating agencies like Moody's, S&P etc downgrade India's credit rating?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is jelania?\" and \"\"What exactly is \"\"is\"\"?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I approach people confidently?\" and \"How can I approach people?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some interesting facts about Nazi Germany?\" and \"What are some insane facts about Nazis?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Will we still have the internet without net neutrality?\" and \"Would there even be anything to do on the internet without net neutrality?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is your experience in Indian Oil Corporation Limited (IOCL) recruitment process?\" and \"I have had a few jumps on my resume and the corporate recruiter wants to call my references midway through the interview process. What should I do?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Will Indian black money ever come back? How?\" and \"What will happen if all the black money comes back to India?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How long did it take for your Employment Pass or S Pass application to be processed?\" and \"I work in Singapore on employment pass. I resigned yesterday but my company is denying to release me and is threatening. What shall I do?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Was Kemal Ataturk Jewish?\" and \"Was Kemal Ataturk an Albanian?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is it possible to build a floating solar power platform (approx 30.000 ft) and retrieve the power through a cable connected to land?\" and \"What is a floating solar power project in Kolkata?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"MIB, MFC, MHROD, SRCC GBO from DU or MBA from UBS Chandigarh?\" and \"How many shelter Les people in Visakhapatnam?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best way of creating Android apps? How about PhoneGap?\" and \"What are the best ways to market an Android app?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are good movies on Netflix?\" and \"What movie should I watch on Netflix?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is Bermuda triangle mystery?\" and \"Where is the Bermuda Triangle located?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is the best site to download movies?\" and \"What is the best site for downloading movies?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What can cause a dog to throw up and how do you treat it?\" and \"What are the major differences between BigBrother and its Indian version BigBoss?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What should I do to become an RJ in Indore?\" and \"How can I become an RJ in Pune?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why did Modi introduce a 2000 rupee note?\" and \"What is the necessity of introducing 2000 rupee notes?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the best courses for the electrical engineering?\" and \"Which are the best courses for electrical engineering students?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why haven't virtual pets taken over on the iPhone (or mobile) yet?\" and \"What is a good estimate on ARPDAU for virtual pets mobile games, such as My Talking Tom, Clumsy Ninja and My On Nom?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"The size of a food web is limited by the number of?\" and \"What are the benefits of the egg white?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can I make my own Android app?\" and \"How can we make our own Android app?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I contact someone on Quora?\" and \"How could I contact a specific user on Quora?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can one track a mobile number location?\" and \"How can I track a mobile number and the location from any sofware?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do you become the top writer on Quora?\" and \"If I wanted to make it a goal to be a top writer on Quora, how can I accomplish this?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What would happen if Earth had a rotation similar to Uranus?\" and \"What would change if the Earth spun on its side like Uranus?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why wont any girls talk to me?\" and \"How do I get a girl to talk to me?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best stylus to use with the iPad?\" and \"Which stylus is the best for drawing on an iPad?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are the Illuminati real?\" and \"What is Illuminati to you?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How does one become a Michelin critic?\" and \"\"How does one become a Michelin \"\"inspector\"\" who secretly dines at and reviews restaurants?\"\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the best/worst things about dating in your 30s?\" and \"What are the best/worst things about dating in your 40s?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do many Quora users ask questions they could look up online?\" and \"Why don't Quora people just look up the answer on Google?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do I always become bored in relationships?\" and \"Why do relationships become boring after a while?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How much salary does a 7 year experienced employee will get in HP?\" and \"How much salary does a 3 year experienced employee will get in hp?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How does a girl feel when she comes to know that a guy madly loves her?\" and \"How do you deal with a girl when you love her but she loves another guy?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is your favorite topic to read about and why?\" and \"What is your favorite topic to discuss and why?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is a better entry level DSLR: the Nikon D5200 or the D3300?\" and \"Which is the best entry level DSLR camera, a Canon 600D or a Nikon D3300?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"According to statistics, what country is most close to gender equality?\" and \"March 8 is International Women's Day. What is the best country in the world for gender equality?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How Turkish Cypriots and Armenians get along?\" and \"\"Why do high doses of LSD produce \"\"spiritual\"\" or \"\"mystical\"\" experiences?\"\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Should I accept my parents choice for marriage or my love against my parents?\" and \"Should I marry with my parents choice or my choice?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between a stock and a share?\" and \"Is there any difference between share and stock?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"Why is the first episode of a TV series called a \"\"Pilot\"\"?\"\" and \"On average how much of a gap is there between filming the pilot and the second episode of a TV series?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can you get rid of moles on your face?\" and \"How do you get rid of moles at home?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How much access to your financial data do bank tellers have?\" and \"Do banks have access to Level 3 data?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can you un-merge a question in Quora?\" and \"How do you unmerge questions on Quora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How old do you have to be to play pool in the UK?\" and \"How do I stop my addiction of playing 8 ball pool?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How should I prepare for the ICSE class 10? How many hours should I study?\" and \"Can I leave my school to go to ICSE school in class 10 after studying class 9 in my school?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is your favorite alcoholic beverage, and why?\" and \"What are your favorite and least favorite alcoholic beverages?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How much will I get paid at Lee and associates?\" and \"My father's birthday is coming, what should I gift him? I recently bought him a tie and a Zippo lighter\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some of the greatest social work by Nita Ambani?\" and \"What would be the best social work?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How is it to work at Coal India as an IT engineer?\" and \"How is the imported coal priced in India?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the difference between a research question and a research problem?\" and \"What is the difference between research question and research objectives?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Was today's IPL match fixed between RCB and KKR?\" and \"What are your predictions for today's IPL match between RCB and KKR?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I am a Software Er. earning 4 Lpa with 1 yr work ex. Should I go for MBA from a private college given I'll get the complete fees loaned?\" and \"I'll be starting with an MBA 1 month from now. My parents have spent a lot of money on the fees. I'll be needing money for day to day expenses, and want to earn a little in the coming month to lessen their burden. Is there any way I can earn money for the next month to raise a little more money?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How should I study effectively?\" and \"What our some tricks to study efficiently?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I'm 32 was unemployed for 10 years due to schizophrenia, I've just joined a logistics company. Will there be a good future?\" and \"Why are job interviews so hypocritical?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What do I do if my dog swallowed a bone?\" and \"What should you do if your dog has swallowed a bone whole?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I got this injury on August 5 on my forehead. How do I reduce scarring and how long will it take for the scar to go away completely?\" and \"I have many tiny pimples on my entire face except on my nose and the skin beside my eyes. How do I get rid of them?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What can I blog about?\" and \"What do you blog about?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"If he says to me \"\"I don't care what you do, just make sure I don't catch you and wear a condom\"\" supposed to mean?\"\" and \"What would you do if you became rich (really rich) and you're being contacted by a friend you do to talk to anymore? Let's say you always tried to talk to him before but he simply didn't make any effort to talk to you. Do I just tell him to piss off, nicer way to say this?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Does Apple make very little money with the App Store?\" and \"How does Apple make money from the App store?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I self rehab from masturbation and porn addiction?\" and \"What is the best way to overcome an porn addiction?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Who are the top ten astrologers in India?\" and \"Who are the top ten Indian astrologers?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which is the best birthday gift to my friend?\" and \"What could be the best birthday gift for my girl best friend?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What the purpose of life on earth?\" and \"What is your purpose of life?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How should I pop a burn blister?\" and \"Is popping a burn blister safe?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which is best PHP FRAMEWORK to develop any kind of web application?\" and \"What kind of web applications you can make by core PHP?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What's the best place to vacation in Florida?\" and \"What is the best spot for a vacation in the world?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is a cool fact about yourself?\" and \"What are some cool facts about you?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Should I abortion be illegal?\" and \"Should abortion be legal?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there physical evidence that Laws of Attraction (Think it, create it) actually works?\" and \"Mac or win?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What does meaning of diaspora?\" and \"What is Diaspora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does the Mendel's law of segregation state about meiosis?\" and \"According to Mendel's law of segregation what happens to chromosomes during meiosis?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best book to read to learn Java?\" and \"Which book to buy to learn java?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How does dating in the UK differ from dating in the US?\" and \"How is the dating scene different between UK and US?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between an UberX, Uber Black and Uber Taxi?\" and \"Uber in 2015: Can I use my Audi A4 for UberX?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do You plan for the New Year?\" and \"What are your plans for this new year?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is naruto going to die in the boruto manga?\" and \"The manga version of Naruto is ending today. Who will miss it?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is being a stripper bad?\" and \"What is it like to be the boyfriend of a stripper?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best laptop under INR 30,000?\" and \"Which is the best laptop to buy under 30k in India?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I stop my Pug/Cavalier mix from humping my furniture?\" and \"How do I stop my Pomeranian/Shih Tzu mix from humping my furniture?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"On Twitter, who is @SwiftOnSecurity?\" and \"Who is ceoSteveJobs on Twitter?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I speak loudly when acting in front of an audience?\" and \"How do you stay in your head in front of an audience or group?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Was the Telegram app made in India?\" and \"How big is the Telegram app?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What were the goals of the Federalists?\" and \"What were some of the Federalist ideas?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some interesting facts about Nazi Germany?\" and \"What are some insane facts about Nazis?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Has Modi's Pakistan Policy completely failed?\" and \"Is Pakistan afraid of Narendra Modi?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I think that penis size is determined by maternal genes, rather than the father's. What does everyone think?\" and \"What factors determine penis size?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can you improve your communication skill?\" and \"How can I improve my communication skills?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do highly intelligent people get bored quickly?\" and \"Do highly intelligent people get bored easily?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I delete this in iTunes on iMac?\" and \"How do I restore an iTunes song deleted from library?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What would happen if the Indian government stole the Kohinoor (Koh-i-Noor) diamond back?\" and \"Why can't India get its Kohinoor diamond back?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where will you go after you die? To heaven or hell?\" and \"Are you going to heaven or hell?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there a healthy way to lose weight in two months?\" and \"What are the best ways to lose weight?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How Paytm/Mobikwik/RedBus/any other online portals get profits even on providing discounts on normal fares on almost anything?\" and \"What SMS service do companies like Paytm and MobiKwik use?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between packet firewall, stateful firewall and application firewall?\" and \"What is Firewall-1?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How exactly does gravity work on earth?\" and \"How is the gravity work?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I HCV, Dinesh objective and reso material. TO WHICH of the books should I stick to get a rank under 400? Detailed advice\u2026urgent?\" and \"What are the best restaurants to try when visiting Lalitpur, Nepal? What should you try while you're there?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who is the founder of doukr.com?\" and \"Who is founder of filmybaba.com?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Do you like anal sex?\" and \"Do you love to practice anal sex?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the weather in Orlando like on June, and how does it differ from the weather in February?\" and \"What is the weather in Orlando like on June, and how does it differ from the weather in May?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Whether training for EC Council - Certified Network Defender certification is available in India?\" and \"I want to know PRAN?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Girls what are the unspoken rules around wearing short skirts and dresses?\" and \"How can you look at someone's private Instagram account without following them?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the most common personality traits?\" and \"What are the common personality traits of mental disorders?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why didn't he love me?\" and \"Why doesn't he love me?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Syrian Desert?\" and \"How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Arabian Desert?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What exactly is the most important thing in life?\" and \"What is the most important thing in life? And why?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is partial variation?\" and \"While attaching data macro to table event, any forms and code that update the event inherit the logic. Explain with example?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"When did your age kick you in the butt?\" and \"Does age matter to date someone?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do you become a Successfull Game Developer?\" and \"What should I do to be a Game Developer?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do you determine the prime factors of 12?\" and \"How can you determine the prime factors of 108?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the difference between computer science and information science?\" and \"What's the difference between computer science and information science engineering?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can this six-letter word be completed _h_a_t?\" and \"What words start with 's' and end with 'e'?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Will Denver Airport get a nonstop flight on Emirates Airlines?\" and \"How can I get cheap flights from Denver to Europe?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If you put some bacteria on Mars, can they survive?\" and \"Is this possible to put some bacteria-like tiny organisms in Martian climate?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Would you hire a person who has no degree but can show you 5 versions of a big website which contains many functionalities?\" and \"How competitive is the hiring process at Big 5 Sporting Goods?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What does the RPM indicator in bikes actually mean?\" and \"What is the meaning of torque and power in a car in layman terms?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is competitive bidding legal in industrial sector? If so are there any restrictions in doing so?\" and \"Is competitive bidding is legal in industrial sector? If so are there any restrictions in doing so?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Where can I get wide range of floor tile, wall tile and porcelain tiles in Sydney?\" and \"Where can I get various range of stylish ceramic floor tiles in Sydney?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the major principles in Sikhism?\" and \"What are some core principles of Sikhism?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How are ammeters connected in a circuit (battery and resistor)?\" and \"When an ammeter is put in a circuit, does it read slightly less or more than the actual current in the circuit?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Waves travelling through a solid medium are which waves?\" and \"Which is the best accounting software in USA?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How safe is Japan from terrorist attacks?\" and \"Why are there so many more terrorist attacks in France than anywhere else in Europe?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Does Hillary Clinton have any serious health issues?\" and \"Is Hillary Clinton hiding some medical problem/issue?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"What is the difference between \"\".\"\" and \"\"->\"\" in C++?\"\" and \"What is the difference between C, C++ and C#?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can you describe the DNA replication bubble?\" and \"How can you describe the end of DNA replication?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who is making money off Quora?\" and \"Can you make money off Quora?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"Why had Churchill said, \"\"Islam to a man is like rabies to a dog. Islam is a deadly disease\"\"?\"\" and \"As a Muslim man, according to Islam, can I marry a woman who is not Muslim?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I make money from a YouTube channel?\" and \"How can I make money on YouTube?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I know if I am expert in a programing language or just advanced or intermediate?\" and \"Java (programming language): What are some recommended books, and online resources for learning Java for beginner, intermediate, and advanced programmers?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"What is meant by \"\"candidature in progress\"\"status in accenture recruitment process?\"\" and \"\"What does \"\"Pending Further Assesments\"\" means in Accenture Portal?\"\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the suspensory ligament? What function does it have?\" and \"What is the function of suspensory ligaments?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best way to invest money to make money?\" and \"What is the best way to to make money?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I book more than 10 train tickets in one month on irctc?\" and \"How do I buy Doverlane tickets in Kolkata?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why does India not have a driver\u2019s license exchange program with European countries?\" and \"Scope of pem course from NICMAR?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can datanode username be different from namenode username?\" and \"How can you make a memorable YouTube username?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How could bringing in new 500 and 2000 rupee notes by the Indian govt eradicate black money?\" and \"Will the decision to demonetize 500 and 1000 rupee notes help to curb black money?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the important things that tell about someone?\" and \"What is the oxidation number of graphite?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How does coffee help with headaches?\" and \"How can a coffee help with a headache?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where can one find statistics for the music business?\" and \"What happened to my history on Quora? Where did the questions I asked and the ones I answered and my statistics go? Can they be restored or retrieved?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who survived being in the Bermuda Triangle?\" and \"Has someone survived out of the Bermuda triangle?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between floor() and trunc() in R?\" and \"What is the difference between object and vector in R?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I ask a girl out without looking stupid?\" and \"How do I ask a girl to date me ?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Would the Germans have lost World War II if the Enigma encryption mechanism was not cracked by the allied forces?\" and \"With 159 million possible settings, how were the allies  able to break the enigma machine during World War 2?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"What is the difference between \"\"are you\"\" and \"\"do you\"\"?\"\" and \"\"What is the difference between \"\"may\"\" and \"\"might\"\"?\"\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Has anyone ever changed your life with an answer on Quora?\" and \"Which answer on Quora changed the way you think and changed your life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"When Tywin was young, was he good with a sword?\" and \"Did Tyrion kill Tywin because Tywin knew Olenna killed Joffrey?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where can I find the trust name of my PF account?\" and \"How do I get my PF account number? If company refuse to give my PF number?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are personality types and disorders that make a person unable to feel intimacy and impulse to limit socializing and personal relationships?\" and \"What is it like to have a greedy and bipolar personality disordered wife?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is an arbitrary function?\" and \"What does arbitrary function mean?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I become better at descriptive writing?\" and \"How can I improve my descriptive writing?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which profile will get affected during recession in IT Companies?\" and \"What kind of workout must I have to get in the army?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Has anyone updated or reviewed for more modern theory the content of the Feyman lectures from the Caltech website? Or is every word/axiom still valid?\" and \"Is the Big Bang really the best theory there is? All matter originating from a singularity sounds so much more religious than scientific!\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I have got a message from the CEO of WhatsApp to remove my profile pic specially for girls because they are using it to make nude pictures. Should I remove my pic?\" and \"How can one hide their profile pic from a specific person without blocking him in WhatsApp?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I overcome challenges in my work ?\" and \"is there any advantage in having longer feet\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there a way to see someones likes on instagram?\" and \"If I block someone Does that mean I can't see there account on Instagram?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you know you are ready to tell your significant other you love them?\" and \"How do you decide when you're ready to tell a significant other you love them?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Will Donald Trump or Hillary Clinton win the 2016 US presidential election?\" and \"All biases aside, at this point in time, who do you think will win the presidential election?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What were the major effects of the cambodia earthquake, and how do these effects compare to the Lisbon earthquake in 1755?\" and \"What were the major effects of the cambodia earthquake, and how do these effects compare to the Arica earthquake in 1868?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best remedy for dry wrinkled skin?\" and \"Which sentence is correct and why is it so?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What's the difference between delete and truncate?\" and \"What are the differences between delete and truncate?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is most embrassing moment of your life?\" and \"What are the embarrassing moment of your life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I ask my girlfriend for anal?\" and \"How can I ask a girl to be my girlfriend?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I prepare meet with in 3-4 months?\" and \"Can someone share a vegetarian diet plan for lean body mass gain?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why is there a civil war in Syria?\" and \"What is happening in Syria?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some good books to learn how to manipulate people?\" and \"What are the best books about learning how to manipulate people?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What can I do to lose weight from 80 kg to 40 kg?\" and \"How rapidly can someone safely lose weight?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the best institutes for MS in USA?\" and \"Which are the best institutes in USA to pursue MS In biomedical engineering?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What makes thing definite or indefinite?\" and \"Most motivating and inspiring photos?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the differences between public sector and govt sector?\" and \"What is difference between the private and public sector?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I am from India, I want to work in London, in hse, I have no experince but nebosh igc certiified, what can I do?\" and \"Where is Shopping cheaper? Singapore or Sri Lanka or Bangkok?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can Supreme court of India scrap the demonetization in India?\" and \"Can the Supreme Court order Modi to roll back the demonetization move?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"The volute casing in a centrifugal pump serves the purpose of increasing pressure. But, pressure should decrease with an increasing cross section area as pressure is inversely related to c/s area. So how does a pump achieve high pressure despite the above contradiction?\" and \"For a centrifugal pump what is the relation ship between pressure and flow. What is the change in pressure with the respect to change in flow?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between working stress method and limit state method in the design of beams, slabs, columns, and footing with examples that are easy to understand?\" and \"How do I calculate quantity of steel in R.C.C slab/column/beam?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is a programmer's life like?\" and \"Why there is a notion among general people that programmers have no life?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What hotel in Malayattur Hill-station would be safe for unmarried couples, without the harassment of police, hotel staff, and moral police?\" and \"What hotel in Ayyampuzha Hill-station would be safe for unmarried couples, without the harassment of police, hotel staff, and moral police?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some cute-looking but fierce wild animals?\" and \"What are some of the most horrific parts of nature?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"_m_a_k_ Fill in the blanks with appropriate letters using the clues below: 1) girls love it 2) boys use it 3) parents hate it?\" and \"Puzzles and Trick Questions: How would you complete this 7-letter word: _ T _ A _S_?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How much time should you take in answering a Quora Question?\" and \"How much time on average do you spend on answering questions on Quora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"When will time travelling (or at least time shifted vision) finally be possible?\" and \"Could time travel be possible?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some things about U.S. history that could be made fun of?\" and \"What are some things about history that could be made fun of?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Are you more of a night owl or a morning person?\" and \"Psychopaths: Are you a night owl or a morning person?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Could India have won the 1947-48 war with Pakistan over Kashmir, if its Prime Minister hadn't opted to approach the UN, and if so then why?\" and \"Why has India never had a Muslim Prime Minister?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is Australia a better country than the USA or the UK?\" and \"Which is a better place to live: Germany or Australia?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why don't compounds like MnCl and ZnCl exist?\" and \"Is the compound P2Cl4 exists?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Are gender roles learned or are we born with them?\" and \"Is it true that boys and girls are born equally with no genetically predefined behaviors and society is molding girls and boys into stereotypical gender roles?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How does a Star Wars lightsaber work?\" and \"How did lightsabers work?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is Jaane Bhi Do Yaaro (1983) considered a great film?\" and \"Why do films in India are consider a success if they only make a couple of million USD? While in the US, it needs to make a lot more money\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Does Kurkure contain plastic?\" and \"Can I use a Tupperware container to make mead? How can I make sure that it won't explode, if I use glass or plastic.?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you train a Miniature Siberian Husky?\" and \"What are some tips for training Siberian Huskies?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the marsmus syndrome?\" and \"Indian membership in world summits?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"\"What is a polite way to \"\"poke\"\" someone who hasn't yet replied to your email?\"\" and \"How can I ask someone, very politely, to reply to my email?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the strongest majors in terms of job prospects and what are the weakest majors at Seattle University?\" and \"What are the strongest majors in terms of job prospects and what are the weakest majors at Hofstra University?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who would win an all-out war between India and Pakistan?\" and \"Who will win in a war between India and Pakistan?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I configure Vim to use the Google C++ coding style guide?\" and \"JVM uses C code to convert Java code into machine language? Then why can't we use C to do an actual program rather than using Java?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best country for easily migrating and getting a job visa?\" and \"What's the best way to get a job or move to another country from America?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the difference between socialization and resocialization?\" and \"How are resocialization and desocialization different from each other?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I wish to replace on MSI WT72 6QN mobile workstation, E3-1505M with E3--1575M. The graphics card is Quadro 5500M. Can I do that?\" and \"Is there any good source to learn Gripes (Groovy and stripes) framework?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do you log in to Facebook if you forgot your password?\" and \"I forgot my email Id and password on Facebook. How can I log into Facebook?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can we  tag a page in  Facebook Android App?\" and \"How does Facebook determine ratings for an Android or an iOS app on its app pages?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can I watch 3d movies on wall through projectors?\" and \"Which is the best and affordable 3D projector?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why IIT R is not allowing physical calculators in GATE 2017?\" and \"What is the minimum rank required in GATE 2017 for the branch ME in IIT Bombay or Roorkee?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"When you urinate in an airplane, why does the stream curve towards the rear of the airplane?\" and \"What is a list of important derivations of Chemistry Class 11?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is Russia a superpower?\" and \"What will Russia have to do to become a superpower?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Should I trust a women who is always in a relationship?\" and \"I really wanted to join IAF as Pilot but due to age limit I cannot, now GD is d only option, as ppl say IAF is biased towards pilots is that true?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can you become a Mountain Guide?\" and \"How can I become a mountain guide?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I make this paperback more durable?\" and \"What are the different types of Paperback books?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why did Sanskrit fail to become a suitable language for computers?\" and \"It has been claimed several times that Sanskrit is the most suitable language for computers. How can it be so?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Do retail buyers prefer a print or a digital trade magazine?\" and \"If a movie theatre wants to show a old movie, can they use a retail Blu-ray or do they have to use an old 35mm reel or remastered digital print?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do guys put their hands on girls thigh?\" and \"How do guys know if a girl wants a hug?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which are we closer to curing, blindness or deafness?\" and \"10 ways by which we can be closer to nature?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the best places to visit and the best things to do in Jaipur?\" and \"What are some of the places to visit in and around Jaipur?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What was President Richard Nixon's popularity like during the Watergate scandal and up to his resignation?\" and \"Are the recent Obama scandals the biggest thing since Watergate?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is dragon ball an anime?\" and \"My girlfriend birthday is on Monday. How can I plan it and make it the best birthday of her life?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can spam be abolished from the Internet?\" and \"Where can I watch Shameless season 7 online?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the difference between the Amish, Mennonites and Quakers?\" and \"What is the difference between the Amish and Mennonites?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is context management?\" and \"What has no context?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I calculate excess return related to dividend policy?\" and \"Dividend investing: How much capital is needed to earn $500/month just on dividend returns? What are the best options?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some good books about Indian railways?\" and \"Is it better to wear shoes of a bigger size or your actual size?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What was the worst insult you have ever said to someone?\" and \"What's the worst insult you have accidentally said to someone?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I convince my parents to buy a dog for us?\" and \"How can I convince my parents to buy me a dog?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which is a better entry level DSLR: the Nikon D5200 or the D3300?\" and \"Which is the best entry level DSLR camera, a Canon 600D or a Nikon D3300?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I politely reject a recruiter's job offer?\" and \"How do I politely reject an interview request from a recruiter?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is naruto going to die in the boruto manga?\" and \"The manga version of Naruto is ending today. Who will miss it?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I know the IP address of a person on Facebook?\" and \"Is it possible to track down an IP address from a Facebook user\u2019s URL?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What's the meaning of the song Cake By The Ocean by DNCE?\" and \"What's the best cake to have by the ocean?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I get HSN code of works contract for VAT registration?\" and \"What is the procedure of getting VAT and CST number?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can you figure out what you want?\" and \"How can I figure out what I want to become?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I upload full-resolution pictures from a DSLR to Instagram?\" and \"How can I upload multiple pictures to Instagram from my iPad in one batch job?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What exactly is so detestable and bad about feminism?\" and \"What's so bad about feminism?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How does one become a Michelin critic?\" and \"\"How does one become a Michelin \"\"inspector\"\" who secretly dines at and reviews restaurants?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the most surprising secret someone has revealed to you?\" and \"What will happen if we reveal the secrets of others?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"I have a blog which i started last month and I already have six thousand page views, how do i boost my traffic and make money from it?\" and \"How much can I earn monthly from a tech blog based on my Angular, Node, MongoDB, and Express [MEAN] interests? What things do I need to remember to make more money from my blog and attract more visitors?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between function and features?\" and \"What is difference between function and features?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Are Persians White?\" and \"What nationalities are considered white? What mix of nationalities or percentage of white, would still be considered white?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Does wearing glasses make your eyesight worse?\" and \"Can glasses make your eye sight worse?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Do Russian girls like black guys?\" and \"How do the parents of Indian girls react when they learn that their daughter is dating a black guy?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is dragon ball an anime?\" and \"My girlfriend birthday is on Monday. How can I plan it and make it the best birthday of her life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the torque?\" and \"What is gyroscopic torque?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which job will be more in demand in the long term, AWS cloud architect or a golang API software engineer?\" and \"How good is a 3.0 megapixel camera?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Where can one find statistics for the music business?\" and \"What happened to my history on Quora? Where did the questions I asked and the ones I answered and my statistics go? Can they be restored or retrieved?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best way to disable your Yahoo account permanently?\" and \"What are some ways to delete my Yahoo Mail account permanently?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Should I put my stepson's baby's name on my tattoo when I probably won't see him again?\" and \"As an Instrumentation and Automation engineer, what's the best skill set to have for the next 5-10 years?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I pitch my product idea while still protecting it?\" and \"How do I protect an idea?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I am facing problem with my TalkTalk broadband, how can I report fault to TalkTalk?\" and \"How do you report Fault to TalkTalk?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there an infinite series of particles?\" and \"What is infinite series?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can we earn money online in india?\" and \"How can I earn money easily online?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between standard deviation and variance? Gives an explaination with example?\" and \"What is the difference between variance and standard deviation?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"When we can't create object of abstract class then why java allow defining a constructor in its body?\" and \"Why do we intialize the object in Java by default constructor?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How much equity in industrial start-up should I give up to investors?\" and \"How much of your company should you give to an investor?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How will the big money clubs in the Premiership react to Leicester City's unlikely title triumph in attempting to win the league next season?\" and \"What are some of the factors off the football field that were significant in Leicester City winning the 2015-2016 English Premier League title?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What happens to my health insurance if I get a medicinal marijuana card?\" and \"What is the most direct way to get a medical marijuana card in the SF Bay Area?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why IIT R is not allowing physical calculators in GATE 2017?\" and \"What is the minimum rank required in GATE 2017 for the branch ME in IIT Bombay or Roorkee?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why does Japanese language have more emphasis on honorifics?\" and \"I am a web developer. Should I do a course on CCIE?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Do people still hate Justin Bieber?\" and \"Why do people hate Justin Bieber?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How is the IMI Bhubaneshwar for a PGDM?\" and \"Is PGDM and PGDBM the same?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why should I study physics?\" and \"Why do we study physics?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Can we earn money through Quora?\" and \"Are there any ways to make money through Quora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"If Obama has done a good job why have the Democrats lost so many governors and congress/state legislature seats?\" and \"Is there/has there ever been a governor in a US state who was a member of neither the Democratic or the Republican parties?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the bariatric surgery facts?\" and \"What is a bariatric surgery?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do some children send their parents to old age homes?\" and \"How many old age homes are there in India?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why don't Indians eat pheasant, grouse, goose, turkey, duck, partridge, quail, guinea pig, rabbit& frog? Why are we obsessed with chicken mutton?\" and \"Why don't traditional Indians eat beef?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do we control our emotions?\" and \"How one can control impulsive emotions?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is chronic fatigue syndrome?\" and \"How is Chronic Fatigue Syndrome treated?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"In Yves Couder wave-particle duality experiments is the silicon bath analogous to a strongly interacting dark matter particles move thru and displace?\" and \"Has a double slit style experiment showed wave-particle duality for magnetic fields from magnets? \" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can you find an atomic number?\" and \"How is an atomic number determined?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you prove that nothing can go faster than light?\" and \"Why can nothing move faster than light?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"What started project \"\"Education for All\"\" in the Philippines?\"\" and \"\"What has been the upgrade in education made by \"\"Education for All\"\" in the Philippines?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Syrian Desert?\" and \"How cold can the Gobi Desert get, and how do its average temperatures compare to the ones in the Taklamakan Desert?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How is bacterial pneumonia contagious?\" and \"How contagious is pneumonia?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can a students start learning c programming?\" and \"How do I get interest in C language and start coding?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I test if a car's airbags are working or not without a collision?\" and \"Why the automakers still made a car without airbags in this recent days since this is the most important to protect all inside the car?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some book recommendations for newbie?\" and \"What are some book recommendations for a newbie reader?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do past memories make me sad whether they are good memories or bad?\" and \"Why does the memory I do have is only sad or bad?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What was the Glass-Steagall Act?\" and \"What is the Glass-Steagall Act?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the reason behind not able to forgive someone but want them always around you?\" and \"How effective is BSF as a combat force?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the names of the Teenage Mutant Ninja turtles? What color of bandana does each wear?\" and \"What kind of pizza did the Teenage Mutant Ninja Turtles eat?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I earn money in YouTube?\" and \"How can I make money via YouTube?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some disadvantages of student loan forgiveness program?\" and \"What is student loan forgiveness?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is a Google Doodle?\" and \"What does this Google Doodle mean?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I used my tuition teacher and now regret after knowing the reality of life?\" and \"What would happen to Facebook's algorithms if everyone hid every ad that crossed their newsfeed?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Will apple release a new MacBook Pro soon?\" and \"What upgrades are expected with the next MacBook Pro with retina display and is there a firm release date?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why are tapas so popular in Spain?\" and \"\"Did you know that \"\"Shin chan\"\" is very popular in Spain?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I overcome masturbation and/or porn addiction?\" and \"How do I self rehab from masturbation and porn addiction?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you identify useless history facts?\" and \"What are the differences between carbonate and bicarbonate?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What does it mean when it says my answer has been collapsed?\" and \"Why my answer was collapsed?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What should a CS student learn to get selected in GSoC?\" and \"I want to be selected for GSoC. What are some suggestions for getting into GSoC?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are your views on ban of 500 and 1000 rupee notes in India?\" and \"What would be effect of 500 and 1000 Rs notes ban?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the best one-minute life hacks?\" and \"What are the best 5 or 10 minute life hacks?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some good topics to do research and publish papers on electronic devices or basic electrical technology?\" and \"I'm thinking to write some research papers on Medical Technology. Suggest me some interesting topics. And where can I get it published?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best BA subject for UPSC (IAS/IPS) exams?\" and \"What are the subjects for the UPSC exam?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best sex youve ever had?\" and \"What are your best sex experiences?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the effects of demonetization?\" and \"How will demonetization affect India?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is there anybody who have any information about Haebangchon, Korea?\" and \"Are there any documentaries about the history of North Korea?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can you delete questions on Quora?\" and \"How do I delete my own question from Quora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How does a Trump Presidency affect Canada?\" and \"What impact will Trump's presidency have on Canada?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do introverts enjoy life?\" and \"What am I missing out on in life if I am an introvert?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the PC software for removing the vocals completely from any song and add our own voice to it for Windows?\" and \"What is the best software for removing vocal tracks from audio files?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the purpose of life according to YOU?\" and \"\"Why is the purpose of life to \"\"be happy?\"\"\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the best way to test circuit capacitors?\" and \"How can you test a capacitor without a multimeter?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What does TMZ stand for? How did the show get its name?\" and \"What can I name my tv show?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the best phones under 20000?\" and \"India: What is the best phone to buy between (\u20b9, Rs, INR) 18-20k?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What would be a better alternative to movies for entertainment that offers much better value for the money?\" and \"Are astronauts offered special entertainment privileges, like early access to movies (similar to what is offered on long airline flights)?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some amazing, unknown incidents in Preity Zinta's life?\" and \"What are some of the mind-blowing facts about the Baahubali movie?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the most interesting facts about silicon?\" and \"What are some interesting facts about silicon?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What do men think is the best hairstyle on women?\" and \"Which is the best hairstyle for men?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What will happen if we use petrol for a diesel engine?\" and \"\"Which is worse for the engine, putting diesel in a \"\"petrol car\"\" or petrol in a \"\"diesel car\"\"?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How is borderline personality disorder (BPD) treated?\" and \"What is borderline personality disorder, and how can it be treated?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What was your university application essay?\" and \"What is an application essay for universities?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I approach people confidently?\" and \"How can I approach people?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the life of mechanical engineers graduated from top colleges who didn't select in campus placemats?\" and \"Why do many engineering graduates from top notch colleges such as IITs/NITs pursue an MBA immediately after graduation?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I change the SBI online username?\" and \"What is the username and password sbi account asking about?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What do you think of this poem?\" and \"What do you think about this poem?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some things new employees should know going into their first day at Infinity Property?\" and \"What are some things new employees should know going into their first day at Cousins Properties?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I stop thinking about dying?\" and \"How can I stop thinking about everything?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How fast will a 24.5 m LWL x 6.4 m beam 80t semi displacement boat go with 1200hp? It currently has 2700 hp and weighs 85 t and goes at 34 kts?\" and \"How does it feel to own and ride a motorcycle with a small engine displacement?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How good are John Deere motorcycles?\" and \"Can someone list Colleges which require only SAT subject + TOEFL?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why isn't antimatter considered dark matter?\" and \"What is dark matter and why can't we see it?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is a Ramachandran plot? How do you read one, and what information can you learn from one?\" and \"How do one say Whether a specific amino acid in a protein is binding to dna or not from sequence alone and what are its features are to be taken?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do so many people prefer to ask questions on here and wait for an answer rather than type one or two words in a search engine?\" and \"Why do people ask questions here in Quora instead of just googling?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is your favorite meme and why?\" and \"Which is your favorite meme?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the common traits of highly intelligent people?\" and \"Why do some very intelligent people show little common sense?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do humidifiers turn water into gas without it needing to be at boiling point? Or is the boiling point a hoax?\" and \"What is an example of boiling point?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are signs of a mature/experienced reader?\" and \"In hydrides of group 15 on going down the group boiling point increases while thermal stability decreases how?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is target?\" and \"What are on-target earnings?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Women on men with back acne?\" and \"\"Is it possible to change the default cell \"\"date preferences\"\" for all documents in Excel?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How does stock price (Market Price - MP) affect the issuing company?\" and \"How does the market price of a company's share affect the company? Because once a company raises capital by issuing shares, in what way does its market price affect the company?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you answer questions on Quora?\" and \"\"What does a good answer on Quora look like? What does it mean to \"\"be helpful\"\"?\"\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the risks of being a shopkeeper?\" and \"Why do shopkeepers take empty cold drink bottles?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I become comfortable singing in front of people?\" and \"How do I become more comfortable singing infront of people?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I lost my password with my Gmail account. How do I reset it without the account recovery info?\" and \"How can I reset my Gmail password when I don't remember my recovery information?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the advantages of having a computer in education systems?\" and \"Cant we have a educational system devoid of all tests?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I advertise my YouTube channel?\" and \"What are the best ways to promote a YouTube channel?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How is the idea of God useful beyond being a way of admitting we have not yet figured out how to do something for ourselves?\" and \"Is there any way to prove beyond the shadow of a doubt that a god or gods (any god) exist?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"The chance of two people having the same fingerprints is one in how many billion?\" and \"Can two different people from different countries with different cultures have same the fingerprint or DNA?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some ways to get good handwriting?\" and \"How can I have good handwriting?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I remove my public hair?\" and \"How can I remove pubic hair?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where can I get premier commercial painting services in northern beaches?\" and \"Where can I get very professional commercial and industrial painting services in northern beaches?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you become a financial analyst?\" and \"How can I become financial analyst online?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is mole fraction in chemistry?\" and \"What is the mole fraction?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How Paytm/Mobikwik/RedBus/any other online portals get profits even on providing discounts on normal fares on almost anything?\" and \"What SMS service do companies like Paytm and MobiKwik use?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Where can I get best monthly residential cleaning service in Sydney?\" and \"Where can I get best price rates for any commercial cleaning service in Sydney area?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I make a perfect cup of coffee at home?\" and \"How do you make the perfect cup of coffee?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"My husband doesn't love me what should I do?\" and \"What if my husband doesn't love me?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Can I get pregnant a week after my cycle?\" and \"Is it possible to get pregnant if a couple is trying just 4 days before her menstrual cycle?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"If I send an iMessage to someone with an iPhone and it goes through as a text, am I blocked?\" and \"How can I send a text to an iPhone that has blocked me?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some possible solutions if I forgot my iCloud password?\" and \"What should I do if I forgot my iCloud email and password?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is a way to get a bank statement from HDFC bank on a paper with the bank logo or on their letter head in Bangalore?\" and \"How do I open bank account in HDFC?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I outsource for Silicon Valley startups?\" and \"How many start-ups are there in Silicon Valley?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best way to learn to play the guitar by myself?\" and \"What are some ways to learn how to play guitar?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is unusual or different about the food and cuisine in Japan?\" and \"What is unusual or different about the food and cuisine in Australia?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How can I meet gay professional athletes?\" and \"My ovulation window opened on 1st Jan but had unprotected sex 3 days before what chance is there of me being pregnant?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How are the laws regarding self defense weapons enforced in Australia and how do they compare to the way they're enforced in the Philippines?\" and \"How are the laws regarding self defense weapons enforced in Australia and how do they compare to the way they're enforced in Peru?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is there any way to access app sandbox in iOS 9 without Jailbreaking?\" and \"How do I jailbreak iOS 9.3.4?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the best way to learn about life?\" and \"How can I learn about life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I prepare for economics?\" and \"How do I prepare for economics for the IAS?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the reason to murder Sunanda Pushkar?\" and \"Who killed Sunanda Puskar?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What exactly is usertesting.com?\" and \"What exactly does salesforcce.com do?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do some feminists hate men?\" and \"Why do most women hate men?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What would it take for Adam D'Angelo to teach me website designing like Quora?\" and \"What website builder and hosting service did Adam D'Angelo use for Quora?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Beginner books for UI design?\" and \"Can you recommend books for a beginner who wants to learn UI design?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How was the Zhangjiajie Stone Forest in China formed?\" and \"Is there any form of Terrorism or Insurgency in China?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I go about designing my own deep learning algorithm / framework?\" and \"How do I go about designing my own deep learning algorithm / framework? (like you designed Covnet)\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is it bad to get first class (73%) and not a distinction after completing a  6 year undergraduate program (Pharm D)  from osmania university? Is our percentage mentioned in our degree certificate?\" and \"I got 69.59% in B.E, mechanical engineering from Osmania University. Will I get distinction or 1st division in my final memo?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What makes salt able to melt ice?\" and \"How does salt melt ice and snow so quickly?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What habits should I adopt to have a more purposeful and focused life?\" and \"What habits can I adopt or avoid every day to have a successful and fulfilling life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why am I so traumatized by narcissistic abuse?\" and \"I have bpd and was just told I have narcissistic tendencies. Am I a jerk? How do I stop being narcissistic?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do you implement portion control on the pizza prep line?\" and \"What are some of the differences between pizza sold in the US compared to pizza sold in Italy?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some things that people believe are superstitious but they are actually not superstitious?\" and \"Why are some people superstitious?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If I ever get diagnosed as a sociopath, should I tell anybody?\" and \"Who is the greatest person you have ever met?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is principle stress?\" and \"What are principle stresses and principle strains?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the track name which was used in the last scene of Interstellar?\" and \"What should I know before going to watch Interstellar?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"What does the phrase \"\"take the high road\"\" mean?\"\" and \"\"What is the meaning of the phrase \"\"see you down the road\"\"?\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the import and export between India and Pakistan?\" and \"Are there any reliable Electricity Bill Payment API providers in India?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Who is Sonam Gupta and what's the scene behind it?\" and \"Who is sonam Gupta & why she is 'bewafa'?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How is the life of a student at D J Sanghvi College of Engineering?\" and \"What is the role of a college in students life?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which are the top 10 all time famous Indian female playback singers?\" and \"Who is currently the most famous person alive? Who is in the top 10?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What can be done to survive a nuclear fallout?\" and \"How do you survive nuclear fallout?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the likely downstream consequences of Brexit?\" and \"What are the the consequences and aftermaths of Brexit?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"When did crop circles start appearing?\" and \"What causes crop circles, and how are they made?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Should I quit my master's degree?\" and \"Should I wait and keep trying to get a job or pursue my master's degree?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are the effects of money laundering on any economy of a nation or any other effects of it?\" and \"How can money laundering of $6 billion occur?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I get latest questions of Cisco 400-351 exam?\" and \"How do I get free CCIE Wireless 400-351 dumps? PDF dumps and VCE dumps?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Does Heroku support MongoDB? Why?\" and \"What platforms does MongoDB support?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why aren't there traditional namespaces in TypeScript? How do I rewire my brain to think without namespaces for organizing related classes together\" and \"Why is access modifier in namespace not a part of C++ standard?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How much does an Uber cab driver earn in Mumbai?\" and \"How much does an Uber cab earn in Mumbai?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some interesting facts about the Harry Potter series?\" and \"I'm 21. Am I too old to read/watch the Harry Potter series for the first time?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is the central limit theorem important for data scientists?\" and \"How can I fall asleep at the same hour everyday?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is Mahendra Singh Dhoni overrated?\" and \"Cricket (sport): Is MS Dhoni overrated?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What foods go well with mozzarella sticks for dinner?\" and \"How can one make mozzarella sticks without eggs?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do i know i can start career in machine learning?\" and \"How do I start my career in Machine Learning?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the intuition behind the Cost and Gamma parameters in SVM?\" and \"What is the purpose for using a penalty parameter [math]C[/math] in SVM?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is a rigid body?\" and \"What are some really fascinating non intuitive results and applications of rigid body rotation?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why are there still people who believe the world is flat?\" and \"Why do some people think that the Earth is flat?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Who is the world famous astrologer in india?\" and \"Who is the great master astrologer in India?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the importance of a character in writing?\" and \"What's the importance of writing?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If you burned some serious bridges with professors during graduate school, what are the chances that you can mend the burned bridges later on?\" and \"What are the most common reasons why academics burn bridges (or have fallouts)?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is Hillary Clinton's reaction to the Vergara decision today -- a California judge ruling against teacher tenure?\" and \"Which high-profile Democrats are publicly criticizing today's decision by a California court ruling against teacher tenure?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do elevators and lifts work?\" and \"Why do elevators kill people?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where does the water from the Great Lakes come from, and how does these lakes wildlife compare to Lake Constance?\" and \"Where does the water from the Great Lakes come from, and how does these lakes wildlife compare to Lake Sevan?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"When will Pok\u00e9mon GO release in India?\" and \"When will be Pokemon go released in India?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How does trivago make money?\" and \"How is trivago making money?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the differents between family wine business and publicly listed companies?\" and \"Do longer Quora answers not get as many views as they should?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do the planets rotate around the sun?\" and \"Why do planets go around the sun?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What gives honey the anti-bacterical and anti-fungal properties?\" and \"Why did Ambedkar hate Gandhi?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the plot of Neon Genesis Evangelion?\" and \"What is the plot of Neon Genesis Evangelion: Death and Rebirth?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Where can I download Marathi movies from?\" and \"Where can I find Marathi movies in torrents?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the difference between PGDM and PGPM?\" and \"What is the difference between PGPM and PGDM?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What's the most awkward/embarrassing situation you've ever faced in your life?\" and \"What's the most awkward situation you have been in?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What do Pakistani history books teach about Indians?\" and \"What do pakistani read about their history?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How was your last night before your wedding?\" and \"How was your wedding night?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is the chemical formula for sodium hydrogen sulfide? How is it determined?\" and \"What is the chemical formula for hydrogen gas? How is it determined?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"\"What does \"\"I love you unconditionally\"\" mean?\"\" and \"How can someone love you unconditionally but not be in love with you?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How can I reduce fat with some diet?\" and \"How do I reduce body fat properly?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why does Jane Street use OCaml?\" and \"Why didn't Jane Street use Haskell?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is Time travel, possible by Black-hole?\" and \"Would you orbit a black hole to time travel?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which kinds of sushi would best test a sushi chef's ability?\" and \"What characteristics mark the difference between a good sushi chef and a great sushi chef?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why does a mirage happen in the desert?\" and \"Why do we see a mirage in the desert?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I behave well in society and turn attention towards to me?\" and \"Am I, as a man, obligated to get up and give my seat to a woman? If society is moving more towards equality for women, does it make sense for me to be less chivalrous?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Who is Darth Vader's mom?\" and \"Is Darth Vader fun at parties?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is there bisexuality/homosexuality in animals?\" and \"Is homosexuality observed in animals?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How much money do people make from YouTube videos with 1 million views?\" and \"What is the USD worth of 1 YouTube View for someone with millions of views?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How is the father of earth?\" and \"Is it bad to feel embarrassed by my father?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"I am 19 years old girl and my height is 5'3. How can I increase my height?\" and \"Height: How would a 14 year old increase his height?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"How do I recover my gmail password when I lost my registered recovery number?\" and \"How do I recover my Gmail password when I don't remember my recovery mail ID?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do you know it\u2019s time to let someone go?\" and \"When is the right time to let someone go?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is overall 6 bands enough for post graduate diploma in canada?\" and \"Can we pursue post graduate courses after a diploma course?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What cause the end of Progressivism?\" and \"What were the results of the end of Progressivism?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why do we walk?\" and \"Why can we not walk with time?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are the personality traits of a Labrador/Hound mix?\" and \"What is the temperament of a Labrador/Hound mix?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is produced by the dehydration of 4-methylcyclohexanol?\" and \"What is produced by the dehydration of 1-methylcyclohexanol?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What do the Olympic rings represent?\" and \"What is the significance of the five Olympic rings and what do they represent?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is Uniform Civil Code? Why is it so necessary to implement in a country like India?\" and \"What are going to be the merits and demerits of implementing uniform civil code in India?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do people continue to support Donald Trump even though he's so inconsistent?\" and \"Who are the people still choosing to vote for Donald Trump and why do they want to vote for him (other than because he's the Republican nominee)?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Is it possible for someone skilled enough to get into a Tech Company with only and only with a Udacity nanodegree?\" and \"Is it possible to work only as mobile UI designer and make a living with it?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What is copyscrn.com?\" and \"What is flixcart.com?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why is Lionel Messi so brilliant?\" and \"Is Lionel Messi overrated?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why the greatest empire in Indian history is centered around Bihar?\" and \"Why the greatest empires in Indian history are centered around Bihar?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"In the Mr. Robot TV series, what language do Joanna and Tyrell speak?\" and \"Mr. Robot (TV series): Why did Mr. Robot push Elliot?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What will my rank in JEE be if I scored 50 marks in my Mains and 95% in Andhra Pradesh Board?\" and \"I scored 95 marks in JEE Mains and 83% in CBSE board. Is there any chance in JEC Jabalpur?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which is best among Infosys, IBM, TECH MAHENDRA?\" and \"If I make the (Windows 10) boot partition active on a different computer, will it cause boot errors when placed in its original computer?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Why don't I laugh at jokes?\" and \"Why do we laugh at jokes?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is the best face wash?\" and \"What are some of the best face washes?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What are some good coachings for ACCA in Pune?\" and \"How do HDMI and RGB cables differ from each other?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Which sport can you start at the age of 31 to be an Olympian?\" and \"Which sport can you start at the age of 26 to be a Olympian?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why is India so bad at Olympics?\" and \"Why India is so bad at Olympics? Is it because India is poor?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Is there extraterrestrial life?\" and \"Is there any extraterrestrial intelligent life?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What impact does the boycott of Chinese goods in India have on the former's economy?\" and \"Why is the Chinese economy slowing down?\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"If you were to kill a person, who would that be, and why?\" and \"If you were dying and could kill one person before you died, who would that be and why?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"Why do wars happen?\" and \"Why do wars get started?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is meant by length scale in heat transfer and fluid mechanics problems?\" and \"What is meant by flow length scale in fluid dynamics?\" asking the same thing?\nAnswer: No.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are some good marketing strategies for music?\" and \"\"How can I develop a very good essay under this topic; \"\" Improving the quality of the human diet with vegetables\"\"? I'm writing a test next week on this\"\" asking the same thing?\nAnswer: Yes.",
+        "label": 0
+    },
+    {
+        "data": "Are the questions \"What are applications of orthogonal trajectories?\" and \"What are the orthogonal trajectories and what are some of its applications?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"If you call someone on whatsapp by mistake and instantly hang up, does it still give them a missed call notification?\" and \"How whatsapp calling technically works?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"How do I buy share in Nepal?\" and \"How can I buy & sell shares in Nepal?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is a Google Doodle?\" and \"What does this Google Doodle mean?\" asking the same thing?\nAnswer: Yes.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"What is the difference between visual design and user interface design?\" and \"What is the difference between user experience and user interface design?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    },
+    {
+        "data": "Are the questions \"Which is the best social bookmarking sites?\" and \"Bundlr: What is the best social bookmarking site?\" asking the same thing?\nAnswer: No.",
+        "label": 1
+    }
+]
