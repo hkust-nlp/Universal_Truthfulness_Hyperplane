@@ -42,15 +42,6 @@ class MMProbe(torch.nn.Module):
     def __init__(self, direction, covariance=None, inv=None, atol=1e-3):
         super().__init__()
         self.direction = torch.nn.Parameter(direction, requires_grad=False)
-       
-        # if inv is None:
-        #     try:
-        #         self.inv = t.nn.Parameter(t.linalg.pinv(covariance, hermitian=True, atol=atol), requires_grad=False)
-        #     except torch._C._LinAlgError as e:
-        #         print("Error occurred while computing pseudoinverse:", e)
-        # else:
-        #     self.inv = t.nn.Parameter(inv, requires_grad=False)
-
     def forward(self, x, iid=False):
         if isinstance(x, np.ndarray):
             x =  torch.from_numpy(x)
@@ -332,6 +323,62 @@ def train_probes(seed, all_X_train, all_X_val, y_train, y_val, num_layers=-1,sol
 
     return probes, all_head_accs_np
 
+
+def train_single_probe( x_train, y_train, x_val=None, y_val=None, solver=None, penalty=None, seed=0, is_MLP=False, is_MM=False, is_PCA=False):
+    if is_MLP == False and is_MM == False and is_PCA == False:
+        print("-----------training single LR--------------")
+        if solver!=None:
+            if penalty!=None:
+                clf = LogisticRegression(random_state=seed, max_iter=10000, solver=solver,penalty=penalty).fit(x_train, y_train)
+            else:
+                clf = LogisticRegression(random_state=seed, max_iter=10000, solver=solver).fit(x_train, y_train)
+        else:
+            clf = LogisticRegression(random_state=seed, max_iter=10000, solver='lbfgs').fit(x_train, y_train)
+        y_pred = clf.predict(x_train)
+        if x_val is not None:
+            y_val_pred = clf.predict(x_val)
+            # print(y_val_pred)
+            # print(clf.predict_proba(X_val))
+            # return
+            acc = accuracy_score(y_val, y_val_pred)
+            return clf, acc
+        else:
+            return clf
+    elif is_MLP == True:
+        print("---------training single MLP--------------")
+        probe = MLP_Probe.from_data(x_train, y_train, device=device)
+        if x_val is not None:
+            pred = probe(x_val)
+            if torch.is_tensor(pred):
+                pred = pred.cpu().detach().numpy()
+            acc = convert_score2acc(pred, y_val)
+            return probe, acc
+        else:
+            return probe
+    elif is_MM == True:
+        print("----------training single MM------------")
+        probe = MMProbe.from_data(x_train, y_train, device=device)
+        if x_val is not None:
+            pred = probe(x_val)
+            if torch.is_tensor(pred):
+                pred = pred.cpu().detach().numpy()
+            acc = convert_score2acc(pred, y_val)
+            return probe, acc
+        else:
+            return probe
+    elif is_PCA == True:
+        print("-----------training PCA---------------")
+        probe = PCA_Probe(n_components=1)
+        probe.fit(x_train, y_train)   
+        if x_val is not None:      
+            pred = probe.pred(x_val)
+            if torch.is_tensor(pred):
+                pred = pred.cpu().detach().numpy()
+            acc = accuracy_score(y_val, pred)
+            return probe, acc
+        else:
+            return probe
+        
 def get_probe_acc(model_name, dataset_name, posi='mlp_wise',num_heads=32,  test_file=None, solver=None, penalty=None, is_MLP=False, posi_list=None, merge_test=False, is_MM=False
                   , selected_vali=False, selected_test=False, is_PCA=False, train_upperbound=-1):
     """_summary_

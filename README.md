@@ -16,6 +16,22 @@ In this paper, we examine whether a universal truthfulness hyperplane exists ins
 
 Our paper is accepted by EMNLP 2024!
 
+
+## Setup
+
+```
+conda env create -f environment.yml  
+```
+
+
+## Todo
+
+
+- [x] Release data!
+
+- [ ] Clean and release training scripts
+
+
 ## Citation
 
 Please cite our paper if it's helpful to your work!
